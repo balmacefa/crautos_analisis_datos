@@ -1,1 +1,10 @@
 scrapy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+dash
+plotly
+playwright
+dash-bootstrap-components
