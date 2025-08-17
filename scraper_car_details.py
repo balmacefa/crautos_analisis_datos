@@ -1,20 +1,43 @@
+# -----------------------------------------------------------------------------
+# SCRAPER AVANZADO PARA VEHÍCULOS
+#
+# Descripción:
+# Este script extrae información detallada de publicaciones de vehículos a 
+# partir de una lista de URLs, aplicando mejoras de rendimiento y robustez.
+#
+# Características:
+# - Procesamiento concurrente para mayor velocidad.
+# - Bloqueo de recursos (CSS, imágenes) para acelerar la carga de páginas.
+# - Reintentos automáticos en caso de fallos de red.
+# - Pausas aleatorias para un scraping más ético.
+# - Reanudación automática del proceso (omite URLs ya procesadas).
+# - Uso de argumentos de línea de comandos para mayor flexibilidad.
+#
+# Autor: Gemini
+# Fecha: 2024-05-17
+# -----------------------------------------------------------------------------
+
 import asyncio
 import json
 import re
 import logging
-from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
-from urllib.parse import urljoin
 import os
+import argparse
+import random
+from urllib.parse import urlparse, parse_qs
+from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
 
-# --- Configuration ---
-# Configure logging to show progress
+# --- Configuración Global ---
+# Carpeta donde se guardarán los archivos JSON resultantes.
+OUTPUT_DIR = 'datos_vehiculos'
+# Número de reintentos para una URL que falle.
+TRIES = 3
+# User-Agent para identificar a nuestro bot de forma educada.
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 (VehicleDataScraper/1.1)"
+# Configuración del logging para mostrar el progreso en la terminal.
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Constants for file paths
-URLS_FILE = 'urls.json'
-OUTPUT_FILE = 'output.json'
-
-# List of car brands
+# Lista de marcas para ayudar en la extracción del título.
 MARCAS = [
     "ACURA", "ALFA ROMEO", "AMC", "ARO", "ASIA", "ASTON MARTIN", "AUDI", "AUSTIN",
     "BAW", "BENTLEY", "BLUEBIRD", "BMW", "BRILLIANCE", "BUICK", "BYD", "CADILLAC",
@@ -35,136 +58,223 @@ MARCAS = [
     "YUGO", "ZOTYE",
 ]
 
-# --- Helper Functions for Progress Management ---
+# --- Funciones Auxiliares ---
 
-def load_json_file(filename):
-    """Loads a JSON file if it exists, otherwise returns an empty list."""
-    if os.path.exists(filename):
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                logging.info(f"Loading existing data from {filename}.")
-                return json.load(f)
-        except json.JSONDecodeError:
-            logging.warning(f"Could not decode JSON from {filename}. Starting with an empty list.")
-            return []
-    return []
+def load_urls_from_file(filename: str) -> list:
+    """Carga una lista de URLs desde un archivo JSON."""
+    if not os.path.exists(filename):
+        logging.error(f"El archivo de entrada '{filename}' no fue encontrado.")
+        return []
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        logging.error(f"No se pudo decodificar el JSON de '{filename}'. Revisa el formato.")
+        return []
 
-def save_json_file(data, filename):
-    """Saves data to a JSON file."""
+def save_data_to_json(data: dict, filename: str):
+    """Guarda un diccionario de datos en un archivo JSON con formato legible."""
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-def get_already_scraped_urls(data_list):
-    """Extracts a set of URLs from a list of scraped data dictionaries."""
-    return {item.get('url') for item in data_list if 'url' in item}
+def get_car_id_from_url(url: str) -> str | None:
+    """Extrae el ID único del vehículo desde la URL (parámetro 'c')."""
+    try:
+        query_params = parse_qs(urlparse(url).query)
+        return query_params.get('c', [None])[0]
+    except Exception:
+        return None
 
-# --- Core Scraping Functions ---
+async def block_unnecessary_resources(page):
+    """Configura el bloqueo de recursos no esenciales para acelerar la carga."""
+    await page.route(
+        "**/*", 
+        lambda route: route.abort() 
+        if route.request.resource_type in ["image", "stylesheet", "font", "media"] 
+        else route.continue_()
+    )
 
-async def scrape_detail_page(page):
-    """
-    Scrapes the data from a single car detail page with improved resilience.
-    Uses try-except blocks to prevent failure if an element is missing.
-    """
+# --- Lógica Principal de Extracción ---
+
+async def scrape_detail_page(page) -> dict:
+    """Extrae todos los datos de la página de detalles de un vehículo."""
     data = {'url': page.url}
 
+    # 1. Extraer Título, Marca, Modelo y Año
     try:
-        headers = await page.locator('h2').all()
-        if len(headers) >= 2:
-            detalle_auto_text = (await headers[0].inner_text()).upper()
-            detalle_auto_parts = detalle_auto_text.split('\n')
-            
-            if len(detalle_auto_parts) == 2:
-                full_title, year = detalle_auto_parts[0].strip(), detalle_auto_parts[1].strip()
-                data['año'] = year
-                for marca in MARCAS:
-                    if full_title.startswith(marca):
-                        data['marca'] = marca
-                        data['modelo'] = full_title.replace(marca, '', 1).strip()
-                        break
-
-            precio_text = await headers[1].inner_text()
-            data['precio_crc'] = re.sub(r'\D', '', precio_text)
+        title_element = page.locator('div.header-text h1').first
+        full_title_text = (await title_element.inner_text()).strip()
+        title_parts = full_title_text.split()
+        if title_parts and title_parts[-1].isdigit() and len(title_parts[-1]) == 4:
+            data['año'] = int(title_parts.pop())
+        
+        remaining_title = " ".join(title_parts)
+        for marca in MARCAS:
+            if remaining_title.upper().startswith(marca):
+                data['marca'] = marca
+                data['modelo'] = remaining_title[len(marca):].strip()
+                break
+        if 'modelo' not in data:
+             data['modelo'] = remaining_title
     except Exception as e:
-        logging.warning(f"Could not extract header/price info from {page.url}: {e}")
+        logging.warning(f"No se pudo extraer el título/año para {page.url}: {e}")
 
+    # 2. Extraer Precios
     try:
-        data['img'] = await page.locator('#largepic').get_attribute('src')
+        price_usd_text = await page.locator('div.header-text h1').nth(1).inner_text()
+        data['precio_usd'] = float(re.sub(r'[^\d.]', '', price_usd_text))
+    except Exception:
+        pass # Ignora si el precio no está presente
+    try:
+        price_crc_text = await page.locator('div.header-text h3').first.inner_text()
+        data['precio_crc'] = int(re.sub(r'[^\d]', '', price_crc_text))
+    except Exception:
+        pass
+
+    # 3. Extraer Imágenes
+    try:
+        data['imagen_principal'] = await page.locator('div.bannerimg').get_attribute('data-image-src')
+        data['galeria_imagenes'] = [
+            await img.get_attribute('src') 
+            for img in await page.locator('div.ws_images ul li img').all()
+        ]
     except Exception as e:
-        logging.warning(f"Could not find main image for {page.url}: {e}")
-        data['img'] = None
-
+        logging.warning(f"No se pudieron extraer las imágenes para {page.url}: {e}")
+        
+    # 4. Extraer Información del Vendedor
     try:
-        for row in await page.locator('#geninfo table tr').all():
+        seller_info = {}
+        seller_table = page.locator('//table[.//td[contains(., "Vendedor")]]')
+        for row in await seller_table.locator('tr').all():
             cells = await row.locator('td').all()
             if len(cells) == 2:
                 key = (await cells[0].inner_text()).strip().lower().replace(':', '')
                 value = (await cells[1].inner_text()).strip()
                 if key and value:
-                    if key == 'kilometraje' and value != 'ND':
-                        data[key] = re.sub(r'\D', '', value)
-                    elif key == 'cilindrada' and value != 'ND':
-                        data[key] = re.sub(r'\D', '', value)
-                    else:
-                        data[key] = value
+                    seller_info[key] = re.sub(r'\s+', ' ', value)
+        data['vendedor'] = seller_info
     except Exception as e:
-        logging.warning(f"Could not scrape general info table for {page.url}: {e}")
+        logging.warning(f"No se pudo extraer la info del vendedor para {page.url}: {e}")
+
+    # 5. Extraer Información General
+    try:
+        general_info = {}
+        for row in await page.locator('table.mytext2 tbody tr').all():
+            cells = await row.locator('td').all()
+            if len(cells) == 2:
+                key = (await cells[0].inner_text()).strip().lower().replace(' ', '_')
+                value = (await cells[1].inner_text()).strip()
+                general_info[key] = re.sub(r'\s+', ' ', value)
+            elif await cells[0].get_attribute('bgcolor') == '#FAF7B4':
+                 general_info['comentario_vendedor'] = (await cells[0].inner_text()).strip()
+        data['informacion_general'] = general_info
+    except Exception as e:
+        logging.warning(f"No se pudo extraer la info general para {page.url}: {e}")
+        
+    # 6. Extraer Equipamiento
+    try:
+        equipment_list = []
+        equipment_tables = page.locator('//table[@class="table table-bordered border-top table-striped"]')
+        for row in await equipment_tables.locator('tbody tr').all():
+            cells = await row.locator('td').all()
+            if len(cells) == 2 and await cells[1].locator('i.icon-check').count() > 0:
+                equipment_list.append((await cells[0].inner_text()).strip())
+        data['equipamiento'] = sorted(equipment_list)
+    except Exception as e:
+        logging.warning(f"No se pudo extraer el equipamiento para {page.url}: {e}")
 
     return data
 
 
-async def scrape_urls(page):
+# --- Orquestador Concurrente ---
+
+async def scrape_single_url(url: str, context, semaphore: asyncio.Semaphore):
     """
-    Carga las URLs desde el archivo 'urls.json', visita cada una,
-    raspa los datos y guarda el progreso.
+    Gestiona el proceso completo para una única URL: adquisición de semáforo,
+    reintentos, scraping, guardado y liberación de recursos.
     """
-    logging.info(f"Cargando URLs desde '{URLS_FILE}' para iniciar el raspado.")
-    urls_to_process = load_json_file(URLS_FILE)
+    async with semaphore:
+        car_id = get_car_id_from_url(url)
+        if not car_id:
+            logging.error(f"ID inválido para la URL {url}. Omitiendo.")
+            return
+
+        output_filename = os.path.join(OUTPUT_DIR, f"{car_id}.json")
+        if os.path.exists(output_filename):
+            logging.info(f"El archivo para ID {car_id} ({url}) ya existe. Omitiendo.")
+            return
+
+        page = None
+        for attempt in range(TRIES):
+            try:
+                page = await context.new_page()
+                await block_unnecessary_resources(page)
+                
+                logging.info(f"Procesando ID {car_id} (Intento {attempt + 1}/{TRIES})")
+                await page.goto(url, wait_until='domcontentloaded', timeout=45000)
+                
+                car_data = await scrape_detail_page(page)
+                
+                save_data_to_json(car_data, output_filename)
+                logging.info(f"✅ Datos de ID {car_id} guardados exitosamente.")
+                
+                # Pausa aleatoria para ser respetuoso con el servidor
+                await asyncio.sleep(random.uniform(1, 4))
+                return # Salir de la función si tuvo éxito
+
+            except Exception as e:
+                logging.warning(f"⚠️ Fallo en intento {attempt + 1} para ID {car_id}. Error: {type(e).__name__}")
+                if attempt == TRIES - 1:
+                    logging.error(f"❌ No se pudo procesar ID {car_id} después de {TRIES} intentos.")
+                else:
+                    await asyncio.sleep(3 + attempt * 2) # Espera un poco más en cada reintento
+            finally:
+                if page:
+                    await page.close()
+
+
+async def main(urls_file: str, concurrency_level: int):
+    """Función principal que orquesta todo el proceso de scraping."""
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    logging.info(f"Los archivos se guardarán en la carpeta: '{OUTPUT_DIR}'")
     
+    urls_to_process = load_urls_from_file(urls_file)
     if not urls_to_process:
-        logging.warning(f"No se encontraron URLs en '{URLS_FILE}'. No hay nada que raspar.")
+        logging.warning("No hay URLs para procesar. Finalizando.")
         return
+        
+    logging.info(f"Se encontraron {len(urls_to_process)} URLs. Iniciando scraping con {concurrency_level} procesos concurrentes.")
 
-    scraped_data = load_json_file(OUTPUT_FILE)
-    already_scraped_urls = get_already_scraped_urls(scraped_data)
-    
-    urls_to_scrape = [url for url in urls_to_process if url not in already_scraped_urls]
-    total_urls_to_scrape = len(urls_to_scrape)
-    
-    if not urls_to_scrape:
-        logging.info("Todas las URLs ya han sido raspadas. El trabajo está completo.")
-        return
-
-    logging.info(f"Resumiendo raspado. {len(scraped_data)} registros existentes. {total_urls_to_scrape} URLs pendientes.")
-
-    for i, url in enumerate(urls_to_scrape):
-        try:
-            await page.goto(url, wait_until='domcontentloaded', timeout=60000)
-            car_data = await scrape_detail_page(page)
-            scraped_data.append(car_data)
-            
-            # Save progress after each successful scrape
-            save_json_file(scraped_data, OUTPUT_FILE)
-            logging.info(f"Progreso: {i + 1}/{total_urls_to_scrape} - Raspado: {url}")
-
-        except PlaywrightTimeoutError:
-            logging.error(f"Timeout en URL {i + 1}/{total_urls_to_scrape}: {url}. Omitiendo.")
-        except Exception as e:
-            logging.error(f"Fallo al raspar URL {i + 1}/{total_urls_to_scrape}: {url}. Error: {e}")
-            
-    logging.info(f"Proceso de raspado completado. Total de items en '{OUTPUT_FILE}': {len(scraped_data)}.")
-
-
-async def main():
-    """Función principal para orquestar el proceso de raspado."""
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context()
-        page = await context.new_page()
-
-        await scrape_urls(page)
+        context = await browser.new_context(user_agent=USER_AGENT)
+        
+        semaphore = asyncio.Semaphore(concurrency_level)
+        tasks = [scrape_single_url(url, context, semaphore) for url in urls_to_process]
+        
+        await asyncio.gather(*tasks)
 
         await browser.close()
-        logging.info("Proceso finalizado.")
+    
+    logging.info("🎉 Proceso de scraping completado.")
+
+
+# --- Punto de Entrada del Script ---
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    parser = argparse.ArgumentParser(description="Scraper avanzado de vehículos de crautos.com")
+    parser.add_argument(
+        "-f", "--file", 
+        default="urls.json", 
+        help="Archivo JSON de entrada con la lista de URLs. (default: urls.json)"
+    )
+    parser.add_argument(
+        "-c", "--concurrency", 
+        type=int, 
+        default=5, 
+        help="Número de páginas a procesar en paralelo. (default: 5)"
+    )
+    args = parser.parse_args()
+
+    # Inicia el bucle de eventos de asyncio para ejecutar la función main.
+    asyncio.run(main(urls_file=args.file, concurrency_level=args.concurrency))
