@@ -543,13 +543,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--initial",
         type=int,
-        default=8,
+        default=1,
         help="Número inicial de trabajos concurrentes. (default: 8)",
     )
     parser.add_argument(
         "--min",
         type=int,
-        default=3,
+        default=1,
         help="Número mínimo de trabajos concurrentes. (default: 3)",
     )
     parser.add_argument(
