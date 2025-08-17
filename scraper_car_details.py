@@ -122,12 +122,12 @@ async def scrape_detail_page(page) -> dict:
     # 2. Extraer Precios
     try:
         price_usd_text = await page.locator('div.header-text h1').nth(1).inner_text()
-        data['precio_usd'] = float(re.sub(r'[^\d.]', '', price_usd_text))
+        data['precio_crc'] = float(re.sub(r'[^\d.]', '', price_usd_text))
     except Exception:
         pass # Ignora si el precio no está presente
     try:
         price_crc_text = await page.locator('div.header-text h3').first.inner_text()
-        data['precio_crc'] = int(re.sub(r'[^\d]', '', price_crc_text))
+        data['precio_usd'] = int(re.sub(r'[^\d]', '', price_crc_text))
     except Exception:
         pass
 
@@ -170,7 +170,25 @@ async def scrape_detail_page(page) -> dict:
         data['informacion_general'] = general_info
     except Exception as e:
         logging.warning(f"No se pudo extraer la info general para {page.url}: {e}")
-        
+    
+    # Convertir data['informacion_general']['kilometraje'] a entero si es posible
+    if 'kilometraje' in data.get('informacion_general', {}):
+        try:
+            km_text = data['informacion_general']['kilometraje']
+            km_value = re.sub(r'[^\d]', '', km_text)
+            data['informacion_general']['kilometraje_number'] = int(km_value) if km_value else None
+        except ValueError:
+            logging.warning(f"Kilometraje no es un número válido: {data['informacion_general']['kilometraje']}")
+    
+    # convertir cilindrada
+    if 'cilindrada' in data.get('informacion_general', {}):
+        try:
+            cc_text = data['informacion_general']['cilindrada']
+            cc_value = re.sub(r'[^\d]', '', cc_text)
+            data['informacion_general']['cilindrada_number'] = int(cc_value) if cc_value else None
+        except ValueError:
+            logging.warning(f"Cilindrada no es un número válido: {data['informacion_general']['cilindrada']}")
+            
     # 6. Extraer Equipamiento
     try:
         equipment_list = []
@@ -271,7 +289,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-c", "--concurrency", 
         type=int, 
-        default=5, 
+        default=1, 
         help="Número de páginas a procesar en paralelo. (default: 5)"
     )
     args = parser.parse_args()
