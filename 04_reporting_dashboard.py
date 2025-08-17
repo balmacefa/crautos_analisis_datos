@@ -1,10 +1,11 @@
 import dash
-from dash import dcc, html, Input, Output, State
+from dash import dcc, html, Input, Output, State, dash_table
 import plotly.express as px
 import pandas as pd
 import joblib
 import os
 from datetime import datetime
+import dash_bootstrap_components as dbc  # Importar bootstrap
 
 # --- Carga de Datos y Modelo ---
 DATA_PATH = "output/data/cleaned_cars.csv"
@@ -21,166 +22,238 @@ df = pd.read_csv(DATA_PATH)
 model = joblib.load(MODEL_PATH)
 model_columns = joblib.load(COLUMNS_PATH)
 
-# --- Inicialización de la App Dash ---
-app = dash.Dash(__name__)
+# --- Preparación de datos para Geo-Análisis ---
+# Contar vehículos por provincia
+geo_counts = df["provincia"].value_counts().reset_index()
+geo_counts.columns = ["Provincia", "Cantidad de Vehículos"]
+
+# Calcular precio promedio por provincia
+geo_prices = df.groupby("provincia")["precio_crc"].mean().reset_index()
+geo_prices.columns = ["Provincia", "Precio Promedio (CRC)"]
+geo_prices = geo_prices.sort_values("Precio Promedio (CRC)", ascending=False)
+
+
+# --- Inicialización de la App Dash con Tema Bootstrap ---
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
 
 # --- Layout de la App ---
-app.layout = html.Div(
-    style={"fontFamily": "Arial, sans-serif", "padding": "20px"},
-    children=[
-        html.H1(
-            "Dashboard de Análisis de Vehículos Usados",
-            style={"textAlign": "center", "color": "#333"},
-        ),
-        html.Hr(),
-        # --- Sección de Análisis Exploratorio ---
-        html.H2("Análisis Exploratorio del Mercado", style={"color": "#555"}),
-        dcc.Graph(
-            figure=px.histogram(
-                df,
-                x="precio_crc",
-                title="Distribución de Precios (CRC)",
-                labels={"precio_crc": "Precio en Colones"},
+app.layout = dbc.Container(
+    [
+        # Título Principal
+        dbc.Row(
+            dbc.Col(
+                html.H1(
+                    "Dashboard Avanzado de Vehículos Usados 🚗",
+                    className="text-center text-primary my-4",
+                ),
+                width=12,
             )
         ),
-        dcc.Graph(
-            figure=px.scatter(
-                df,
-                x="kilometraje",
-                y="precio_crc",
-                hover_data=["marca", "modelo", "año"],
-                title="Precio vs. Kilometraje",
-                labels={
-                    "kilometraje": "Kilometraje",
-                    "precio_crc": "Precio en Colones",
-                },
-            )
-        ),
-        html.Hr(),
-        # --- Sección de Predicción de Precio ---
-        html.H2("Herramienta de Predicción de Precios 🔮", style={"color": "#555"}),
-        html.Div(
-            style={
-                "display": "grid",
-                "gridTemplateColumns": "1fr 1fr",
-                "gap": "20px",
-                "padding": "20px",
-                "border": "1px solid #ddd",
-                "borderRadius": "5px",
-            },
-            children=[
-                # Columna de Inputs
-                html.Div(
-                    [
-                        html.Label("Marca:"),
-                        dcc.Dropdown(
-                            id="marca-dropdown",
-                            options=[
-                                {"label": i, "value": i}
-                                for i in sorted(df["marca"].unique())
-                            ],
-                            placeholder="Seleccione una marca...",
-                        ),
-                        html.Br(),
-                        html.Label("Modelo:"),
-                        dcc.Dropdown(
-                            id="modelo-dropdown", placeholder="Seleccione un modelo..."
-                        ),
-                        html.Br(),
-                        html.Label("Año del vehículo:"),
-                        dcc.Input(
-                            id="año-input",
-                            type="number",
-                            placeholder="Ej: 2020",
-                            style={"width": "100%"},
-                        ),
-                        html.Br(),
-                        html.Br(),
-                        html.Label("Kilometraje:"),
-                        dcc.Input(
-                            id="kilometraje-input",
-                            type="number",
-                            placeholder="Ej: 50000",
-                            style={"width": "100%"},
-                        ),
-                    ]
+        # Sistema de Pestañas
+        dbc.Tabs(
+            [
+                # Pestaña 1: Análisis General
+                dbc.Tab(
+                    label="📊 Análisis General",
+                    children=[
+                        dbc.Row(
+                            [
+                                dbc.Col(
+                                    dbc.Card(
+                                        dcc.Graph(
+                                            figure=px.histogram(
+                                                df,
+                                                x="precio_crc",
+                                                title="Distribución de Precios (CRC)",
+                                            )
+                                        )
+                                    ),
+                                    width=6,
+                                    className="mt-4",
+                                ),
+                                dbc.Col(
+                                    dbc.Card(
+                                        dcc.Graph(
+                                            figure=px.scatter(
+                                                df,
+                                                x="kilometraje",
+                                                y="precio_crc",
+                                                hover_data=["marca", "modelo"],
+                                                title="Precio vs. Kilometraje",
+                                            )
+                                        )
+                                    ),
+                                    width=6,
+                                    className="mt-4",
+                                ),
+                            ]
+                        )
+                    ],
                 ),
-                # Columna de Inputs
-                html.Div(
-                    [
-                        html.Label("Cilindrada (cc):"),
-                        dcc.Input(
-                            id="cilindrada-input",
-                            type="number",
-                            placeholder="Ej: 1800",
-                            style={"width": "100%"},
-                        ),
-                        html.Br(),
-                        html.Br(),
-                        html.Label("Tipo de Combustible:"),
-                        dcc.Dropdown(
-                            id="combustible-dropdown",
-                            options=[
-                                {"label": i, "value": i}
-                                for i in df["combustible"].unique()
-                            ],
-                        ),
-                        html.Br(),
-                        html.Label("Tipo de Transmisión:"),
-                        dcc.Dropdown(
-                            id="transmision-dropdown",
-                            options=[
-                                {"label": i, "value": i}
-                                for i in df["transmision"].unique()
-                            ],
-                        ),
-                        html.Br(),
-                        html.Label("Cantidad de Extras:"),
-                        dcc.Input(
-                            id="extras-input",
-                            type="number",
-                            placeholder="Ej: 10",
-                            style={"width": "100%"},
-                        ),
-                    ]
+                # Pestaña 2: Análisis Geográfico
+                dbc.Tab(
+                    label="🗺️ Análisis Geográfico",
+                    children=[
+                        dbc.Row(
+                            [
+                                dbc.Col(
+                                    dbc.Card(
+                                        dcc.Graph(
+                                            figure=px.bar(
+                                                geo_counts,
+                                                x="Provincia",
+                                                y="Cantidad de Vehículos",
+                                                title="Cantidad de Vehículos por Provincia",
+                                            )
+                                        )
+                                    ),
+                                    width=6,
+                                    className="mt-4",
+                                ),
+                                dbc.Col(
+                                    dbc.Card(
+                                        dcc.Graph(
+                                            figure=px.bar(
+                                                geo_prices,
+                                                x="Provincia",
+                                                y="Precio Promedio (CRC)",
+                                                title="Precio Promedio por Provincia",
+                                            )
+                                        )
+                                    ),
+                                    width=6,
+                                    className="mt-4",
+                                ),
+                            ]
+                        )
+                    ],
                 ),
-            ],
-        ),
-        html.Button(
-            "Predecir Precio",
-            id="predict-button",
-            n_clicks=0,
-            style={
-                "marginTop": "20px",
-                "width": "100%",
-                "padding": "15px",
-                "fontSize": "18px",
-                "backgroundColor": "#007BFF",
-                "color": "white",
-                "border": "none",
-                "borderRadius": "5px",
-            },
-        ),
-        html.Div(
-            id="prediction-output",
-            style={
-                "marginTop": "20px",
-                "fontSize": "24px",
-                "fontWeight": "bold",
-                "textAlign": "center",
-                "padding": "20px",
-                "border": "2px dashed #007BFF",
-                "borderRadius": "5px",
-            },
+                # Pestaña 3: Herramienta de Predicción
+                dbc.Tab(
+                    label="🔮 Herramienta de Predicción",
+                    children=[
+                        dbc.Card(
+                            dbc.CardBody(
+                                [
+                                    html.H3(
+                                        "Estima el valor de un vehículo",
+                                        className="card-title text-center",
+                                    ),
+                                    html.Hr(),
+                                    dbc.Row(
+                                        [
+                                            # Columna Izquierda de Inputs
+                                            dbc.Col(
+                                                [
+                                                    dbc.Label("Marca:"),
+                                                    dcc.Dropdown(
+                                                        id="marca-dropdown",
+                                                        options=[
+                                                            {"label": i, "value": i}
+                                                            for i in sorted(
+                                                                df["marca"].unique()
+                                                            )
+                                                        ],
+                                                    ),
+                                                    dbc.Label("Año:", className="mt-3"),
+                                                    dbc.Input(
+                                                        id="año-input",
+                                                        type="number",
+                                                        placeholder="Ej: 2020",
+                                                    ),
+                                                    dbc.Label(
+                                                        "Cilindrada (cc):",
+                                                        className="mt-3",
+                                                    ),
+                                                    dbc.Input(
+                                                        id="cilindrada-input",
+                                                        type="number",
+                                                        placeholder="Ej: 1800",
+                                                    ),
+                                                    dbc.Label(
+                                                        "Tipo de Transmisión:",
+                                                        className="mt-3",
+                                                    ),
+                                                    dcc.Dropdown(
+                                                        id="transmision-dropdown",
+                                                        options=[
+                                                            {"label": i, "value": i}
+                                                            for i in df[
+                                                                "transmision"
+                                                            ].unique()
+                                                        ],
+                                                    ),
+                                                ],
+                                                md=6,
+                                            ),
+                                            # Columna Derecha de Inputs
+                                            dbc.Col(
+                                                [
+                                                    dbc.Label("Modelo:"),
+                                                    dcc.Dropdown(id="modelo-dropdown"),
+                                                    dbc.Label(
+                                                        "Kilometraje:", className="mt-3"
+                                                    ),
+                                                    dbc.Input(
+                                                        id="kilometraje-input",
+                                                        type="number",
+                                                        placeholder="Ej: 50000",
+                                                    ),
+                                                    dbc.Label(
+                                                        "Tipo de Combustible:",
+                                                        className="mt-3",
+                                                    ),
+                                                    dcc.Dropdown(
+                                                        id="combustible-dropdown",
+                                                        options=[
+                                                            {"label": i, "value": i}
+                                                            for i in df[
+                                                                "combustible"
+                                                            ].unique()
+                                                        ],
+                                                    ),
+                                                    dbc.Label(
+                                                        "Cantidad de Extras:",
+                                                        className="mt-3",
+                                                    ),
+                                                    dbc.Input(
+                                                        id="extras-input",
+                                                        type="number",
+                                                        placeholder="Ej: 10",
+                                                    ),
+                                                ],
+                                                md=6,
+                                            ),
+                                        ]
+                                    ),
+                                    dbc.Button(
+                                        "Predecir Precio",
+                                        id="predict-button",
+                                        n_clicks=0,
+                                        color="primary",
+                                        className="w-100 mt-4",
+                                    ),
+                                    html.Div(
+                                        id="prediction-output",
+                                        className="text-center h3 mt-4 p-3 border rounded",
+                                    ),
+                                ]
+                            ),
+                            className="mt-4",
+                        )
+                    ],
+                ),
+            ]
         ),
     ],
+    fluid=True,
 )
 
-# --- Callbacks ---
+# --- Callbacks (Lógica de la App) ---
 
 
-# Callback para actualizar modelos según la marca seleccionada
+# Callback para actualizar modelos según la marca
 @app.callback(Output("modelo-dropdown", "options"), Input("marca-dropdown", "value"))
 def set_modelo_options(selected_marca):
     if not selected_marca:
@@ -216,37 +289,31 @@ def predict_price(
     extras,
 ):
     if n_clicks == 0:
-        return "Ingrese los datos del vehículo para obtener una estimación."
-
+        return "Ingrese los datos para obtener una estimación."
     if not all(
         [marca, modelo, año, kilometraje, cilindrada, combustible, transmision, extras]
     ):
         return "⚠️ Por favor, complete todos los campos."
 
-    # Crear un DataFrame con los datos del usuario
     current_year = datetime.now().year
-    antiguedad = current_year - año
-    antiguedad = max(0, antiguedad)
+    antiguedad = max(0, current_year - año)
+    input_df = pd.DataFrame(
+        {
+            "antiguedad": [antiguedad],
+            "kilometraje": [kilometraje],
+            "cilindrada": [cilindrada],
+            "cantidad_extras": [extras],
+            "marca": [marca],
+            "modelo": [modelo],
+            "combustible": [combustible],
+            "transmision": [transmision],
+        }
+    )
 
-    input_data = {
-        "antiguedad": [antiguedad],
-        "kilometraje": [kilometraje],
-        "cilindrada": [cilindrada],
-        "cantidad_extras": [extras],
-        "marca": [marca],
-        "modelo": [modelo],
-        "combustible": [combustible],
-        "transmision": [transmision],
-    }
-    input_df = pd.DataFrame(input_data)
-
-    # Preprocesamiento igual al del entrenamiento
     input_df_encoded = pd.get_dummies(input_df)
     input_df_aligned = input_df_encoded.reindex(columns=model_columns, fill_value=0)
 
-    # Realizar la predicción
     prediction = model.predict(input_df_aligned)[0]
-
     return f"Precio Estimado: ₡{prediction:,.2f}"
 
 
