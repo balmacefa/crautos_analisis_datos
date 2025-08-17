@@ -36,7 +36,7 @@ async def ensure_url_list_exists(page):
     
     await page.goto("https://crautos.com/autosusados/")
     await page.locator('.btn.btn-lg.btn-success').click()
-    await page.wait_for_load_state('networkidle')
+    # await page.wait_for_load_state('networkidle')
 
     # --- NEW PAGINATION LOGIC ---
     # 1. Find the "Last Page" button to determine the total number of pages.
@@ -47,8 +47,6 @@ async def ensure_url_list_exists(page):
         match = re.search(r"p\('(\d+)'\)", href)
         if not match:
             logging.error("No se pudo determinar el número de la última página. Abortando.")
-            # TODO: ask the user if they want to override and assume 1 page
-            
             return
         
         last_page_number = int(match.group(1))
@@ -70,7 +68,7 @@ async def ensure_url_list_exists(page):
             try:
                 await page.evaluate(f"p('{page_num}')")
                 # Wait for the network to be idle to ensure new content is loaded
-                await page.wait_for_load_state('networkidle', timeout=30000)
+                # await page.wait_for_load_state('networkidle', timeout=30000)
             except Exception as e:
                 logging.error(f"Fallo al navegar a la página {page_num}: {e}. Omitiendo página.")
                 continue 
