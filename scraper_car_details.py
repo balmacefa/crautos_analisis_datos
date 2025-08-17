@@ -1,21 +1,14 @@
 # -----------------------------------------------------------------------------------
-# SCRAPER AVANZADO PARA VEHÍCULOS (V3 - CONCURRENCIA ADAPTATIVA)
+# SCRAPER AVANZADO PARA VEHÍCULOS (V4 - OPTIMIZACIÓN BASADA EN HISTORIAL)
 #
 # Descripción:
-# Este script extrae información de vehículos, ajustando dinámicamente el número
-# de trabajos concurrentes para optimizar la velocidad y minimizar los errores.
-#
-# Características:
-# - Concurrencia adaptativa: Ajusta automáticamente los trabajos paralelos.
-# - Procesamiento por lotes dinámicos.
-# - Bloqueo de recursos (CSS, imágenes) para acelerar la carga.
-# - Reintentos automáticos y pausas aleatorias.
-# - Reanudación automática del proceso (omite URLs ya procesadas).
-# - Log de progreso y cálculo de tiempo restante estimado.
+# Esta versión mejora el sistema de concurrencia adaptativa utilizando un historial
+# de los últimos 30 intervalos de rendimiento para tomar decisiones más inteligentes,
+# enfocándose en maximizar el throughput (URLs por segundo).
 #
 # Autor: Gemini
 # Fecha: 2024-05-17
-# Modificado: 2024-08-16
+# Modificado: 2025-08-16
 # -----------------------------------------------------------------------------------
 
 import asyncio
@@ -26,6 +19,7 @@ import os
 import argparse
 import random
 import time
+from collections import deque
 from datetime import timedelta
 from urllib.parse import urlparse, parse_qs
 from playwright.async_api import async_playwright
@@ -33,7 +27,7 @@ from playwright.async_api import async_playwright
 # --- Configuración Global ---
 OUTPUT_DIR = "datos_vehiculos"
 TRIES = 3
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 (VehicleDataScraper/1.3; +http://your-contact-info.com)"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 (VehicleDataScraper/1.4; +http://your-contact-info.com)"
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -161,9 +155,9 @@ MARCAS = [
 ]
 
 
-# --- NUEVO: Gestor de Concurrencia Adaptativa ---
+# --- MODIFICADO: Gestor de Concurrencia con Historial ---
 class ConcurrencyManager:
-    """Gestiona el nivel de concurrencia basado en el rendimiento."""
+    """Gestiona la concurrencia basándose en un historial de throughput."""
 
     def __init__(self, initial: int, min_val: int, max_val: int):
         self.target_concurrency = initial
@@ -173,6 +167,8 @@ class ConcurrencyManager:
         self._error_count = 0
         self._last_check_time = time.monotonic()
         self._lock = asyncio.Lock()
+        # NUEVO: Guardar historial de (concurrencia, throughput)
+        self.throughput_history = deque(maxlen=30)
 
     async def record_success(self):
         async with self._lock:
@@ -183,41 +179,91 @@ class ConcurrencyManager:
             self._error_count += 1
 
     async def adjust_concurrency(self):
-        """Lógica principal para ajustar el nivel de concurrencia."""
+        """Ajusta la concurrencia usando un historial para maximizar el throughput."""
         async with self._lock:
             elapsed = time.monotonic() - self._last_check_time
-            if elapsed < 20:  # Ajustar cada 20 segundos
+            if elapsed < 20:  # Intervalo mínimo de ajuste: 20 segundos
                 return
 
             total_requests = self._success_count + self._error_count
-            if total_requests < self.target_concurrency / 2:  # No hay suficientes datos
+            if total_requests == 0:
                 self._reset_counters()
                 return
 
             error_rate = self._error_count / total_requests
-            throughput = self._success_count / elapsed
+            current_throughput = self._success_count / elapsed
 
             logging.info(
                 f"[ADJUSTER] Stats (last {elapsed:.1f}s): "
                 f"Target: {self.target_concurrency}, "
-                f"Throughput: {throughput:.2f} url/s, "
+                f"Throughput: {current_throughput:.2f} url/s, "
                 f"Error Rate: {error_rate:.2%}"
             )
 
-            if error_rate > 0.1:  # Más del 10% de errores -> Bajar drásticamente
+            # 1. FRENO DE EMERGENCIA: Si hay muchos errores, bajar siempre.
+            if error_rate > 0.1:
                 new_target = max(self.min, int(self.target_concurrency * 0.7))
                 if new_target != self.target_concurrency:
                     logging.warning(
                         f"🚨 Alta tasa de errores. Bajando concurrencia a {new_target}"
                     )
                     self.target_concurrency = new_target
-            elif error_rate < 0.03:  # Menos del 3% de errores -> Subir con cuidado
+                self._reset_counters()
+                return  # Salir para estabilizar
+
+            # 2. Guardar el rendimiento del intervalo actual en el historial
+            self.throughput_history.append(
+                (self.target_concurrency, current_throughput)
+            )
+
+            # 3. Lógica de optimización basada en el historial (si hay suficientes datos)
+            if len(self.throughput_history) < 5:
+                # Al principio, subir con cautela mientras se recolectan datos
+                self.target_concurrency = min(self.max, self.target_concurrency + 1)
+                self._reset_counters()
+                return
+
+            # Calcular el rendimiento promedio para cada nivel de concurrencia en el historial
+            perf_by_concurrency = {}
+            for c, t in self.throughput_history:
+                if c not in perf_by_concurrency:
+                    perf_by_concurrency[c] = []
+                perf_by_concurrency[c].append(t)
+
+            avg_perf = {
+                c: sum(t_list) / len(t_list)
+                for c, t_list in perf_by_concurrency.items()
+            }
+
+            # Encontrar la concurrencia que dio el mejor resultado histórico
+            if not avg_perf:
+                self._reset_counters()
+                return
+
+            best_concurrency = max(avg_perf, key=avg_perf.get)
+
+            # 4. Tomar la decisión
+            if self.target_concurrency < best_concurrency:
+                # Si estamos por debajo del óptimo histórico, subir
                 new_target = min(self.max, self.target_concurrency + 1)
-                if new_target != self.target_concurrency:
-                    logging.info(
-                        f"✅ Rendimiento estable. Subiendo concurrencia a {new_target}"
-                    )
-                    self.target_concurrency = new_target
+                logging.info(
+                    f"📈 Hacia el óptimo ({best_concurrency}). Subiendo concurrencia a {new_target}"
+                )
+                self.target_concurrency = new_target
+            elif self.target_concurrency > best_concurrency:
+                # Si nos pasamos del óptimo histórico, bajar
+                new_target = max(self.min, self.target_concurrency - 1)
+                logging.info(
+                    f"📉 Pasamos el óptimo ({best_concurrency}). Bajando concurrencia a {new_target}"
+                )
+                self.target_concurrency = new_target
+            else:  # Estamos en el mejor punto conocido
+                # Probar a subir un poco más para encontrar un nuevo pico
+                new_target = min(self.max, self.target_concurrency + 1)
+                logging.info(
+                    f"✅ En el punto óptimo. Probando a subir a {new_target} para buscar mejoras."
+                )
+                self.target_concurrency = new_target
 
             self._reset_counters()
 
@@ -227,14 +273,16 @@ class ConcurrencyManager:
         self._last_check_time = time.monotonic()
 
 
+# --- El resto del script (tareas, funciones auxiliares, main) permanece sin cambios ---
+
+
 async def adjuster_task(manager: ConcurrencyManager):
     """Tarea que se ejecuta en segundo plano para llamar al ajustador."""
     while True:
-        await asyncio.sleep(5)  # Intervalo de revisión
+        await asyncio.sleep(5)
         await manager.adjust_concurrency()
 
 
-# --- Funciones Auxiliares (sin cambios) ---
 def load_urls_from_file(filename: str) -> list:
     if not os.path.exists(filename):
         logging.error(f"El archivo de entrada '{filename}' no fue encontrado.")
@@ -280,10 +328,8 @@ def _log_progress_and_estimate_time(completed: int, total: int, start_time: floa
     logging.info(f"Progreso: [{completed}/{total}] - Tiempo restante estimado: {eta}")
 
 
-# --- Lógica Principal de Extracción (mínimos cambios) ---
 async def scrape_detail_page(page) -> dict:
     # Esta función no cambia en su lógica de extracción.
-    # ... (El contenido de esta función es idéntico al script original) ...
     data = {"url": page.url}
     try:
         title_element = page.locator("div.header-text h1").first
@@ -382,7 +428,6 @@ async def scrape_detail_page(page) -> dict:
     return data
 
 
-# --- Orquestador Concurrente (MODIFICADO) ---
 async def scrape_single_url(
     url: str, context, semaphore: asyncio.Semaphore, manager: ConcurrencyManager
 ):
@@ -399,20 +444,15 @@ async def scrape_single_url(
             try:
                 page = await context.new_page()
                 await block_unnecessary_resources(page)
-
                 logging.info(f"Procesando ID {car_id} (Intento {attempt + 1}/{TRIES})")
                 await page.goto(url, wait_until="domcontentloaded", timeout=45000)
-
                 car_data = await scrape_detail_page(page)
-
                 output_filename = os.path.join(OUTPUT_DIR, f"{car_id}.json")
                 save_data_to_json(car_data, output_filename)
                 logging.info(f"✅ Datos de ID {car_id} guardados.")
-
-                await manager.record_success()  # <-- REPORTAR ÉXITO
+                await manager.record_success()
                 await asyncio.sleep(random.uniform(1, 4))
                 return
-
             except Exception as e:
                 logging.warning(
                     f"⚠️ Fallo en intento {attempt + 1} para ID {car_id}. Error: {type(e).__name__}"
@@ -421,7 +461,7 @@ async def scrape_single_url(
                     logging.error(
                         f"❌ No se pudo procesar ID {car_id} después de {TRIES} intentos."
                     )
-                    await manager.record_error()  # <-- REPORTAR ERROR
+                    await manager.record_error()
                 else:
                     await asyncio.sleep(3 + attempt * 2)
             finally:
@@ -429,7 +469,6 @@ async def scrape_single_url(
                     await page.close()
 
 
-# --- Función Principal (REDISEÑADA) ---
 async def main(
     urls_file: str, initial_concurrency: int, min_concurrency: int, max_concurrency: int
 ):
@@ -446,13 +485,9 @@ async def main(
             os.path.join(OUTPUT_DIR, f"{get_car_id_from_url(url)}.json")
         )
     ]
-
-    total_urls = len(all_urls)
-    remaining_to_scrape = len(urls_to_process)
-    already_scraped = total_urls - remaining_to_scrape
-
+    total_urls, remaining_to_scrape = len(all_urls), len(urls_to_process)
     logging.info(
-        f"Se encontraron {total_urls} URLs. Ya descargados: {already_scraped}. Restantes: {remaining_to_scrape}."
+        f"Se encontraron {total_urls} URLs. Ya descargados: {total_urls - remaining_to_scrape}. Restantes: {remaining_to_scrape}."
     )
     if not urls_to_process:
         logging.info("🎉 No hay vehículos nuevos que descargar.")
@@ -462,7 +497,7 @@ async def main(
         initial=initial_concurrency, min_val=min_concurrency, max_val=max_concurrency
     )
     logging.info(
-        f"Iniciando scraping adaptativo. Rango de concurrencia: [{min_concurrency}-{max_concurrency}], Inicial: {initial_concurrency}"
+        f"Iniciando scraping adaptativo. Rango: [{min_concurrency}-{max_concurrency}], Inicial: {initial_concurrency}"
     )
 
     start_time = time.monotonic()
@@ -470,44 +505,34 @@ async def main(
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(user_agent=USER_AGENT)
-
-        # Iniciar la tarea de ajuste en segundo plano
         adjuster = asyncio.create_task(adjuster_task(manager))
-
-        semaphore = asyncio.Semaphore(
-            max_concurrency
-        )  # Semáforo como límite de seguridad máximo
-
+        semaphore = asyncio.Semaphore(max_concurrency)
         tasks = [
             scrape_single_url(url, context, semaphore, manager)
             for url in urls_to_process
         ]
-
         completed_count = 0
         for future in asyncio.as_completed(tasks):
             await future
             completed_count += 1
-            if completed_count % 10 == 0:  # Loguear progreso cada 10 URLs
+            if completed_count % 10 == 0 or completed_count == remaining_to_scrape:
                 _log_progress_and_estimate_time(
                     completed_count, remaining_to_scrape, start_time
                 )
 
-        # Detener la tarea de ajuste
         adjuster.cancel()
         try:
             await adjuster
         except asyncio.CancelledError:
             logging.info("Tarea de ajuste de concurrencia detenida.")
-
         await browser.close()
 
     logging.info("🎉 Proceso de scraping completado.")
 
 
-# --- Punto de Entrada del Script (MODIFICADO) ---
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Scraper avanzado de vehículos con concurrencia adaptativa."
+        description="Scraper avanzado de vehículos con optimización de concurrencia basada en historial."
     )
     parser.add_argument(
         "-f",
@@ -530,11 +555,10 @@ if __name__ == "__main__":
     parser.add_argument(
         "--max",
         type=int,
-        default=25,
-        help="Número máximo de trabajos concurrentes. (default: 25)",
+        default=30,
+        help="Número máximo de trabajos concurrentes. (default: 30)",
     )
     args = parser.parse_args()
-
     asyncio.run(
         main(
             urls_file=args.file,
