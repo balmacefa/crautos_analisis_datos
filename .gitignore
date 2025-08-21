@@ -1,3 +1,5 @@
 .venv/
 datos_vehiculos/
 urls.json
+__pycache__/
+*.pyc
