@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94226337&Toyota.HIACE.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 27490,
+    "precio_usd": 13800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94226337-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94226337-1.jpg",
+        "https://crautos.com/clasificados/usados/94226337-2.jpg",
+        "https://crautos.com/clasificados/usados/94226337-3.jpg",
+        "https://crautos.com/clasificados/usados/94226337-4.jpg",
+        "https://crautos.com/clasificados/usados/94226337-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ARIAS",
+        "teléfono": "8389-7694",
+        "whatsapp": "8389-7694"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "660,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 660000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

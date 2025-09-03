@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26671870&Mitsubishi.L200.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 25199,
+    "precio_usd": 12650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26671870-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26671870-1.jpg",
+        "https://crautos.com/clasificados/usados/26671870-2.jpg",
+        "https://crautos.com/clasificados/usados/26671870-3.jpg",
+        "https://crautos.com/clasificados/usados/26671870-4.jpg",
+        "https://crautos.com/clasificados/usados/26671870-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN GRANADOS",
+        "teléfono": "7076-1626",
+        "whatsapp": "7076-1626"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "142,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Llantas nuevas Tapicera en cuero en todo el piso nunca de trabajo lona de cajón nueva.",
+        "kilometraje_number": 142000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

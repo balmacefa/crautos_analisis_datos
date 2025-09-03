@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46677880&Toyota.4RUNNER%20.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46677880-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46677880-1.jpg",
+        "https://crautos.com/clasificados/usados/46677880-2.jpg",
+        "https://crautos.com/clasificados/usados/46677880-3.jpg",
+        "https://crautos.com/clasificados/usados/46677880-4.jpg",
+        "https://crautos.com/clasificados/usados/46677880-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN FUENTES",
+        "teléfono": "8308-2392",
+        "whatsapp": "8308-2392"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "GAS LPG LLANTAS EXCELENTES GPS MECANICAMENTE EXCELENTE CERO OXIDO!!!!!!!!!!!.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

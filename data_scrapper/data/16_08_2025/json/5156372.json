@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5156372&Kia.MORNING%20PICANTO.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "MORNING PICANTO",
+    "precio_crc": 5467327,
+    "precio_usd": 10891.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5156372-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5156372-1.jpg",
+        "https://crautos.com/clasificados/usados/5156372-2.jpg",
+        "https://crautos.com/clasificados/usados/5156372-3.jpg",
+        "https://crautos.com/clasificados/usados/5156372-4.jpg",
+        "https://crautos.com/clasificados/usados/5156372-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IMPORKOR S.A",
+        "teléfono": "6299-5630 8379-6625 7208-6245",
+        "whatsapp": "6299-5630",
+        "dirección": "Santa Ana, Calle margarita, 25 metros Este de Auto Star"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "133,000 kms",
+        "placa": "Termina en d",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Junio del 2025",
+        "comentario_vendedor": "GLP Y GASOLINA ORIGINAL .",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [],
+    "antiguedad": 12
+}

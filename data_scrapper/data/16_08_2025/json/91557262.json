@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91557262&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91557262-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91557262-1.jpg",
+        "https://crautos.com/clasificados/usados/91557262-2.jpg",
+        "https://crautos.com/clasificados/usados/91557262-3.jpg",
+        "https://crautos.com/clasificados/usados/91557262-4.jpg",
+        "https://crautos.com/clasificados/usados/91557262-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRÉS UMAÑA",
+        "teléfono": "8910-3811 8863-3294"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Se encuentra en Pérez Zeledón .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

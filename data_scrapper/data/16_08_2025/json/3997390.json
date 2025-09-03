@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3997390&Nissan.FRONTIER%20SV.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER SV",
+    "precio_crc": 25448,
+    "precio_usd": 12775000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3997390-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3997390-1.jpg",
+        "https://crautos.com/clasificados/usados/3997390-2.jpg",
+        "https://crautos.com/clasificados/usados/3997390-3.jpg",
+        "https://crautos.com/clasificados/usados/3997390-4.jpg",
+        "https://crautos.com/clasificados/usados/3997390-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "103,053 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "DEKRA P-INSCRIBIR-FULL EXT-GARANTIA-RECIB-FINANCI-ABIERTO DOMING STA CRUZ GTE.",
+        "kilometraje_number": 103053,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

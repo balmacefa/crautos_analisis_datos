@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54431273&Geely.LC%20.2018",
+    "año": 2018,
+    "marca": "GEELY",
+    "modelo": "LC",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54431273-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54431273-1.jpg",
+        "https://crautos.com/clasificados/usados/54431273-2.jpg",
+        "https://crautos.com/clasificados/usados/54431273-3.jpg",
+        "https://crautos.com/clasificados/usados/54431273-4.jpg",
+        "https://crautos.com/clasificados/usados/54431273-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAYANE ACOSTA",
+        "teléfono": "7100-0399 6396-2536",
+        "whatsapp": "7100-0399"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "83,780 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO Y BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado negociable .",
+        "kilometraje_number": 83780,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

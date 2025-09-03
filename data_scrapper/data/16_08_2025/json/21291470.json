@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21291470&Chevrolet.OPTRA.2006",
+    "año": 2006,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21291470-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21291470-1.jpg",
+        "https://crautos.com/clasificados/usados/21291470-2.jpg",
+        "https://crautos.com/clasificados/usados/21291470-3.jpg",
+        "https://crautos.com/clasificados/usados/21291470-4.jpg",
+        "https://crautos.com/clasificados/usados/21291470-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN SANCHEZ",
+        "teléfono": "6354-5436",
+        "whatsapp": "6354-5436"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "150 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO Y GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Con sistema de GLP muy economico.",
+        "kilometraje_number": 150,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55167784&Toyota.PRADO.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 49801,
+    "precio_usd": 25000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55167784-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55167784-1.jpg",
+        "https://crautos.com/clasificados/usados/55167784-2.jpg",
+        "https://crautos.com/clasificados/usados/55167784-3.jpg",
+        "https://crautos.com/clasificados/usados/55167784-4.jpg",
+        "https://crautos.com/clasificados/usados/55167784-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS QUIROS",
+        "teléfono": "7215-3866 6387-2408",
+        "whatsapp": "7215-3866"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "179,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado al día .",
+        "kilometraje_number": 179000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10150526&Land%20Rover.SERIE%202.1965",
+    "año": 1965,
+    "marca": "LAND ROVER",
+    "modelo": "SERIE 2",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10150526-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10150526-1.jpg",
+        "https://crautos.com/clasificados/usados/10150526-2.jpg",
+        "https://crautos.com/clasificados/usados/10150526-3.jpg",
+        "https://crautos.com/clasificados/usados/10150526-4.jpg",
+        "https://crautos.com/clasificados/usados/10150526-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAXIMILIANO DELGADO",
+        "teléfono": "8980-3101"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "VERDE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "20 de Diciembre del 2024",
+        "comentario_vendedor": "Total restaurado. Frenos en discos. Suspensión en resortes. .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 60
+}

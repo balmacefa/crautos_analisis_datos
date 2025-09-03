@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71192530&Volvo.S40%20T4.2002",
+    "año": 2002,
+    "marca": "VOLVO",
+    "modelo": "S40 T4",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71192530-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71192530-1.jpg",
+        "https://crautos.com/clasificados/usados/71192530-2.jpg",
+        "https://crautos.com/clasificados/usados/71192530-3.jpg",
+        "https://crautos.com/clasificados/usados/71192530-4.jpg",
+        "https://crautos.com/clasificados/usados/71192530-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS L",
+        "teléfono": "8359-4518 6011-0701",
+        "whatsapp": "8359-4518"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "CUERO BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "El Mejor S Cuarenta de CR: Único Blanco Turbo Fase I con Caja Manual !!! y todo al día.",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39487899&Kia.CERATO.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "CERATO",
+    "precio_crc": 7550,
+    "precio_usd": 3790000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39487899-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39487899-1.jpg",
+        "https://crautos.com/clasificados/usados/39487899-2.jpg",
+        "https://crautos.com/clasificados/usados/39487899-3.jpg",
+        "https://crautos.com/clasificados/usados/39487899-4.jpg",
+        "https://crautos.com/clasificados/usados/39487899-5.jpg",
+        "https://crautos.com/clasificados/usados/39487899-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABRICIO GARCIA",
+        "teléfono": "8492-8180 8302-0369",
+        "whatsapp": "8492-8180"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "210,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Clutch Nuevo llantas casi nuevas! .",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

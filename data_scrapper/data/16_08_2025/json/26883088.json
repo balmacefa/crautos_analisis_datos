@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26883088&Nissan.FRONTIER.2020",
+    "año": 2020,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 30677,
+    "precio_usd": 15400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26883088-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26883088-1.jpg",
+        "https://crautos.com/clasificados/usados/26883088-2.jpg",
+        "https://crautos.com/clasificados/usados/26883088-3.jpg",
+        "https://crautos.com/clasificados/usados/26883088-4.jpg",
+        "https://crautos.com/clasificados/usados/26883088-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRAN MENDEZ",
+        "teléfono": "8873-3547 8641-2195",
+        "whatsapp": "8873-3547"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "88,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Exelente estado un único dueño. Muy socado. .",
+        "kilometraje_number": 88000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

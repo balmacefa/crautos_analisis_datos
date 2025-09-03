@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89167933&Mazda.3.2011",
+    "año": 2011,
+    "marca": "MAZDA",
+    "modelo": "3",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89167933-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89167933-1.jpg",
+        "https://crautos.com/clasificados/usados/89167933-2.jpg",
+        "https://crautos.com/clasificados/usados/89167933-3.jpg",
+        "https://crautos.com/clasificados/usados/89167933-4.jpg",
+        "https://crautos.com/clasificados/usados/89167933-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSELYN CHACÓN",
+        "teléfono": "6091-6153",
+        "whatsapp": "6091-6153"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado motor y caja. .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Caja de cambios dual",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 14
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75524043&Toyota.RAV4.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75524043-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75524043-1.jpg",
+        "https://crautos.com/clasificados/usados/75524043-2.jpg",
+        "https://crautos.com/clasificados/usados/75524043-3.jpg",
+        "https://crautos.com/clasificados/usados/75524043-4.jpg",
+        "https://crautos.com/clasificados/usados/75524043-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BERNARDO LOBO",
+        "teléfono": "8812-7373"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "196,600 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Dekra .",
+        "kilometraje_number": 196600,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36275760&Toyota.ECHO.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36275760-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36275760-1.jpg",
+        "https://crautos.com/clasificados/usados/36275760-2.jpg",
+        "https://crautos.com/clasificados/usados/36275760-3.jpg",
+        "https://crautos.com/clasificados/usados/36275760-4.jpg",
+        "https://crautos.com/clasificados/usados/36275760-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE MIGUEL JARA PARINI",
+        "teléfono": "7178-4622",
+        "whatsapp": "7178-4622"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "238,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Economía y Respaldo en su máxima expresión excelente estado General aproveche esta oportunidad..",
+        "kilometraje_number": 238000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia"
+    ],
+    "antiguedad": 23
+}

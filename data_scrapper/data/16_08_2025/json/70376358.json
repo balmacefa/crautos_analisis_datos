@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70376358&Ford.EXPLORER.2006",
+    "año": 2006,
+    "marca": "FORD",
+    "modelo": "EXPLORER",
+    "precio_crc": 10707,
+    "precio_usd": 5375000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70376358-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70376358-1.jpg",
+        "https://crautos.com/clasificados/usados/70376358-2.jpg",
+        "https://crautos.com/clasificados/usados/70376358-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE WILLIAM CHINCHILLA MORALE",
+        "teléfono": "8927-9278",
+        "whatsapp": "8927-9278"
+    },
+    "informacion_general": {
+        "cilindrada": "40 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "162,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "CAFÉ",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Además de gasolina tiene gas propano..",
+        "kilometraje_number": 162000,
+        "cilindrada_number": 40
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Cámara 360",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70918916&Hyundai.TUCSON%20GL.2018",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON GL",
+    "precio_crc": 18426,
+    "precio_usd": 9250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70918916-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70918916-1.jpg",
+        "https://crautos.com/clasificados/usados/70918916-2.jpg",
+        "https://crautos.com/clasificados/usados/70918916-3.jpg",
+        "https://crautos.com/clasificados/usados/70918916-4.jpg",
+        "https://crautos.com/clasificados/usados/70918916-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANILO MARTINEZ",
+        "teléfono": "8888-6314",
+        "whatsapp": "8888-6314"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "83,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Carro en excelentes condiciones, motor y transmisión impecables, Dekra limpio sin anotaciones.",
+        "kilometraje_number": 83000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

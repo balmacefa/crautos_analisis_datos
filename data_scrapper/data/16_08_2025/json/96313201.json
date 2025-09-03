@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96313201&Mitsubishi.MONTERO%20SPORT%20.1999",
+    "año": 1999,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96313201-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96313201-1.jpg",
+        "https://crautos.com/clasificados/usados/96313201-2.jpg",
+        "https://crautos.com/clasificados/usados/96313201-3.jpg",
+        "https://crautos.com/clasificados/usados/96313201-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN",
+        "teléfono": "8335-3015 8967-5492",
+        "whatsapp": "8335-3015"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,702 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Se puede recibir accet eelantra corolla o yaris .",
+        "kilometraje_number": 115702,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

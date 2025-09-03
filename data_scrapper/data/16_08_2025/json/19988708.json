@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19988708",
+    "año": 2013,
+    "marca": "HONDA",
+    "modelo": "CITY LX",
+    "precio_crc": 12948,
+    "precio_usd": 6500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19988708-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19988708-1.jpg",
+        "https://crautos.com/clasificados/usados/19988708-2.jpg",
+        "https://crautos.com/clasificados/usados/19988708-3.jpg",
+        "https://crautos.com/clasificados/usados/19988708-4.jpg",
+        "https://crautos.com/clasificados/usados/19988708-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADOLFO NARANJO",
+        "teléfono": "8981-0718 8455-4171 6015-0718"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "97,800 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CAFE OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "kilometraje_number": 97800,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

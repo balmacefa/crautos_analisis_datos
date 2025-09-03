@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16850366&Toyota.4RUNNER%20TRD%20PRO.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER TRD PRO",
+    "precio_crc": 54781,
+    "precio_usd": 27500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CASTRO",
+        "teléfono": "8775-9226",
+        "whatsapp": "8775-9226"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "85,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "QUICKSAND",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Version TRD PRO - excelente estado.",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

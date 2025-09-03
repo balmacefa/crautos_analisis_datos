@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88815755&BMW.318I.1999",
+    "año": 1999,
+    "marca": "BMW",
+    "modelo": "318I",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88815755-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88815755-1.jpg",
+        "https://crautos.com/clasificados/usados/88815755-2.jpg",
+        "https://crautos.com/clasificados/usados/88815755-3.jpg",
+        "https://crautos.com/clasificados/usados/88815755-4.jpg",
+        "https://crautos.com/clasificados/usados/88815755-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YOJAN ARCE",
+        "teléfono": "8691-5462 8555-7752",
+        "whatsapp": "8691-5462"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "231,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Motor recién reparador por completo radio con pantalla y camara de retroceso.",
+        "kilometraje_number": 231000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

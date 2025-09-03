@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78653183&Toyota.HILUX.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 22410,
+    "precio_usd": 11250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78653183-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78653183-1.jpg",
+        "https://crautos.com/clasificados/usados/78653183-2.jpg",
+        "https://crautos.com/clasificados/usados/78653183-3.jpg",
+        "https://crautos.com/clasificados/usados/78653183-4.jpg",
+        "https://crautos.com/clasificados/usados/78653183-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL SANCHEZ MASIS",
+        "teléfono": "8877-5000 8311-2222 8377-9183",
+        "whatsapp": "8311-2222"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "156,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Excelente Estado Bajo kilometraje.",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

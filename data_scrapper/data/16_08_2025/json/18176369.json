@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18176369&Dodge/RAM.RAM%202500.2008",
+    "año": 2008,
+    "marca": "DODGE/RAM",
+    "modelo": "RAM 2500",
+    "precio_crc": 26643,
+    "precio_usd": 13375000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18176369-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18176369-1.jpg",
+        "https://crautos.com/clasificados/usados/18176369-2.jpg",
+        "https://crautos.com/clasificados/usados/18176369-3.jpg",
+        "https://crautos.com/clasificados/usados/18176369-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GILBERTH ARIAS",
+        "teléfono": "6017-1313 8624-8950",
+        "whatsapp": "6017-1313"
+    },
+    "informacion_general": {
+        "cilindrada": "5900 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "224,437 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Se puede financiar el cincuenta porciento a un año al veinticuatro porciento de interés sobre saldos.",
+        "kilometraje_number": 224437,
+        "cilindrada_number": 5900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1084349&Suzuki.XL7.2023",
+    "año": 2023,
+    "marca": "SUZUKI",
+    "modelo": "XL7",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1084349-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1084349-1.jpg",
+        "https://crautos.com/clasificados/usados/1084349-2.jpg",
+        "https://crautos.com/clasificados/usados/1084349-3.jpg",
+        "https://crautos.com/clasificados/usados/1084349-4.jpg",
+        "https://crautos.com/clasificados/usados/1084349-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "45,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "tiene camara reversa, todo al dia, solo un dueño excelente estado, se financia.",
+        "kilometraje_number": 45000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

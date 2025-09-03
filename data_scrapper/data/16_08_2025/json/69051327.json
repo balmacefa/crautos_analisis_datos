@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69051327&Suzuki.SWIFT.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69051327-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69051327-1.jpg",
+        "https://crautos.com/clasificados/usados/69051327-2.jpg",
+        "https://crautos.com/clasificados/usados/69051327-3.jpg",
+        "https://crautos.com/clasificados/usados/69051327-4.jpg",
+        "https://crautos.com/clasificados/usados/69051327-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DONALD CERDAS MONGE",
+        "teléfono": "8323-3864",
+        "whatsapp": "8323-3864"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "169,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Muy cuidado nacional extras .",
+        "kilometraje_number": 169000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

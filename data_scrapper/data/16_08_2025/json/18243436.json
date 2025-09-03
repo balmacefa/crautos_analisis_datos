@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18243436&Mazda.BT50.2019",
+    "año": 2019,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 31873,
+    "precio_usd": 16000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18243436-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18243436-1.jpg",
+        "https://crautos.com/clasificados/usados/18243436-2.jpg",
+        "https://crautos.com/clasificados/usados/18243436-3.jpg",
+        "https://crautos.com/clasificados/usados/18243436-4.jpg",
+        "https://crautos.com/clasificados/usados/18243436-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN JIMÉNEZ",
+        "teléfono": "8898-5480",
+        "whatsapp": "8898-5480"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "81,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Impecable. Recibo Cuadraciclo o vehículo de menor valor como forma de pago.",
+        "kilometraje_number": 81000,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33042399&Land%20Rover.SERIE%20III.1976",
+    "año": 1976,
+    "marca": "LAND ROVER",
+    "modelo": "SERIE III",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33042399-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33042399-1.jpg",
+        "https://crautos.com/clasificados/usados/33042399-2.jpg",
+        "https://crautos.com/clasificados/usados/33042399-3.jpg",
+        "https://crautos.com/clasificados/usados/33042399-4.jpg",
+        "https://crautos.com/clasificados/usados/33042399-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LÁZARO JUAN ALONSO KNUDSEN",
+        "teléfono": "7093-2268 7282-7884 8709-6000",
+        "whatsapp": "7029-3226"
+    },
+    "informacion_general": {
+        "cilindrada": "2250 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "650,065 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL/BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Para Proyecto. Se financia o se recibe. Garantía directa un mes motor y caja.",
+        "kilometraje_number": 650065,
+        "cilindrada_number": 2250
+    },
+    "equipamiento": [],
+    "antiguedad": 49
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14992455&Nissan.QASHQAI.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14992455-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14992455-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIANELLA UMAÑA",
+        "teléfono": "7129-5094 8404-8348",
+        "whatsapp": "7129-5094"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "117,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Récord de Agencia.",
+        "kilometraje_number": 117000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Retrovisores auto-retractibles",
+        "Sensores de retroceso",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

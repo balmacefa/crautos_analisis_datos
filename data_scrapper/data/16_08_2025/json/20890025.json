@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20890025&Nissan.PATHFINDER.1996",
+    "año": 1996,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20890025-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20890025-1.jpg",
+        "https://crautos.com/clasificados/usados/20890025-2.jpg",
+        "https://crautos.com/clasificados/usados/20890025-3.jpg",
+        "https://crautos.com/clasificados/usados/20890025-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE MORA LAURITO",
+        "teléfono": "8460-0255",
+        "whatsapp": "8460-0255"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Impecable.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Sunroof/techo panorámico"
+    ],
+    "antiguedad": 29
+}

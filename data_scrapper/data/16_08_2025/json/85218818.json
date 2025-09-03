@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85218818&Hyundai.ACCENT%20.2003",
+    "año": 2003,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 4482,
+    "precio_usd": 2250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85218818-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85218818-1.jpg",
+        "https://crautos.com/clasificados/usados/85218818-2.jpg",
+        "https://crautos.com/clasificados/usados/85218818-3.jpg",
+        "https://crautos.com/clasificados/usados/85218818-4.jpg",
+        "https://crautos.com/clasificados/usados/85218818-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FÉLIX RODRÍGUEZ TÉLLEZ",
+        "teléfono": "7003-7641",
+        "whatsapp": "7003-7641"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Carro familiar - muy bien pintura y motor .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

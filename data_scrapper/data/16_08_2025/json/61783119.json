@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61783119&Hyundai.TUCSON%20GL.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON GL",
+    "precio_crc": 17729,
+    "precio_usd": 8900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61783119-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61783119-1.jpg",
+        "https://crautos.com/clasificados/usados/61783119-2.jpg",
+        "https://crautos.com/clasificados/usados/61783119-3.jpg",
+        "https://crautos.com/clasificados/usados/61783119-4.jpg",
+        "https://crautos.com/clasificados/usados/61783119-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BORIS",
+        "teléfono": "8448-8430",
+        "whatsapp": "8448-8430"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "43,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "24 de Setiembre del 2024",
+        "comentario_vendedor": "POCO KILOMETRAJE - DEKRA AL DIA - NOSARA.",
+        "kilometraje_number": 43000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86904231&Suzuki.SX4.2009",
+    "año": 2009,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 8665,
+    "precio_usd": 4350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86904231-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86904231-1.jpg",
+        "https://crautos.com/clasificados/usados/86904231-2.jpg",
+        "https://crautos.com/clasificados/usados/86904231-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERARDO VEGA",
+        "teléfono": "8996-0809",
+        "whatsapp": "8996-0809"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,450 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "TERRACOTA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado - cero regeros de aceite - cuenta con Gas GLP.",
+        "kilometraje_number": 110450,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

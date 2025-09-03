@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34029680&Suzuki.ALTO%20K10.2018",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "ALTO K10",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34029680-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34029680-1.jpg",
+        "https://crautos.com/clasificados/usados/34029680-2.jpg",
+        "https://crautos.com/clasificados/usados/34029680-3.jpg",
+        "https://crautos.com/clasificados/usados/34029680-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCIO PALENCIA",
+        "teléfono": "8534-3279 8406-0063",
+        "whatsapp": "8534-3279"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "99,500 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Pintura impecable motor perfecto estado aros de lujo .",
+        "kilometraje_number": 99500,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4784838&Volvo.XC90%20D5%20MOMENTUM.2018",
+    "año": 2018,
+    "marca": "VOLVO",
+    "modelo": "XC90 D5 MOMENTUM",
+    "precio_crc": 20080000,
+    "precio_usd": 40000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4784838-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4784838-1.jpg",
+        "https://crautos.com/clasificados/usados/4784838-2.jpg",
+        "https://crautos.com/clasificados/usados/4784838-3.jpg",
+        "https://crautos.com/clasificados/usados/4784838-4.jpg",
+        "https://crautos.com/clasificados/usados/4784838-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "PRECIO EN DOLARES SUJETO AL TIPO DE CAMBIO DE GRUPO QUALITY MOTORS. PRECIO MAS TRASPASO..",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

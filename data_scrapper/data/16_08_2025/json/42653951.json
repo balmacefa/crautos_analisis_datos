@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42653951&Mitsubishi.L200.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42653951-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42653951-1.jpg",
+        "https://crautos.com/clasificados/usados/42653951-2.jpg",
+        "https://crautos.com/clasificados/usados/42653951-3.jpg",
+        "https://crautos.com/clasificados/usados/42653951-4.jpg",
+        "https://crautos.com/clasificados/usados/42653951-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ANDRÉS POVEDA",
+        "teléfono": "8836-2648 7109-5590",
+        "whatsapp": "8836-2648"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Se vende por motivo de salud .",
+        "kilometraje_number": 135500,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

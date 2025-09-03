@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87222126&Jeep.WRANGLER.1989",
+    "año": 1989,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87222126-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87222126-1.jpg",
+        "https://crautos.com/clasificados/usados/87222126-2.jpg",
+        "https://crautos.com/clasificados/usados/87222126-3.jpg",
+        "https://crautos.com/clasificados/usados/87222126-4.jpg",
+        "https://crautos.com/clasificados/usados/87222126-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FELIPE HERNÁNDEZ",
+        "teléfono": "6045-7033",
+        "whatsapp": "6045-7033"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Perfecto para el barro Snorkel Wincher Turbo.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Asientos eléctricos",
+        "Halógenos",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 36
+}

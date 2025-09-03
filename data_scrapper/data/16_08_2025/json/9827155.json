@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9827155&Nissan.FRONTIER%20.2014",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 17729,
+    "precio_usd": 8900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9827155-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9827155-1.jpg",
+        "https://crautos.com/clasificados/usados/9827155-2.jpg",
+        "https://crautos.com/clasificados/usados/9827155-3.jpg",
+        "https://crautos.com/clasificados/usados/9827155-4.jpg",
+        "https://crautos.com/clasificados/usados/9827155-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PROPIAUTO DEL SUR",
+        "teléfono": "6039-7411 8763-3523 2251-2000",
+        "whatsapp": "6039-7411",
+        "dirección": "Cartago 200 metros al este del Mall Paseo Metrópoli"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "94,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Financiamiento sin prima disponible.",
+        "kilometraje_number": 94000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

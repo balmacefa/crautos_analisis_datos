@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84918607&Hyundai.ACCENT%20VERNA.2000",
+    "año": 2000,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT VERNA",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84918607-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84918607-1.jpg",
+        "https://crautos.com/clasificados/usados/84918607-2.jpg",
+        "https://crautos.com/clasificados/usados/84918607-3.jpg",
+        "https://crautos.com/clasificados/usados/84918607-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD MENA",
+        "teléfono": "8369-6646"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "1 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 1,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83104205&Toyota.HILUX.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 18127,
+    "precio_usd": 9100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83104205-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83104205-1.jpg",
+        "https://crautos.com/clasificados/usados/83104205-2.jpg",
+        "https://crautos.com/clasificados/usados/83104205-3.jpg",
+        "https://crautos.com/clasificados/usados/83104205-4.jpg",
+        "https://crautos.com/clasificados/usados/83104205-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE RODRÍGUEZ ROJAS",
+        "teléfono": "8498-3029",
+        "whatsapp": "8498-3029"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "595,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Dekra al día .",
+        "kilometraje_number": 595000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 24
+}

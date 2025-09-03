@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95747317&Suzuki.SIDEKICK%20JX.1998",
+    "año": 1998,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK JX",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95747317-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95747317-1.jpg",
+        "https://crautos.com/clasificados/usados/95747317-2.jpg",
+        "https://crautos.com/clasificados/usados/95747317-3.jpg",
+        "https://crautos.com/clasificados/usados/95747317-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEOVANNY LARA GALEANO",
+        "teléfono": "7282-9544",
+        "whatsapp": "8825-7321"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "174,827 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. El vehículo se encuentra en el cantón de Upala. .",
+        "kilometraje_number": 174827,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73003496&Hyundai.I30.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "I30",
+    "precio_crc": 10900,
+    "precio_usd": 5471800.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73003496-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73003496-1.jpg",
+        "https://crautos.com/clasificados/usados/73003496-2.jpg",
+        "https://crautos.com/clasificados/usados/73003496-3.jpg",
+        "https://crautos.com/clasificados/usados/73003496-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL ÁLVAREZ",
+        "teléfono": "8833-1769 7070-2070",
+        "whatsapp": "8833-1769"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "56,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Luces Automaticas.",
+        "kilometraje_number": 56000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

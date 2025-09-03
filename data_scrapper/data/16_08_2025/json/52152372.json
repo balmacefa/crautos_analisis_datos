@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52152372&BYD.F0.2016",
+    "año": 2016,
+    "marca": "BYD",
+    "modelo": "F0",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52152372-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52152372-1.jpg",
+        "https://crautos.com/clasificados/usados/52152372-2.jpg",
+        "https://crautos.com/clasificados/usados/52152372-3.jpg",
+        "https://crautos.com/clasificados/usados/52152372-4.jpg",
+        "https://crautos.com/clasificados/usados/52152372-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFFREY CASCANTE",
+        "teléfono": "8921-5911 8921-5965",
+        "whatsapp": "8921-6911"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "78,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Súper económico. Nunca ha sido Uber..",
+        "kilometraje_number": 78500,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

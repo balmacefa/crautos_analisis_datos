@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86377515&Hino.511.2020",
+    "año": 2020,
+    "marca": "HINO",
+    "modelo": "511",
+    "precio_crc": 23008,
+    "precio_usd": 11550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86377515-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86377515-1.jpg",
+        "https://crautos.com/clasificados/usados/86377515-2.jpg",
+        "https://crautos.com/clasificados/usados/86377515-3.jpg",
+        "https://crautos.com/clasificados/usados/86377515-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO BERMUDEZ",
+        "teléfono": "6069-0103 7003-4862",
+        "whatsapp": "6069-0103"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "144,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "LLantas baterias clutch compensadores cajon todo nuevo mantenimiento en purdy.",
+        "kilometraje_number": 144500,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

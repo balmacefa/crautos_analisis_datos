@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88306026&Isuzu.NRR.2017",
+    "año": 2017,
+    "marca": "ISUZU",
+    "modelo": "NRR",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88306026-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88306026-1.jpg",
+        "https://crautos.com/clasificados/usados/88306026-2.jpg",
+        "https://crautos.com/clasificados/usados/88306026-3.jpg",
+        "https://crautos.com/clasificados/usados/88306026-4.jpg",
+        "https://crautos.com/clasificados/usados/88306026-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YURGUIAM QUESADA QUESADA",
+        "teléfono": "8301-0148",
+        "whatsapp": "8301-0148"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 8.0-9.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "278,211 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/En Grecia. Rampa hidraulica de cinco mil lbs. 210 HP. Freno de motor. Un solo dueño.",
+        "kilometraje_number": 278211,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

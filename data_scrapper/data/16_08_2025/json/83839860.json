@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83839860&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83839860-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83839860-1.jpg",
+        "https://crautos.com/clasificados/usados/83839860-2.jpg",
+        "https://crautos.com/clasificados/usados/83839860-3.jpg",
+        "https://crautos.com/clasificados/usados/83839860-4.jpg",
+        "https://crautos.com/clasificados/usados/83839860-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HEINER ARGUEDAS",
+        "teléfono": "8512-1336 8623-8358",
+        "whatsapp": "8512-1336"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "15,350 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Ganga excelente auto.",
+        "kilometraje_number": 15350,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

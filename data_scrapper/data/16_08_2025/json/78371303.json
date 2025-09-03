@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78371303&Mitsubishi.LANCER.2007",
+    "año": 2007,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78371303-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78371303-1.jpg",
+        "https://crautos.com/clasificados/usados/78371303-2.jpg",
+        "https://crautos.com/clasificados/usados/78371303-3.jpg",
+        "https://crautos.com/clasificados/usados/78371303-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE ABED TORRES QUIROS",
+        "teléfono": "8326-3771 8452-6134"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "295,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Buen mantenimiento .",
+        "kilometraje_number": 295000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

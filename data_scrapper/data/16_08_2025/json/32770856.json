@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32770856&Hyundai.SANTA%20FE.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 15837,
+    "precio_usd": 7950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32770856-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32770856-1.jpg",
+        "https://crautos.com/clasificados/usados/32770856-2.jpg",
+        "https://crautos.com/clasificados/usados/32770856-3.jpg",
+        "https://crautos.com/clasificados/usados/32770856-4.jpg",
+        "https://crautos.com/clasificados/usados/32770856-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN CALDERON",
+        "teléfono": "7106-9407",
+        "whatsapp": "7106-9407"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "145,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "carro en excelentes condiciones dekra limpio es la version xl mas espacioso mas fuerza .",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

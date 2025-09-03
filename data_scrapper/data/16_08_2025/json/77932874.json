@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77932874&Nissan.VERSA.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 8008,
+    "precio_usd": 4020000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77932874-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77932874-1.jpg",
+        "https://crautos.com/clasificados/usados/77932874-2.jpg",
+        "https://crautos.com/clasificados/usados/77932874-3.jpg",
+        "https://crautos.com/clasificados/usados/77932874-4.jpg",
+        "https://crautos.com/clasificados/usados/77932874-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR",
+        "teléfono": "8371-6627",
+        "whatsapp": "8371-6627"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "116,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Único dueño. Excelente estado. .",
+        "kilometraje_number": 116000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

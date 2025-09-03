@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85492970&Toyota.YARIS.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85492970-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85492970-1.jpg",
+        "https://crautos.com/clasificados/usados/85492970-2.jpg",
+        "https://crautos.com/clasificados/usados/85492970-3.jpg",
+        "https://crautos.com/clasificados/usados/85492970-4.jpg",
+        "https://crautos.com/clasificados/usados/85492970-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PRISCILLA GARITA",
+        "teléfono": "6051-6085"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "141,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Llantas delanteras nuevas traseras seminuevas. Batería nueva. No se recibe.",
+        "kilometraje_number": 141000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69694080&Hyundai.TUCSON.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69694080-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69694080-1.jpg",
+        "https://crautos.com/clasificados/usados/69694080-2.jpg",
+        "https://crautos.com/clasificados/usados/69694080-3.jpg",
+        "https://crautos.com/clasificados/usados/69694080-4.jpg",
+        "https://crautos.com/clasificados/usados/69694080-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIANA ESPINOZA",
+        "teléfono": "6128-0775 8522-0001 8602-8262",
+        "whatsapp": "6128-0775"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "158,513 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Turbo diésel shiftronic.",
+        "kilometraje_number": 158513,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 19
+}

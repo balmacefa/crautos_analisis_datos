@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2946916&Faw.B30.2020",
+    "año": 2020,
+    "marca": "FAW",
+    "modelo": "B30",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2946916-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2946916-1.jpg",
+        "https://crautos.com/clasificados/usados/2946916-2.jpg",
+        "https://crautos.com/clasificados/usados/2946916-3.jpg",
+        "https://crautos.com/clasificados/usados/2946916-4.jpg",
+        "https://crautos.com/clasificados/usados/2946916-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAUTOS GRUPO JDS",
+        "teléfono": "2227-0568",
+        "whatsapp": "7298-8944",
+        "dirección": "San Sebastian 400 mtrs este de la iglesia frente a la circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "44,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "kilometraje_number": 44000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}

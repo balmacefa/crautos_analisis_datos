@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10440979&Daihatsu.SIRION.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "SIRION",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10440979-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10440979-1.jpg",
+        "https://crautos.com/clasificados/usados/10440979-2.jpg",
+        "https://crautos.com/clasificados/usados/10440979-3.jpg",
+        "https://crautos.com/clasificados/usados/10440979-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS VARGAS",
+        "teléfono": "8489-6745"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "Muy buen estado detalles de pintura muy económico. .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

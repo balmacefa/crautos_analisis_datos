@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61794954",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "URVAN",
+    "precio_crc": 25498,
+    "precio_usd": 12800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61794954-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61794954-1.jpg",
+        "https://crautos.com/clasificados/usados/61794954-2.jpg",
+        "https://crautos.com/clasificados/usados/61794954-3.jpg",
+        "https://crautos.com/clasificados/usados/61794954-4.jpg",
+        "https://crautos.com/clasificados/usados/61794954-5.jpg",
+        "https://crautos.com/clasificados/usados/61794954-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS LUIS LEIVA BUSTOS",
+        "teléfono": "8816-9864 6048-1065"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO-BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Muy buenas condiciones Usada en Turismo.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

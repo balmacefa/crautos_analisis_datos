@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95780271&Toyota.COROLLA%20S.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA S",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95780271-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95780271-1.jpg",
+        "https://crautos.com/clasificados/usados/95780271-2.jpg",
+        "https://crautos.com/clasificados/usados/95780271-3.jpg",
+        "https://crautos.com/clasificados/usados/95780271-4.jpg",
+        "https://crautos.com/clasificados/usados/95780271-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID GALINDO",
+        "teléfono": "8567-1878 8652-1062",
+        "whatsapp": "8567-1878"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "240,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado extras.",
+        "kilometraje_number": 240000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

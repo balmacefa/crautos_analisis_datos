@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77130289&Toyota.HILUX%20.1989",
+    "año": 1989,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77130289-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77130289-1.jpg",
+        "https://crautos.com/clasificados/usados/77130289-2.jpg",
+        "https://crautos.com/clasificados/usados/77130289-3.jpg",
+        "https://crautos.com/clasificados/usados/77130289-4.jpg",
+        "https://crautos.com/clasificados/usados/77130289-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLGER RIVERA",
+        "teléfono": "6489-9100",
+        "whatsapp": "6489-9100"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Recibo todo al día .",
+        "kilometraje_number": null,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 36
+}

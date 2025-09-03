@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80220996&Suzuki.SIDEKICK.1995",
+    "año": 1995,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80220996-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80220996-1.jpg",
+        "https://crautos.com/clasificados/usados/80220996-2.jpg",
+        "https://crautos.com/clasificados/usados/80220996-3.jpg",
+        "https://crautos.com/clasificados/usados/80220996-4.jpg",
+        "https://crautos.com/clasificados/usados/80220996-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY MUÑOZ VARGAS",
+        "teléfono": "8751-4895 8322-2636",
+        "whatsapp": "8751-4895"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "185,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Sin gravámenes nunca chocado detalles de pintura .",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 30
+}

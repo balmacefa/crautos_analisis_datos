@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92671768&Toyota.RAV4.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92671768-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92671768-1.jpg",
+        "https://crautos.com/clasificados/usados/92671768-2.jpg",
+        "https://crautos.com/clasificados/usados/92671768-3.jpg",
+        "https://crautos.com/clasificados/usados/92671768-4.jpg",
+        "https://crautos.com/clasificados/usados/92671768-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HENRY BRENES",
+        "teléfono": "8885-5074"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "todos los mantenimientos al dia.",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

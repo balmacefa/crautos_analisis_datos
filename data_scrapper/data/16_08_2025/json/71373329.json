@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71373329",
+    "año": 2016,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 11952,
+    "precio_usd": 6000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71373329-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71373329-1.jpg",
+        "https://crautos.com/clasificados/usados/71373329-2.jpg",
+        "https://crautos.com/clasificados/usados/71373329-3.jpg",
+        "https://crautos.com/clasificados/usados/71373329-4.jpg",
+        "https://crautos.com/clasificados/usados/71373329-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN ROMAN",
+        "teléfono": "6083-5850",
+        "whatsapp": "6083-5850"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "210,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CELESTE-GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "Tiene el motor nuevo. Tiene menos de veinte mil kilómetros. Urge vender porque compré otro..",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

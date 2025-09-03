@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54093570&Hyundai.I10.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54093570-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54093570-1.jpg",
+        "https://crautos.com/clasificados/usados/54093570-2.jpg",
+        "https://crautos.com/clasificados/usados/54093570-3.jpg",
+        "https://crautos.com/clasificados/usados/54093570-4.jpg",
+        "https://crautos.com/clasificados/usados/54093570-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS PAULINO CAMACHO CALVO",
+        "teléfono": "8664-8240",
+        "whatsapp": "8664-8240"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "116,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "CELESTE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Se vende en excelente estado segundo dueño poco kilometraje precio negociable todo al día y en regla.",
+        "kilometraje_number": 116000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41865394&Daihatsu.TERIOS.2007",
+    "año": 2007,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41865394-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41865394-1.jpg",
+        "https://crautos.com/clasificados/usados/41865394-2.jpg",
+        "https://crautos.com/clasificados/usados/41865394-3.jpg",
+        "https://crautos.com/clasificados/usados/41865394-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO ARROYO",
+        "teléfono": "8662-3208",
+        "whatsapp": "8662-3208"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "168,936 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Se recibe vehículo mayor a dos mil dieciocho más vuelto a su favor..",
+        "kilometraje_number": 168936,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

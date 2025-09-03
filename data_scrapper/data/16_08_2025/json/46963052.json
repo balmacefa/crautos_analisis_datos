@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46963052&Chevrolet.PRIZM%20LSI.1998",
+    "año": 1998,
+    "marca": "CHEVROLET",
+    "modelo": "PRIZM LSI",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46963052-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46963052-1.jpg",
+        "https://crautos.com/clasificados/usados/46963052-2.jpg",
+        "https://crautos.com/clasificados/usados/46963052-3.jpg",
+        "https://crautos.com/clasificados/usados/46963052-4.jpg",
+        "https://crautos.com/clasificados/usados/46963052-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATTIA ZUMBADO",
+        "teléfono": "8787-1193 8908-3792",
+        "whatsapp": "8787-1193"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "198 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "excelente estado.",
+        "kilometraje_number": 198,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

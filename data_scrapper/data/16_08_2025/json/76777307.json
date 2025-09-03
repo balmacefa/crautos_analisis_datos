@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76777307&Chevrolet.SONIC.2015",
+    "año": 2015,
+    "marca": "CHEVROLET",
+    "modelo": "SONIC",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76777307-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76777307-1.jpg",
+        "https://crautos.com/clasificados/usados/76777307-2.jpg",
+        "https://crautos.com/clasificados/usados/76777307-3.jpg",
+        "https://crautos.com/clasificados/usados/76777307-4.jpg",
+        "https://crautos.com/clasificados/usados/76777307-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IVETH BARBOZA",
+        "teléfono": "8845-4390 6223-2212",
+        "whatsapp": "8845-4390"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "88,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Poco kilometraje - uso en ciudad - detalles de pintura en general y bumper.",
+        "kilometraje_number": 88000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

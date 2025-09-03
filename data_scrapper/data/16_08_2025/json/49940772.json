@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49940772&Hyundai.I10.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49940772-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49940772-1.jpg",
+        "https://crautos.com/clasificados/usados/49940772-2.jpg",
+        "https://crautos.com/clasificados/usados/49940772-3.jpg",
+        "https://crautos.com/clasificados/usados/49940772-4.jpg",
+        "https://crautos.com/clasificados/usados/49940772-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GILBERTH GUILLEN",
+        "teléfono": "8736-5803",
+        "whatsapp": "8736-5803"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "178,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Pastillas de freno nuevas Detalles de pintura en la tapa del motor y cajuela.",
+        "kilometraje_number": 178000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

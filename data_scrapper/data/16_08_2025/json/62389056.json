@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62389056&Hyundai.I10.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62389056-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62389056-1.jpg",
+        "https://crautos.com/clasificados/usados/62389056-2.jpg",
+        "https://crautos.com/clasificados/usados/62389056-3.jpg",
+        "https://crautos.com/clasificados/usados/62389056-4.jpg",
+        "https://crautos.com/clasificados/usados/62389056-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRA GUZMAN",
+        "teléfono": "6052-2656 6050-3391",
+        "whatsapp": "6052-2656"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "160 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 160,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 9
+}

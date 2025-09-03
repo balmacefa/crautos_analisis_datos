@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91349694&Toyota.HILUX.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 15637,
+    "precio_usd": 7850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91349694-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91349694-1.jpg",
+        "https://crautos.com/clasificados/usados/91349694-2.jpg",
+        "https://crautos.com/clasificados/usados/91349694-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR RODRIGUEZ",
+        "teléfono": "6072-4749",
+        "whatsapp": "6072-4749"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "300,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Levantado suspensión y carrocería, Llantas MT , snorquel , pantalla Android, plataforma ,etc .",
+        "kilometraje_number": 300000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

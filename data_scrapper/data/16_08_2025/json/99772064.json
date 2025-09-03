@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99772064&Mitsubishi.CANTER%20FUSO.2018",
+    "año": 2018,
+    "marca": "MITSUBISHI",
+    "modelo": "CANTER FUSO",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99772064-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99772064-1.jpg",
+        "https://crautos.com/clasificados/usados/99772064-2.jpg",
+        "https://crautos.com/clasificados/usados/99772064-3.jpg",
+        "https://crautos.com/clasificados/usados/99772064-4.jpg",
+        "https://crautos.com/clasificados/usados/99772064-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN JOSE RIVERA",
+        "teléfono": "7277-2135",
+        "whatsapp": "7277-2135"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "256,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "CAMION EN EXCELENTE ESTADO MECANICO.",
+        "kilometraje_number": 256000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 7
+}

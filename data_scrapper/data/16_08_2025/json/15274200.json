@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15274200&Volvo.850%20GLE.1993",
+    "año": 1993,
+    "marca": "VOLVO",
+    "modelo": "850 GLE",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15274200-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15274200-1.jpg",
+        "https://crautos.com/clasificados/usados/15274200-2.jpg",
+        "https://crautos.com/clasificados/usados/15274200-3.jpg",
+        "https://crautos.com/clasificados/usados/15274200-4.jpg",
+        "https://crautos.com/clasificados/usados/15274200-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER FERNANDEZ",
+        "teléfono": "8910-3302",
+        "whatsapp": "8910-3302"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "85,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Enero del 2025",
+        "comentario_vendedor": "Soy el único dueño desde nuevo y lo importé personalmente..",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 32
+}

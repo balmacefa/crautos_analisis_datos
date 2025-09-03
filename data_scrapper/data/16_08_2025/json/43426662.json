@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43426662&Mitsubishi.LANCER%20GLX.2002",
+    "año": 2002,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER GLX",
+    "precio_crc": 3187,
+    "precio_usd": 1600000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO MASIS MESEN",
+        "teléfono": "8610-8940 8635-6226",
+        "whatsapp": "8610-8940"
+    },
+    "informacion_general": {
+        "cilindrada": "1584 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "261,680 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Pendiente Dekra por eso el precio para que lo ponga al dia.",
+        "kilometraje_number": 261680,
+        "cilindrada_number": 1584
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

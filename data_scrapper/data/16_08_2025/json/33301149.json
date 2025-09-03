@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33301149&Nissan.XTRAIL%20.2004",
+    "año": 2004,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33301149-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33301149-1.jpg",
+        "https://crautos.com/clasificados/usados/33301149-2.jpg",
+        "https://crautos.com/clasificados/usados/33301149-3.jpg",
+        "https://crautos.com/clasificados/usados/33301149-4.jpg",
+        "https://crautos.com/clasificados/usados/33301149-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID CARBALLO C.",
+        "teléfono": "8871-3963",
+        "whatsapp": "8871-3963"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "263,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Muy cuidado.",
+        "kilometraje_number": 263000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

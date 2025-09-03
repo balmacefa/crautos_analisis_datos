@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3435787&Hyundai.PORTE%20.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "PORTE",
+    "precio_crc": 15886,
+    "precio_usd": 7975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3435787-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3435787-1.jpg",
+        "https://crautos.com/clasificados/usados/3435787-2.jpg",
+        "https://crautos.com/clasificados/usados/3435787-3.jpg",
+        "https://crautos.com/clasificados/usados/3435787-4.jpg",
+        "https://crautos.com/clasificados/usados/3435787-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SOLÓRZANO",
+        "teléfono": "8530-1133 8358-5238 8626-5241",
+        "whatsapp": "8530-1133",
+        "dirección": "50 metros oeste de Ferretería Guzmán en el Coyol de Alajuela contiguo a Cuadrapits. Alajuela"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "77,000 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Impecable Autos Solorzano .",
+        "kilometraje_number": 77000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

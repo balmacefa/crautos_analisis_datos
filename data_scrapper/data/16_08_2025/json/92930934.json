@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92930934&Nissan.TIIDA.2015",
+    "año": 2015,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 10259,
+    "precio_usd": 5150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92930934-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92930934-1.jpg",
+        "https://crautos.com/clasificados/usados/92930934-2.jpg",
+        "https://crautos.com/clasificados/usados/92930934-3.jpg",
+        "https://crautos.com/clasificados/usados/92930934-4.jpg",
+        "https://crautos.com/clasificados/usados/92930934-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO FALLAS CHINCHILLA",
+        "teléfono": "8401-5717",
+        "whatsapp": "8401-5717"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "141,500 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS RATÓN",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Precio no incluye gastos legales Precio al contado negociable .",
+        "kilometraje_number": 141500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

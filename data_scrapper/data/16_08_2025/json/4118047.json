@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4118047&Great%20Wall.WINGLE%205.2019",
+    "año": 2019,
+    "marca": "GREAT WALL",
+    "modelo": "WINGLE 5",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4118047-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4118047-1.jpg",
+        "https://crautos.com/clasificados/usados/4118047-2.jpg",
+        "https://crautos.com/clasificados/usados/4118047-3.jpg",
+        "https://crautos.com/clasificados/usados/4118047-4.jpg",
+        "https://crautos.com/clasificados/usados/4118047-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CENTRAL DE AUTOS",
+        "teléfono": "8676-2180 8314-2022 6186-7677",
+        "whatsapp": "2236-3636",
+        "dirección": "Cruce de Llorente, Colima de Tibás San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "68,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado, garantia por escrito. Financiamiento disponible...",
+        "kilometraje_number": 68000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

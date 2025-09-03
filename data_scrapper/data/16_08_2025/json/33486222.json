@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33486222&Hyundai.TUCSON.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33486222-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33486222-1.jpg",
+        "https://crautos.com/clasificados/usados/33486222-2.jpg",
+        "https://crautos.com/clasificados/usados/33486222-3.jpg",
+        "https://crautos.com/clasificados/usados/33486222-4.jpg",
+        "https://crautos.com/clasificados/usados/33486222-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN FERLINI",
+        "teléfono": "8859-3441",
+        "whatsapp": "8859-3441"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "373,648 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "se puede financiar hasta millon y medio .",
+        "kilometraje_number": 373648,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

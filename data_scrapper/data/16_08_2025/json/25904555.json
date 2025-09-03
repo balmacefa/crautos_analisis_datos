@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25904555&Nissan.QASHQAI.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25904555-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25904555-1.jpg",
+        "https://crautos.com/clasificados/usados/25904555-2.jpg",
+        "https://crautos.com/clasificados/usados/25904555-3.jpg",
+        "https://crautos.com/clasificados/usados/25904555-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO ANDRÉS SILES CALVO",
+        "teléfono": "8835-9914 8314-8786",
+        "whatsapp": "8835-9914"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "108,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "CARRO EN EXCELENTE ESTADO PRECIO NEGOCIABLE .",
+        "kilometraje_number": 108500,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

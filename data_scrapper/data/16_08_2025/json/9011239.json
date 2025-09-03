@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9011239&Donfeng%20(ZNA).RICH.2016",
+    "año": 2016,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) RICH",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9011239-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9011239-1.jpg",
+        "https://crautos.com/clasificados/usados/9011239-2.jpg",
+        "https://crautos.com/clasificados/usados/9011239-3.jpg",
+        "https://crautos.com/clasificados/usados/9011239-4.jpg",
+        "https://crautos.com/clasificados/usados/9011239-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ADRIAN",
+        "teléfono": "7218-0680 6146-2250 2241-5222",
+        "dirección": "Moravia, del Banco Nacional 600 mtrs norte y 400 mtrs oeste Final del Boulevar, esquina de Autos Adrián"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "54,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "COMPRADO EN AGENCIA, IGUAL AL NISSA FRONTIER, MOTOR, CAJA,STOPS, FINANCIAMIENTO PROMERICA.",
+        "kilometraje_number": 54000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

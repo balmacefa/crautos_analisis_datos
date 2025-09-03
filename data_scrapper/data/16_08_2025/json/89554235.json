@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89554235&Nissan.SENTRA.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89554235-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89554235-1.jpg",
+        "https://crautos.com/clasificados/usados/89554235-2.jpg",
+        "https://crautos.com/clasificados/usados/89554235-3.jpg",
+        "https://crautos.com/clasificados/usados/89554235-4.jpg",
+        "https://crautos.com/clasificados/usados/89554235-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HANS DIAZ SANCHO",
+        "teléfono": "8979-3746",
+        "whatsapp": "8979-3746"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "173,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Tiene mucho mantenimiento, solo tiene detalles en pintura y canaletas de ventanas. URGE VENDER..",
+        "kilometraje_number": 173000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

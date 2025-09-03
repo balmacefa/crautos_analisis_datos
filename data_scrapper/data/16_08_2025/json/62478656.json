@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62478656&Hino.300.2011",
+    "año": 2011,
+    "marca": "HINO",
+    "modelo": "300",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62478656-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62478656-1.jpg",
+        "https://crautos.com/clasificados/usados/62478656-2.jpg",
+        "https://crautos.com/clasificados/usados/62478656-3.jpg",
+        "https://crautos.com/clasificados/usados/62478656-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ESTRADA ARTAVIA",
+        "teléfono": "8842-7028 8920-1674",
+        "whatsapp": "8842-7028"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "272,800 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Ganga !! Motor en excelente estado !! .",
+        "kilometraje_number": 272800,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83569463&Nissan.XTERRA.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83569463-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83569463-1.jpg",
+        "https://crautos.com/clasificados/usados/83569463-2.jpg",
+        "https://crautos.com/clasificados/usados/83569463-3.jpg",
+        "https://crautos.com/clasificados/usados/83569463-4.jpg",
+        "https://crautos.com/clasificados/usados/83569463-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDIE SALAZAR",
+        "teléfono": "8828-0314"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "135,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "CARRO EN BUEN ESTADO. DISTRIBUCION Y RADIADOR NUEVOS, SIN REGUEROS O PERDIA DE ACEITE.NEGOCIABLE.",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

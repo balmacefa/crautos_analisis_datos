@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57284687&Isuzu.TROOPER.2001",
+    "año": 2001,
+    "marca": "ISUZU",
+    "modelo": "TROOPER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57284687-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57284687-1.jpg",
+        "https://crautos.com/clasificados/usados/57284687-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BERENICE MARTÍNEZ",
+        "teléfono": "7253-5290 8465-3327",
+        "whatsapp": "7253-5290"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "1 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "VINO",
+        "color_interior": "VINO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Abril del 2025",
+        "kilometraje_number": 1,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

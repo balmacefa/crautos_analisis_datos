@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84238700&Chevrolet.SPARK%20LT.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK LT",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84238700-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84238700-1.jpg",
+        "https://crautos.com/clasificados/usados/84238700-2.jpg",
+        "https://crautos.com/clasificados/usados/84238700-3.jpg",
+        "https://crautos.com/clasificados/usados/84238700-4.jpg",
+        "https://crautos.com/clasificados/usados/84238700-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO SANABRIA",
+        "teléfono": "7019-3030",
+        "whatsapp": "7019-3030"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "75,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Vehiculo pertenece a una ama de casa por eso cuenta con poco kilometraje. Exc estado..",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

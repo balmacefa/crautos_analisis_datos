@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96764464&Toyota.PRADO.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 19422,
+    "precio_usd": 9750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96764464-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96764464-1.jpg",
+        "https://crautos.com/clasificados/usados/96764464-2.jpg",
+        "https://crautos.com/clasificados/usados/96764464-3.jpg",
+        "https://crautos.com/clasificados/usados/96764464-4.jpg",
+        "https://crautos.com/clasificados/usados/96764464-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTINA",
+        "teléfono": "8872-5398",
+        "whatsapp": "8872-5398"
+    },
+    "informacion_general": {
+        "cilindrada": "2982 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "257,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Julio del 2025",
+        "comentario_vendedor": "Marchamo y RTV al día .",
+        "kilometraje_number": 257000,
+        "cilindrada_number": 2982
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

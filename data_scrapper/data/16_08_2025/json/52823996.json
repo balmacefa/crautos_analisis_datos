@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52823996&Mercedes%20Benz.GLA180.2019",
+    "año": 2019,
+    "marca": "MERCEDES BENZ",
+    "modelo": "GLA180",
+    "precio_crc": 20319,
+    "precio_usd": 10200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52823996-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52823996-1.jpg",
+        "https://crautos.com/clasificados/usados/52823996-2.jpg",
+        "https://crautos.com/clasificados/usados/52823996-3.jpg",
+        "https://crautos.com/clasificados/usados/52823996-4.jpg",
+        "https://crautos.com/clasificados/usados/52823996-5.jpg",
+        "https://crautos.com/clasificados/usados/52823996-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODOLFO VINOCOUR",
+        "teléfono": "7175-5585",
+        "whatsapp": "7175-5585"
+    },
+    "informacion_general": {
+        "cilindrada": "1595 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "72,900 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "Excelente Estado.",
+        "kilometraje_number": 72900,
+        "cilindrada_number": 1595
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

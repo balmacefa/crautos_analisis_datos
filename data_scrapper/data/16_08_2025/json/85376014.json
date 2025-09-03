@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85376014&Honda.CIVIC.1993",
+    "año": 1993,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 3088,
+    "precio_usd": 1550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85376014-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85376014-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELISSA VARGAS CRUZ",
+        "teléfono": "7030-8895 7092-7863 6343-1634",
+        "whatsapp": "7030-8895"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Vendido .",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 32
+}

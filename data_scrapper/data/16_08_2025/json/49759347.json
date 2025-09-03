@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49759347&Suzuki.SX4.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49759347-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49759347-1.jpg",
+        "https://crautos.com/clasificados/usados/49759347-2.jpg",
+        "https://crautos.com/clasificados/usados/49759347-3.jpg",
+        "https://crautos.com/clasificados/usados/49759347-4.jpg",
+        "https://crautos.com/clasificados/usados/49759347-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO ARMANDO GRANADOS",
+        "teléfono": "7105-1528",
+        "whatsapp": "7105-1528"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "193,600 kms",
+        "placa": "Termina en",
+        "color_exterior": "AZUL PERLADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado precio negociable .",
+        "kilometraje_number": 193600,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

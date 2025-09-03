@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7982712&Toyota.HILUX%20TDI.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "HILUX TDI",
+    "precio_crc": 27689,
+    "precio_usd": 13899950.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7982712-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7982712-1.jpg",
+        "https://crautos.com/clasificados/usados/7982712-2.jpg",
+        "https://crautos.com/clasificados/usados/7982712-3.jpg",
+        "https://crautos.com/clasificados/usados/7982712-4.jpg",
+        "https://crautos.com/clasificados/usados/7982712-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

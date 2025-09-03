@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42548379&BYD.F0.2013",
+    "año": 2013,
+    "marca": "BYD",
+    "modelo": "F0",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42548379-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42548379-1.jpg",
+        "https://crautos.com/clasificados/usados/42548379-2.jpg",
+        "https://crautos.com/clasificados/usados/42548379-3.jpg",
+        "https://crautos.com/clasificados/usados/42548379-4.jpg",
+        "https://crautos.com/clasificados/usados/42548379-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCOS CASCANTE",
+        "teléfono": "8688-5770",
+        "whatsapp": "8688-5770"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "198,567 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "DEKRA al dia llantas nuevas conjunto de clouch nuevo radiador nuevo.",
+        "kilometraje_number": 198567,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

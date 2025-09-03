@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95425613&Hyundai.GRAND%20I10.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95425613-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95425613-1.jpg",
+        "https://crautos.com/clasificados/usados/95425613-2.jpg",
+        "https://crautos.com/clasificados/usados/95425613-3.jpg",
+        "https://crautos.com/clasificados/usados/95425613-4.jpg",
+        "https://crautos.com/clasificados/usados/95425613-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BERNAL CESPEDES",
+        "teléfono": "8648-0988",
+        "whatsapp": "8648-0988"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "147,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "NUNCA USADO PARA PLATAFORMAS COMO UBER.",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sensores de retroceso"
+    ],
+    "antiguedad": 8
+}

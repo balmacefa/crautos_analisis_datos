@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33655591&Mercedes%20Benz.A170%20CDI.2002",
+    "año": 2002,
+    "marca": "MERCEDES BENZ",
+    "modelo": "A170 CDI",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33655591-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33655591-1.jpg",
+        "https://crautos.com/clasificados/usados/33655591-2.jpg",
+        "https://crautos.com/clasificados/usados/33655591-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEO BAGNUOLO",
+        "teléfono": "8844-4008",
+        "whatsapp": "8844-4008"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Debe repararse el clutch.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

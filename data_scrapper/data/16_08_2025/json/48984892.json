@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48984892&Nissan.KICKS.2020",
+    "año": 2020,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 17629,
+    "precio_usd": 8850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48984892-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48984892-1.jpg",
+        "https://crautos.com/clasificados/usados/48984892-2.jpg",
+        "https://crautos.com/clasificados/usados/48984892-3.jpg",
+        "https://crautos.com/clasificados/usados/48984892-4.jpg",
+        "https://crautos.com/clasificados/usados/48984892-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CARLOS VALLADARES",
+        "teléfono": "8873-5135 2269-7547",
+        "whatsapp": "8873-5135"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "43,484 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Buen estado un solo dueño, poco kilometraje .",
+        "kilometraje_number": 43484,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

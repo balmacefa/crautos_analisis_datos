@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63172349&Daihatsu.TERIOS.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63172349-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63172349-1.jpg",
+        "https://crautos.com/clasificados/usados/63172349-2.jpg",
+        "https://crautos.com/clasificados/usados/63172349-3.jpg",
+        "https://crautos.com/clasificados/usados/63172349-4.jpg",
+        "https://crautos.com/clasificados/usados/63172349-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWARD ARIAS",
+        "teléfono": "8577-7738 8638-7363",
+        "whatsapp": "8577-7738"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "214,933 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Se incluye traspaso .",
+        "kilometraje_number": 214933,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

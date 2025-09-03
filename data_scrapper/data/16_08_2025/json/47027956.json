@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47027956&Nissan.TIIDA.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 7271,
+    "precio_usd": 3650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47027956-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47027956-1.jpg",
+        "https://crautos.com/clasificados/usados/47027956-2.jpg",
+        "https://crautos.com/clasificados/usados/47027956-3.jpg",
+        "https://crautos.com/clasificados/usados/47027956-4.jpg",
+        "https://crautos.com/clasificados/usados/47027956-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VALERIA VENEGAS",
+        "teléfono": "6097-3716",
+        "whatsapp": "6097-3716"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "186,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 186000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

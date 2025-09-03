@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54976835&Chevrolet.CAMARO.1978",
+    "año": 1978,
+    "marca": "CHEVROLET",
+    "modelo": "CAMARO",
+    "precio_crc": 24303,
+    "precio_usd": 12200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54976835-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54976835-1.jpg",
+        "https://crautos.com/clasificados/usados/54976835-2.jpg",
+        "https://crautos.com/clasificados/usados/54976835-3.jpg",
+        "https://crautos.com/clasificados/usados/54976835-4.jpg",
+        "https://crautos.com/clasificados/usados/54976835-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID SANCHEZ",
+        "teléfono": "8711-9842",
+        "whatsapp": "8711-9842"
+    },
+    "informacion_general": {
+        "cilindrada": "5700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "ROJO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "RECIBO 10.200.000 sin pintura nueva.",
+        "kilometraje_number": null,
+        "cilindrada_number": 5700
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Volante ajustable"
+    ],
+    "antiguedad": 47
+}

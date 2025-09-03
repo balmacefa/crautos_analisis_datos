@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38517619&Honda.ACCORD.2007",
+    "año": 2007,
+    "marca": "HONDA",
+    "modelo": "ACCORD",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38517619-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38517619-1.jpg",
+        "https://crautos.com/clasificados/usados/38517619-2.jpg",
+        "https://crautos.com/clasificados/usados/38517619-3.jpg",
+        "https://crautos.com/clasificados/usados/38517619-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRENDA CERVANTES",
+        "teléfono": "7275-5533"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "215,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 215000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

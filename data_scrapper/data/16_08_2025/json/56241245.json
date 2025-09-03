@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56241245&Porsche.BOXSTER.2000",
+    "año": 2000,
+    "marca": "PORSCHE",
+    "modelo": "BOXSTER",
+    "precio_crc": 22112,
+    "precio_usd": 11100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56241245-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56241245-1.jpg",
+        "https://crautos.com/clasificados/usados/56241245-2.jpg",
+        "https://crautos.com/clasificados/usados/56241245-3.jpg",
+        "https://crautos.com/clasificados/usados/56241245-4.jpg",
+        "https://crautos.com/clasificados/usados/56241245-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO KUPFERSCHMIDT",
+        "teléfono": "8839-0944 7277-0065",
+        "whatsapp": "6158-4040"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "68,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "CAMEL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Convertible potente y muy económico al mismo tiempo.",
+        "kilometraje_number": 68000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asiento con memoria",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

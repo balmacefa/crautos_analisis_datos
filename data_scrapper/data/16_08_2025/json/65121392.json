@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65121392&Geo.TRACKER%20.1994",
+    "año": 1994,
+    "marca": "GEO",
+    "modelo": "TRACKER",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65121392-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65121392-1.jpg",
+        "https://crautos.com/clasificados/usados/65121392-2.jpg",
+        "https://crautos.com/clasificados/usados/65121392-3.jpg",
+        "https://crautos.com/clasificados/usados/65121392-4.jpg",
+        "https://crautos.com/clasificados/usados/65121392-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN",
+        "teléfono": "7240-1591"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 31
+}

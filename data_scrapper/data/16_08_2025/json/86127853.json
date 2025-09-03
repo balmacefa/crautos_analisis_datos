@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86127853&Toyota.LAND%20CRUISER%20SERIE%2079.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER SERIE 79",
+    "precio_crc": 59761,
+    "precio_usd": 30000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE CARLOS SOLIS VIQUEZ",
+        "teléfono": "7105-5868",
+        "whatsapp": "7105-5868"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "118,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "kilometraje_number": 118000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89517340&Donfeng%20(ZNA).EM26.2023",
+    "año": 2023,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) EM26",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89517340-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89517340-1.jpg",
+        "https://crautos.com/clasificados/usados/89517340-2.jpg",
+        "https://crautos.com/clasificados/usados/89517340-3.jpg",
+        "https://crautos.com/clasificados/usados/89517340-4.jpg",
+        "https://crautos.com/clasificados/usados/89517340-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN MENDEZ",
+        "teléfono": "6421-1238",
+        "whatsapp": "6421-1238"
+    },
+    "informacion_general": {
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Eléctrico",
+        "autonomía": "220 kms",
+        "batería": "5.4 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "3,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Vehiculo de oportunidad muy comodo y excelente para trabajar .",
+        "kilometraje_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores frontales",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

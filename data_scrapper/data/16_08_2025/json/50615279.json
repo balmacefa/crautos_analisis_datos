@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50615279&Honda.CIVIC.2007",
+    "año": 2007,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50615279-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50615279-1.jpg",
+        "https://crautos.com/clasificados/usados/50615279-2.jpg",
+        "https://crautos.com/clasificados/usados/50615279-3.jpg",
+        "https://crautos.com/clasificados/usados/50615279-4.jpg",
+        "https://crautos.com/clasificados/usados/50615279-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS RAMIREZ",
+        "teléfono": "8815-8696"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 2",
+        "color_exterior": "PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "EN BUEN ESTADO, FRENTE DEL DOS MIL DIEZ, AROS DOS MIL CATORCE HONDA ORIGINAL-LLANTAS NUEVAS FRENTE.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

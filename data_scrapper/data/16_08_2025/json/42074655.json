@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42074655&Mazda.BT50.2013",
+    "año": 2013,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42074655-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42074655-1.jpg",
+        "https://crautos.com/clasificados/usados/42074655-2.jpg",
+        "https://crautos.com/clasificados/usados/42074655-3.jpg",
+        "https://crautos.com/clasificados/usados/42074655-4.jpg",
+        "https://crautos.com/clasificados/usados/42074655-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN VARGAS",
+        "teléfono": "8930-9810 8749-8537",
+        "whatsapp": "8930-9810"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "206,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS/NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Sacado de agencia único dueño muy cuidado carro familiar.",
+        "kilometraje_number": 206000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

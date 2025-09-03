@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60672739&Toyota.COROLLA.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60672739-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60672739-1.jpg",
+        "https://crautos.com/clasificados/usados/60672739-2.jpg",
+        "https://crautos.com/clasificados/usados/60672739-3.jpg",
+        "https://crautos.com/clasificados/usados/60672739-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID ROMERO",
+        "teléfono": "6232-9612",
+        "whatsapp": "6232-9612"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "156,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Negociable .",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 15
+}

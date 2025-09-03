@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43208903&Kia.SPORTAGE.2001",
+    "año": 2001,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 3974,
+    "precio_usd": 1995000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43208903-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43208903-1.jpg",
+        "https://crautos.com/clasificados/usados/43208903-2.jpg",
+        "https://crautos.com/clasificados/usados/43208903-3.jpg",
+        "https://crautos.com/clasificados/usados/43208903-4.jpg",
+        "https://crautos.com/clasificados/usados/43208903-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ VARGAS",
+        "teléfono": "7059-4043",
+        "whatsapp": "7059-4043"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "132,400 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Muy buenas condiciones, poco uso, super económico, llantas nuevas.",
+        "kilometraje_number": 132400,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

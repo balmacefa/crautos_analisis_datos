@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62725793&Toyota.RAV4.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62725793-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62725793-1.jpg",
+        "https://crautos.com/clasificados/usados/62725793-2.jpg",
+        "https://crautos.com/clasificados/usados/62725793-3.jpg",
+        "https://crautos.com/clasificados/usados/62725793-4.jpg",
+        "https://crautos.com/clasificados/usados/62725793-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN JIMÉNEZ SALVATIERRA",
+        "teléfono": "8898-5480",
+        "whatsapp": "8898-5480"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "198,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "Buen mantenimiento esta impecable .",
+        "kilometraje_number": 198000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

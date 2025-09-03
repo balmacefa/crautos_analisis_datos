@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67715314&Hyundai.I30.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "I30",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67715314-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67715314-1.jpg",
+        "https://crautos.com/clasificados/usados/67715314-2.jpg",
+        "https://crautos.com/clasificados/usados/67715314-3.jpg",
+        "https://crautos.com/clasificados/usados/67715314-4.jpg",
+        "https://crautos.com/clasificados/usados/67715314-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODOLFO GUTIERREZ",
+        "teléfono": "8380-5487"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "121,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "de agencia excelente estado y poco kilometraje.",
+        "kilometraje_number": 121000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

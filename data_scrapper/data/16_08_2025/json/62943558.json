@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62943558&Daihatsu.TERIOS.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62943558-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62943558-1.jpg",
+        "https://crautos.com/clasificados/usados/62943558-2.jpg",
+        "https://crautos.com/clasificados/usados/62943558-3.jpg",
+        "https://crautos.com/clasificados/usados/62943558-4.jpg",
+        "https://crautos.com/clasificados/usados/62943558-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JENNIFFER VARGAS",
+        "teléfono": "8817-4741"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "153,695 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Una sola dueña.",
+        "kilometraje_number": 153695,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 17
+}

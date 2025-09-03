@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32479335&Mitsubishi.MIRAGE%20.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32479335-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32479335-1.jpg",
+        "https://crautos.com/clasificados/usados/32479335-2.jpg",
+        "https://crautos.com/clasificados/usados/32479335-3.jpg",
+        "https://crautos.com/clasificados/usados/32479335-4.jpg",
+        "https://crautos.com/clasificados/usados/32479335-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLEN SALAS",
+        "teléfono": "8450-1616",
+        "whatsapp": "8450-1616"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "80,120 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Exc estado PRECIO MÁS GASTOS muy económico ideal para plataforma llantas nuevas aire acondicionado .",
+        "kilometraje_number": 80120,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

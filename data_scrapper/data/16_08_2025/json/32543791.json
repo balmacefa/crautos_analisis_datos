@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32543791&Mitsubishi.LANCER%20GLX.2003",
+    "año": 2003,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER GLX",
+    "precio_crc": 4582,
+    "precio_usd": 2300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32543791-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32543791-1.jpg",
+        "https://crautos.com/clasificados/usados/32543791-2.jpg",
+        "https://crautos.com/clasificados/usados/32543791-3.jpg",
+        "https://crautos.com/clasificados/usados/32543791-4.jpg",
+        "https://crautos.com/clasificados/usados/32543791-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ÁLVARO FERNÁNDEZ",
+        "teléfono": "7283-5464",
+        "whatsapp": "8664-6169"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "246,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Mantenimiento preventivo al día sin fugas suspensión sólida y llantas en buen estado. Precio Negoci.",
+        "kilometraje_number": 246000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51551301&Honda.CRV.2002",
+    "año": 2002,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51551301-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51551301-1.jpg",
+        "https://crautos.com/clasificados/usados/51551301-2.jpg",
+        "https://crautos.com/clasificados/usados/51551301-3.jpg",
+        "https://crautos.com/clasificados/usados/51551301-4.jpg",
+        "https://crautos.com/clasificados/usados/51551301-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL CHAVES",
+        "teléfono": "8862-5757",
+        "whatsapp": "8862-5757"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS OBSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Detalles minimos en carrocería.",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

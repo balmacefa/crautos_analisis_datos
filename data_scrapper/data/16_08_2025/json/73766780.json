@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73766780&Hino.WU650L.2020",
+    "año": 2020,
+    "marca": "HINO",
+    "modelo": "WU650L",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73766780-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73766780-1.jpg",
+        "https://crautos.com/clasificados/usados/73766780-2.jpg",
+        "https://crautos.com/clasificados/usados/73766780-3.jpg",
+        "https://crautos.com/clasificados/usados/73766780-4.jpg",
+        "https://crautos.com/clasificados/usados/73766780-5.jpg",
+        "https://crautos.com/clasificados/usados/73766780-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN SOLANO",
+        "teléfono": "8671-6279 6023-1500"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Chasis Largo incluye Caja tiene wrap la pintura es blanca.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

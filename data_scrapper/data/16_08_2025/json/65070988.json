@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65070988&Ford.F150.2009",
+    "año": 2009,
+    "marca": "FORD",
+    "modelo": "F150",
+    "precio_crc": 21494,
+    "precio_usd": 10790000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65070988-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65070988-1.jpg",
+        "https://crautos.com/clasificados/usados/65070988-2.jpg",
+        "https://crautos.com/clasificados/usados/65070988-3.jpg",
+        "https://crautos.com/clasificados/usados/65070988-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PUENTES",
+        "teléfono": "7201-9272",
+        "whatsapp": "7201-9272"
+    },
+    "informacion_general": {
+        "cilindrada": "4600 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "SILVER",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE PICKUP LISTO PARA TRABAJO !! SUPER OFERTA !! TODO TERRENO SUPER POTENTE.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 4600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 16
+}

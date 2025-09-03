@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56839934&Renault.CLIO.2002",
+    "año": 2002,
+    "marca": "RENAULT",
+    "modelo": "CLIO",
+    "precio_crc": 1394,
+    "precio_usd": 700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56839934-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56839934-1.jpg",
+        "https://crautos.com/clasificados/usados/56839934-2.jpg",
+        "https://crautos.com/clasificados/usados/56839934-3.jpg",
+        "https://crautos.com/clasificados/usados/56839934-4.jpg",
+        "https://crautos.com/clasificados/usados/56839934-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WARREN VILLALOBOS",
+        "teléfono": "6202-2830"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "300,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Tiene sus detalles pintura compensador y tijereta anda circulando.",
+        "kilometraje_number": 300000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90176764&Hyundai.ACCENT.2009",
+    "año": 2009,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 4781,
+    "precio_usd": 2400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90176764-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90176764-1.jpg",
+        "https://crautos.com/clasificados/usados/90176764-2.jpg",
+        "https://crautos.com/clasificados/usados/90176764-3.jpg",
+        "https://crautos.com/clasificados/usados/90176764-4.jpg",
+        "https://crautos.com/clasificados/usados/90176764-5.jpg",
+        "https://crautos.com/clasificados/usados/90176764-6.jpg",
+        "https://crautos.com/clasificados/usados/90176764-7.jpg",
+        "https://crautos.com/clasificados/usados/90176764-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JHON AULAR BALABUCH",
+        "teléfono": "6261-4783",
+        "whatsapp": "6261-4783"
+    },
+    "informacion_general": {
+        "cilindrada": "1599 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "296,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Hyundai Accent convertido a GasLP. No negociable. Por Favor mensajes al Whatsap.",
+        "kilometraje_number": 296000,
+        "cilindrada_number": 1599
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 16
+}

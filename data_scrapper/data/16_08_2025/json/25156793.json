@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25156793",
+    "año": 2016,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 11454,
+    "precio_usd": 5750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25156793-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25156793-1.jpg",
+        "https://crautos.com/clasificados/usados/25156793-2.jpg",
+        "https://crautos.com/clasificados/usados/25156793-3.jpg",
+        "https://crautos.com/clasificados/usados/25156793-4.jpg",
+        "https://crautos.com/clasificados/usados/25156793-5.jpg",
+        "https://crautos.com/clasificados/usados/25156793-6.jpg",
+        "https://crautos.com/clasificados/usados/25156793-7.jpg",
+        "https://crautos.com/clasificados/usados/25156793-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO MARTINEZ",
+        "teléfono": "8333-9878",
+        "whatsapp": "8333-9878"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE MUSGO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Único dueño.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

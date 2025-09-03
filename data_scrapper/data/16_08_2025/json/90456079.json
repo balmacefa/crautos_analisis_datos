@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90456079&Hyundai.SANTA%20FE.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90456079-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90456079-1.jpg",
+        "https://crautos.com/clasificados/usados/90456079-2.jpg",
+        "https://crautos.com/clasificados/usados/90456079-3.jpg",
+        "https://crautos.com/clasificados/usados/90456079-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREA CHACÓN",
+        "teléfono": "8380-6565",
+        "whatsapp": "8380-6565"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "154,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Cobertores en cuerina .",
+        "kilometraje_number": 154000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

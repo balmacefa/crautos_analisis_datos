@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8259577&Mazda.3.2011",
+    "año": 2011,
+    "marca": "MAZDA",
+    "modelo": "3",
+    "precio_crc": 8865,
+    "precio_usd": 4450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8259577-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8259577-1.jpg",
+        "https://crautos.com/clasificados/usados/8259577-2.jpg",
+        "https://crautos.com/clasificados/usados/8259577-3.jpg",
+        "https://crautos.com/clasificados/usados/8259577-4.jpg",
+        "https://crautos.com/clasificados/usados/8259577-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE HERRERA",
+        "teléfono": "8527-5487 7123-7468",
+        "whatsapp": "8527-5487",
+        "dirección": "Desamparados centro"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "217,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA VEINTI SEIS , RECIBO CARRO DE MENOR VALOR Y ACEPTAMOS TARJETAS DE CRÉDITO LLAMAR PARA MÁS INFO.",
+        "kilometraje_number": 217000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

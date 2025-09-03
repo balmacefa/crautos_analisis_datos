@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42960954&Lexus.CT200H.2016",
+    "año": 2016,
+    "marca": "LEXUS",
+    "modelo": "CT200H",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42960954-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42960954-1.jpg",
+        "https://crautos.com/clasificados/usados/42960954-2.jpg",
+        "https://crautos.com/clasificados/usados/42960954-3.jpg",
+        "https://crautos.com/clasificados/usados/42960954-4.jpg",
+        "https://crautos.com/clasificados/usados/42960954-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS FLORES",
+        "teléfono": "8693-9443",
+        "whatsapp": "8693-9443"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "81,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "OCHENTA MIL KILÓMETROS COMO NUEVO.",
+        "kilometraje_number": 81000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

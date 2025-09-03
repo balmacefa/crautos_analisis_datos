@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4286463&Hyundai.TUCSON.2020",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 10291000,
+    "precio_usd": 20500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4286463-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4286463-1.jpg",
+        "https://crautos.com/clasificados/usados/4286463-2.jpg",
+        "https://crautos.com/clasificados/usados/4286463-3.jpg",
+        "https://crautos.com/clasificados/usados/4286463-4.jpg",
+        "https://crautos.com/clasificados/usados/4286463-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "48,650 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "comentario_vendedor": "SUV.",
+        "kilometraje_number": 48650,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 5
+}

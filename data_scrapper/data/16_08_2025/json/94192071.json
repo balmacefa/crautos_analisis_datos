@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94192071&Isuzu.DMAX.2017",
+    "año": 2017,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 26096,
+    "precio_usd": 13100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94192071-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94192071-1.jpg",
+        "https://crautos.com/clasificados/usados/94192071-2.jpg",
+        "https://crautos.com/clasificados/usados/94192071-3.jpg",
+        "https://crautos.com/clasificados/usados/94192071-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMILIA OREAMUNO",
+        "teléfono": "8722-4949",
+        "whatsapp": "8876-5150"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "201,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Ganga! Llantas nuevas!.",
+        "kilometraje_number": 201000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

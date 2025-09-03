@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81404696&Hino.DUTRO%20300.2007",
+    "año": 2007,
+    "marca": "HINO",
+    "modelo": "DUTRO 300",
+    "precio_crc": 21813,
+    "precio_usd": 10950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81404696-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81404696-1.jpg",
+        "https://crautos.com/clasificados/usados/81404696-2.jpg",
+        "https://crautos.com/clasificados/usados/81404696-3.jpg",
+        "https://crautos.com/clasificados/usados/81404696-4.jpg",
+        "https://crautos.com/clasificados/usados/81404696-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO SOLÍS",
+        "teléfono": "8876-3609"
+    },
+    "informacion_general": {
+        "cilindrada": "4009 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "330,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Todo al día como sé ve en las fotos .",
+        "kilometraje_number": 330000,
+        "cilindrada_number": 4009
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

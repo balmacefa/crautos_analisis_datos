@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53525142&Isuzu.DMAX.2024",
+    "año": 2024,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 38845,
+    "precio_usd": 19500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53525142-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53525142-1.jpg",
+        "https://crautos.com/clasificados/usados/53525142-2.jpg",
+        "https://crautos.com/clasificados/usados/53525142-3.jpg",
+        "https://crautos.com/clasificados/usados/53525142-4.jpg",
+        "https://crautos.com/clasificados/usados/53525142-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ASDRÚBAL CALDERÓN MORA",
+        "teléfono": "7115-5064 6421-9092 2556-6026",
+        "whatsapp": "7115-5064"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "42,600 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": 42600,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 1
+}

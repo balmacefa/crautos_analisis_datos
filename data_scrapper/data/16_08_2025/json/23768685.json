@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23768685&Mitsubishi.LANCER%20GLX.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER GLX",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23768685-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23768685-1.jpg",
+        "https://crautos.com/clasificados/usados/23768685-2.jpg",
+        "https://crautos.com/clasificados/usados/23768685-3.jpg",
+        "https://crautos.com/clasificados/usados/23768685-4.jpg",
+        "https://crautos.com/clasificados/usados/23768685-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ALBERTO MONTERO GAMBOA",
+        "teléfono": "7104-8472 2103-7758",
+        "whatsapp": "7104-8472"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "197,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "Soy segundo dueño; con manuales del conductor y Dekra al dia.",
+        "kilometraje_number": 197000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

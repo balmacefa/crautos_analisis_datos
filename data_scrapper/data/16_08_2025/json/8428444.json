@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8428444&Mini.COUNTRYMAN.2017",
+    "año": 2017,
+    "marca": "MINI",
+    "modelo": "COUNTRYMAN",
+    "precio_crc": 9989800,
+    "precio_usd": 19900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8428444-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8428444-1.jpg",
+        "https://crautos.com/clasificados/usados/8428444-2.jpg",
+        "https://crautos.com/clasificados/usados/8428444-3.jpg",
+        "https://crautos.com/clasificados/usados/8428444-4.jpg",
+        "https://crautos.com/clasificados/usados/8428444-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARSOT URUCA",
+        "teléfono": "8708-4863 4030-2130",
+        "whatsapp": "6244-4400",
+        "dirección": "De la rotonda juan pablo segundo 50 mts al este a mano derecha frente a Mega Super"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "93,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, COMO NUEVO, GARANTIA POR ESCRITO.",
+        "kilometraje_number": 93500,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80273626&Nissan.QASHQAI.2019",
+    "año": 2019,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 20518,
+    "precio_usd": 10300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80273626-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80273626-1.jpg",
+        "https://crautos.com/clasificados/usados/80273626-2.jpg",
+        "https://crautos.com/clasificados/usados/80273626-3.jpg",
+        "https://crautos.com/clasificados/usados/80273626-4.jpg",
+        "https://crautos.com/clasificados/usados/80273626-5.jpg",
+        "https://crautos.com/clasificados/usados/80273626-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN SANCHEZ",
+        "teléfono": "7017-3268",
+        "whatsapp": "7017-3268"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "84,500 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Record de agencia excelente estado nacional .",
+        "kilometraje_number": 84500,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

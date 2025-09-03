@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45092716&Honda.CRV%20LX.2018",
+    "año": 2018,
+    "marca": "HONDA",
+    "modelo": "CRV LX",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45092716-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45092716-1.jpg",
+        "https://crautos.com/clasificados/usados/45092716-2.jpg",
+        "https://crautos.com/clasificados/usados/45092716-3.jpg",
+        "https://crautos.com/clasificados/usados/45092716-4.jpg",
+        "https://crautos.com/clasificados/usados/45092716-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS ARAYA",
+        "teléfono": "6019-8674 8625-2121",
+        "whatsapp": "6019-8674"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Abril del 2025",
+        "comentario_vendedor": "MANTENIMIENTO DE AGENCIA USO DE CIUDAD POCO KILOMETRAJE EXCELENTE ESTADO PRECIO REBAJADO.",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

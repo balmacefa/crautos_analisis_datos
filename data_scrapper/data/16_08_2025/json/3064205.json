@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3064205&Nissan.KICKS.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 8350099,
+    "precio_usd": 16634.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3064205-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3064205-1.jpg",
+        "https://crautos.com/clasificados/usados/3064205-2.jpg",
+        "https://crautos.com/clasificados/usados/3064205-3.jpg",
+        "https://crautos.com/clasificados/usados/3064205-4.jpg",
+        "https://crautos.com/clasificados/usados/3064205-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "COSTA AMERICAN AUTO",
+        "teléfono": "7114-2178 4018-1478",
+        "whatsapp": "7114-2178",
+        "dirección": "Guadalupe, San Francisco, Barrio Tournon Centro Comercial Tournon Local 2"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "75,000 kms",
+        "placa": "ND",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "un solo dueno, urge vender, se puede recibir de menor valor .",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

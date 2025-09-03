@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81891226&Toyota.COROLLA.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81891226-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81891226-1.jpg",
+        "https://crautos.com/clasificados/usados/81891226-2.jpg",
+        "https://crautos.com/clasificados/usados/81891226-3.jpg",
+        "https://crautos.com/clasificados/usados/81891226-4.jpg",
+        "https://crautos.com/clasificados/usados/81891226-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELVIN CAMPOS MENA",
+        "teléfono": "6080-6295 8379-7284"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "212,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Recién pintado Batería nueva Excelente estado mecánico Aire acondicionado Llantas al 95% Super ec.",
+        "kilometraje_number": 212000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central"
+    ],
+    "antiguedad": 20
+}

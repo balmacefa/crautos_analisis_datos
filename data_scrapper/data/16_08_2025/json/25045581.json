@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25045581",
+    "año": 1980,
+    "marca": "LAND ROVER",
+    "modelo": "SANTA ANA",
+    "precio_crc": 11952,
+    "precio_usd": 6000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25045581-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25045581-1.jpg",
+        "https://crautos.com/clasificados/usados/25045581-2.jpg",
+        "https://crautos.com/clasificados/usados/25045581-3.jpg",
+        "https://crautos.com/clasificados/usados/25045581-4.jpg",
+        "https://crautos.com/clasificados/usados/25045581-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONNY FERNÁNDEZ",
+        "teléfono": "6013-6355",
+        "whatsapp": "6013-6355"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "88,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "23 de Mayo del 2025",
+        "comentario_vendedor": "Carro listo para que se lo lleven todo al día .",
+        "kilometraje_number": 88000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 45
+}

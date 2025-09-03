@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7651996&Changan.HUNTER.2023",
+    "año": 2023,
+    "marca": "CHANGAN",
+    "modelo": "HUNTER",
+    "precio_crc": 11546000,
+    "precio_usd": 23000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7651996-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7651996-1.jpg",
+        "https://crautos.com/clasificados/usados/7651996-2.jpg",
+        "https://crautos.com/clasificados/usados/7651996-3.jpg",
+        "https://crautos.com/clasificados/usados/7651996-4.jpg",
+        "https://crautos.com/clasificados/usados/7651996-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SUZUKI MOTOR CENTER",
+        "teléfono": "2242-7000 ext 232",
+        "whatsapp": "6196-2490",
+        "dirección": "Frente al Hospital Mexico, La Uruca. San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1900 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "39,307 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATEADO",
+        "color_interior": "N/A",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "kilometraje_number": 39307,
+        "cilindrada_number": 1900
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

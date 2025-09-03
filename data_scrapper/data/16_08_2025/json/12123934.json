@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12123934&Jeep.WRANGLER.2013",
+    "año": 2013,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12123934-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12123934-1.jpg",
+        "https://crautos.com/clasificados/usados/12123934-2.jpg",
+        "https://crautos.com/clasificados/usados/12123934-3.jpg",
+        "https://crautos.com/clasificados/usados/12123934-4.jpg",
+        "https://crautos.com/clasificados/usados/12123934-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANYELO QUIROS",
+        "teléfono": "8785-9728 8569-4755 8361-5092",
+        "whatsapp": "8785-9728"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "54,680 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "¡Totalmente equipado y listo para todo terreno! Excelente estado mecánico e interior; mantenimiento .",
+        "kilometraje_number": 54680,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

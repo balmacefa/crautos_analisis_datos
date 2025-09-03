@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90052793&Hyundai.ACCENT.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90052793-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90052793-1.jpg",
+        "https://crautos.com/clasificados/usados/90052793-2.jpg",
+        "https://crautos.com/clasificados/usados/90052793-3.jpg",
+        "https://crautos.com/clasificados/usados/90052793-4.jpg",
+        "https://crautos.com/clasificados/usados/90052793-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO BELLIDO",
+        "teléfono": "8351-8040 8891-5948",
+        "whatsapp": "8351-8040"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "139,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "El carro se vende porque no se ocupa. está en muy buenas condiciones es muy economico. .",
+        "kilometraje_number": 139000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

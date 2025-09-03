@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85529389&Hyundai.ACCENT.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85529389-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85529389-1.jpg",
+        "https://crautos.com/clasificados/usados/85529389-2.jpg",
+        "https://crautos.com/clasificados/usados/85529389-3.jpg",
+        "https://crautos.com/clasificados/usados/85529389-4.jpg",
+        "https://crautos.com/clasificados/usados/85529389-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE MIGUEL LOPEZ",
+        "teléfono": "7131-5042",
+        "whatsapp": "7131-5042"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "129,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Se recibe carro automático de menor valor y efectivo.",
+        "kilometraje_number": 129000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

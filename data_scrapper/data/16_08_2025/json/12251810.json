@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12251810&Jeep.WRANGLER.2010",
+    "año": 2010,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12251810-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12251810-1.jpg",
+        "https://crautos.com/clasificados/usados/12251810-2.jpg",
+        "https://crautos.com/clasificados/usados/12251810-3.jpg",
+        "https://crautos.com/clasificados/usados/12251810-4.jpg",
+        "https://crautos.com/clasificados/usados/12251810-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN MOLINA",
+        "teléfono": "8339-1603"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado techo duro llantas nuevas.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12237746&Toyota.RAV4.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12237746-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12237746-1.jpg",
+        "https://crautos.com/clasificados/usados/12237746-2.jpg",
+        "https://crautos.com/clasificados/usados/12237746-3.jpg",
+        "https://crautos.com/clasificados/usados/12237746-4.jpg",
+        "https://crautos.com/clasificados/usados/12237746-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARVIN SALAS CALDERÓN",
+        "teléfono": "8986-9253",
+        "whatsapp": "8986-9253"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "188,200 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "El carro necesita reparación de la caja.",
+        "kilometraje_number": 188200,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

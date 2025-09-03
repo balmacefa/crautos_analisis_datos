@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75993334&Kia.PICANTO.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75993334-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75993334-1.jpg",
+        "https://crautos.com/clasificados/usados/75993334-2.jpg",
+        "https://crautos.com/clasificados/usados/75993334-3.jpg",
+        "https://crautos.com/clasificados/usados/75993334-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO MOREIRA",
+        "teléfono": "6167-6965 6213-9124",
+        "whatsapp": "6167-6965"
+    },
+    "informacion_general": {
+        "cilindrada": "1250 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "21,400 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Carro en excelente estado catalizador nuevo llantas focos nuevos pintura .",
+        "kilometraje_number": 21400,
+        "cilindrada_number": 1250
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos"
+    ],
+    "antiguedad": 11
+}

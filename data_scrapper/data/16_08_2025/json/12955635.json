@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12955635&Nissan.XTRAIL.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12955635-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12955635-1.jpg",
+        "https://crautos.com/clasificados/usados/12955635-2.jpg",
+        "https://crautos.com/clasificados/usados/12955635-3.jpg",
+        "https://crautos.com/clasificados/usados/12955635-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL ARAYA",
+        "teléfono": "8332-3410",
+        "whatsapp": "8332-3410"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Dekra al día en exc estado.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

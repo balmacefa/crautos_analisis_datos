@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61913991&Isuzu.DMAX.2010",
+    "año": 2010,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61913991-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61913991-1.jpg",
+        "https://crautos.com/clasificados/usados/61913991-2.jpg",
+        "https://crautos.com/clasificados/usados/61913991-3.jpg",
+        "https://crautos.com/clasificados/usados/61913991-4.jpg",
+        "https://crautos.com/clasificados/usados/61913991-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTOR VILLALOBOS",
+        "teléfono": "7064-3489 2798-9390",
+        "whatsapp": "7064-3489"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "385,700 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "VENTA POR RENOVACIÓN DE FLOTILLA VEHICULAR.",
+        "kilometraje_number": 385700,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

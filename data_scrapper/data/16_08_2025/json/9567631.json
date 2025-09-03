@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9567631&Mercedes%20Benz.230SL.1966",
+    "año": 1966,
+    "marca": "MERCEDES BENZ",
+    "modelo": "230SL",
+    "precio_crc": 45180000,
+    "precio_usd": 90000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9567631-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9567631-1.jpg",
+        "https://crautos.com/clasificados/usados/9567631-2.jpg",
+        "https://crautos.com/clasificados/usados/9567631-3.jpg",
+        "https://crautos.com/clasificados/usados/9567631-4.jpg",
+        "https://crautos.com/clasificados/usados/9567631-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOTECH COSTA RICA",
+        "teléfono": "2256-0606",
+        "whatsapp": "8848-2626",
+        "dirección": "100 Sur Torre Mercedes Paseo Colón en Autotech Waze: Autotech Paseo Colón"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "ND",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "CUERO NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Diciembre del 2020",
+        "comentario_vendedor": "Pagoda-versión europea-manual-impecable-capota y techo duro-todo al día-Aire Acondicionado.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 59
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77151152",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "PRIUS C",
+    "precio_crc": 11255,
+    "precio_usd": 5650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77151152-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77151152-1.jpg",
+        "https://crautos.com/clasificados/usados/77151152-2.jpg",
+        "https://crautos.com/clasificados/usados/77151152-3.jpg",
+        "https://crautos.com/clasificados/usados/77151152-4.jpg",
+        "https://crautos.com/clasificados/usados/77151152-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FELIPE ORREGO",
+        "teléfono": "8321-0035 8868-1102",
+        "whatsapp": "8321-0035"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "118,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "Batería híbrida nueva con factura de Purdy..",
+        "kilometraje_number": 118000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

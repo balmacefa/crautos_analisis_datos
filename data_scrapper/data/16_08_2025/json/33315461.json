@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33315461&Jeep.WRANGLER%20RUBICON.2013",
+    "año": 2013,
+    "marca": "JEEP",
+    "modelo": "WRANGLER RUBICON",
+    "precio_crc": 28884,
+    "precio_usd": 14500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33315461-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33315461-1.jpg",
+        "https://crautos.com/clasificados/usados/33315461-2.jpg",
+        "https://crautos.com/clasificados/usados/33315461-3.jpg",
+        "https://crautos.com/clasificados/usados/33315461-4.jpg",
+        "https://crautos.com/clasificados/usados/33315461-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR",
+        "teléfono": "8818-2525"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "185,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "ofertas de contado .",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

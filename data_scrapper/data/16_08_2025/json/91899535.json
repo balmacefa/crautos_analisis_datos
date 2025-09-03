@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91899535&Toyota.TACOMA.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91899535-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91899535-1.jpg",
+        "https://crautos.com/clasificados/usados/91899535-2.jpg",
+        "https://crautos.com/clasificados/usados/91899535-3.jpg",
+        "https://crautos.com/clasificados/usados/91899535-4.jpg",
+        "https://crautos.com/clasificados/usados/91899535-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELIZABETH CASTRO",
+        "teléfono": "8873-6292",
+        "whatsapp": "8873-6292"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "179,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJA",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Hoja Dekra en blanco. Impecable. Se escuchan ofertas. .",
+        "kilometraje_number": 179000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

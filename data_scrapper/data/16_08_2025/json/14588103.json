@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14588103&Hyundai.SANTA%20FE%20GL.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE GL",
+    "precio_crc": 16733,
+    "precio_usd": 8400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14588103-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14588103-1.jpg",
+        "https://crautos.com/clasificados/usados/14588103-2.jpg",
+        "https://crautos.com/clasificados/usados/14588103-3.jpg",
+        "https://crautos.com/clasificados/usados/14588103-4.jpg",
+        "https://crautos.com/clasificados/usados/14588103-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS CALDERON",
+        "teléfono": "7074-2196",
+        "whatsapp": "7074-2196"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "208,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO PERFECTAS CONDICIONES.",
+        "kilometraje_number": 208000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

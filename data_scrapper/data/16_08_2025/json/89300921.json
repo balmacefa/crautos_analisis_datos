@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89300921&Peugeot.207%20BERLINA.2011",
+    "año": 2011,
+    "marca": "PEUGEOT",
+    "modelo": "207 BERLINA",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89300921-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89300921-1.jpg",
+        "https://crautos.com/clasificados/usados/89300921-2.jpg",
+        "https://crautos.com/clasificados/usados/89300921-3.jpg",
+        "https://crautos.com/clasificados/usados/89300921-4.jpg",
+        "https://crautos.com/clasificados/usados/89300921-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "THOMAS UNMUTH",
+        "teléfono": "8828-5500",
+        "whatsapp": "8828-5500"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "PLATEADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "recién DEKRA - Llantas nuevas - batería nueva .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

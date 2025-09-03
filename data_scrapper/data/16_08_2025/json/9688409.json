@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9688409&Kia.BONGO%20III%20TD.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "BONGO III TD",
+    "precio_crc": 22859,
+    "precio_usd": 11475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9688409-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9688409-1.jpg",
+        "https://crautos.com/clasificados/usados/9688409-2.jpg",
+        "https://crautos.com/clasificados/usados/9688409-3.jpg",
+        "https://crautos.com/clasificados/usados/9688409-4.jpg",
+        "https://crautos.com/clasificados/usados/9688409-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "67,270 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "05 de Junio del 2025",
+        "comentario_vendedor": "DEKRA P-INSCRIBIR-TD-FULL EXT-GARANTIA-RECIB-FINANCI-autosantodomingo-ABIERTO DOMING STA CRUZ GTE.",
+        "kilometraje_number": 67270,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50646699&Suzuki.VITARA.1999",
+    "año": 1999,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50646699-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50646699-1.jpg",
+        "https://crautos.com/clasificados/usados/50646699-2.jpg",
+        "https://crautos.com/clasificados/usados/50646699-3.jpg",
+        "https://crautos.com/clasificados/usados/50646699-4.jpg",
+        "https://crautos.com/clasificados/usados/50646699-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GIOVANNI REY",
+        "teléfono": "8422-7758",
+        "whatsapp": "8422-7758"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "290,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Espejos eléctricos pantalla táctil.",
+        "kilometraje_number": 290000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Computadora de viaje",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 26
+}

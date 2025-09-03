@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87134546&Chevrolet.SPARK.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87134546-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87134546-1.jpg",
+        "https://crautos.com/clasificados/usados/87134546-2.jpg",
+        "https://crautos.com/clasificados/usados/87134546-3.jpg",
+        "https://crautos.com/clasificados/usados/87134546-4.jpg",
+        "https://crautos.com/clasificados/usados/87134546-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAULO VALERÍN",
+        "teléfono": "8353-7666",
+        "whatsapp": "8353-7666"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "98,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Auto de poco uso diario. Uso solo familiar. Dekra en limpio..",
+        "kilometraje_number": 98000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

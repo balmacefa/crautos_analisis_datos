@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6467320&Toyota.HILUX%20SRV.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "HILUX SRV",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6467320-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6467320-1.jpg",
+        "https://crautos.com/clasificados/usados/6467320-2.jpg",
+        "https://crautos.com/clasificados/usados/6467320-3.jpg",
+        "https://crautos.com/clasificados/usados/6467320-4.jpg",
+        "https://crautos.com/clasificados/usados/6467320-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "355,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "buen estado se puede recibir vehiculo o financiar una parte .",
+        "kilometraje_number": 355000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

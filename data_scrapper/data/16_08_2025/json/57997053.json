@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57997053&Mini.COOPER%20COUNTRYMAN.2017",
+    "año": 2017,
+    "marca": "MINI",
+    "modelo": "COOPER COUNTRYMAN",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57997053-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57997053-1.jpg",
+        "https://crautos.com/clasificados/usados/57997053-2.jpg",
+        "https://crautos.com/clasificados/usados/57997053-3.jpg",
+        "https://crautos.com/clasificados/usados/57997053-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROLANDO ELLIS",
+        "teléfono": "8314-3371",
+        "whatsapp": "8314-3371"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "68,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Carro en muy buen estado. .",
+        "kilometraje_number": 68000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

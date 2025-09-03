@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25879342&Mitsubishi.MONTERO%20.1987",
+    "año": 1987,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25879342-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25879342-1.jpg",
+        "https://crautos.com/clasificados/usados/25879342-2.jpg",
+        "https://crautos.com/clasificados/usados/25879342-3.jpg",
+        "https://crautos.com/clasificados/usados/25879342-4.jpg",
+        "https://crautos.com/clasificados/usados/25879342-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEONEL SANCHEZ",
+        "teléfono": "8527-6261",
+        "whatsapp": "8527-6261"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "300 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CAFE",
+        "color_interior": "CAFE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Se vende mitsubishi montero año motor diésel x. Muy cuidado llantas nuevas cuenta con alarma.",
+        "kilometraje_number": 300,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 38
+}

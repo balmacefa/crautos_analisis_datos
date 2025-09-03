@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24176140&Suzuki.SAMURAI.1988",
+    "año": 1988,
+    "marca": "SUZUKI",
+    "modelo": "SAMURAI",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24176140-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24176140-1.jpg",
+        "https://crautos.com/clasificados/usados/24176140-2.jpg",
+        "https://crautos.com/clasificados/usados/24176140-3.jpg",
+        "https://crautos.com/clasificados/usados/24176140-4.jpg",
+        "https://crautos.com/clasificados/usados/24176140-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS VARGAS SANCHEZ",
+        "teléfono": "8386-8136",
+        "whatsapp": "8386-8136"
+    },
+    "informacion_general": {
+        "cilindrada": "1324 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1324
+    },
+    "equipamiento": [
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 37
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47181659&Suzuki.SX4.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47181659-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47181659-1.jpg",
+        "https://crautos.com/clasificados/usados/47181659-2.jpg",
+        "https://crautos.com/clasificados/usados/47181659-3.jpg",
+        "https://crautos.com/clasificados/usados/47181659-4.jpg",
+        "https://crautos.com/clasificados/usados/47181659-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMANUEL QUIRÓS R",
+        "teléfono": "8572-0554",
+        "whatsapp": "8572-0554"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "239,500 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ANARANJADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Versión japonesa - Ocho parlantes - Batería Nueva - Llantas Bridgestone con garantía de PriceSmart.",
+        "kilometraje_number": 239500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62422702",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT REVOLUTION",
+    "precio_crc": 13446,
+    "precio_usd": 6750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62422702-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62422702-1.jpg",
+        "https://crautos.com/clasificados/usados/62422702-2.jpg",
+        "https://crautos.com/clasificados/usados/62422702-3.jpg",
+        "https://crautos.com/clasificados/usados/62422702-4.jpg",
+        "https://crautos.com/clasificados/usados/62422702-5.jpg",
+        "https://crautos.com/clasificados/usados/62422702-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TOMAS CALDERÓN",
+        "teléfono": "8386-1095",
+        "whatsapp": "8386-1095"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "36,200 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "Único dueño mantimientos al día RTV al día excelente estado siempre bajo techo consumo muy económico.",
+        "kilometraje_number": 36200,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

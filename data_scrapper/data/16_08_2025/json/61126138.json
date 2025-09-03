@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61126138&Toyota.COASTER.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "COASTER",
+    "precio_crc": 44821,
+    "precio_usd": 22500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61126138-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61126138-1.jpg",
+        "https://crautos.com/clasificados/usados/61126138-2.jpg",
+        "https://crautos.com/clasificados/usados/61126138-3.jpg",
+        "https://crautos.com/clasificados/usados/61126138-4.jpg",
+        "https://crautos.com/clasificados/usados/61126138-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS HERNÁNDEZ",
+        "teléfono": "8994-3794 8627-2629",
+        "whatsapp": "8994-3794"
+    },
+    "informacion_general": {
+        "cilindrada": "4100 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "338,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Copas de Lugo Excelente estado negociable .",
+        "kilometraje_number": 338000,
+        "cilindrada_number": 4100
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

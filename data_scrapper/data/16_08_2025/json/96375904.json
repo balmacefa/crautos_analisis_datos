@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96375904&Toyota.TERCEL.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96375904-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96375904-1.jpg",
+        "https://crautos.com/clasificados/usados/96375904-2.jpg",
+        "https://crautos.com/clasificados/usados/96375904-3.jpg",
+        "https://crautos.com/clasificados/usados/96375904-4.jpg",
+        "https://crautos.com/clasificados/usados/96375904-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO ARAYA MORA",
+        "teléfono": "8785-9606",
+        "whatsapp": "8785-9606"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "16,600 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Llame negociamos --- .",
+        "kilometraje_number": 16600,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

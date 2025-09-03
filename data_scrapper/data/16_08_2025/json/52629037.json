@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52629037&Kia.RIO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52629037-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52629037-1.jpg",
+        "https://crautos.com/clasificados/usados/52629037-2.jpg",
+        "https://crautos.com/clasificados/usados/52629037-3.jpg",
+        "https://crautos.com/clasificados/usados/52629037-4.jpg",
+        "https://crautos.com/clasificados/usados/52629037-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEREMY MOYA",
+        "teléfono": "8343-7395",
+        "whatsapp": "8343-7395"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Único dueño ccomprado en agencia Kia costa Rica poco kilometraje en excelente estado.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

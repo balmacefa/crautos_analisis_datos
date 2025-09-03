@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4529165",
+    "año": 2009,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 18317,
+    "precio_usd": 9195000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4529165-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4529165-1.jpg",
+        "https://crautos.com/clasificados/usados/4529165-2.jpg",
+        "https://crautos.com/clasificados/usados/4529165-3.jpg",
+        "https://crautos.com/clasificados/usados/4529165-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GOI CARS",
+        "teléfono": "8901-0666 8881-4710",
+        "whatsapp": "8881-4710",
+        "dirección": "Ipís de Guadalupe, frente a la gasolinera Trova"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "134,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Febrero del 2025",
+        "comentario_vendedor": "Siete pasajeros, asientos de cuero, turbo diésel intercooler.",
+        "kilometraje_number": 134000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

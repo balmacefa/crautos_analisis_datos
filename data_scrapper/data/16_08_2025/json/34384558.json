@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34384558&Mitsubishi.MONTERO%20SPORT.1997",
+    "año": 1997,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34384558-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34384558-1.jpg",
+        "https://crautos.com/clasificados/usados/34384558-2.jpg",
+        "https://crautos.com/clasificados/usados/34384558-3.jpg",
+        "https://crautos.com/clasificados/usados/34384558-4.jpg",
+        "https://crautos.com/clasificados/usados/34384558-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN",
+        "teléfono": "6372-9993",
+        "whatsapp": "6372-9993"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "220,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Gas LPG excelente estado llantas nuevas y faja con kit de distribución nuevos.",
+        "kilometraje_number": 220000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21991020&Chevrolet.OPTRA.2005",
+    "año": 2005,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21991020-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21991020-1.jpg",
+        "https://crautos.com/clasificados/usados/21991020-2.jpg",
+        "https://crautos.com/clasificados/usados/21991020-3.jpg",
+        "https://crautos.com/clasificados/usados/21991020-4.jpg",
+        "https://crautos.com/clasificados/usados/21991020-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL MARTINEZ CASTRO",
+        "teléfono": "7272-2210",
+        "whatsapp": "7272-2210"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "288,486 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 288486,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

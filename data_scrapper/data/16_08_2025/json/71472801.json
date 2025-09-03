@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71472801&Kia.PICANTO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71472801-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71472801-1.jpg",
+        "https://crautos.com/clasificados/usados/71472801-2.jpg",
+        "https://crautos.com/clasificados/usados/71472801-3.jpg",
+        "https://crautos.com/clasificados/usados/71472801-4.jpg",
+        "https://crautos.com/clasificados/usados/71472801-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ MADRIZ BARQUERO",
+        "teléfono": "8819-4547 8533-0121 8442-3224",
+        "whatsapp": "8819-4547"
+    },
+    "informacion_general": {
+        "cilindrada": "1248 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "75,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Negociable.",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 1248
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

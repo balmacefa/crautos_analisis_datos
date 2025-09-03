@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13705286&Nissan.TIIDA.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13705286-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13705286-1.jpg",
+        "https://crautos.com/clasificados/usados/13705286-2.jpg",
+        "https://crautos.com/clasificados/usados/13705286-3.jpg",
+        "https://crautos.com/clasificados/usados/13705286-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUE PEREZ MONTERO",
+        "teléfono": "7252-7047",
+        "whatsapp": "7252-7047"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "161,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AMATISTA",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura lo demás excelente .",
+        "kilometraje_number": 161000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

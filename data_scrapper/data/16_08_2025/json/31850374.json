@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31850374&Toyota.HILUX%20.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31850374-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31850374-1.jpg",
+        "https://crautos.com/clasificados/usados/31850374-2.jpg",
+        "https://crautos.com/clasificados/usados/31850374-3.jpg",
+        "https://crautos.com/clasificados/usados/31850374-4.jpg",
+        "https://crautos.com/clasificados/usados/31850374-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLGER RAMIREZ DIAZ",
+        "teléfono": "8832-7130",
+        "whatsapp": "8832-7130"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Se encuentra al día excelente estado no se recibe solo efectivo se escuchan ofertas.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 5
+}

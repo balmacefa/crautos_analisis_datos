@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82842091&Hyundai.TUCSON.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 19821,
+    "precio_usd": 9950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82842091-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82842091-1.jpg",
+        "https://crautos.com/clasificados/usados/82842091-2.jpg",
+        "https://crautos.com/clasificados/usados/82842091-3.jpg",
+        "https://crautos.com/clasificados/usados/82842091-4.jpg",
+        "https://crautos.com/clasificados/usados/82842091-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BERNALD MORA",
+        "teléfono": "8770-8686",
+        "whatsapp": "8770-8686"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Versión nacional. Llantas nuevas .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

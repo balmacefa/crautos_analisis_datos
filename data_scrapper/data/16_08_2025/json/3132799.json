@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3132799&Renault.LOGAN.2012",
+    "año": 2012,
+    "marca": "RENAULT",
+    "modelo": "LOGAN",
+    "precio_crc": 4482,
+    "precio_usd": 2250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3132799-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3132799-1.jpg",
+        "https://crautos.com/clasificados/usados/3132799-2.jpg",
+        "https://crautos.com/clasificados/usados/3132799-3.jpg",
+        "https://crautos.com/clasificados/usados/3132799-4.jpg",
+        "https://crautos.com/clasificados/usados/3132799-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORCAMALLI S.A.",
+        "teléfono": "8304-8304 8338-7227 8996-9790",
+        "whatsapp": "8304-8304",
+        "dirección": "Guachipelín de Escazú, frente a Construplaza"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "212,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BEIGE",
+        "color_interior": "NEGRO CON GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "!!! EXCELENTE VEHICULO MUY ECONOMICO, RECIBO VEH. DE MENOR PRECIO, SE INCLUYE EL TRASPASO !!!.",
+        "kilometraje_number": 212000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

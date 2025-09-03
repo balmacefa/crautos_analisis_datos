@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55984931&Toyota.SEQUOIA.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "SEQUOIA",
+    "precio_crc": 21514,
+    "precio_usd": 10800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55984931-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55984931-1.jpg",
+        "https://crautos.com/clasificados/usados/55984931-2.jpg",
+        "https://crautos.com/clasificados/usados/55984931-3.jpg",
+        "https://crautos.com/clasificados/usados/55984931-4.jpg",
+        "https://crautos.com/clasificados/usados/55984931-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LAURA MADRID",
+        "teléfono": "8931-3333",
+        "whatsapp": "8931-3333"
+    },
+    "informacion_general": {
+        "cilindrada": "4700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "113,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "kilometraje_number": 113500,
+        "cilindrada_number": 4700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

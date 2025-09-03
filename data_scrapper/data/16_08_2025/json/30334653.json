@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30334653&Renault.LOGAN.2011",
+    "año": 2011,
+    "marca": "RENAULT",
+    "modelo": "LOGAN",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30334653-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30334653-1.jpg",
+        "https://crautos.com/clasificados/usados/30334653-2.jpg",
+        "https://crautos.com/clasificados/usados/30334653-3.jpg",
+        "https://crautos.com/clasificados/usados/30334653-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANGEL EMMANUEL HERNÁNDEZ RIVAS",
+        "teléfono": "8943-5959",
+        "whatsapp": "8943-5959"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "134,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Todo al día.",
+        "kilometraje_number": 134000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

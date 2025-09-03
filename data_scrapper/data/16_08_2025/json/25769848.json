@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25769848&Suzuki.IGNIS.2005",
+    "año": 2005,
+    "marca": "SUZUKI",
+    "modelo": "IGNIS",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25769848-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25769848-1.jpg",
+        "https://crautos.com/clasificados/usados/25769848-2.jpg",
+        "https://crautos.com/clasificados/usados/25769848-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID QUIROS",
+        "teléfono": "8616-2019",
+        "whatsapp": "8616-2019"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Está en Tarrazu escucho ofertas.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

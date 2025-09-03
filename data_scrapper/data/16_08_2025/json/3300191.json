@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3300191&Kia.MORNING.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "MORNING",
+    "precio_crc": 8914,
+    "precio_usd": 4475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3300191-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3300191-1.jpg",
+        "https://crautos.com/clasificados/usados/3300191-2.jpg",
+        "https://crautos.com/clasificados/usados/3300191-3.jpg",
+        "https://crautos.com/clasificados/usados/3300191-4.jpg",
+        "https://crautos.com/clasificados/usados/3300191-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO ROJAS",
+        "teléfono": "8485-2638 7194-9962",
+        "dirección": "San Francisco de 2 Ríos"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "145,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "CAFE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Se recibe vehículo de menor valor precio negociable .",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

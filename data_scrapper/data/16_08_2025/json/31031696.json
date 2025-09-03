@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31031696&Chevrolet.SPARK.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31031696-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31031696-1.jpg",
+        "https://crautos.com/clasificados/usados/31031696-2.jpg",
+        "https://crautos.com/clasificados/usados/31031696-3.jpg",
+        "https://crautos.com/clasificados/usados/31031696-4.jpg",
+        "https://crautos.com/clasificados/usados/31031696-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ASDRÚBAL SANCHEZ",
+        "teléfono": "8780-3836",
+        "whatsapp": "8780-3836"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "136,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Llantas nuevas mantenimiento muy económico .",
+        "kilometraje_number": 136000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

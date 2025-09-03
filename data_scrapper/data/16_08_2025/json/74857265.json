@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74857265&Suzuki.VITARA.2000",
+    "año": 2000,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74857265-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74857265-1.jpg",
+        "https://crautos.com/clasificados/usados/74857265-2.jpg",
+        "https://crautos.com/clasificados/usados/74857265-3.jpg",
+        "https://crautos.com/clasificados/usados/74857265-4.jpg",
+        "https://crautos.com/clasificados/usados/74857265-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EVAL MORA",
+        "teléfono": "6194-4969",
+        "whatsapp": "6194-4969"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Firma de una .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 25
+}

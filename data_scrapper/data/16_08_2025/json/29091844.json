@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29091844&Nissan.1200.1987",
+    "año": 1987,
+    "marca": "NISSAN",
+    "modelo": "1200",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29091844-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29091844-1.jpg",
+        "https://crautos.com/clasificados/usados/29091844-2.jpg",
+        "https://crautos.com/clasificados/usados/29091844-3.jpg",
+        "https://crautos.com/clasificados/usados/29091844-4.jpg",
+        "https://crautos.com/clasificados/usados/29091844-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER HERRERA",
+        "teléfono": "6182-1169",
+        "whatsapp": "6182-1169"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "87,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "ORIGINAL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 87000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 38
+}

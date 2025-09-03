@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29742103&Kia.RIO.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29742103-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29742103-1.jpg",
+        "https://crautos.com/clasificados/usados/29742103-2.jpg",
+        "https://crautos.com/clasificados/usados/29742103-3.jpg",
+        "https://crautos.com/clasificados/usados/29742103-4.jpg",
+        "https://crautos.com/clasificados/usados/29742103-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ROJAS",
+        "teléfono": "6407-2980",
+        "whatsapp": "6407-2980"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "112,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "En perfecto estado carro muy económico.",
+        "kilometraje_number": 112000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

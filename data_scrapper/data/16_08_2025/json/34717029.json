@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34717029&Daihatsu.TERIOS.2006",
+    "año": 2006,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34717029-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34717029-1.jpg",
+        "https://crautos.com/clasificados/usados/34717029-2.jpg",
+        "https://crautos.com/clasificados/usados/34717029-3.jpg",
+        "https://crautos.com/clasificados/usados/34717029-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN VEGA",
+        "teléfono": "8603-0285",
+        "whatsapp": "8603-0285"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "287,500 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 287500,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

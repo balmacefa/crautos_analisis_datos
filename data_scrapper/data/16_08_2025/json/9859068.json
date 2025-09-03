@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9859068&Renault.DUSTER.2022",
+    "año": 2022,
+    "marca": "RENAULT",
+    "modelo": "DUSTER",
+    "precio_crc": 9538000,
+    "precio_usd": 19000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9859068-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9859068-1.jpg",
+        "https://crautos.com/clasificados/usados/9859068-2.jpg",
+        "https://crautos.com/clasificados/usados/9859068-3.jpg",
+        "https://crautos.com/clasificados/usados/9859068-4.jpg",
+        "https://crautos.com/clasificados/usados/9859068-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "36,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Mayo del 2025",
+        "comentario_vendedor": "Precio de venta no incluye gastos de traspaso..",
+        "kilometraje_number": 36000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 3
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83719745&Toyota.RAV4.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83719745-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83719745-1.jpg",
+        "https://crautos.com/clasificados/usados/83719745-2.jpg",
+        "https://crautos.com/clasificados/usados/83719745-3.jpg",
+        "https://crautos.com/clasificados/usados/83719745-4.jpg",
+        "https://crautos.com/clasificados/usados/83719745-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OCTAVIO QUESADA",
+        "teléfono": "8745-2175",
+        "whatsapp": "8745-2175"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "127,123 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo en excelente estado de motor y carrocería sese utiliza solo para ir del trabajo a la casa.",
+        "kilometraje_number": 127123,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1675343&Volvo.XC60.2017",
+    "año": 2017,
+    "marca": "VOLVO",
+    "modelo": "XC60",
+    "precio_crc": 12550000,
+    "precio_usd": 25000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1675343-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1675343-1.jpg",
+        "https://crautos.com/clasificados/usados/1675343-2.jpg",
+        "https://crautos.com/clasificados/usados/1675343-3.jpg",
+        "https://crautos.com/clasificados/usados/1675343-4.jpg",
+        "https://crautos.com/clasificados/usados/1675343-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "86,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO..",
+        "kilometraje_number": 86000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

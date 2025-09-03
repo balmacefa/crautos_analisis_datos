@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77121569&Suzuki.SWIFT%20GL.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT GL",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77121569-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77121569-1.jpg",
+        "https://crautos.com/clasificados/usados/77121569-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO ENRIQUE GUILLÉN RIVERA",
+        "teléfono": "8624-1353"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "86,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "kilometraje_number": 86000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Cámara de retroceso"
+    ],
+    "antiguedad": 8
+}

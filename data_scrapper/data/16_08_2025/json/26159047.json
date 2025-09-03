@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26159047&Toyota.LAND%20CRUISER%20FJ62.1988",
+    "año": 1988,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER FJ62",
+    "precio_crc": 50000,
+    "precio_usd": 25100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26159047-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26159047-1.jpg",
+        "https://crautos.com/clasificados/usados/26159047-2.jpg",
+        "https://crautos.com/clasificados/usados/26159047-3.jpg",
+        "https://crautos.com/clasificados/usados/26159047-4.jpg",
+        "https://crautos.com/clasificados/usados/26159047-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODRIGO DE BEDOUT",
+        "teléfono": "8837-8092",
+        "whatsapp": "8837-8092"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "8",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 8",
+        "color_exterior": "BROWN",
+        "color_interior": "BROWN",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Mileage: Zero miles fresh complete ground-up restoration.",
+        "kilometraje_number": null,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 37
+}

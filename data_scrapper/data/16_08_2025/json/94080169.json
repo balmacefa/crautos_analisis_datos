@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94080169&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94080169-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94080169-1.jpg",
+        "https://crautos.com/clasificados/usados/94080169-2.jpg",
+        "https://crautos.com/clasificados/usados/94080169-3.jpg",
+        "https://crautos.com/clasificados/usados/94080169-4.jpg",
+        "https://crautos.com/clasificados/usados/94080169-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUILLERMO ALVARADO",
+        "teléfono": "8803-9666 8584-7875",
+        "whatsapp": "8803-9666"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "112,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Se vende Yaris 2007 TRD Precio es negociable. Asientos de cuero 109 112 kilómetros Batería nueva r.",
+        "kilometraje_number": 112000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1867459&Shineray.X30%20EV%20.2024",
+    "año": 2024,
+    "modelo": "Shineray X30 EV",
+    "precio_crc": 12499800,
+    "precio_usd": 24900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1867459-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1867459-1.jpg",
+        "https://crautos.com/clasificados/usados/1867459-2.jpg",
+        "https://crautos.com/clasificados/usados/1867459-3.jpg",
+        "https://crautos.com/clasificados/usados/1867459-4.jpg",
+        "https://crautos.com/clasificados/usados/1867459-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "USADOS AMBACAR",
+        "teléfono": "7102-7838 7102-7748",
+        "whatsapp": "7102-7838",
+        "dirección": "300 mtrs este de la Rotonda de la Y Griega San José"
+    },
+    "informacion_general": {
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "29,500 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "PERFECTO ESTADO SE RECIBE SE FINANCIA. .",
+        "kilometraje_number": 29500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

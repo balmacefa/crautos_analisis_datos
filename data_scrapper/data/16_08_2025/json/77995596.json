@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77995596&Toyota.LAND%20CRUISER%20.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 52789,
+    "precio_usd": 26500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77995596-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77995596-1.jpg",
+        "https://crautos.com/clasificados/usados/77995596-2.jpg",
+        "https://crautos.com/clasificados/usados/77995596-3.jpg",
+        "https://crautos.com/clasificados/usados/77995596-4.jpg",
+        "https://crautos.com/clasificados/usados/77995596-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO",
+        "teléfono": "8979-2772",
+        "whatsapp": "8979-2772"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "87,500 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "ROJO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Junio del 2025",
+        "comentario_vendedor": "Perfectas condiciones.se recibe, precio negociable .",
+        "kilometraje_number": 87500,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

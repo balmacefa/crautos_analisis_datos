@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3149658&Jaguar.XE%20TC%20PURE%20.2018",
+    "año": 2018,
+    "marca": "JAGUAR",
+    "modelo": "XE TC PURE",
+    "precio_crc": 14307000,
+    "precio_usd": 28500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3149658-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3149658-1.jpg",
+        "https://crautos.com/clasificados/usados/3149658-2.jpg",
+        "https://crautos.com/clasificados/usados/3149658-3.jpg",
+        "https://crautos.com/clasificados/usados/3149658-4.jpg",
+        "https://crautos.com/clasificados/usados/3149658-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "43,400 kms",
+        "placa": "Termina en",
+        "color_exterior": "BLANCO",
+        "color_interior": "CUERO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Marzo del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 43400,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

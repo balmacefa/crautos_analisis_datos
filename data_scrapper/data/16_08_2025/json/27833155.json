@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27833155&Nissan.XTERRA.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27833155-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27833155-1.jpg",
+        "https://crautos.com/clasificados/usados/27833155-2.jpg",
+        "https://crautos.com/clasificados/usados/27833155-3.jpg",
+        "https://crautos.com/clasificados/usados/27833155-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREYVIN CARDOZA",
+        "teléfono": "8768-5107 6363-5310",
+        "whatsapp": "6363-5310"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "237,274 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Tiene sistema de gas incluído.",
+        "kilometraje_number": 237274,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

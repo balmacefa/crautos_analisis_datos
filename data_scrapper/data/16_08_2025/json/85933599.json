@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85933599&Honda.CRV.2006",
+    "año": 2006,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85933599-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85933599-1.jpg",
+        "https://crautos.com/clasificados/usados/85933599-2.jpg",
+        "https://crautos.com/clasificados/usados/85933599-3.jpg",
+        "https://crautos.com/clasificados/usados/85933599-4.jpg",
+        "https://crautos.com/clasificados/usados/85933599-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER SALAS",
+        "teléfono": "8670-8777 8515-8904",
+        "whatsapp": "8670-8777"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "280,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo en muy buen estado - NEGOCIABLE .",
+        "kilometraje_number": 280000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 19
+}

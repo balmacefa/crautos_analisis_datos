@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8314491&Toyota.HILUX.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 29681,
+    "precio_usd": 14900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8314491-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8314491-1.jpg",
+        "https://crautos.com/clasificados/usados/8314491-2.jpg",
+        "https://crautos.com/clasificados/usados/8314491-3.jpg",
+        "https://crautos.com/clasificados/usados/8314491-4.jpg",
+        "https://crautos.com/clasificados/usados/8314491-5.jpg",
+        "https://crautos.com/clasificados/usados/8314491-6.jpg",
+        "https://crautos.com/clasificados/usados/8314491-7.jpg",
+        "https://crautos.com/clasificados/usados/8314491-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ PABLO VEGA",
+        "teléfono": "8839-3080 7109-3070",
+        "whatsapp": "8839-3080",
+        "dirección": "Sn Pablo de Heredia costado oeste plaza de deportes Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "66,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Comprado en Purdy,Motor 2.4 TDI,4x2,Caja 5,Batea larga,3 pax.Economico y potente..",
+        "kilometraje_number": 66000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

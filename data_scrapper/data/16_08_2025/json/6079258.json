@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6079258&Toyota.HILUX%20SRV.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "HILUX SRV",
+    "precio_crc": 39044,
+    "precio_usd": 19600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6079258-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6079258-1.jpg",
+        "https://crautos.com/clasificados/usados/6079258-2.jpg",
+        "https://crautos.com/clasificados/usados/6079258-3.jpg",
+        "https://crautos.com/clasificados/usados/6079258-4.jpg",
+        "https://crautos.com/clasificados/usados/6079258-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "143,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Junio del 2025",
+        "comentario_vendedor": "excelente estado, se ofrece financiamiento, se recibe auto.",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

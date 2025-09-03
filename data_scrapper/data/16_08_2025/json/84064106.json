@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84064106&Honda.CIVIC.2008",
+    "año": 2008,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84064106-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84064106-1.jpg",
+        "https://crautos.com/clasificados/usados/84064106-2.jpg",
+        "https://crautos.com/clasificados/usados/84064106-3.jpg",
+        "https://crautos.com/clasificados/usados/84064106-4.jpg",
+        "https://crautos.com/clasificados/usados/84064106-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORLAN SOLIS",
+        "teléfono": "8717-6662 6154-7872"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Listo para entregar y firma de una..",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

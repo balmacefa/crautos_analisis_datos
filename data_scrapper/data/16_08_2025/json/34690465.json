@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34690465&Chevrolet.SPARK.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 7918,
+    "precio_usd": 3975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34690465-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34690465-1.jpg",
+        "https://crautos.com/clasificados/usados/34690465-2.jpg",
+        "https://crautos.com/clasificados/usados/34690465-3.jpg",
+        "https://crautos.com/clasificados/usados/34690465-4.jpg",
+        "https://crautos.com/clasificados/usados/34690465-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY PORTILLA V",
+        "teléfono": "8386-6527"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "94,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "CHEVROLET SPARK DE GAS ORIGINAL PARA INSCRIBIR TODO AL DIA .",
+        "kilometraje_number": 94000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53753329&Chevrolet.TRACKER%20.2003",
+    "año": 2003,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53753329-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53753329-1.jpg",
+        "https://crautos.com/clasificados/usados/53753329-2.jpg",
+        "https://crautos.com/clasificados/usados/53753329-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON FALLAS",
+        "teléfono": "8975-9797",
+        "whatsapp": "8975-9797"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2024",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

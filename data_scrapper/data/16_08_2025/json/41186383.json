@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41186383&Hyundai.STAREX%20.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "STAREX",
+    "precio_crc": 15886,
+    "precio_usd": 7975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41186383-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41186383-1.jpg",
+        "https://crautos.com/clasificados/usados/41186383-2.jpg",
+        "https://crautos.com/clasificados/usados/41186383-3.jpg",
+        "https://crautos.com/clasificados/usados/41186383-4.jpg",
+        "https://crautos.com/clasificados/usados/41186383-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWARD CORDERO",
+        "teléfono": "8786-9727",
+        "whatsapp": "8786-9727"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado muy económica se escuchan oferta es para Doce pasajeros versión americana .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 15
+}

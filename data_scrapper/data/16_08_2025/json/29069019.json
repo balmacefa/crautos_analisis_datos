@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29069019&Toyota.HIACE.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29069019-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29069019-1.jpg",
+        "https://crautos.com/clasificados/usados/29069019-2.jpg",
+        "https://crautos.com/clasificados/usados/29069019-3.jpg",
+        "https://crautos.com/clasificados/usados/29069019-4.jpg",
+        "https://crautos.com/clasificados/usados/29069019-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DUNIA HERNÁNDEZ",
+        "teléfono": "8915-2729 7237-6905",
+        "whatsapp": "8915-2729"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "509,133 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado papeles al dia.",
+        "kilometraje_number": 509133,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

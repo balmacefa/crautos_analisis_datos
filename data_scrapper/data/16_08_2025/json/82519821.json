@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82519821&Kia.PICANTO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82519821-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82519821-1.jpg",
+        "https://crautos.com/clasificados/usados/82519821-2.jpg",
+        "https://crautos.com/clasificados/usados/82519821-3.jpg",
+        "https://crautos.com/clasificados/usados/82519821-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JENNIFER FERNÁNDEZ",
+        "teléfono": "8523-4957 8804-9888",
+        "whatsapp": "8523-4957"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "142 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 142,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

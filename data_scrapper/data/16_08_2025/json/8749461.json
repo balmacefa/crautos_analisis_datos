@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8749461&Renault.CAPTUR.2023",
+    "año": 2023,
+    "marca": "RENAULT",
+    "modelo": "CAPTUR",
+    "precio_crc": 9538000,
+    "precio_usd": 19000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8749461-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8749461-1.jpg",
+        "https://crautos.com/clasificados/usados/8749461-2.jpg",
+        "https://crautos.com/clasificados/usados/8749461-3.jpg",
+        "https://crautos.com/clasificados/usados/8749461-4.jpg",
+        "https://crautos.com/clasificados/usados/8749461-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SUZUKI MOTOR CENTER",
+        "teléfono": "2242-7000 ext 232",
+        "whatsapp": "6196-2490",
+        "dirección": "Frente al Hospital Mexico, La Uruca. San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "23,584 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "N/A",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 23584,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

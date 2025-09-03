@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22386360&Nissan.FRONTIER%20NP300.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER NP300",
+    "precio_crc": 21713,
+    "precio_usd": 10900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22386360-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22386360-1.jpg",
+        "https://crautos.com/clasificados/usados/22386360-2.jpg",
+        "https://crautos.com/clasificados/usados/22386360-3.jpg",
+        "https://crautos.com/clasificados/usados/22386360-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO ESQUIVEL",
+        "teléfono": "8853-4519 8385-2828"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "274,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO PRECIO NEGOCIABLE.",
+        "kilometraje_number": 274000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

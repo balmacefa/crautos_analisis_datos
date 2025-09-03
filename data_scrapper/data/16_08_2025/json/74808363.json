@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74808363&Toyota.HILUX%20REVO.2021",
+    "año": 2021,
+    "marca": "TOYOTA",
+    "modelo": "HILUX REVO",
+    "precio_crc": 42829,
+    "precio_usd": 21500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JASON BONILLA",
+        "teléfono": "7211-1102"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "ROJO Y NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Hermoso Frontier impecable único dueño sacado de agencia en USA nunca trabajado..",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 4
+}

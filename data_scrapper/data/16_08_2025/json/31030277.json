@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31030277&Chevrolet.METRO.2000",
+    "año": 2000,
+    "marca": "CHEVROLET",
+    "modelo": "METRO",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31030277-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31030277-1.jpg",
+        "https://crautos.com/clasificados/usados/31030277-2.jpg",
+        "https://crautos.com/clasificados/usados/31030277-3.jpg",
+        "https://crautos.com/clasificados/usados/31030277-4.jpg",
+        "https://crautos.com/clasificados/usados/31030277-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATHERINE VILLALOBOS",
+        "teléfono": "7297-7162",
+        "whatsapp": "7297-7162"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Recién pintado al horno motor nuevo ajuste de frenos nuevo llantas y aros nuevos.",
+        "kilometraje_number": 200,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

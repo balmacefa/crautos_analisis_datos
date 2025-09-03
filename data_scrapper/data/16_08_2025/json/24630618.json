@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24630618&Toyota.COROLLA.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 5279,
+    "precio_usd": 2650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24630618-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24630618-1.jpg",
+        "https://crautos.com/clasificados/usados/24630618-2.jpg",
+        "https://crautos.com/clasificados/usados/24630618-3.jpg",
+        "https://crautos.com/clasificados/usados/24630618-4.jpg",
+        "https://crautos.com/clasificados/usados/24630618-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CESAR BLANCO CASTRO",
+        "teléfono": "8614-6475 8646-5918",
+        "whatsapp": "8614-6475"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "275,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "El automovil esta en Barva de Heredia se muestra con previa cita fines de semana principalmente..",
+        "kilometraje_number": 275000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 31
+}

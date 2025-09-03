@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23228167&Suzuki.GRAND%20VITARA.1999",
+    "año": 1999,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23228167-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23228167-1.jpg",
+        "https://crautos.com/clasificados/usados/23228167-2.jpg",
+        "https://crautos.com/clasificados/usados/23228167-3.jpg",
+        "https://crautos.com/clasificados/usados/23228167-4.jpg",
+        "https://crautos.com/clasificados/usados/23228167-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL BRENES",
+        "teléfono": "8995-3214",
+        "whatsapp": "8995-3214"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "450,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 450000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

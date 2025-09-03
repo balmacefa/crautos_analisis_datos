@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5047787&Toyota.RAV4%20VVT-I.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "RAV4 VVT-I",
+    "precio_crc": 15886,
+    "precio_usd": 7975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5047787-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5047787-1.jpg",
+        "https://crautos.com/clasificados/usados/5047787-2.jpg",
+        "https://crautos.com/clasificados/usados/5047787-3.jpg",
+        "https://crautos.com/clasificados/usados/5047787-4.jpg",
+        "https://crautos.com/clasificados/usados/5047787-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,379 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS-NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "13 de Julio del 2025",
+        "comentario_vendedor": "DEKRA P-INSCRIBIR-FULL EXT-GARANTI x ESCRIT-RECIB-FINANCI-autosantodomingoABIERT DOMING STA CRUZ GTE.",
+        "kilometraje_number": 90379,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

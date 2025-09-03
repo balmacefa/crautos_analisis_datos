@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95705805&Suzuki.SAMURAI.1986",
+    "año": 1986,
+    "marca": "SUZUKI",
+    "modelo": "SAMURAI",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95705805-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95705805-1.jpg",
+        "https://crautos.com/clasificados/usados/95705805-2.jpg",
+        "https://crautos.com/clasificados/usados/95705805-3.jpg",
+        "https://crautos.com/clasificados/usados/95705805-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEINER VARGAS",
+        "teléfono": "6461-3939 8743-9069",
+        "whatsapp": "6461-3939"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 39
+}

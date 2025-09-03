@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23389491&Suzuki.ALTO.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "ALTO",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23389491-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23389491-1.jpg",
+        "https://crautos.com/clasificados/usados/23389491-2.jpg",
+        "https://crautos.com/clasificados/usados/23389491-3.jpg",
+        "https://crautos.com/clasificados/usados/23389491-4.jpg",
+        "https://crautos.com/clasificados/usados/23389491-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO MORA HIDALGO",
+        "teléfono": "8636-6820 8865-7679",
+        "whatsapp": "8636-6820"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "146,398 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": ".",
+        "kilometraje_number": 146398,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18526249&Suzuki.VITARA.2021",
+    "año": 2021,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 21514,
+    "precio_usd": 10800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18526249-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18526249-1.jpg",
+        "https://crautos.com/clasificados/usados/18526249-2.jpg",
+        "https://crautos.com/clasificados/usados/18526249-3.jpg",
+        "https://crautos.com/clasificados/usados/18526249-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREA MÓNOGA",
+        "teléfono": "8367-3312",
+        "whatsapp": "8367-3312"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "40,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Único dueño. Cuarenta mil kms. Llantas nuevas. Dekra dos mil veintisiete. Excelente estado..",
+        "kilometraje_number": 40000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 4
+}

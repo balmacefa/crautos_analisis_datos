@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12430066&Toyota.RAV4.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 60757,
+    "precio_usd": 30500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12430066-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12430066-1.jpg",
+        "https://crautos.com/clasificados/usados/12430066-2.jpg",
+        "https://crautos.com/clasificados/usados/12430066-3.jpg",
+        "https://crautos.com/clasificados/usados/12430066-4.jpg",
+        "https://crautos.com/clasificados/usados/12430066-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO VALVERDE A.",
+        "teléfono": "7154-1472",
+        "whatsapp": "7154-1472"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Se vende carro por compra de un pick up. Se cambia y se da vuelto a su favor..",
+        "kilometraje_number": null,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Sunroof/techo panorámico"
+    ],
+    "antiguedad": 27
+}

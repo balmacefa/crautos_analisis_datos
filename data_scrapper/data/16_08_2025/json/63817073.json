@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63817073&Hyundai.GRAND%20I10%20GLS.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10 GLS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63817073-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63817073-1.jpg",
+        "https://crautos.com/clasificados/usados/63817073-2.jpg",
+        "https://crautos.com/clasificados/usados/63817073-3.jpg",
+        "https://crautos.com/clasificados/usados/63817073-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN JIMÉNEZ",
+        "teléfono": "8811-3978 8717-6476"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "95,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO HUESO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado dekra en blanco, excelente estado, muy bien cuidado..",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

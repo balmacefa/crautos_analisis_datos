@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87805938&Land%20Rover.DISCOVERY%202.2001",
+    "año": 2001,
+    "marca": "LAND ROVER",
+    "modelo": "DISCOVERY 2",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87805938-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87805938-1.jpg",
+        "https://crautos.com/clasificados/usados/87805938-2.jpg",
+        "https://crautos.com/clasificados/usados/87805938-3.jpg",
+        "https://crautos.com/clasificados/usados/87805938-4.jpg",
+        "https://crautos.com/clasificados/usados/87805938-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO GOMEZ",
+        "teléfono": "8313-5340",
+        "whatsapp": "8313-5340"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "189,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CAFÉ",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen estado llantas nuevas versión nacional pocos kilómetros .",
+        "kilometraje_number": 189000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

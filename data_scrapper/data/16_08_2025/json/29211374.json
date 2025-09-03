@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29211374&Mazda.BT50.2017",
+    "año": 2017,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 28486,
+    "precio_usd": 14300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29211374-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29211374-1.jpg",
+        "https://crautos.com/clasificados/usados/29211374-2.jpg",
+        "https://crautos.com/clasificados/usados/29211374-3.jpg",
+        "https://crautos.com/clasificados/usados/29211374-4.jpg",
+        "https://crautos.com/clasificados/usados/29211374-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANY HERNÁNDEZ",
+        "teléfono": "8981-5637",
+        "whatsapp": "8981-5637"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "104,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Mayo del 2025",
+        "comentario_vendedor": "En buen estado. Consulte por WhatsApp..",
+        "kilometraje_number": 104000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

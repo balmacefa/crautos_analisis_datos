@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56180246&Mitsubishi.MONTERO%20.1996",
+    "año": 1996,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56180246-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56180246-1.jpg",
+        "https://crautos.com/clasificados/usados/56180246-2.jpg",
+        "https://crautos.com/clasificados/usados/56180246-3.jpg",
+        "https://crautos.com/clasificados/usados/56180246-4.jpg",
+        "https://crautos.com/clasificados/usados/56180246-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARTURO ROJAS",
+        "teléfono": "7011-7971"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "345,107 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado se escucha ofertas serias .",
+        "kilometraje_number": 345107,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 29
+}

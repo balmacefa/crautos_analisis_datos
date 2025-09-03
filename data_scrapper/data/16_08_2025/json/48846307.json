@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48846307&Citroen.BERLINGO.2022",
+    "año": 2022,
+    "marca": "CITROEN",
+    "modelo": "BERLINGO",
+    "precio_crc": 15239,
+    "precio_usd": 7650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48846307-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48846307-1.jpg",
+        "https://crautos.com/clasificados/usados/48846307-2.jpg",
+        "https://crautos.com/clasificados/usados/48846307-3.jpg",
+        "https://crautos.com/clasificados/usados/48846307-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIELA ARGUEDAS",
+        "teléfono": "7059-6740",
+        "whatsapp": "8833-5130"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "50,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 50000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 3
+}

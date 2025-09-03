@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55599479&Toyota.RAV4.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55599479-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55599479-1.jpg",
+        "https://crautos.com/clasificados/usados/55599479-2.jpg",
+        "https://crautos.com/clasificados/usados/55599479-3.jpg",
+        "https://crautos.com/clasificados/usados/55599479-4.jpg",
+        "https://crautos.com/clasificados/usados/55599479-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL ROJAS JIMENEZ",
+        "teléfono": "8511-5921 8822-1104",
+        "whatsapp": "8511-5921"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "155,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "20 de Mayo del 2025",
+        "comentario_vendedor": "Llantas nuevas revision al día versión L casi no se usa carro de cochera.",
+        "kilometraje_number": 155000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 27
+}

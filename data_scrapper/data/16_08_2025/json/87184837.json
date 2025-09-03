@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87184837&Subaru.FORESTER.2009",
+    "año": 2009,
+    "marca": "SUBARU",
+    "modelo": "FORESTER",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87184837-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87184837-1.jpg",
+        "https://crautos.com/clasificados/usados/87184837-2.jpg",
+        "https://crautos.com/clasificados/usados/87184837-3.jpg",
+        "https://crautos.com/clasificados/usados/87184837-4.jpg",
+        "https://crautos.com/clasificados/usados/87184837-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAROL GRACZYK",
+        "teléfono": "6259-9551",
+        "whatsapp": "6259-9551"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "196,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Version japonese. DEKRA hasta julio proximo año.",
+        "kilometraje_number": 196000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 16
+}

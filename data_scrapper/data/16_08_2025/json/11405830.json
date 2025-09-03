@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11405830&Hyundai.ACCENT.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11405830-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11405830-1.jpg",
+        "https://crautos.com/clasificados/usados/11405830-2.jpg",
+        "https://crautos.com/clasificados/usados/11405830-3.jpg",
+        "https://crautos.com/clasificados/usados/11405830-4.jpg",
+        "https://crautos.com/clasificados/usados/11405830-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VALERIA MADRIZ",
+        "teléfono": "8444-5032 8561-3425",
+        "whatsapp": "8444-5032"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "105,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Inscrito en CR hace menos de DOS años única propietaria en el país .",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

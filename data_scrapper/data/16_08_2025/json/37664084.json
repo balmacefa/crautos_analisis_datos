@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37664084&Audi.100%20CD.1987",
+    "año": 1987,
+    "marca": "AUDI",
+    "modelo": "100 CD",
+    "precio_crc": 1295,
+    "precio_usd": 650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37664084-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37664084-1.jpg",
+        "https://crautos.com/clasificados/usados/37664084-2.jpg",
+        "https://crautos.com/clasificados/usados/37664084-3.jpg",
+        "https://crautos.com/clasificados/usados/37664084-4.jpg",
+        "https://crautos.com/clasificados/usados/37664084-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE PORRAS S",
+        "teléfono": "6408-4079",
+        "whatsapp": "6408-4079"
+    },
+    "informacion_general": {
+        "cilindrada": "2226 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "154,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "RESTAURAR MECANICAMENTE PLACAS AL DIA.",
+        "kilometraje_number": 154000,
+        "cilindrada_number": 2226
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 38
+}

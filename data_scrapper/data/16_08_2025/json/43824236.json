@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43824236&Freightliner.M2.2007",
+    "año": 2007,
+    "marca": "FREIGHTLINER",
+    "modelo": "M2",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43824236-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43824236-1.jpg",
+        "https://crautos.com/clasificados/usados/43824236-2.jpg",
+        "https://crautos.com/clasificados/usados/43824236-3.jpg",
+        "https://crautos.com/clasificados/usados/43824236-4.jpg",
+        "https://crautos.com/clasificados/usados/43824236-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ CARVAJAL",
+        "teléfono": "8828-3535",
+        "whatsapp": "8828-3535"
+    },
+    "informacion_general": {
+        "cilindrada": "7200 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "274,300 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Recibo .",
+        "kilometraje_number": 274300,
+        "cilindrada_number": 7200
+    },
+    "equipamiento": [
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 18
+}

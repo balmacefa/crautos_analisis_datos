@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32111971&Hyundai.GETZ.2005",
+    "año": 2005,
+    "marca": "HYUNDAI",
+    "modelo": "GETZ",
+    "precio_crc": 5279,
+    "precio_usd": 2650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32111971-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32111971-1.jpg",
+        "https://crautos.com/clasificados/usados/32111971-2.jpg",
+        "https://crautos.com/clasificados/usados/32111971-3.jpg",
+        "https://crautos.com/clasificados/usados/32111971-4.jpg",
+        "https://crautos.com/clasificados/usados/32111971-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE CALVO MORALES",
+        "teléfono": "8355-5890 8704-0492",
+        "whatsapp": "8355-5890"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "217,951 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Motor excelente, muy jalón, muy bien cuidado.",
+        "kilometraje_number": 217951,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

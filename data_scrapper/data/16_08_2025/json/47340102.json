@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47340102&Toyota.HILUX.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 25697,
+    "precio_usd": 12900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47340102-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47340102-1.jpg",
+        "https://crautos.com/clasificados/usados/47340102-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL ABARCA SÁNCHEZ",
+        "teléfono": "8916-3707",
+        "whatsapp": "8916-3707"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "155,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Toyota Hilux año Automático x mil kilómetros Bumper delantero y trasero AFN WINCHER .",
+        "kilometraje_number": 155000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

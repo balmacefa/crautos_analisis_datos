@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43361452&Toyota.HILUX.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43361452-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43361452-1.jpg",
+        "https://crautos.com/clasificados/usados/43361452-2.jpg",
+        "https://crautos.com/clasificados/usados/43361452-3.jpg",
+        "https://crautos.com/clasificados/usados/43361452-4.jpg",
+        "https://crautos.com/clasificados/usados/43361452-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN CASTILLO",
+        "teléfono": "6317-1290 8794-5865 8783-5468",
+        "whatsapp": "6317-1290"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "395,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 395000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

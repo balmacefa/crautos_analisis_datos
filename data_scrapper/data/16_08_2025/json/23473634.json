@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23473634&Toyota.FORTUNER.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 28287,
+    "precio_usd": 14200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23473634-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23473634-1.jpg",
+        "https://crautos.com/clasificados/usados/23473634-2.jpg",
+        "https://crautos.com/clasificados/usados/23473634-3.jpg",
+        "https://crautos.com/clasificados/usados/23473634-4.jpg",
+        "https://crautos.com/clasificados/usados/23473634-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "REYNER SALAS RUIZ",
+        "teléfono": "8350-8086 8630-9698",
+        "whatsapp": "8350-8086"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "124,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS RATON",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Carro en exelente estado pantalla snorkell kit de levante.",
+        "kilometraje_number": 124000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

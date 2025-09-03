@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2593020&Mazda.BT50.2018",
+    "año": 2018,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 14558000,
+    "precio_usd": 29000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2593020-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2593020-1.jpg",
+        "https://crautos.com/clasificados/usados/2593020-2.jpg",
+        "https://crautos.com/clasificados/usados/2593020-3.jpg",
+        "https://crautos.com/clasificados/usados/2593020-4.jpg",
+        "https://crautos.com/clasificados/usados/2593020-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "141,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Junio del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO. .",
+        "kilometraje_number": 141000,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 7
+}

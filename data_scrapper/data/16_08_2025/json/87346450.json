@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87346450&Suzuki.SWIFT%20DZIRE%20GL.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE GL",
+    "precio_crc": 10857,
+    "precio_usd": 5450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87346450-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87346450-1.jpg",
+        "https://crautos.com/clasificados/usados/87346450-2.jpg",
+        "https://crautos.com/clasificados/usados/87346450-3.jpg",
+        "https://crautos.com/clasificados/usados/87346450-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE JIMENEZ VARGAS",
+        "teléfono": "7004-4790 7188-6518",
+        "whatsapp": "7004-4790"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "119,900 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO CON GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado se escuchan ofertas no recibo como parte de pago.",
+        "kilometraje_number": 119900,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

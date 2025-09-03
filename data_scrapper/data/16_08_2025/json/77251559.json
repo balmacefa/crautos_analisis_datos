@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77251559&Mitsubishi.MONTERO%20GLS.2010",
+    "año": 2010,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77251559-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77251559-1.jpg",
+        "https://crautos.com/clasificados/usados/77251559-2.jpg",
+        "https://crautos.com/clasificados/usados/77251559-3.jpg",
+        "https://crautos.com/clasificados/usados/77251559-4.jpg",
+        "https://crautos.com/clasificados/usados/77251559-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM EDUARDO BARRANTES",
+        "teléfono": "8668-1084 7240-0530",
+        "whatsapp": "8668-1084"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "1,111 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": ".NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Turbo intercoler vidrios electricod.",
+        "kilometraje_number": 1111,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [],
+    "antiguedad": 15
+}

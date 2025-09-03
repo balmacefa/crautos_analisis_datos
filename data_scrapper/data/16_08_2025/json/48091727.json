@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48091727&Porsche.BOXSTER.2002",
+    "año": 2002,
+    "marca": "PORSCHE",
+    "modelo": "BOXSTER",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48091727-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48091727-1.jpg",
+        "https://crautos.com/clasificados/usados/48091727-2.jpg",
+        "https://crautos.com/clasificados/usados/48091727-3.jpg",
+        "https://crautos.com/clasificados/usados/48091727-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANRIQUE ARGÜELLO",
+        "teléfono": "8513-3076",
+        "whatsapp": "8513-3076"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "97,500 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 97500,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 23
+}

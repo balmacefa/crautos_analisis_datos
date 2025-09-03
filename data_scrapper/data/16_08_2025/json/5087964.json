@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5087964&Volkswagen.SAVEIRO.2023",
+    "año": 2023,
+    "marca": "VOLKSWAGEN",
+    "modelo": "SAVEIRO",
+    "precio_crc": 8032000,
+    "precio_usd": 16000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5087964-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5087964-1.jpg",
+        "https://crautos.com/clasificados/usados/5087964-2.jpg",
+        "https://crautos.com/clasificados/usados/5087964-3.jpg",
+        "https://crautos.com/clasificados/usados/5087964-4.jpg",
+        "https://crautos.com/clasificados/usados/5087964-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "27,400 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Enero del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 27400,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

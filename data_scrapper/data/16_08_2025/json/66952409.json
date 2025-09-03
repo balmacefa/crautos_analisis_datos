@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66952409&Hyundai.PORTER.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "PORTER",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66952409-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66952409-1.jpg",
+        "https://crautos.com/clasificados/usados/66952409-2.jpg",
+        "https://crautos.com/clasificados/usados/66952409-3.jpg",
+        "https://crautos.com/clasificados/usados/66952409-4.jpg",
+        "https://crautos.com/clasificados/usados/66952409-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRÉS MORA",
+        "teléfono": "8517-7739",
+        "whatsapp": "8517-7739"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Hyundai porter 2013 -Caja sexta -Motor 2500cc turbo -Refrigerado - llantas delanteras a un 85% -.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40833316&Honda.CIVIC%20.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 5876,
+    "precio_usd": 2950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40833316-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40833316-1.jpg",
+        "https://crautos.com/clasificados/usados/40833316-2.jpg",
+        "https://crautos.com/clasificados/usados/40833316-3.jpg",
+        "https://crautos.com/clasificados/usados/40833316-4.jpg",
+        "https://crautos.com/clasificados/usados/40833316-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARMEN RODRÍGUEZ",
+        "teléfono": "8716-7744 6025-9215",
+        "whatsapp": "8716-7744"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "126,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "CHAMPAGNE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "En muy buen estado.",
+        "kilometraje_number": 126000,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55480911&Toyota.YARIS.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAFAEL OCAMPO",
+        "teléfono": "8892-9845 8328-8848",
+        "whatsapp": "8892-9845"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Mayo del 2025",
+        "comentario_vendedor": "Con sistema de gas en excelente estado dekra recien sacado .",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

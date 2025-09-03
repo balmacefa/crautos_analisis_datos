@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70183796&Toyota.LAND%20CRUISER%20FJ45.1970",
+    "año": 1970,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER FJ45",
+    "precio_crc": 17331,
+    "precio_usd": 8700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70183796-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70183796-1.jpg",
+        "https://crautos.com/clasificados/usados/70183796-2.jpg",
+        "https://crautos.com/clasificados/usados/70183796-3.jpg",
+        "https://crautos.com/clasificados/usados/70183796-4.jpg",
+        "https://crautos.com/clasificados/usados/70183796-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICK MONTERO",
+        "teléfono": "6141-9159 8756-1289",
+        "whatsapp": "6141-9159"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Espectacular oportunidad para restauración e inversión Motor original detalles pintura caja cuarta.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Radio con USB/AUX",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 55
+}

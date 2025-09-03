@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50518688&Isuzu.DMAX.2017",
+    "año": 2017,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 20120,
+    "precio_usd": 10100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50518688-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50518688-1.jpg",
+        "https://crautos.com/clasificados/usados/50518688-2.jpg",
+        "https://crautos.com/clasificados/usados/50518688-3.jpg",
+        "https://crautos.com/clasificados/usados/50518688-4.jpg",
+        "https://crautos.com/clasificados/usados/50518688-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GILBERTO ARGUEDAS",
+        "teléfono": "8813-1225",
+        "whatsapp": "8469-7577"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Exelente tanto mecánica como estetica llantas nuevas.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41202772&Suzuki.SWIFT%20DZIRE.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41202772-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41202772-1.jpg",
+        "https://crautos.com/clasificados/usados/41202772-2.jpg",
+        "https://crautos.com/clasificados/usados/41202772-3.jpg",
+        "https://crautos.com/clasificados/usados/41202772-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN DURAN",
+        "teléfono": "6414-3886 8987-5225"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "VEHICULO CON DEKRA RECIEN PASADO AL DIA DE TODO FIRMA INMEDIATA .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 10
+}

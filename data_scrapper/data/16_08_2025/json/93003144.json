@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93003144&Geo.TRACKER.1992",
+    "año": 1992,
+    "marca": "GEO",
+    "modelo": "TRACKER",
+    "precio_crc": 5179,
+    "precio_usd": 2600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93003144-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93003144-1.jpg",
+        "https://crautos.com/clasificados/usados/93003144-2.jpg",
+        "https://crautos.com/clasificados/usados/93003144-3.jpg",
+        "https://crautos.com/clasificados/usados/93003144-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FELIPE ABARCA",
+        "teléfono": "8420-0914 8573-8148",
+        "whatsapp": "8420-0914"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO Y ROJO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Carro de cochera al día buen estado..",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Halógenos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 33
+}

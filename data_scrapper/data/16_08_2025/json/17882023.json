@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17882023&Chevrolet.AVEO%20.2006",
+    "año": 2006,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17882023-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17882023-1.jpg",
+        "https://crautos.com/clasificados/usados/17882023-2.jpg",
+        "https://crautos.com/clasificados/usados/17882023-3.jpg",
+        "https://crautos.com/clasificados/usados/17882023-4.jpg",
+        "https://crautos.com/clasificados/usados/17882023-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATALIE BOLAÑOS ARCE",
+        "teléfono": "8532-4037 8417-0893",
+        "whatsapp": "8532-4037"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Recién paso dekra se llevo alineado y tramado se le cambio el silenciador llantas nuevas.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 19
+}

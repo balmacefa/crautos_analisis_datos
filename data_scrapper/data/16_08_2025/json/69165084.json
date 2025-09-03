@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69165084&Mazda.2.2013",
+    "año": 2013,
+    "marca": "MAZDA",
+    "modelo": "2",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69165084-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69165084-1.jpg",
+        "https://crautos.com/clasificados/usados/69165084-2.jpg",
+        "https://crautos.com/clasificados/usados/69165084-3.jpg",
+        "https://crautos.com/clasificados/usados/69165084-4.jpg",
+        "https://crautos.com/clasificados/usados/69165084-5.jpg",
+        "https://crautos.com/clasificados/usados/69165084-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CINTHYA",
+        "teléfono": "8409-8153",
+        "whatsapp": "8409-8153"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "137,847 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "kilometraje_number": 137847,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

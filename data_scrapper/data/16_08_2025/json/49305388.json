@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49305388&Toyota.HILUX.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49305388-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49305388-1.jpg",
+        "https://crautos.com/clasificados/usados/49305388-2.jpg",
+        "https://crautos.com/clasificados/usados/49305388-3.jpg",
+        "https://crautos.com/clasificados/usados/49305388-4.jpg",
+        "https://crautos.com/clasificados/usados/49305388-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO MATA",
+        "teléfono": "8833-0069 8706-5625",
+        "whatsapp": "8833-0069"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "161,211 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Recien pintado en excelente estado.",
+        "kilometraje_number": 161211,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 22
+}

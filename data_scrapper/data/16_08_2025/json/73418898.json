@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73418898&Hyundai.ACCENT.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73418898-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73418898-1.jpg",
+        "https://crautos.com/clasificados/usados/73418898-2.jpg",
+        "https://crautos.com/clasificados/usados/73418898-3.jpg",
+        "https://crautos.com/clasificados/usados/73418898-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SARELLY FALLAS",
+        "teléfono": "8333-5665",
+        "whatsapp": "8333-5665"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "172,475 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Muy buen estado se vendo porque necesitamos un cuatro x cuatro.",
+        "kilometraje_number": 172475,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central"
+    ],
+    "antiguedad": 14
+}

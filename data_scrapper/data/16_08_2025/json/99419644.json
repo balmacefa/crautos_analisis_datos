@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99419644&Mitsubishi.ASX.2012",
+    "año": 2012,
+    "marca": "MITSUBISHI",
+    "modelo": "ASX",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99419644-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99419644-1.jpg",
+        "https://crautos.com/clasificados/usados/99419644-2.jpg",
+        "https://crautos.com/clasificados/usados/99419644-3.jpg",
+        "https://crautos.com/clasificados/usados/99419644-4.jpg",
+        "https://crautos.com/clasificados/usados/99419644-5.jpg",
+        "https://crautos.com/clasificados/usados/99419644-6.jpg",
+        "https://crautos.com/clasificados/usados/99419644-7.jpg",
+        "https://crautos.com/clasificados/usados/99419644-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO DE LEON",
+        "teléfono": "7144-3201",
+        "whatsapp": "7144-3201"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "203,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS-VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "-Motor en excelente estado -Caja manual de velocidades .",
+        "kilometraje_number": 203000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

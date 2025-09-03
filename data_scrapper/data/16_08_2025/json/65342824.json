@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65342824&Nissan.XTRAIL.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65342824-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65342824-1.jpg",
+        "https://crautos.com/clasificados/usados/65342824-2.jpg",
+        "https://crautos.com/clasificados/usados/65342824-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIELA FONSECA",
+        "teléfono": "8624-0411 6059-3425",
+        "whatsapp": "8624-0411"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "149,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "En exc estado y precio negociable .",
+        "kilometraje_number": 149000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

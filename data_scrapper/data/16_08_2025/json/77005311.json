@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77005311&Toyota.PRADO.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 39841,
+    "precio_usd": 20000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77005311-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77005311-1.jpg",
+        "https://crautos.com/clasificados/usados/77005311-2.jpg",
+        "https://crautos.com/clasificados/usados/77005311-3.jpg",
+        "https://crautos.com/clasificados/usados/77005311-4.jpg",
+        "https://crautos.com/clasificados/usados/77005311-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VINICIO FERNANDEZ MONTERO",
+        "teléfono": "8838-9836 8545-4686 2101-1154",
+        "whatsapp": "8838-9836"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "208,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "kilometraje_number": 208000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

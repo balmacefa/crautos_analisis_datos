@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8595536&Mercedes%20Benz.190%20TD.1987",
+    "año": 1987,
+    "marca": "MERCEDES BENZ",
+    "modelo": "190 TD",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8595536-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8595536-1.jpg",
+        "https://crautos.com/clasificados/usados/8595536-2.jpg",
+        "https://crautos.com/clasificados/usados/8595536-3.jpg",
+        "https://crautos.com/clasificados/usados/8595536-4.jpg",
+        "https://crautos.com/clasificados/usados/8595536-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO TIME",
+        "teléfono": "8872-2000 8625-8814 2101-5859",
+        "whatsapp": "8872-2000",
+        "dirección": "Pozos de Santa Ana 400 oeste del Santa Ana Country Club."
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "227,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BRONCE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Pintura al cien, aros AMG, todo al día, tapicería original, tiene forros de asientos., aire acondici.",
+        "kilometraje_number": 227000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 38
+}

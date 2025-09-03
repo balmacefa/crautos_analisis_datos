@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97385608&Toyota.AGYA.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "AGYA",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97385608-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97385608-1.jpg",
+        "https://crautos.com/clasificados/usados/97385608-2.jpg",
+        "https://crautos.com/clasificados/usados/97385608-3.jpg",
+        "https://crautos.com/clasificados/usados/97385608-4.jpg",
+        "https://crautos.com/clasificados/usados/97385608-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YENNER MÉNDEZ HERNÁNDEZ",
+        "teléfono": "8821-2485",
+        "whatsapp": "8821-2485"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "ANARANJADO",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Solo un dueño, Mant. Agencia y muy Económico y espacioso, Especial para Uso de UBER por lo Económico.",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 6
+}

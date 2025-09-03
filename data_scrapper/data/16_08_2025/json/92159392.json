@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92159392",
+    "año": 1987,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 13944,
+    "precio_usd": 7000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92159392-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92159392-1.jpg",
+        "https://crautos.com/clasificados/usados/92159392-2.jpg",
+        "https://crautos.com/clasificados/usados/92159392-3.jpg",
+        "https://crautos.com/clasificados/usados/92159392-4.jpg",
+        "https://crautos.com/clasificados/usados/92159392-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWIN BARBOZA",
+        "teléfono": "7031-4032",
+        "whatsapp": "7031-4032"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "472,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Motor dos L.Se puede recibir carro o moto como parte de pago max trss millones.",
+        "kilometraje_number": 472000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 38
+}

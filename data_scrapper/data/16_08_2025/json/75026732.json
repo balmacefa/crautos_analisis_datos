@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75026732&Honda.FIT%20.2006",
+    "año": 2006,
+    "marca": "HONDA",
+    "modelo": "FIT",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75026732-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75026732-1.jpg",
+        "https://crautos.com/clasificados/usados/75026732-2.jpg",
+        "https://crautos.com/clasificados/usados/75026732-3.jpg",
+        "https://crautos.com/clasificados/usados/75026732-4.jpg",
+        "https://crautos.com/clasificados/usados/75026732-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO MUÑOZ",
+        "teléfono": "8843-3996",
+        "whatsapp": "8843-3996"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "137,300 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CHAMPÁN",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Vehículo muy cómodo y espacioso cambio por jeep automático todo al día .",
+        "kilometraje_number": 137300,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93972930",
+    "año": 2019,
+    "marca": "JEEP",
+    "modelo": "CHEROKEE",
+    "precio_crc": 16930,
+    "precio_usd": 8499000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93972930-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93972930-1.jpg",
+        "https://crautos.com/clasificados/usados/93972930-2.jpg",
+        "https://crautos.com/clasificados/usados/93972930-3.jpg",
+        "https://crautos.com/clasificados/usados/93972930-4.jpg",
+        "https://crautos.com/clasificados/usados/93972930-5.jpg",
+        "https://crautos.com/clasificados/usados/93972930-6.jpg",
+        "https://crautos.com/clasificados/usados/93972930-7.jpg",
+        "https://crautos.com/clasificados/usados/93972930-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIAN VENEGAS",
+        "teléfono": "6158-7695 6143-5610",
+        "whatsapp": "6158-7695"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "82,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "exelente estado. precio negociable .",
+        "kilometraje_number": 82000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 6
+}

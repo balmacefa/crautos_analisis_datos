@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98931209&Volkswagen.CABRIO.1995",
+    "año": 1995,
+    "marca": "VOLKSWAGEN",
+    "modelo": "CABRIO",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98931209-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98931209-1.jpg",
+        "https://crautos.com/clasificados/usados/98931209-2.jpg",
+        "https://crautos.com/clasificados/usados/98931209-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNAN",
+        "teléfono": "8395-1715"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "115,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Convertible clasico en muy buen estado todo le funciona muy bien.",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 30
+}

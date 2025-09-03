@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87999063&Suzuki.SX4.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 6673,
+    "precio_usd": 3350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87999063-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87999063-1.jpg",
+        "https://crautos.com/clasificados/usados/87999063-2.jpg",
+        "https://crautos.com/clasificados/usados/87999063-3.jpg",
+        "https://crautos.com/clasificados/usados/87999063-4.jpg",
+        "https://crautos.com/clasificados/usados/87999063-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIAN CHACON GOMEZ",
+        "teléfono": "7203-2131 8892-8343",
+        "whatsapp": "7203-2131"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "198,500 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "TERRACOTA",
+        "color_interior": "NEGRO GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Vehículo nacional .",
+        "kilometraje_number": 198500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

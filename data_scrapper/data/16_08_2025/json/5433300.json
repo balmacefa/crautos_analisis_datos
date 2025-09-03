@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5433300&Mercedes%20Benz.EQB%20350.2023",
+    "año": 2023,
+    "marca": "MERCEDES BENZ",
+    "modelo": "EQB 350",
+    "precio_crc": 25602000,
+    "precio_usd": 51000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5433300-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5433300-1.jpg",
+        "https://crautos.com/clasificados/usados/5433300-2.jpg",
+        "https://crautos.com/clasificados/usados/5433300-3.jpg",
+        "https://crautos.com/clasificados/usados/5433300-4.jpg",
+        "https://crautos.com/clasificados/usados/5433300-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "25,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Abril del 2025",
+        "comentario_vendedor": "Siete pasajeros. Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 25000
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

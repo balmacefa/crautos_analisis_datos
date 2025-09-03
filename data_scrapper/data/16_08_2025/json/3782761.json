@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3782761&Hyundai.CRETA.2020",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "CRETA",
+    "precio_crc": 8300000,
+    "precio_usd": 16534.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3782761-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3782761-1.jpg",
+        "https://crautos.com/clasificados/usados/3782761-2.jpg",
+        "https://crautos.com/clasificados/usados/3782761-3.jpg",
+        "https://crautos.com/clasificados/usados/3782761-4.jpg",
+        "https://crautos.com/clasificados/usados/3782761-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOMOVILES JOSOTAR",
+        "teléfono": "8813-2424",
+        "whatsapp": "8813-2424",
+        "dirección": "Belén"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "60,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Nacional. Garantía x escrito. RECIBO. Cuatro llantas nuevas. Dekra hasta el veintisiete. .",
+        "kilometraje_number": 60000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

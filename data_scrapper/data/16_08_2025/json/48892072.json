@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48892072&Nissan.PATHFINDER.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48892072-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48892072-1.jpg",
+        "https://crautos.com/clasificados/usados/48892072-2.jpg",
+        "https://crautos.com/clasificados/usados/48892072-3.jpg",
+        "https://crautos.com/clasificados/usados/48892072-4.jpg",
+        "https://crautos.com/clasificados/usados/48892072-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERARDO ARCE LOPEZ",
+        "teléfono": "8918-7011",
+        "whatsapp": "8918-7011"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "267,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Llantas nuevas se vende por motivo de viaje muy buen mantenimiento.",
+        "kilometraje_number": 267000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

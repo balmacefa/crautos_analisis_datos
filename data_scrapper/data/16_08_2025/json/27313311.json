@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27313311&International.4900.2001",
+    "año": 2001,
+    "marca": "INTERNATIONAL",
+    "modelo": "4900",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27313311-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27313311-1.jpg",
+        "https://crautos.com/clasificados/usados/27313311-2.jpg",
+        "https://crautos.com/clasificados/usados/27313311-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL PORRAS",
+        "teléfono": "8864-8282 8383-0500"
+    },
+    "informacion_general": {
+        "cilindrada": "7600 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "En excelentes condiciones.",
+        "kilometraje_number": null,
+        "cilindrada_number": 7600
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 24
+}

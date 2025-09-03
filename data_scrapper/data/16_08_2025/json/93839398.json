@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93839398&Suzuki.SWIFT%20DZIRE%20GL.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE GL",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93839398-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93839398-1.jpg",
+        "https://crautos.com/clasificados/usados/93839398-2.jpg",
+        "https://crautos.com/clasificados/usados/93839398-3.jpg",
+        "https://crautos.com/clasificados/usados/93839398-4.jpg",
+        "https://crautos.com/clasificados/usados/93839398-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER ALVARES",
+        "teléfono": "8671-6932",
+        "whatsapp": "8671-6932"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "122,500 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 122500,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22213142&Chevrolet.BEAT.2020",
+    "año": 2020,
+    "marca": "CHEVROLET",
+    "modelo": "BEAT",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22213142-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22213142-1.jpg",
+        "https://crautos.com/clasificados/usados/22213142-2.jpg",
+        "https://crautos.com/clasificados/usados/22213142-3.jpg",
+        "https://crautos.com/clasificados/usados/22213142-4.jpg",
+        "https://crautos.com/clasificados/usados/22213142-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO AVILA",
+        "teléfono": "8500-7079 8394-9520",
+        "whatsapp": "8500-7079"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGH",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 5
+}

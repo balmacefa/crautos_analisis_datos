@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88847913&Toyota.RAV4%20.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 15339,
+    "precio_usd": 7700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88847913-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88847913-1.jpg",
+        "https://crautos.com/clasificados/usados/88847913-2.jpg",
+        "https://crautos.com/clasificados/usados/88847913-3.jpg",
+        "https://crautos.com/clasificados/usados/88847913-4.jpg",
+        "https://crautos.com/clasificados/usados/88847913-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VÍCTOR AGUILAR AGUILAR",
+        "teléfono": "8370-4499 8676-4666",
+        "whatsapp": "8370-4499"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "108,200 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO PIANO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Impecable cero óxido para inscribir nada que hacerle. Llame y negociamos.",
+        "kilometraje_number": 108200,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

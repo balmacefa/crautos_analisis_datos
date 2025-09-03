@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28873891&Mitsubishi.L200.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 33865,
+    "precio_usd": 17000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28873891-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28873891-1.jpg",
+        "https://crautos.com/clasificados/usados/28873891-2.jpg",
+        "https://crautos.com/clasificados/usados/28873891-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO AGUERO",
+        "teléfono": "8314-4946"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "146,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL PERLA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 146000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Luces de Xenón/Bixenón",
+        "Retrovisores auto-retractibles",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

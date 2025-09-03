@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30529851&Suzuki.SWIFT%20.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 8546,
+    "precio_usd": 4290000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30529851-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30529851-1.jpg",
+        "https://crautos.com/clasificados/usados/30529851-2.jpg",
+        "https://crautos.com/clasificados/usados/30529851-3.jpg",
+        "https://crautos.com/clasificados/usados/30529851-4.jpg",
+        "https://crautos.com/clasificados/usados/30529851-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA ALVAREZ",
+        "teléfono": "8916-6644 8810-4392"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "119,500 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Solo dos dueños Llantas nuevas Hoja Dekra limpia.",
+        "kilometraje_number": 119500,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

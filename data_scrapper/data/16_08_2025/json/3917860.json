@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3917860&Nissan.QASHQAI.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 8785000,
+    "precio_usd": 17500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3917860-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3917860-1.jpg",
+        "https://crautos.com/clasificados/usados/3917860-2.jpg",
+        "https://crautos.com/clasificados/usados/3917860-3.jpg",
+        "https://crautos.com/clasificados/usados/3917860-4.jpg",
+        "https://crautos.com/clasificados/usados/3917860-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "89,441 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BRONCE",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "SUV.",
+        "kilometraje_number": 89441,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 7
+}

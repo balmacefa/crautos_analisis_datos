@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97763455&Toyota.YARIS.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6962,
+    "precio_usd": 3495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97763455-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97763455-1.jpg",
+        "https://crautos.com/clasificados/usados/97763455-2.jpg",
+        "https://crautos.com/clasificados/usados/97763455-3.jpg",
+        "https://crautos.com/clasificados/usados/97763455-4.jpg",
+        "https://crautos.com/clasificados/usados/97763455-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GIOVANNI UGALDE MIRANDA",
+        "teléfono": "8977-3164 6002-0000 8438-9900",
+        "whatsapp": "8977-3164"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "155,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "GANGA Excelente estado aros de lujo llame y negociamos .",
+        "kilometraje_number": 155000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

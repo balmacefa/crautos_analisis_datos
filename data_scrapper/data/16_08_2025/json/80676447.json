@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80676447&Toyota.RAV4.1997",
+    "año": 1997,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80676447-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80676447-1.jpg",
+        "https://crautos.com/clasificados/usados/80676447-2.jpg",
+        "https://crautos.com/clasificados/usados/80676447-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN AGUILERA",
+        "teléfono": "8595-8902 8684-5905",
+        "whatsapp": "8595-8902"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "146,800 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Vendo por cambio de carro, paquete eléctrico completo, pegadero con conector..",
+        "kilometraje_number": 146800,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

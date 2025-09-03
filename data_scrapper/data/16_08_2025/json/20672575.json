@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20672575&Hyundai.ACCENT.2009",
+    "año": 2009,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20672575-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20672575-1.jpg",
+        "https://crautos.com/clasificados/usados/20672575-2.jpg",
+        "https://crautos.com/clasificados/usados/20672575-3.jpg",
+        "https://crautos.com/clasificados/usados/20672575-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXIS VALVERDE",
+        "teléfono": "8823-9421 8832-1068",
+        "whatsapp": "8823-9421"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "154,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Muy bonito por dentro y por fuera. Pintado hace mes y llantas como nuevas. Dekra julio veintiseis.",
+        "kilometraje_number": 154000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

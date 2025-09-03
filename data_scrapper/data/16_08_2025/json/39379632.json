@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39379632&Mitsubishi.MONTERO%20SPORT%20.2009",
+    "año": 2009,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 19422,
+    "precio_usd": 9750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39379632-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39379632-1.jpg",
+        "https://crautos.com/clasificados/usados/39379632-2.jpg",
+        "https://crautos.com/clasificados/usados/39379632-3.jpg",
+        "https://crautos.com/clasificados/usados/39379632-4.jpg",
+        "https://crautos.com/clasificados/usados/39379632-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEO CASTILLO",
+        "teléfono": "8584-5398",
+        "whatsapp": "8584-5398"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "179,547 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Abril del 2025",
+        "comentario_vendedor": "RECIBO muy buen estado al dia.",
+        "kilometraje_number": 179547,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32763295&Mitsubishi.L200.2009",
+    "año": 2009,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32763295-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32763295-1.jpg",
+        "https://crautos.com/clasificados/usados/32763295-2.jpg",
+        "https://crautos.com/clasificados/usados/32763295-3.jpg",
+        "https://crautos.com/clasificados/usados/32763295-4.jpg",
+        "https://crautos.com/clasificados/usados/32763295-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER CORRALES",
+        "teléfono": "8848-2364 8703-5321",
+        "whatsapp": "8848-2364"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "226,076 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS RATON",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "SOLO BUENO.",
+        "kilometraje_number": 226076,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

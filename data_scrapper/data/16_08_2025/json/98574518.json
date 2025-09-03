@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98574518&Nissan.SENTRA.2000",
+    "año": 2000,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98574518-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98574518-1.jpg",
+        "https://crautos.com/clasificados/usados/98574518-2.jpg",
+        "https://crautos.com/clasificados/usados/98574518-3.jpg",
+        "https://crautos.com/clasificados/usados/98574518-4.jpg",
+        "https://crautos.com/clasificados/usados/98574518-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER VARGAS",
+        "teléfono": "8911-3636",
+        "whatsapp": "8911-3636"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "113,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "kilometraje_number": 113000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

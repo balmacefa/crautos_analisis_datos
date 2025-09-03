@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3988755&Land%20Rover.RANGE%20ROVER%20EVOQUE.2018",
+    "año": 2018,
+    "marca": "LAND ROVER",
+    "modelo": "RANGE ROVER EVOQUE",
+    "precio_crc": 21335000,
+    "precio_usd": 42500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3988755-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3988755-1.jpg",
+        "https://crautos.com/clasificados/usados/3988755-2.jpg",
+        "https://crautos.com/clasificados/usados/3988755-3.jpg",
+        "https://crautos.com/clasificados/usados/3988755-4.jpg",
+        "https://crautos.com/clasificados/usados/3988755-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "USADOS MOTORES BRITÁNICOS",
+        "teléfono": "4037-5720",
+        "whatsapp": "4037-5720",
+        "dirección": "Avenida Land Rover, La Uruca"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "77,639 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Marzo del 2025",
+        "kilometraje_number": 77639,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 7
+}

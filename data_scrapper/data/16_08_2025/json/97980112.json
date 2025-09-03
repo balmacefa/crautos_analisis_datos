@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97980112&Nissan.TIIDA.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 6076,
+    "precio_usd": 3050000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97980112-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97980112-1.jpg",
+        "https://crautos.com/clasificados/usados/97980112-2.jpg",
+        "https://crautos.com/clasificados/usados/97980112-3.jpg",
+        "https://crautos.com/clasificados/usados/97980112-4.jpg",
+        "https://crautos.com/clasificados/usados/97980112-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO BRENES",
+        "teléfono": "8341-3092",
+        "whatsapp": "8341-3092"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "215,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Junio del 2025",
+        "comentario_vendedor": "Excelente de motor e interior. Detalles en pintura. .",
+        "kilometraje_number": 215000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

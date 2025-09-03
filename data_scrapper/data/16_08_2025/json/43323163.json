@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43323163&Suzuki.SWIFT%20.2013",
+    "año": 2013,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43323163-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43323163-1.jpg",
+        "https://crautos.com/clasificados/usados/43323163-2.jpg",
+        "https://crautos.com/clasificados/usados/43323163-3.jpg",
+        "https://crautos.com/clasificados/usados/43323163-4.jpg",
+        "https://crautos.com/clasificados/usados/43323163-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ALFARO",
+        "teléfono": "6473-1001 6368-1876",
+        "whatsapp": "6473-1001"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "199,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable carro muy socadito se escuchan ofertas .",
+        "kilometraje_number": 199000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

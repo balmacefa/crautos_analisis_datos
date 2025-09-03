@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86110318&Mitsubishi.MONTERO.2011",
+    "año": 2011,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86110318-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86110318-1.jpg",
+        "https://crautos.com/clasificados/usados/86110318-2.jpg",
+        "https://crautos.com/clasificados/usados/86110318-3.jpg",
+        "https://crautos.com/clasificados/usados/86110318-4.jpg",
+        "https://crautos.com/clasificados/usados/86110318-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL",
+        "teléfono": "6132-2735",
+        "whatsapp": "6132-2735"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "147,797 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Agosto del 2025",
+        "comentario_vendedor": "Versión full Extras. Mant Agencia. Racks y Canasta Incluidas. Llantas nuevas Firestone. Sunroof..",
+        "kilometraje_number": 147797,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Caja de cambios dual",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

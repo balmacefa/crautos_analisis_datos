@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44778699&Honda.FIT.2006",
+    "año": 2006,
+    "marca": "HONDA",
+    "modelo": "FIT",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44778699-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44778699-1.jpg",
+        "https://crautos.com/clasificados/usados/44778699-2.jpg",
+        "https://crautos.com/clasificados/usados/44778699-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUÉ DAVID RAYO MARTÍNEZ",
+        "teléfono": "7133-2681",
+        "whatsapp": "7133-2681"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "337,202 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Detalles estéticos - dos soportes que necesitan cambo - la D de drive tiene un parpadeo .",
+        "kilometraje_number": 337202,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

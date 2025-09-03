@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27571257&BMW.IX.2024",
+    "año": 2024,
+    "marca": "BMW",
+    "modelo": "IX",
+    "precio_crc": 80926,
+    "precio_usd": 40625000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27571257-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27571257-1.jpg",
+        "https://crautos.com/clasificados/usados/27571257-2.jpg",
+        "https://crautos.com/clasificados/usados/27571257-3.jpg",
+        "https://crautos.com/clasificados/usados/27571257-4.jpg",
+        "https://crautos.com/clasificados/usados/27571257-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONY QUIROS",
+        "teléfono": "6299-5767",
+        "whatsapp": "6299-5767"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "420 kms",
+        "batería": "1.0 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "27,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "kilometraje_number": 27000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 1
+}

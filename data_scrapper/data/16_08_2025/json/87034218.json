@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87034218&Subaru.IMPREZA.1997",
+    "año": 1997,
+    "marca": "SUBARU",
+    "modelo": "IMPREZA",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87034218-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87034218-1.jpg",
+        "https://crautos.com/clasificados/usados/87034218-2.jpg",
+        "https://crautos.com/clasificados/usados/87034218-3.jpg",
+        "https://crautos.com/clasificados/usados/87034218-4.jpg",
+        "https://crautos.com/clasificados/usados/87034218-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN F LETONA",
+        "teléfono": "7013-1981",
+        "whatsapp": "8975-9141"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "112,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Impecable AWD todo cien x ciento muy cuidado negociable.",
+        "kilometraje_number": 112000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

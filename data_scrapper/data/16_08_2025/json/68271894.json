@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68271894&Hyundai.SANTA%20FE%20.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68271894-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68271894-1.jpg",
+        "https://crautos.com/clasificados/usados/68271894-2.jpg",
+        "https://crautos.com/clasificados/usados/68271894-3.jpg",
+        "https://crautos.com/clasificados/usados/68271894-4.jpg",
+        "https://crautos.com/clasificados/usados/68271894-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS ALPIZAR",
+        "teléfono": "8560-6059 8984-2283"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "FULL EXTRAS-PRECIO NEGOCIABLE!!.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

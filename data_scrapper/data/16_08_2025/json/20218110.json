@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20218110&Fiat.FIORINO.2012",
+    "año": 2012,
+    "marca": "FIAT",
+    "modelo": "FIORINO",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20218110-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20218110-1.jpg",
+        "https://crautos.com/clasificados/usados/20218110-2.jpg",
+        "https://crautos.com/clasificados/usados/20218110-3.jpg",
+        "https://crautos.com/clasificados/usados/20218110-4.jpg",
+        "https://crautos.com/clasificados/usados/20218110-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN JOSÉ MOYA",
+        "teléfono": "7030-0895 7265-7269",
+        "whatsapp": "7030-0895"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "141,550 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO/BLANCO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Bomba de agua y el radiador nuevos. Dos Llantas nuevas. Económico para viajes largos .",
+        "kilometraje_number": 141550,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

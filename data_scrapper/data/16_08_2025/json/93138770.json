@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93138770&Mitsubishi.L200.2007",
+    "año": 2007,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 20518,
+    "precio_usd": 10300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93138770-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93138770-1.jpg",
+        "https://crautos.com/clasificados/usados/93138770-2.jpg",
+        "https://crautos.com/clasificados/usados/93138770-3.jpg",
+        "https://crautos.com/clasificados/usados/93138770-4.jpg",
+        "https://crautos.com/clasificados/usados/93138770-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTOR CHINCHILLA",
+        "teléfono": "8913-9750",
+        "whatsapp": "8913-9750"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "278,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 278000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16296273&Suzuki.SWIFT%20DZIRE.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16296273-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16296273-1.jpg",
+        "https://crautos.com/clasificados/usados/16296273-2.jpg",
+        "https://crautos.com/clasificados/usados/16296273-3.jpg",
+        "https://crautos.com/clasificados/usados/16296273-4.jpg",
+        "https://crautos.com/clasificados/usados/16296273-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN QUESADA",
+        "teléfono": "8979-6871",
+        "whatsapp": "8979-6871"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "119,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE Y NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Estado mecánico excelente. Detalles de pintura en bumpers delantero y trasero..",
+        "kilometraje_number": 119000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

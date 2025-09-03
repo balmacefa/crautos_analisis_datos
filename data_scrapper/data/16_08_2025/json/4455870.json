@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4455870&Hyundai.SONATA%20.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "SONATA",
+    "precio_crc": 8882306,
+    "precio_usd": 17694.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4455870-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4455870-1.jpg",
+        "https://crautos.com/clasificados/usados/4455870-2.jpg",
+        "https://crautos.com/clasificados/usados/4455870-3.jpg",
+        "https://crautos.com/clasificados/usados/4455870-4.jpg",
+        "https://crautos.com/clasificados/usados/4455870-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "COSTA AMERICAN AUTO",
+        "teléfono": "7114-2178 4018-1478",
+        "whatsapp": "7114-2178",
+        "dirección": "Guadalupe, San Francisco, Barrio Tournon Centro Comercial Tournon Local 2"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "163,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "excelentes condiciones .",
+        "kilometraje_number": 163000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83931895&Toyota.PRADO.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83931895-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83931895-1.jpg",
+        "https://crautos.com/clasificados/usados/83931895-2.jpg",
+        "https://crautos.com/clasificados/usados/83931895-3.jpg",
+        "https://crautos.com/clasificados/usados/83931895-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICK VINDAS",
+        "teléfono": "8344-9971"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "400,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BEIGE",
+        "color_interior": "CAMEL",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Julio del 2025",
+        "comentario_vendedor": "Carro en muy buen estado KILOMETRAJE REAL - no engaños - NEGOCIABLE urge vender.",
+        "kilometraje_number": 400000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

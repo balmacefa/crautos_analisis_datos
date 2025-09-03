@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38485102&JAC.HFC1035.2021",
+    "año": 2021,
+    "marca": "JAC",
+    "modelo": "HFC1035",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID ANCHIA",
+        "teléfono": "8966-6510",
+        "whatsapp": "8966-6510"
+    },
+    "informacion_general": {
+        "cilindrada": "2771 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "84,585 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Impecable. Poco Kilometraje.",
+        "kilometraje_number": 84585,
+        "cilindrada_number": 2771
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 4
+}

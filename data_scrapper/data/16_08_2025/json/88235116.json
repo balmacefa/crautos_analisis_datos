@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88235116&Hyundai.ELANTRA.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88235116-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88235116-1.jpg",
+        "https://crautos.com/clasificados/usados/88235116-2.jpg",
+        "https://crautos.com/clasificados/usados/88235116-3.jpg",
+        "https://crautos.com/clasificados/usados/88235116-4.jpg",
+        "https://crautos.com/clasificados/usados/88235116-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN GONZALEZ VEGA",
+        "teléfono": "8317-5374",
+        "whatsapp": "8317-5374"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "123,500 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Hyundai Elantra - Dekra y Marchamo al día. Automático Eco Drive Bluetooth AC cierre central.",
+        "kilometraje_number": 123500,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 13
+}

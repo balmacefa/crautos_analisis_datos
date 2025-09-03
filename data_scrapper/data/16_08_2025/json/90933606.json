@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90933606&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90933606-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90933606-1.jpg",
+        "https://crautos.com/clasificados/usados/90933606-2.jpg",
+        "https://crautos.com/clasificados/usados/90933606-3.jpg",
+        "https://crautos.com/clasificados/usados/90933606-4.jpg",
+        "https://crautos.com/clasificados/usados/90933606-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID PRADO",
+        "teléfono": "8331-6441 6103-0394",
+        "whatsapp": "8331-6441"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Se puede ver con cita en Mall Oxígeno .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

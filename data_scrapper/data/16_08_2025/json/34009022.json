@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34009022&Kia.SPORTAGE%20MR.1995",
+    "año": 1995,
+    "marca": "KIA",
+    "modelo": "SPORTAGE MR",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34009022-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34009022-1.jpg",
+        "https://crautos.com/clasificados/usados/34009022-2.jpg",
+        "https://crautos.com/clasificados/usados/34009022-3.jpg",
+        "https://crautos.com/clasificados/usados/34009022-4.jpg",
+        "https://crautos.com/clasificados/usados/34009022-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER BADILLA",
+        "teléfono": "7240-9505",
+        "whatsapp": "7240-9505"
+    },
+    "informacion_general": {
+        "cilindrada": "1998 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "175,547 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "cuatroXcuatro reductora extras todo al día Aire recién cargad.",
+        "kilometraje_number": 175547,
+        "cilindrada_number": 1998
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 30
+}

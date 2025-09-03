@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61069484&Jeep.RENEGADE.2018",
+    "año": 2018,
+    "marca": "JEEP",
+    "modelo": "RENEGADE",
+    "precio_crc": 15637,
+    "precio_usd": 7850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61069484-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61069484-1.jpg",
+        "https://crautos.com/clasificados/usados/61069484-2.jpg",
+        "https://crautos.com/clasificados/usados/61069484-3.jpg",
+        "https://crautos.com/clasificados/usados/61069484-4.jpg",
+        "https://crautos.com/clasificados/usados/61069484-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA LAURA",
+        "teléfono": "8993-7246",
+        "whatsapp": "8993-7246"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "87,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "INTERIOR",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Llantas nuevas .",
+        "kilometraje_number": 87000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

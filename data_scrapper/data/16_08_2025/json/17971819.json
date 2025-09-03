@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17971819&Hyundai.H1.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17971819-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17971819-1.jpg",
+        "https://crautos.com/clasificados/usados/17971819-2.jpg",
+        "https://crautos.com/clasificados/usados/17971819-3.jpg",
+        "https://crautos.com/clasificados/usados/17971819-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO SALAZAR ALPIZAR",
+        "teléfono": "8824-6511 8829-7935",
+        "whatsapp": "8824-6511"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Buseta en excelente estado NO USADA EN TURISMO solo familiar .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 11
+}

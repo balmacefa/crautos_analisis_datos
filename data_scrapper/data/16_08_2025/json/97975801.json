@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97975801&Chevrolet.BEAT.2018",
+    "año": 2018,
+    "marca": "CHEVROLET",
+    "modelo": "BEAT",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97975801-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97975801-1.jpg",
+        "https://crautos.com/clasificados/usados/97975801-2.jpg",
+        "https://crautos.com/clasificados/usados/97975801-3.jpg",
+        "https://crautos.com/clasificados/usados/97975801-4.jpg",
+        "https://crautos.com/clasificados/usados/97975801-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JIMENA CORDERO",
+        "teléfono": "6021-8778 6171-5481"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Un solo dueño de agencia. Dekra.",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

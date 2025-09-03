@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50091962&Land%20Rover.SERIE%203.1972",
+    "año": 1972,
+    "marca": "LAND ROVER",
+    "modelo": "SERIE 3",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50091962-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50091962-1.jpg",
+        "https://crautos.com/clasificados/usados/50091962-2.jpg",
+        "https://crautos.com/clasificados/usados/50091962-3.jpg",
+        "https://crautos.com/clasificados/usados/50091962-4.jpg",
+        "https://crautos.com/clasificados/usados/50091962-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO SABORIO",
+        "teléfono": "8706-1942",
+        "whatsapp": "8706-1942"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "1 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "MOSTAZA",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Un solo dueño .",
+        "kilometraje_number": 1,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 53
+}

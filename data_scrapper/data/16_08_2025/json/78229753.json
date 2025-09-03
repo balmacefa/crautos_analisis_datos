@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78229753&Ssang%20Yong.TIVOLI%20.2016",
+    "año": 2016,
+    "marca": "SSANG YONG",
+    "modelo": "TIVOLI",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78229753-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78229753-1.jpg",
+        "https://crautos.com/clasificados/usados/78229753-2.jpg",
+        "https://crautos.com/clasificados/usados/78229753-3.jpg",
+        "https://crautos.com/clasificados/usados/78229753-4.jpg",
+        "https://crautos.com/clasificados/usados/78229753-5.jpg",
+        "https://crautos.com/clasificados/usados/78229753-6.jpg",
+        "https://crautos.com/clasificados/usados/78229753-7.jpg",
+        "https://crautos.com/clasificados/usados/78229753-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE LUIS DELGADO",
+        "teléfono": "7059-4820",
+        "whatsapp": "7059-4820"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Perfecto estado.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

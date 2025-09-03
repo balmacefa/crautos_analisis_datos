@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6171229",
+    "año": 2022,
+    "marca": "CHERY",
+    "modelo": "TIGGO 2",
+    "precio_crc": 11255,
+    "precio_usd": 5650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6171229-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6171229-1.jpg",
+        "https://crautos.com/clasificados/usados/6171229-2.jpg",
+        "https://crautos.com/clasificados/usados/6171229-3.jpg",
+        "https://crautos.com/clasificados/usados/6171229-4.jpg",
+        "https://crautos.com/clasificados/usados/6171229-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ADRIAN",
+        "teléfono": "7218-0680 6146-2250 2241-5222",
+        "dirección": "Moravia, del Banco Nacional 600 mtrs norte y 400 mtrs oeste Final del Boulevar, esquina de Autos Adrián"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "SUPER PRECIO, FINANCIAMIENTO CON COOPERATIVAS..",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

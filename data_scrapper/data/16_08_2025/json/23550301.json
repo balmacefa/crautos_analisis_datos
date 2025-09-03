@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23550301&Volkswagen.JETTA%20MK4.2000",
+    "año": 2000,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA MK4",
+    "precio_crc": 3785,
+    "precio_usd": 1900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23550301-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23550301-1.jpg",
+        "https://crautos.com/clasificados/usados/23550301-2.jpg",
+        "https://crautos.com/clasificados/usados/23550301-3.jpg",
+        "https://crautos.com/clasificados/usados/23550301-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LIMBER BENAVIDES",
+        "teléfono": "8887-7425",
+        "whatsapp": "8887-7425"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "213,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO Y CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 213000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

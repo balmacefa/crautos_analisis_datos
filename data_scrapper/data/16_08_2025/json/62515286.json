@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62515286&Kia.CARNIVAL.2008",
+    "año": 2008,
+    "marca": "KIA",
+    "modelo": "CARNIVAL",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62515286-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62515286-1.jpg",
+        "https://crautos.com/clasificados/usados/62515286-2.jpg",
+        "https://crautos.com/clasificados/usados/62515286-3.jpg",
+        "https://crautos.com/clasificados/usados/62515286-4.jpg",
+        "https://crautos.com/clasificados/usados/62515286-5.jpg",
+        "https://crautos.com/clasificados/usados/62515286-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO FERRER",
+        "teléfono": "8992-4654",
+        "whatsapp": "8992-4654"
+    },
+    "informacion_general": {
+        "cilindrada": "2900 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "8",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Llantas nuevas. Riteve al dia. Frenos nuevos. Nunca chocado. Uso familiar. Fajas nuevas.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

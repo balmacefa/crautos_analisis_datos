@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10718860&Toyota.RAV4.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10718860-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10718860-1.jpg",
+        "https://crautos.com/clasificados/usados/10718860-2.jpg",
+        "https://crautos.com/clasificados/usados/10718860-3.jpg",
+        "https://crautos.com/clasificados/usados/10718860-4.jpg",
+        "https://crautos.com/clasificados/usados/10718860-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS FELIPE VARGAS PÉREZ",
+        "teléfono": "8743-3482",
+        "whatsapp": "8743-3482"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "181,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Abril del 2025",
+        "comentario_vendedor": "Estado exc. Overhaul exitoso recién hecho o sea tiene básicamente motor nuevo y Clutch,bater nueva..",
+        "kilometraje_number": 181000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

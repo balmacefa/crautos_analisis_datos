@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48252953",
+    "año": 2016,
+    "marca": "JEEP",
+    "modelo": "WRANGLER 75 ANIVERSARIO",
+    "precio_crc": 34462,
+    "precio_usd": 17300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48252953-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48252953-1.jpg",
+        "https://crautos.com/clasificados/usados/48252953-2.jpg",
+        "https://crautos.com/clasificados/usados/48252953-3.jpg",
+        "https://crautos.com/clasificados/usados/48252953-4.jpg",
+        "https://crautos.com/clasificados/usados/48252953-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS LARA",
+        "teléfono": "8349-9161",
+        "whatsapp": "8349-9161"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "38,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Negociable. En excelente condición. Como nuevo.",
+        "kilometraje_number": 38000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

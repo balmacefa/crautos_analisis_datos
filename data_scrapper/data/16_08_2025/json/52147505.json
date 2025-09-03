@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52147505&Chevrolet.EL%20CAMINO.1968",
+    "año": 1968,
+    "marca": "CHEVROLET",
+    "modelo": "EL CAMINO",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52147505-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52147505-1.jpg",
+        "https://crautos.com/clasificados/usados/52147505-2.jpg",
+        "https://crautos.com/clasificados/usados/52147505-3.jpg",
+        "https://crautos.com/clasificados/usados/52147505-4.jpg",
+        "https://crautos.com/clasificados/usados/52147505-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ALVARADO SÁNCHEZ",
+        "teléfono": "8822-9839",
+        "whatsapp": "8822-9839"
+    },
+    "informacion_general": {
+        "cilindrada": "5700 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Clásico para terminar de restaurar.",
+        "kilometraje_number": null,
+        "cilindrada_number": 5700
+    },
+    "equipamiento": [],
+    "antiguedad": 57
+}

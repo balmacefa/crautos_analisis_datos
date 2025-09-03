@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49309264&Mitsubishi.MONTERO%20SPORT.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49309264-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49309264-1.jpg",
+        "https://crautos.com/clasificados/usados/49309264-2.jpg",
+        "https://crautos.com/clasificados/usados/49309264-3.jpg",
+        "https://crautos.com/clasificados/usados/49309264-4.jpg",
+        "https://crautos.com/clasificados/usados/49309264-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HENRY JIMÉNEZ JIMÉNEZ",
+        "teléfono": "6166-4678 2209-5174",
+        "whatsapp": "6166-4678"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "313,062 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 313062,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

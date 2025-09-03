@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1916538&Toyota.RAV4.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1916538-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1916538-1.jpg",
+        "https://crautos.com/clasificados/usados/1916538-2.jpg",
+        "https://crautos.com/clasificados/usados/1916538-3.jpg",
+        "https://crautos.com/clasificados/usados/1916538-4.jpg",
+        "https://crautos.com/clasificados/usados/1916538-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS HERMANOS ROJASGUANACASTE",
+        "teléfono": "8823-9072 8393-5929 2537-4850",
+        "whatsapp": "8823-9072",
+        "dirección": "Nambi, Nicoya. 1 km oeste de la Dos Pinos via Nicoya, Santa Cruz, propiedad a mano izquierda sobre la pista, en el CEDI de Agro los Cartagos"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "1 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Negociemos! Recibo, Financio y garantía. Visítenos en Facebook e Instagram como Autos Hermanos Rojas.",
+        "kilometraje_number": 1,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 24
+}

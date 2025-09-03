@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69816579&Hyundai.GRAND%20I10.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69816579-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69816579-1.jpg",
+        "https://crautos.com/clasificados/usados/69816579-2.jpg",
+        "https://crautos.com/clasificados/usados/69816579-3.jpg",
+        "https://crautos.com/clasificados/usados/69816579-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO CHACÓN",
+        "teléfono": "8941-9647 8735-5299",
+        "whatsapp": "8941-9647"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO/COBRE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Carro en perfecto estado se vende porque tuvimos que comprar uno más grande..",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7577387&Nissan.TIIDA.2014",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7577387-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7577387-1.jpg",
+        "https://crautos.com/clasificados/usados/7577387-2.jpg",
+        "https://crautos.com/clasificados/usados/7577387-3.jpg",
+        "https://crautos.com/clasificados/usados/7577387-4.jpg",
+        "https://crautos.com/clasificados/usados/7577387-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "excelente estado recibo vehiculo financiamiento disponible .",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58861143&Toyota.FORTUNER%20.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58861143-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58861143-1.jpg",
+        "https://crautos.com/clasificados/usados/58861143-2.jpg",
+        "https://crautos.com/clasificados/usados/58861143-3.jpg",
+        "https://crautos.com/clasificados/usados/58861143-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICHARD MONTERO RAMÍREZ",
+        "teléfono": "8384-9528 8656-8280 8342-6362",
+        "whatsapp": "8384-9528"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Vehículo de cochera en excelente estado .",
+        "kilometraje_number": null,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 14
+}

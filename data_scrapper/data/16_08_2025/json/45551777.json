@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45551777&Suzuki.SWIFT.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45551777-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45551777-1.jpg",
+        "https://crautos.com/clasificados/usados/45551777-2.jpg",
+        "https://crautos.com/clasificados/usados/45551777-3.jpg",
+        "https://crautos.com/clasificados/usados/45551777-4.jpg",
+        "https://crautos.com/clasificados/usados/45551777-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIANA MÉNDEZ",
+        "teléfono": "8455-0959 8342-5897",
+        "whatsapp": "8455-0959"
+    },
+    "informacion_general": {
+        "cilindrada": "1372 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1372
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

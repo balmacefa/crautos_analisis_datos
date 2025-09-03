@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43431122&Hyundai.H1.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43431122-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43431122-1.jpg",
+        "https://crautos.com/clasificados/usados/43431122-2.jpg",
+        "https://crautos.com/clasificados/usados/43431122-3.jpg",
+        "https://crautos.com/clasificados/usados/43431122-4.jpg",
+        "https://crautos.com/clasificados/usados/43431122-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO",
+        "teléfono": "8881-0278",
+        "whatsapp": "8881-0278"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "314,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "MOTOR EN EXCELENTE ESTADO. TODO AL DIA.",
+        "kilometraje_number": 314000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

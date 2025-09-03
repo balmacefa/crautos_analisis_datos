@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14849894&Mazda.6.2004",
+    "año": 2004,
+    "marca": "MAZDA",
+    "modelo": "6",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14849894-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14849894-1.jpg",
+        "https://crautos.com/clasificados/usados/14849894-2.jpg",
+        "https://crautos.com/clasificados/usados/14849894-3.jpg",
+        "https://crautos.com/clasificados/usados/14849894-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD JIMENEZ",
+        "teléfono": "6333-6896",
+        "whatsapp": "6333-6896"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "211,937 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Todo al dia. Negociable. .",
+        "kilometraje_number": 211937,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

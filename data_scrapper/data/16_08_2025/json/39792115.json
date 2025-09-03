@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39792115&Hino.511%20-%20WU600L.2018",
+    "año": 2018,
+    "marca": "HINO",
+    "modelo": "511 - WU600L",
+    "precio_crc": 19522,
+    "precio_usd": 9800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39792115-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39792115-1.jpg",
+        "https://crautos.com/clasificados/usados/39792115-2.jpg",
+        "https://crautos.com/clasificados/usados/39792115-3.jpg",
+        "https://crautos.com/clasificados/usados/39792115-4.jpg",
+        "https://crautos.com/clasificados/usados/39792115-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VINICIO CASTRO",
+        "teléfono": "8936-7420",
+        "whatsapp": "8936-7420"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Excelente mantenimiento.",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

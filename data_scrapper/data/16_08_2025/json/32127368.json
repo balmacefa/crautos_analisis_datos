@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32127368&Hyundai.ACCENT.2000",
+    "año": 2000,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 3785,
+    "precio_usd": 1900000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR SANDI UREÑA",
+        "teléfono": "8396-5570 7116-2466",
+        "whatsapp": "8396-5570"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "229,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "RTV AL DIA - PRECIO NEGOCIABLE.",
+        "kilometraje_number": 229000,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [],
+    "antiguedad": 25
+}

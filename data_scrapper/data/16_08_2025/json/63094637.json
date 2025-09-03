@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63094637&Toyota.LAND%20CRUISER.1973",
+    "año": 1973,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63094637-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63094637-1.jpg",
+        "https://crautos.com/clasificados/usados/63094637-2.jpg",
+        "https://crautos.com/clasificados/usados/63094637-3.jpg",
+        "https://crautos.com/clasificados/usados/63094637-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO VARGAS",
+        "teléfono": "8950-0710",
+        "whatsapp": "8950-0710"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "23,400 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Octubre del 2024",
+        "comentario_vendedor": "Clásico recién restaurado. Panel de instrumentos digital y suspensión Old Man Emu .",
+        "kilometraje_number": 23400,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 52
+}

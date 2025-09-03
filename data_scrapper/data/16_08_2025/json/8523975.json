@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8523975&Mazda.3.2017",
+    "año": 2017,
+    "marca": "MAZDA",
+    "modelo": "3",
+    "precio_crc": 8483800,
+    "precio_usd": 16900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8523975-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8523975-1.jpg",
+        "https://crautos.com/clasificados/usados/8523975-2.jpg",
+        "https://crautos.com/clasificados/usados/8523975-3.jpg",
+        "https://crautos.com/clasificados/usados/8523975-4.jpg",
+        "https://crautos.com/clasificados/usados/8523975-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "1496 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "56,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "SEDAN.",
+        "kilometraje_number": 56500,
+        "cilindrada_number": 1496
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 8
+}

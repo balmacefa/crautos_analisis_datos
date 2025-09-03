@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6572516",
+    "año": 2017,
+    "marca": "JMC",
+    "modelo": "N601",
+    "precio_crc": 14243,
+    "precio_usd": 7150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6572516-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6572516-1.jpg",
+        "https://crautos.com/clasificados/usados/6572516-2.jpg",
+        "https://crautos.com/clasificados/usados/6572516-3.jpg",
+        "https://crautos.com/clasificados/usados/6572516-4.jpg",
+        "https://crautos.com/clasificados/usados/6572516-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS LA ESTACIÓN",
+        "teléfono": "6131-4522 8850-7637",
+        "whatsapp": "8801-1510",
+        "dirección": "De la bomba La Castellana, 100 mts Oeste y 400 mts Sur. Avenida 20 calle 10. San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "139,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "TURBO INTERCOOLER,BUEN ESTADO,CAJON CERRADO.",
+        "kilometraje_number": 139000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73625919&BAIC.BJ40L%20LUXURY.2022",
+    "año": 2022,
+    "modelo": "BAIC BJ40L LUXURY",
+    "precio_crc": 33865,
+    "precio_usd": 17000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73625919-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73625919-1.jpg",
+        "https://crautos.com/clasificados/usados/73625919-2.jpg",
+        "https://crautos.com/clasificados/usados/73625919-3.jpg",
+        "https://crautos.com/clasificados/usados/73625919-4.jpg",
+        "https://crautos.com/clasificados/usados/73625919-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA DEL CARMEN VARGAS CHAVAR",
+        "teléfono": "8815-2651 8711-3327",
+        "whatsapp": "8815-2651"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "61,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "En perfecto estado. Traspaso incluido. extras.",
+        "kilometraje_number": 61000,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 3
+}

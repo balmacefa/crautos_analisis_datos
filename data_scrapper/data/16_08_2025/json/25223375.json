@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25223375&Nissan.PATHFINDER.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25223375-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25223375-1.jpg",
+        "https://crautos.com/clasificados/usados/25223375-2.jpg",
+        "https://crautos.com/clasificados/usados/25223375-3.jpg",
+        "https://crautos.com/clasificados/usados/25223375-4.jpg",
+        "https://crautos.com/clasificados/usados/25223375-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN SALAZAR",
+        "teléfono": "8988-9211",
+        "whatsapp": "8988-9211"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "108,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Junio del 2025",
+        "kilometraje_number": 108000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

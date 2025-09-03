@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38613775&Ford.ESCAPE.2015",
+    "año": 2015,
+    "marca": "FORD",
+    "modelo": "ESCAPE",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38613775-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38613775-1.jpg",
+        "https://crautos.com/clasificados/usados/38613775-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RITA",
+        "teléfono": "7070-1033",
+        "whatsapp": "7070-1033"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "151,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "El carro necesita reparación de Unidad de Control de ABC y mangueras de calefacción. .",
+        "kilometraje_number": 151500,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

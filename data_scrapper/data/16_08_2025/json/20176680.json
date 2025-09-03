@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20176680&Isuzu.NQR.2013",
+    "año": 2013,
+    "marca": "ISUZU",
+    "modelo": "NQR",
+    "precio_crc": 31873,
+    "precio_usd": 16000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20176680-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20176680-1.jpg",
+        "https://crautos.com/clasificados/usados/20176680-2.jpg",
+        "https://crautos.com/clasificados/usados/20176680-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAUREEN ROJAS",
+        "teléfono": "8867-3557 8349-9044",
+        "whatsapp": "8867-3557"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 8.0-9.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "221,600 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR.",
+        "kilometraje_number": 221600,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

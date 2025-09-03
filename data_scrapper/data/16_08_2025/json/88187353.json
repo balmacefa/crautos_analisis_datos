@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88187353&Suzuki.BALENO.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "BALENO",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88187353-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88187353-1.jpg",
+        "https://crautos.com/clasificados/usados/88187353-2.jpg",
+        "https://crautos.com/clasificados/usados/88187353-3.jpg",
+        "https://crautos.com/clasificados/usados/88187353-4.jpg",
+        "https://crautos.com/clasificados/usados/88187353-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUE CHACON VALVERDE",
+        "teléfono": "8616-9422 7284-1294 6447-9847",
+        "whatsapp": "8616-9422"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "120,200 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "kilometraje_number": 120200,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

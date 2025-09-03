@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23321009&Hyundai.SANTA%20FE%20SPORT.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE SPORT",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23321009-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23321009-1.jpg",
+        "https://crautos.com/clasificados/usados/23321009-2.jpg",
+        "https://crautos.com/clasificados/usados/23321009-3.jpg",
+        "https://crautos.com/clasificados/usados/23321009-4.jpg",
+        "https://crautos.com/clasificados/usados/23321009-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS MONGE M.",
+        "teléfono": "8873-0911 6093-4574",
+        "whatsapp": "6093-4574"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "85,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "EN EXCELENTE CONDICIONES.....PANTALLA TACTIL CON CAMARA DE RETROCESO .",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

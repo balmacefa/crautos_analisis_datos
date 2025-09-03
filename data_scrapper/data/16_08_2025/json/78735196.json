@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78735196&Hyundai.TUCSON.2009",
+    "año": 2009,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78735196-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78735196-1.jpg",
+        "https://crautos.com/clasificados/usados/78735196-2.jpg",
+        "https://crautos.com/clasificados/usados/78735196-3.jpg",
+        "https://crautos.com/clasificados/usados/78735196-4.jpg",
+        "https://crautos.com/clasificados/usados/78735196-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL ALVARADO INDUNI",
+        "teléfono": "8735-1827"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "186,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Riteve al día y llantas nuevas.",
+        "kilometraje_number": 186000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

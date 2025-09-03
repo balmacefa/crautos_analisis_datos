@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41562636&Toyota.ECHO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41562636-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41562636-1.jpg",
+        "https://crautos.com/clasificados/usados/41562636-2.jpg",
+        "https://crautos.com/clasificados/usados/41562636-3.jpg",
+        "https://crautos.com/clasificados/usados/41562636-4.jpg",
+        "https://crautos.com/clasificados/usados/41562636-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCELA ARIAS",
+        "teléfono": "7161-1919 8464-6368"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "168,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "No cambio solo vendo .",
+        "kilometraje_number": 168000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Cierre central",
+        "Cámara de retroceso"
+    ],
+    "antiguedad": 24
+}

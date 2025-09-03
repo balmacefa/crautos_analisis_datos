@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45957104&Jeep.WRANGLER.2005",
+    "año": 2005,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45957104-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45957104-1.jpg",
+        "https://crautos.com/clasificados/usados/45957104-2.jpg",
+        "https://crautos.com/clasificados/usados/45957104-3.jpg",
+        "https://crautos.com/clasificados/usados/45957104-4.jpg",
+        "https://crautos.com/clasificados/usados/45957104-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MÓNICA VALVERDE CALDERÓN",
+        "teléfono": "8703-3688 8849-2501",
+        "whatsapp": "8703-3688"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "59,400 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Abril del 2025",
+        "comentario_vendedor": "Excelente estado capota suave negra llantas Firestone nuevas.",
+        "kilometraje_number": 59400,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

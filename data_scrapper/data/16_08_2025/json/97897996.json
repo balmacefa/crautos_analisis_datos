@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97897996&Isuzu.DMAX%20LS.2014",
+    "año": 2014,
+    "marca": "ISUZU",
+    "modelo": "DMAX LS",
+    "precio_crc": 26295,
+    "precio_usd": 13200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97897996-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97897996-1.jpg",
+        "https://crautos.com/clasificados/usados/97897996-2.jpg",
+        "https://crautos.com/clasificados/usados/97897996-3.jpg",
+        "https://crautos.com/clasificados/usados/97897996-4.jpg",
+        "https://crautos.com/clasificados/usados/97897996-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NICOLAS MEDRANO",
+        "teléfono": "8626-9665"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "189,740 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "UN solo dueño - ROLL BARS - TAPICERIA EN Tela - Halogenos.",
+        "kilometraje_number": 189740,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

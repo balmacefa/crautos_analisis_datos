@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26896359&Honda.CITY.2016",
+    "año": 2016,
+    "marca": "HONDA",
+    "modelo": "CITY",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26896359-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26896359-1.jpg",
+        "https://crautos.com/clasificados/usados/26896359-2.jpg",
+        "https://crautos.com/clasificados/usados/26896359-3.jpg",
+        "https://crautos.com/clasificados/usados/26896359-4.jpg",
+        "https://crautos.com/clasificados/usados/26896359-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LISETH JIMENEZ",
+        "teléfono": "8853-4522 8830-1856",
+        "whatsapp": "8853-4522"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "URGE VENDER ! El carro tiene la luz de check encendida anda perfectamente puede traer su mecánico..",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

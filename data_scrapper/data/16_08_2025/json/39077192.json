@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39077192&Nissan.SENTRA.1996",
+    "año": 1996,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39077192-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39077192-1.jpg",
+        "https://crautos.com/clasificados/usados/39077192-2.jpg",
+        "https://crautos.com/clasificados/usados/39077192-3.jpg",
+        "https://crautos.com/clasificados/usados/39077192-4.jpg",
+        "https://crautos.com/clasificados/usados/39077192-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM MUÑOZ",
+        "teléfono": "5018-4292",
+        "whatsapp": "5018-4292"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "260,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "El carro cuenta con detalles por eso el precio .",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 29
+}

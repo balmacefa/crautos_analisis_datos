@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95670085&Chevrolet.SPARK.2009",
+    "año": 2009,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 4781,
+    "precio_usd": 2400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95670085-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95670085-1.jpg",
+        "https://crautos.com/clasificados/usados/95670085-2.jpg",
+        "https://crautos.com/clasificados/usados/95670085-3.jpg",
+        "https://crautos.com/clasificados/usados/95670085-4.jpg",
+        "https://crautos.com/clasificados/usados/95670085-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARNOLD VALVERDE BONILLA",
+        "teléfono": "8539-0805",
+        "whatsapp": "8539-0805"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

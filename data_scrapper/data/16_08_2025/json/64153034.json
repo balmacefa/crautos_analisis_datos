@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64153034&Hyundai.I10.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64153034-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64153034-1.jpg",
+        "https://crautos.com/clasificados/usados/64153034-2.jpg",
+        "https://crautos.com/clasificados/usados/64153034-3.jpg",
+        "https://crautos.com/clasificados/usados/64153034-4.jpg",
+        "https://crautos.com/clasificados/usados/64153034-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE NUÑEZ ALVARADO",
+        "teléfono": "8365-9895",
+        "whatsapp": "8365-9895"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "248,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL MARINO",
+        "color_interior": "AZUL MARINO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Traspaso incluido.",
+        "kilometraje_number": 248000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48375868&Jeep.WRANGLER%20UNLIMITED%20SPORT.2013",
+    "año": 2013,
+    "marca": "JEEP",
+    "modelo": "WRANGLER UNLIMITED SPORT",
+    "precio_crc": 39841,
+    "precio_usd": 20000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48375868-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48375868-1.jpg",
+        "https://crautos.com/clasificados/usados/48375868-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TANNYA SIBAJA",
+        "teléfono": "6195-2848"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "141,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "ROJO Y NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 141000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 12
+}

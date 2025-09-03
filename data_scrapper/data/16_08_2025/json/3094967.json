@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3094967&Nissan.NAVARA%20LE.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "NAVARA LE",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3094967-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3094967-1.jpg",
+        "https://crautos.com/clasificados/usados/3094967-2.jpg",
+        "https://crautos.com/clasificados/usados/3094967-3.jpg",
+        "https://crautos.com/clasificados/usados/3094967-4.jpg",
+        "https://crautos.com/clasificados/usados/3094967-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN AZOFEIFA",
+        "teléfono": "8513-3864",
+        "whatsapp": "8513-3864",
+        "dirección": "Alajuela, Ciruelas"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Febrero del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO. USO DE CIUDAD. NUNCA HA SIDO DE TRABAJO.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

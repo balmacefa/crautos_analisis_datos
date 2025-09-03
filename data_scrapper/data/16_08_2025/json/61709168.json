@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61709168&Hyundai.SANTAFE.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "SANTAFE",
+    "precio_crc": 16733,
+    "precio_usd": 8400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61709168-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61709168-1.jpg",
+        "https://crautos.com/clasificados/usados/61709168-2.jpg",
+        "https://crautos.com/clasificados/usados/61709168-3.jpg",
+        "https://crautos.com/clasificados/usados/61709168-4.jpg",
+        "https://crautos.com/clasificados/usados/61709168-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXIS ARIAS",
+        "teléfono": "8706-9581 8392-0541 8959-2035"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "145,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Julio del 2025",
+        "comentario_vendedor": "SE ESCUCHAN OFERTAS SE RECIBE DEPENDIENDO MUY BUEN ESTADO.",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

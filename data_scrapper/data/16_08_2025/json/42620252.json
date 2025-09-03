@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42620252&Mitsubishi.MONTERO%20SPORT.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 25398,
+    "precio_usd": 12750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42620252-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42620252-1.jpg",
+        "https://crautos.com/clasificados/usados/42620252-2.jpg",
+        "https://crautos.com/clasificados/usados/42620252-3.jpg",
+        "https://crautos.com/clasificados/usados/42620252-4.jpg",
+        "https://crautos.com/clasificados/usados/42620252-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANRIQUE GARCIA",
+        "teléfono": "8384-3274"
+    },
+    "informacion_general": {
+        "cilindrada": "2477 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "83,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Julio del 2025",
+        "kilometraje_number": 83000,
+        "cilindrada_number": 2477
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

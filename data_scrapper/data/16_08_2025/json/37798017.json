@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37798017&Hyundai.H1%20.2019",
+    "año": 2019,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37798017-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37798017-1.jpg",
+        "https://crautos.com/clasificados/usados/37798017-2.jpg",
+        "https://crautos.com/clasificados/usados/37798017-3.jpg",
+        "https://crautos.com/clasificados/usados/37798017-4.jpg",
+        "https://crautos.com/clasificados/usados/37798017-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO GONZÁLEZ",
+        "teléfono": "8303-4666",
+        "whatsapp": "8303-4666"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "450,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Se cambia por renovación de flotilla muy buen estado .",
+        "kilometraje_number": 450000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara 360",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

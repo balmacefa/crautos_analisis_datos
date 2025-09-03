@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19862967&Toyota.RAIZE.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "RAIZE",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19862967-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19862967-1.jpg",
+        "https://crautos.com/clasificados/usados/19862967-2.jpg",
+        "https://crautos.com/clasificados/usados/19862967-3.jpg",
+        "https://crautos.com/clasificados/usados/19862967-4.jpg",
+        "https://crautos.com/clasificados/usados/19862967-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS BOGANTES",
+        "teléfono": "8801-3335",
+        "whatsapp": "8801-3335"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "17,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "El Vehículo Está Nuevo Impecable Alfombras de Bandeja Pantalla Bota aguas Lo tengo En Esparza Centro.",
+        "kilometraje_number": 17000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

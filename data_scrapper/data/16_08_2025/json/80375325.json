@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80375325&Changan.CS35.2017",
+    "año": 2017,
+    "marca": "CHANGAN",
+    "modelo": "CS35",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHNNY RODRÍGUEZ",
+        "teléfono": "7064-9416 8360-5413",
+        "whatsapp": "7064-9416"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "57,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "extras .",
+        "kilometraje_number": 57000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

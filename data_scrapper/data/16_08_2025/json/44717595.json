@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44717595&Toyota.4RUNNER.1992",
+    "año": 1992,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44717595-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44717595-1.jpg",
+        "https://crautos.com/clasificados/usados/44717595-2.jpg",
+        "https://crautos.com/clasificados/usados/44717595-3.jpg",
+        "https://crautos.com/clasificados/usados/44717595-4.jpg",
+        "https://crautos.com/clasificados/usados/44717595-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABRICIO HEWITT",
+        "teléfono": "8879-9318 7256-1507",
+        "whatsapp": "8879-9318"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "277,848 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Muy original motor y caja perfecto estado todo le funciona.",
+        "kilometraje_number": 277848,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [],
+    "antiguedad": 33
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60725471&Mercedes%20Benz.E220.1993",
+    "año": 1993,
+    "marca": "MERCEDES BENZ",
+    "modelo": "E220",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60725471-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60725471-1.jpg",
+        "https://crautos.com/clasificados/usados/60725471-2.jpg",
+        "https://crautos.com/clasificados/usados/60725471-3.jpg",
+        "https://crautos.com/clasificados/usados/60725471-4.jpg",
+        "https://crautos.com/clasificados/usados/60725471-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO TABARINI",
+        "teléfono": "8344-7936",
+        "whatsapp": "8344-7936"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "318,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "CREMA",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Hermoso Mercedes en estado impecable todo original y mantenido con mecánico de especialista en Merce.",
+        "kilometraje_number": 318000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 32
+}

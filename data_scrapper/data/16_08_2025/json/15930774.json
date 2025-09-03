@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15930774",
+    "año": 2020,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 13944,
+    "precio_usd": 7000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15930774-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15930774-1.jpg",
+        "https://crautos.com/clasificados/usados/15930774-2.jpg",
+        "https://crautos.com/clasificados/usados/15930774-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIAN LEIVA",
+        "teléfono": "8823-0003",
+        "whatsapp": "8823-0003"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "31,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Muy buen estado.",
+        "kilometraje_number": 31500,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Sensores de retroceso",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

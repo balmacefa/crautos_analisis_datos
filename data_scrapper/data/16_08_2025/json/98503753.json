@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98503753&Suzuki.ALTO.2009",
+    "año": 2009,
+    "marca": "SUZUKI",
+    "modelo": "ALTO",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98503753-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98503753-1.jpg",
+        "https://crautos.com/clasificados/usados/98503753-2.jpg",
+        "https://crautos.com/clasificados/usados/98503753-3.jpg",
+        "https://crautos.com/clasificados/usados/98503753-4.jpg",
+        "https://crautos.com/clasificados/usados/98503753-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAÚL HERNÁNDEZ",
+        "teléfono": "8897-9696",
+        "whatsapp": "8897-9696"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "265,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Urge vender.",
+        "kilometraje_number": 265000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

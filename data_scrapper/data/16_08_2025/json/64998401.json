@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64998401&Nissan.SENTRA.1995",
+    "año": 1995,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 4681,
+    "precio_usd": 2350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64998401-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64998401-1.jpg",
+        "https://crautos.com/clasificados/usados/64998401-2.jpg",
+        "https://crautos.com/clasificados/usados/64998401-3.jpg",
+        "https://crautos.com/clasificados/usados/64998401-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL MIRANDA",
+        "teléfono": "8420-5419",
+        "whatsapp": "8420-5419"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "207,633 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Al día con dash can polarizado de seguridad .",
+        "kilometraje_number": 207633,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 30
+}

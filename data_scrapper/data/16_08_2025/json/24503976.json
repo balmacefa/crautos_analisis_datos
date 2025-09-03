@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24503976&Nissan.TIIDA.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24503976-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24503976-1.jpg",
+        "https://crautos.com/clasificados/usados/24503976-2.jpg",
+        "https://crautos.com/clasificados/usados/24503976-3.jpg",
+        "https://crautos.com/clasificados/usados/24503976-4.jpg",
+        "https://crautos.com/clasificados/usados/24503976-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL FRANCISCO MENA JIMENEZ",
+        "teléfono": "8576-5465",
+        "whatsapp": "8576-5465"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "184,800 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "kilometraje_number": 184800,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

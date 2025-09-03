@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89781629&JAC.J3%20TURIN.2014",
+    "año": 2014,
+    "marca": "JAC",
+    "modelo": "J3 TURIN",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89781629-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89781629-1.jpg",
+        "https://crautos.com/clasificados/usados/89781629-2.jpg",
+        "https://crautos.com/clasificados/usados/89781629-3.jpg",
+        "https://crautos.com/clasificados/usados/89781629-4.jpg",
+        "https://crautos.com/clasificados/usados/89781629-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTHONY VENEGAS",
+        "teléfono": "6151-1171",
+        "whatsapp": "6151-1171"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "125 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Gas LP DEKRA .",
+        "kilometraje_number": 125,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9484478&Hyundai.ACCENT%20BLUE%20GL.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE GL",
+    "precio_crc": 7897195,
+    "precio_usd": 15731.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9484478-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9484478-1.jpg",
+        "https://crautos.com/clasificados/usados/9484478-2.jpg",
+        "https://crautos.com/clasificados/usados/9484478-3.jpg",
+        "https://crautos.com/clasificados/usados/9484478-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STARCARS LA URUCA",
+        "teléfono": "4105-6654 8860-9090 8713-6343",
+        "whatsapp": "8860-9090",
+        "dirección": "La Uruca Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "68,300 kms",
+        "placa": "ND",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Abril del 2025",
+        "comentario_vendedor": "Usado como nuevo. Financiamiento disponible..",
+        "kilometraje_number": 68300,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

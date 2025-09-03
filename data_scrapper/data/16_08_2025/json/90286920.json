@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90286920&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90286920-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90286920-1.jpg",
+        "https://crautos.com/clasificados/usados/90286920-2.jpg",
+        "https://crautos.com/clasificados/usados/90286920-3.jpg",
+        "https://crautos.com/clasificados/usados/90286920-4.jpg",
+        "https://crautos.com/clasificados/usados/90286920-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTOPHER ARLEY",
+        "teléfono": "8493-6905 8892-4889",
+        "whatsapp": "8493-6905"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "68,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Está en excelente estado .",
+        "kilometraje_number": 68000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 12
+}

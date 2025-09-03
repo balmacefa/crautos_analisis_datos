@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58601707&Isuzu.FTR33M02.2002",
+    "año": 2002,
+    "marca": "ISUZU",
+    "modelo": "FTR33M02",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58601707-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58601707-1.jpg",
+        "https://crautos.com/clasificados/usados/58601707-2.jpg",
+        "https://crautos.com/clasificados/usados/58601707-3.jpg",
+        "https://crautos.com/clasificados/usados/58601707-4.jpg",
+        "https://crautos.com/clasificados/usados/58601707-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRIAN ARRIETA",
+        "teléfono": "6007-9695 7110-3134",
+        "whatsapp": "6007-9695"
+    },
+    "informacion_general": {
+        "cilindrada": "8226 cc",
+        "estilo": "Camión 8.0-9.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "526,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "ISUZU FTR MUY BUEN ESTADO AL DIA BATERIAS NUEVAS.",
+        "kilometraje_number": 526000,
+        "cilindrada_number": 8226
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

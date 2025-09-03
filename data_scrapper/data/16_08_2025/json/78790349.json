@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78790349&Mitsubishi.L200.2012",
+    "año": 2012,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 23307,
+    "precio_usd": 11700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78790349-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78790349-1.jpg",
+        "https://crautos.com/clasificados/usados/78790349-2.jpg",
+        "https://crautos.com/clasificados/usados/78790349-3.jpg",
+        "https://crautos.com/clasificados/usados/78790349-4.jpg",
+        "https://crautos.com/clasificados/usados/78790349-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO SOLANO ORTIZ",
+        "teléfono": "8834-4388",
+        "whatsapp": "8834-4388"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Exelente estado llantas casi nuevas.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

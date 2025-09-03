@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27382918&Toyota.YARIS.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27382918-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27382918-1.jpg",
+        "https://crautos.com/clasificados/usados/27382918-2.jpg",
+        "https://crautos.com/clasificados/usados/27382918-3.jpg",
+        "https://crautos.com/clasificados/usados/27382918-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN QUESADA VEGA",
+        "teléfono": "8990-6167",
+        "whatsapp": "8990-6167"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "274,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 274000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

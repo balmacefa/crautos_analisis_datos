@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42764507&Toyota.PRADO.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42764507-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42764507-1.jpg",
+        "https://crautos.com/clasificados/usados/42764507-2.jpg",
+        "https://crautos.com/clasificados/usados/42764507-3.jpg",
+        "https://crautos.com/clasificados/usados/42764507-4.jpg",
+        "https://crautos.com/clasificados/usados/42764507-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDY ARIAS",
+        "teléfono": "8403-6549",
+        "whatsapp": "6077-0383"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "299,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Toyota prado versión VX hielera y asientos eléctricos calefactables Segundo dueño .",
+        "kilometraje_number": 299000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61952589&Freightliner.M2%20106%20TANDEM.2006",
+    "año": 2006,
+    "marca": "FREIGHTLINER",
+    "modelo": "M2 106 TANDEM",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61952589-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61952589-1.jpg",
+        "https://crautos.com/clasificados/usados/61952589-2.jpg",
+        "https://crautos.com/clasificados/usados/61952589-3.jpg",
+        "https://crautos.com/clasificados/usados/61952589-4.jpg",
+        "https://crautos.com/clasificados/usados/61952589-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO ARRIETA",
+        "teléfono": "8990-9078",
+        "whatsapp": "8990-9078"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 10.0 ton. o más",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "113,203 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "¡Camión en buen estado! motor Mercedes Benz..",
+        "kilometraje_number": 113203,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

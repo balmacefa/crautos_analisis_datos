@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49628564&Suzuki.ALTO.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "ALTO",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49628564-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49628564-1.jpg",
+        "https://crautos.com/clasificados/usados/49628564-2.jpg",
+        "https://crautos.com/clasificados/usados/49628564-3.jpg",
+        "https://crautos.com/clasificados/usados/49628564-4.jpg",
+        "https://crautos.com/clasificados/usados/49628564-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARICELA CASTILLO",
+        "teléfono": "8966-6905"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "40,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado llame sin compromiso y se negocia solo se recibe efectivo .",
+        "kilometraje_number": 40000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

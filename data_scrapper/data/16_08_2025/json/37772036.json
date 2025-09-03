@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37772036&Kia.MORNING.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "MORNING",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37772036-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37772036-1.jpg",
+        "https://crautos.com/clasificados/usados/37772036-2.jpg",
+        "https://crautos.com/clasificados/usados/37772036-3.jpg",
+        "https://crautos.com/clasificados/usados/37772036-4.jpg",
+        "https://crautos.com/clasificados/usados/37772036-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO RODRIGUEZ",
+        "teléfono": "8648-0927",
+        "whatsapp": "8648-0927"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "62,500 kms",
+        "placa": "ND",
+        "color_exterior": "CELESTE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo para inscribir en buen estado. Negociable .",
+        "kilometraje_number": 62500,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

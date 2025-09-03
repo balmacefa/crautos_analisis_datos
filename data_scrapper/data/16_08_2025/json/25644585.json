@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25644585&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25644585-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25644585-1.jpg",
+        "https://crautos.com/clasificados/usados/25644585-2.jpg",
+        "https://crautos.com/clasificados/usados/25644585-3.jpg",
+        "https://crautos.com/clasificados/usados/25644585-4.jpg",
+        "https://crautos.com/clasificados/usados/25644585-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY CHAVES",
+        "teléfono": "6255-5555 8838-8888",
+        "whatsapp": "8838-8888"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "210,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Esta en perfectas condiciones a toda prueba.",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

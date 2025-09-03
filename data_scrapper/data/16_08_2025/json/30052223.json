@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30052223&GMC.JIMMY.2000",
+    "año": 2000,
+    "marca": "GMC",
+    "modelo": "JIMMY",
+    "precio_crc": 2789,
+    "precio_usd": 1400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30052223-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30052223-1.jpg",
+        "https://crautos.com/clasificados/usados/30052223-2.jpg",
+        "https://crautos.com/clasificados/usados/30052223-3.jpg",
+        "https://crautos.com/clasificados/usados/30052223-4.jpg",
+        "https://crautos.com/clasificados/usados/30052223-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO RODRÍGUEZ",
+        "teléfono": "6046-4854",
+        "whatsapp": "6046-4854"
+    },
+    "informacion_general": {
+        "cilindrada": "4300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "119,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "cigueñal- sellos- bujias- cables y otros todo nuevo solo falta armar el motor y montarlo.",
+        "kilometraje_number": 119000,
+        "cilindrada_number": 4300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

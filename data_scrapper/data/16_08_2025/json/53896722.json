@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53896722&Toyota.COROLLA.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53896722-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53896722-1.jpg",
+        "https://crautos.com/clasificados/usados/53896722-2.jpg",
+        "https://crautos.com/clasificados/usados/53896722-3.jpg",
+        "https://crautos.com/clasificados/usados/53896722-4.jpg",
+        "https://crautos.com/clasificados/usados/53896722-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL FONSECA VÁZQUEZ",
+        "teléfono": "8544-8693 8527-7763",
+        "whatsapp": "8544-8693"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Solo gente interesada No pregunto es por favor .",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

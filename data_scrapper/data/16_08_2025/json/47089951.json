@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47089951&Nissan.PATHFINDER.2001",
+    "año": 2001,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47089951-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47089951-1.jpg",
+        "https://crautos.com/clasificados/usados/47089951-2.jpg",
+        "https://crautos.com/clasificados/usados/47089951-3.jpg",
+        "https://crautos.com/clasificados/usados/47089951-4.jpg",
+        "https://crautos.com/clasificados/usados/47089951-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO CALDERON",
+        "teléfono": "8777-2273",
+        "whatsapp": "8777-2273"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "km real puede corroborar con estado.",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

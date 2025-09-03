@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85145749&Kia.PICANTO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85145749-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85145749-1.jpg",
+        "https://crautos.com/clasificados/usados/85145749-2.jpg",
+        "https://crautos.com/clasificados/usados/85145749-3.jpg",
+        "https://crautos.com/clasificados/usados/85145749-4.jpg",
+        "https://crautos.com/clasificados/usados/85145749-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADOLFO ESTRADA HERNÁNDEZ",
+        "teléfono": "7068-9875 6313-2766",
+        "whatsapp": "7068-9875"
+    },
+    "informacion_general": {
+        "cilindrada": "998 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "95,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. Nunca plataforma. Llantas nuevas. Incluye traspaso..",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 998
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

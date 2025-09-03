@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96733954&Suzuki.CIAZ%20GL.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CIAZ GL",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96733954-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96733954-1.jpg",
+        "https://crautos.com/clasificados/usados/96733954-2.jpg",
+        "https://crautos.com/clasificados/usados/96733954-3.jpg",
+        "https://crautos.com/clasificados/usados/96733954-4.jpg",
+        "https://crautos.com/clasificados/usados/96733954-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JENIFER CURLING",
+        "teléfono": "7207-3299",
+        "whatsapp": "7207-3299"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "189,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Enero del 2025",
+        "comentario_vendedor": "Buen estado muy económico.",
+        "kilometraje_number": 189000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

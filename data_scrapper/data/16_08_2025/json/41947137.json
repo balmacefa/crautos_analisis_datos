@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41947137&Suzuki.SX4.2011",
+    "año": 2011,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41947137-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41947137-1.jpg",
+        "https://crautos.com/clasificados/usados/41947137-2.jpg",
+        "https://crautos.com/clasificados/usados/41947137-3.jpg",
+        "https://crautos.com/clasificados/usados/41947137-4.jpg",
+        "https://crautos.com/clasificados/usados/41947137-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL SOLIS",
+        "teléfono": "8663-9948",
+        "whatsapp": "8663-9948"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "108,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Mula buen estado en general todo le funciona excelente .",
+        "kilometraje_number": 108000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

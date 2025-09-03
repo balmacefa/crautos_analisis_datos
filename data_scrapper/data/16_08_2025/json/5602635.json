@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5602635&Hyundai.GRAND%20I10%20.2019",
+    "año": 2019,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 4869400,
+    "precio_usd": 9700.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5602635-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5602635-1.jpg",
+        "https://crautos.com/clasificados/usados/5602635-2.jpg",
+        "https://crautos.com/clasificados/usados/5602635-3.jpg",
+        "https://crautos.com/clasificados/usados/5602635-4.jpg",
+        "https://crautos.com/clasificados/usados/5602635-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOMOTORES CARSOT",
+        "teléfono": "2589-0512 8817-0303",
+        "whatsapp": "8443-0303",
+        "dirección": "600 mts Este de la Iglesia San Antonio de Belén Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "143,494 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "COMPLETAMENTE AL DIA RECIBO FINANCIO... PRECIO EN DOLARES...",
+        "kilometraje_number": 143494,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28712559&Hyundai.SANTA%20FE.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28712559-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28712559-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ABEL MIRANDA",
+        "teléfono": "6179-8345 6061-1464",
+        "whatsapp": "6179-8345"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "98,300 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Excelente condiciones .",
+        "kilometraje_number": 98300,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

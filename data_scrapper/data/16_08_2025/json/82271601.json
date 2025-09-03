@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82271601&Mack.RD.1996",
+    "año": 1996,
+    "marca": "MACK",
+    "modelo": "RD",
+    "precio_crc": 39841,
+    "precio_usd": 20000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82271601-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82271601-1.jpg",
+        "https://crautos.com/clasificados/usados/82271601-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRÉS SOLANO",
+        "teléfono": "6364-1915",
+        "whatsapp": "6364-1915"
+    },
+    "informacion_general": {
+        "cilindrada": "12000 cc",
+        "estilo": "Camión 10.0 ton. o más",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Cambio por una más moderna o recibo cabezal .",
+        "kilometraje_number": null,
+        "cilindrada_number": 12000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 29
+}

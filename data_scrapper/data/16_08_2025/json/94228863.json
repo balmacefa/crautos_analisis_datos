@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94228863&Toyota.YARIS%20E.2021",
+    "año": 2021,
+    "marca": "TOYOTA",
+    "modelo": "YARIS E",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94228863-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94228863-1.jpg",
+        "https://crautos.com/clasificados/usados/94228863-2.jpg",
+        "https://crautos.com/clasificados/usados/94228863-3.jpg",
+        "https://crautos.com/clasificados/usados/94228863-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANILO UGALDE",
+        "teléfono": "6040-2650 8341-5868 8315-1527",
+        "whatsapp": "6040-2650"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "47,927 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Carro de cochera.",
+        "kilometraje_number": 47927,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 4
+}

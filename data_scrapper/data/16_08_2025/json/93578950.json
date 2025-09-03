@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93578950&Hino.DUTRO.2008",
+    "año": 2008,
+    "marca": "HINO",
+    "modelo": "DUTRO",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93578950-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93578950-1.jpg",
+        "https://crautos.com/clasificados/usados/93578950-2.jpg",
+        "https://crautos.com/clasificados/usados/93578950-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLDRICH VASQUEZ CAMPOS",
+        "teléfono": "6047-5964 8335-8624",
+        "whatsapp": "6047-5964"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "513,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "VEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Abril del 2025",
+        "comentario_vendedor": "grúa estilo plataforma, marca HINO, modelo 2008 diesel, 4000 cc,.",
+        "kilometraje_number": 513000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 17
+}

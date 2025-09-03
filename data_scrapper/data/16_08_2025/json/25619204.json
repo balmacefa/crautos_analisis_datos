@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25619204&Hyundai.I10.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25619204-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25619204-1.jpg",
+        "https://crautos.com/clasificados/usados/25619204-2.jpg",
+        "https://crautos.com/clasificados/usados/25619204-3.jpg",
+        "https://crautos.com/clasificados/usados/25619204-4.jpg",
+        "https://crautos.com/clasificados/usados/25619204-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARSENIO GUERRERO",
+        "teléfono": "8878-2424 8381-1919"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "133,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Un solo dueño exc mantenimiento.",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

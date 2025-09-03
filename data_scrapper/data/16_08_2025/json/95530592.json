@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95530592&Ford.EXPLORER.2013",
+    "año": 2013,
+    "marca": "FORD",
+    "modelo": "EXPLORER",
+    "precio_crc": 15339,
+    "precio_usd": 7700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95530592-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95530592-1.jpg",
+        "https://crautos.com/clasificados/usados/95530592-2.jpg",
+        "https://crautos.com/clasificados/usados/95530592-3.jpg",
+        "https://crautos.com/clasificados/usados/95530592-4.jpg",
+        "https://crautos.com/clasificados/usados/95530592-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VALERY JARA",
+        "teléfono": "7253-5615 6017-3066"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "191,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 191000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

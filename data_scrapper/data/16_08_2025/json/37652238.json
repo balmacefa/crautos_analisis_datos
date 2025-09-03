@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37652238&Chevrolet.OPTRA.2007",
+    "año": 2007,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37652238-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37652238-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO VEGA",
+        "teléfono": "8418-2991",
+        "whatsapp": "8418-2991"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "207,485 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BEIS",
+        "color_interior": "NEGRO-GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "urge vender placa seis ocho uno cinco tres dos todo al dia embrague bateria y distribucion nuevos.",
+        "kilometraje_number": 207485,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

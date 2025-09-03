@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99519692&Toyota.RAV4%20SPORT.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "RAV4 SPORT",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99519692-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99519692-1.jpg",
+        "https://crautos.com/clasificados/usados/99519692-2.jpg",
+        "https://crautos.com/clasificados/usados/99519692-3.jpg",
+        "https://crautos.com/clasificados/usados/99519692-4.jpg",
+        "https://crautos.com/clasificados/usados/99519692-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR MONTERO",
+        "teléfono": "8744-5778"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "110,577 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Negociable.",
+        "kilometraje_number": 110577,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

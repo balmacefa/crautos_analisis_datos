@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50465594&Honda.CIVIC%20EX.1995",
+    "año": 1995,
+    "marca": "HONDA",
+    "modelo": "CIVIC EX",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50465594-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50465594-1.jpg",
+        "https://crautos.com/clasificados/usados/50465594-2.jpg",
+        "https://crautos.com/clasificados/usados/50465594-3.jpg",
+        "https://crautos.com/clasificados/usados/50465594-4.jpg",
+        "https://crautos.com/clasificados/usados/50465594-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM MENA MONTERO",
+        "teléfono": "7018-3040",
+        "whatsapp": "7018-3040"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "1,233 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Motor serie B muchas extras dirección electroasistida compu con chip coilovers y muchas más extras.",
+        "kilometraje_number": 1233,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 30
+}

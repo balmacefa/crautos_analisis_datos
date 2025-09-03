@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92715044&Ford.LINCOLN%20CONTINENTAL%20MARK%20V.1979",
+    "año": 1979,
+    "marca": "FORD",
+    "modelo": "LINCOLN CONTINENTAL MARK V",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXÁNDER NÚÑEZ",
+        "teléfono": "8324-8000",
+        "whatsapp": "8324-8000"
+    },
+    "informacion_general": {
+        "cilindrada": "6500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "60,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Un clásico-proyecto para terminar-Unico. PARA INSCRIBIR -.",
+        "kilometraje_number": 60000,
+        "cilindrada_number": 6500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 46
+}

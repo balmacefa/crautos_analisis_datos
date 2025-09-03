@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29822990&Subaru.LOYALE.1993",
+    "año": 1993,
+    "marca": "SUBARU",
+    "modelo": "LOYALE",
+    "precio_crc": 1195,
+    "precio_usd": 600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29822990-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29822990-1.jpg",
+        "https://crautos.com/clasificados/usados/29822990-2.jpg",
+        "https://crautos.com/clasificados/usados/29822990-3.jpg",
+        "https://crautos.com/clasificados/usados/29822990-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SIGIFREDO ZUÑIGA",
+        "teléfono": "6263-3143",
+        "whatsapp": "6263-3143"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Debe dos placas poner al dia o repuestos recien overhaul.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 32
+}

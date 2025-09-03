@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62200844&BAIC.MZ40.2015",
+    "año": 2015,
+    "modelo": "BAIC MZ40",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62200844-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62200844-1.jpg",
+        "https://crautos.com/clasificados/usados/62200844-2.jpg",
+        "https://crautos.com/clasificados/usados/62200844-3.jpg",
+        "https://crautos.com/clasificados/usados/62200844-4.jpg",
+        "https://crautos.com/clasificados/usados/62200844-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CERDAS MOLINA",
+        "teléfono": "8953-3113",
+        "whatsapp": "8953-3113"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO Y GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "HOJA DECKRA EN BLANCO ,BATERIA Y RADIO NUEVO .LLANTAS PRACTICAMENTE NUEVAS..",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

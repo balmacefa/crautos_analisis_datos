@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58881410&Toyota.AGYA%20.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "AGYA",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58881410-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58881410-1.jpg",
+        "https://crautos.com/clasificados/usados/58881410-2.jpg",
+        "https://crautos.com/clasificados/usados/58881410-3.jpg",
+        "https://crautos.com/clasificados/usados/58881410-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ANDRES GOMEZ",
+        "teléfono": "8320-6579",
+        "whatsapp": "8320-6579"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Super economico Muy bien de motor y caja .",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

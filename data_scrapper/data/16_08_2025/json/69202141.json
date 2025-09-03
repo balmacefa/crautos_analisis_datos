@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69202141&Nissan.SENTRA%20.2009",
+    "año": 2009,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69202141-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69202141-1.jpg",
+        "https://crautos.com/clasificados/usados/69202141-2.jpg",
+        "https://crautos.com/clasificados/usados/69202141-3.jpg",
+        "https://crautos.com/clasificados/usados/69202141-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHAN MARTINEZ",
+        "teléfono": "7256-5232",
+        "whatsapp": "7256-5232"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,000 millas",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Para Inscribir sseis bolsas de aire muy bien de llantas .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

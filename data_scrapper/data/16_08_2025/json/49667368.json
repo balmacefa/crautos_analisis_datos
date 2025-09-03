@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49667368&Toyota.TACOMA%20TRD%20SPORT.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA TRD SPORT",
+    "precio_crc": 23307,
+    "precio_usd": 11700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49667368-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49667368-1.jpg",
+        "https://crautos.com/clasificados/usados/49667368-2.jpg",
+        "https://crautos.com/clasificados/usados/49667368-3.jpg",
+        "https://crautos.com/clasificados/usados/49667368-4.jpg",
+        "https://crautos.com/clasificados/usados/49667368-5.jpg",
+        "https://crautos.com/clasificados/usados/49667368-6.jpg",
+        "https://crautos.com/clasificados/usados/49667368-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN CAMACHO",
+        "teléfono": "8811-6372",
+        "whatsapp": "8811-6372"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

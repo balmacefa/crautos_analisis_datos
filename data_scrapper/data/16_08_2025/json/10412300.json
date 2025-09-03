@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10412300&Kia.SORENTO.2007",
+    "año": 2007,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10412300-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10412300-1.jpg",
+        "https://crautos.com/clasificados/usados/10412300-2.jpg",
+        "https://crautos.com/clasificados/usados/10412300-3.jpg",
+        "https://crautos.com/clasificados/usados/10412300-4.jpg",
+        "https://crautos.com/clasificados/usados/10412300-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTOPHER",
+        "teléfono": "7040-3734",
+        "whatsapp": "7040-3734"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "290,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable cuatro por cuatro recibiendo cambia precio.",
+        "kilometraje_number": 290000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53686499&Honda.CRV.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53686499-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53686499-1.jpg",
+        "https://crautos.com/clasificados/usados/53686499-2.jpg",
+        "https://crautos.com/clasificados/usados/53686499-3.jpg",
+        "https://crautos.com/clasificados/usados/53686499-4.jpg",
+        "https://crautos.com/clasificados/usados/53686499-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO GOMEZ H",
+        "teléfono": "8588-9020",
+        "whatsapp": "8588-9020"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "149,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS/NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO DEKRA HASTA MAYO DEL PROXIMO AÑO .",
+        "kilometraje_number": 149000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

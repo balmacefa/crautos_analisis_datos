@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42403539&Hyundai.TUCSON.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42403539-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42403539-1.jpg",
+        "https://crautos.com/clasificados/usados/42403539-2.jpg",
+        "https://crautos.com/clasificados/usados/42403539-3.jpg",
+        "https://crautos.com/clasificados/usados/42403539-4.jpg",
+        "https://crautos.com/clasificados/usados/42403539-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID SOTO",
+        "teléfono": "8832-6175 7007-7640",
+        "whatsapp": "8832-7175"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "81,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Carro en buen estado precio negociable .",
+        "kilometraje_number": 81000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37484005&Toyota.RAV4.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 19721,
+    "precio_usd": 9900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37484005-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37484005-1.jpg",
+        "https://crautos.com/clasificados/usados/37484005-2.jpg",
+        "https://crautos.com/clasificados/usados/37484005-3.jpg",
+        "https://crautos.com/clasificados/usados/37484005-4.jpg",
+        "https://crautos.com/clasificados/usados/37484005-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN DANIEL PASTRANA UREÑA",
+        "teléfono": "7268-0980",
+        "whatsapp": "7268-0980"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "136,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ Automática Motor 2.5 136 mil kilómetros 4x2 Pantalla Cámara de retroceso Fu.",
+        "kilometraje_number": 136000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

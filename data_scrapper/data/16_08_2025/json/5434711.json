@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5434711&Chery.TIGGO%208.2023",
+    "año": 2023,
+    "marca": "CHERY",
+    "modelo": "TIGGO 8",
+    "precio_crc": 26096,
+    "precio_usd": 13100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5434711-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5434711-1.jpg",
+        "https://crautos.com/clasificados/usados/5434711-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "50,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Abril del 2025",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 50000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 2
+}

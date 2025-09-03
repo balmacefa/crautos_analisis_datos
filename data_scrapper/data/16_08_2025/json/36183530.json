@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36183530&Nissan.XTRAIL.2005",
+    "año": 2005,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36183530-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36183530-1.jpg",
+        "https://crautos.com/clasificados/usados/36183530-2.jpg",
+        "https://crautos.com/clasificados/usados/36183530-3.jpg",
+        "https://crautos.com/clasificados/usados/36183530-4.jpg",
+        "https://crautos.com/clasificados/usados/36183530-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTOR ALFARO",
+        "teléfono": "8783-1838",
+        "whatsapp": "8783-1838"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "195,500 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Llantas Brigestone RevoHalógenos Antiniebla Defensa original Nissan Inyectores nuevos.Dekra aprobado.",
+        "kilometraje_number": 195500,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96150484&Hyundai.TUCSON%20GL.2018",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON GL",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96150484-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96150484-1.jpg",
+        "https://crautos.com/clasificados/usados/96150484-2.jpg",
+        "https://crautos.com/clasificados/usados/96150484-3.jpg",
+        "https://crautos.com/clasificados/usados/96150484-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FLOR GARITA",
+        "teléfono": "8840-4600"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "82,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "CAFE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 82000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

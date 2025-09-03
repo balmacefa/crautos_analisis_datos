@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12617577&Suzuki.SWIFT%20DZIRE%20GL.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE GL",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12617577-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12617577-1.jpg",
+        "https://crautos.com/clasificados/usados/12617577-2.jpg",
+        "https://crautos.com/clasificados/usados/12617577-3.jpg",
+        "https://crautos.com/clasificados/usados/12617577-4.jpg",
+        "https://crautos.com/clasificados/usados/12617577-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NIKOLE FIGUEROA",
+        "teléfono": "8595-7189 6143-9428 8867-4209",
+        "whatsapp": "8595-7189"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Usado en Excelente estado. Precio completamente negociable. Se escuchan ofertas.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

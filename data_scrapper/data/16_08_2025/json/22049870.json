@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22049870&Honda.CRV.2002",
+    "año": 2002,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22049870-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22049870-1.jpg",
+        "https://crautos.com/clasificados/usados/22049870-2.jpg",
+        "https://crautos.com/clasificados/usados/22049870-3.jpg",
+        "https://crautos.com/clasificados/usados/22049870-4.jpg",
+        "https://crautos.com/clasificados/usados/22049870-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ LEZCANO",
+        "teléfono": "8607-7127",
+        "whatsapp": "8607-7127"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "153,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "En excelente estado, se ubica en Pérez Zeledon Centro .",
+        "kilometraje_number": 153000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

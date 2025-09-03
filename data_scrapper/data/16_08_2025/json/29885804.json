@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29885804&Isuzu.QKR.2019",
+    "año": 2019,
+    "marca": "ISUZU",
+    "modelo": "QKR",
+    "precio_crc": 22112,
+    "precio_usd": 11100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29885804-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29885804-1.jpg",
+        "https://crautos.com/clasificados/usados/29885804-2.jpg",
+        "https://crautos.com/clasificados/usados/29885804-3.jpg",
+        "https://crautos.com/clasificados/usados/29885804-4.jpg",
+        "https://crautos.com/clasificados/usados/29885804-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO SOLÍS",
+        "teléfono": "8343-6055",
+        "whatsapp": "8343-6055"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLACO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Bateria nueva RRTV LLANTAS muy cuidado.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Turbo"
+    ],
+    "antiguedad": 6
+}

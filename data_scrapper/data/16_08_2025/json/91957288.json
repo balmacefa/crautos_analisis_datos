@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91957288&Nissan.PATHFINDER.1997",
+    "año": 1997,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91957288-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91957288-1.jpg",
+        "https://crautos.com/clasificados/usados/91957288-2.jpg",
+        "https://crautos.com/clasificados/usados/91957288-3.jpg",
+        "https://crautos.com/clasificados/usados/91957288-4.jpg",
+        "https://crautos.com/clasificados/usados/91957288-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLMAN MORALES SABORÍO",
+        "teléfono": "8427-6604",
+        "whatsapp": "8427-6604"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "176,400 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "VINO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Marzo del 2025",
+        "comentario_vendedor": "Negociable. Revisión técnica al día. .",
+        "kilometraje_number": 176400,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

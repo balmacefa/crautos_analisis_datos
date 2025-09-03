@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40402739&Mitsubishi.L200.2015",
+    "año": 2015,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40402739-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40402739-1.jpg",
+        "https://crautos.com/clasificados/usados/40402739-2.jpg",
+        "https://crautos.com/clasificados/usados/40402739-3.jpg",
+        "https://crautos.com/clasificados/usados/40402739-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO BARAHONA",
+        "teléfono": "7261-6834",
+        "whatsapp": "7261-6834"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "210,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

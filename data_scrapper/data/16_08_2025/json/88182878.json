@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88182878&Honda.CRV.2001",
+    "año": 2001,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88182878-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88182878-1.jpg",
+        "https://crautos.com/clasificados/usados/88182878-2.jpg",
+        "https://crautos.com/clasificados/usados/88182878-3.jpg",
+        "https://crautos.com/clasificados/usados/88182878-4.jpg",
+        "https://crautos.com/clasificados/usados/88182878-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA GONZALEZ BERROCAL",
+        "teléfono": "7128-3408 8373-4657",
+        "whatsapp": "7128-3408"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "264,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "SE VE EN DESAMPARADOS .",
+        "kilometraje_number": 264000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

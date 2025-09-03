@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55747482&Volkswagen.VANAGON.1987",
+    "año": 1987,
+    "marca": "VOLKSWAGEN",
+    "modelo": "VANAGON",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55747482-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55747482-1.jpg",
+        "https://crautos.com/clasificados/usados/55747482-2.jpg",
+        "https://crautos.com/clasificados/usados/55747482-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARTIN",
+        "teléfono": "8337-9858",
+        "whatsapp": "8337-9858"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL PERLADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Impecable única en el país tiene que verla solo vendo.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 38
+}

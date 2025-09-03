@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44573858&Volkswagen.JETTA.2022",
+    "año": 2022,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA",
+    "precio_crc": 22545,
+    "precio_usd": 11317500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44573858-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44573858-1.jpg",
+        "https://crautos.com/clasificados/usados/44573858-2.jpg",
+        "https://crautos.com/clasificados/usados/44573858-3.jpg",
+        "https://crautos.com/clasificados/usados/44573858-4.jpg",
+        "https://crautos.com/clasificados/usados/44573858-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL JARA PHILLIPS",
+        "teléfono": "8811-7171 7187-7863 2289-9227",
+        "whatsapp": "8811-7171"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "19,214 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "kilometraje_number": 19214,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85951381&Toyota.YARIS.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85951381-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85951381-1.jpg",
+        "https://crautos.com/clasificados/usados/85951381-2.jpg",
+        "https://crautos.com/clasificados/usados/85951381-3.jpg",
+        "https://crautos.com/clasificados/usados/85951381-4.jpg",
+        "https://crautos.com/clasificados/usados/85951381-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO CHAVARRÍA",
+        "teléfono": "8915-0181",
+        "whatsapp": "8915-0181"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "248,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 248000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 22
+}

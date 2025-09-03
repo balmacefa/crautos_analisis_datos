@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70783730&Suzuki.VITARA.2024",
+    "año": 2024,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70783730-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70783730-1.jpg",
+        "https://crautos.com/clasificados/usados/70783730-2.jpg",
+        "https://crautos.com/clasificados/usados/70783730-3.jpg",
+        "https://crautos.com/clasificados/usados/70783730-4.jpg",
+        "https://crautos.com/clasificados/usados/70783730-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA JOSÉ CRUZ",
+        "teléfono": "7194-4536 8839-8752",
+        "whatsapp": "7194-4536"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "25,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ARENA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en excelente estado Récord de agencia un único dueño .",
+        "kilometraje_number": 25000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 1
+}

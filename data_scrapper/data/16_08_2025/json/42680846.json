@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42680846&Daihatsu.ROCKY.1993",
+    "año": 1993,
+    "marca": "DAIHATSU",
+    "modelo": "ROCKY",
+    "precio_crc": 4681,
+    "precio_usd": 2350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42680846-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42680846-1.jpg",
+        "https://crautos.com/clasificados/usados/42680846-2.jpg",
+        "https://crautos.com/clasificados/usados/42680846-3.jpg",
+        "https://crautos.com/clasificados/usados/42680846-4.jpg",
+        "https://crautos.com/clasificados/usados/42680846-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ENRIQUE SEGURA",
+        "teléfono": "7239-6765 8716-0990",
+        "whatsapp": "7239-6765"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth"
+    ],
+    "antiguedad": 32
+}

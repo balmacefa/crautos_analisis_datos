@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96990363&Renault.KOLEOS%20.2024",
+    "año": 2024,
+    "marca": "RENAULT",
+    "modelo": "KOLEOS",
+    "precio_crc": 27390,
+    "precio_usd": 13750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96990363-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96990363-1.jpg",
+        "https://crautos.com/clasificados/usados/96990363-2.jpg",
+        "https://crautos.com/clasificados/usados/96990363-3.jpg",
+        "https://crautos.com/clasificados/usados/96990363-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN SOTO",
+        "teléfono": "8828-2532",
+        "whatsapp": "8828-2532"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "34,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "SEIS MESES DE GARANTIA -FINANCIAMIENTO DISPONIBLE POR MEDIO DE ENTIDADES -.",
+        "kilometraje_number": 34000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

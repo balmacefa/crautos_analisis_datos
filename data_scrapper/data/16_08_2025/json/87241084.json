@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87241084&Toyota.LAND%20CRUISER%20PRADO.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER PRADO",
+    "precio_crc": 33865,
+    "precio_usd": 17000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87241084-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87241084-1.jpg",
+        "https://crautos.com/clasificados/usados/87241084-2.jpg",
+        "https://crautos.com/clasificados/usados/87241084-3.jpg",
+        "https://crautos.com/clasificados/usados/87241084-4.jpg",
+        "https://crautos.com/clasificados/usados/87241084-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM MORA SALAS",
+        "teléfono": "8433-1715",
+        "whatsapp": "8433-1715"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "125,960 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 125960,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

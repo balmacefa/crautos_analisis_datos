@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17197504",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "APV",
+    "precio_crc": 12151,
+    "precio_usd": 6100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17197504-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17197504-1.jpg",
+        "https://crautos.com/clasificados/usados/17197504-2.jpg",
+        "https://crautos.com/clasificados/usados/17197504-3.jpg",
+        "https://crautos.com/clasificados/usados/17197504-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS GÓMEZ",
+        "teléfono": "8841-4081",
+        "whatsapp": "8841-4081"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "167,459 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado y muy económico .",
+        "kilometraje_number": 167459,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

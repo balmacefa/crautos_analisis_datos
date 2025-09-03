@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2174472&Toyota.HILUX%20SR.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HILUX SR",
+    "precio_crc": 14307000,
+    "precio_usd": 28500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2174472-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2174472-1.jpg",
+        "https://crautos.com/clasificados/usados/2174472-2.jpg",
+        "https://crautos.com/clasificados/usados/2174472-3.jpg",
+        "https://crautos.com/clasificados/usados/2174472-4.jpg",
+        "https://crautos.com/clasificados/usados/2174472-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PARQUE AUTOMOTRIZ",
+        "teléfono": "8575-1000 8854-1326",
+        "whatsapp": "8575-1000",
+        "dirección": "San Antonio de Belén del Más x Menos 150 mtrs oeste"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "260,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Buenas condiciones Recibo.",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

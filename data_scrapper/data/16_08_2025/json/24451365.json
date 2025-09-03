@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24451365&Rover.LAND%20ROVER.1977",
+    "año": 1977,
+    "marca": "ROVER",
+    "modelo": "LAND ROVER",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24451365-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24451365-1.jpg",
+        "https://crautos.com/clasificados/usados/24451365-2.jpg",
+        "https://crautos.com/clasificados/usados/24451365-3.jpg",
+        "https://crautos.com/clasificados/usados/24451365-4.jpg",
+        "https://crautos.com/clasificados/usados/24451365-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERT ALVARADO",
+        "teléfono": "8707-7836",
+        "whatsapp": "8707-7836"
+    },
+    "informacion_general": {
+        "cilindrada": "2250 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "23,108 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO - VERDE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "12 de Junio del 2025",
+        "comentario_vendedor": "¡Clásico inglés! Land Rover diésel original con chancha! Se escuchan ofertas..",
+        "kilometraje_number": 23108,
+        "cilindrada_number": 2250
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 48
+}

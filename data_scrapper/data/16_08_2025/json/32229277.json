@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32229277&Jeep.CHEROKEE%20LAREDO.1989",
+    "año": 1989,
+    "marca": "JEEP",
+    "modelo": "CHEROKEE LAREDO",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32229277-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32229277-1.jpg",
+        "https://crautos.com/clasificados/usados/32229277-2.jpg",
+        "https://crautos.com/clasificados/usados/32229277-3.jpg",
+        "https://crautos.com/clasificados/usados/32229277-4.jpg",
+        "https://crautos.com/clasificados/usados/32229277-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN ESTEBAN REDONDO",
+        "teléfono": "6140-3108",
+        "whatsapp": "6140-3108"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "133 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Mayo del 2025",
+        "comentario_vendedor": "Muy original de fábrica. Está para seguir disfrutando, segundo dueño. .",
+        "kilometraje_number": 133,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 36
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68782015&Mitsubishi.OUTLANDER.2005",
+    "año": 2005,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68782015-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68782015-1.jpg",
+        "https://crautos.com/clasificados/usados/68782015-2.jpg",
+        "https://crautos.com/clasificados/usados/68782015-3.jpg",
+        "https://crautos.com/clasificados/usados/68782015-4.jpg",
+        "https://crautos.com/clasificados/usados/68782015-5.jpg",
+        "https://crautos.com/clasificados/usados/68782015-6.jpg",
+        "https://crautos.com/clasificados/usados/68782015-7.jpg",
+        "https://crautos.com/clasificados/usados/68782015-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS",
+        "teléfono": "8439-3917",
+        "whatsapp": "8439-3917"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "178,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Vehiculo en perfecto estado se vende por compra de un nuevo auto.",
+        "kilometraje_number": 178000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

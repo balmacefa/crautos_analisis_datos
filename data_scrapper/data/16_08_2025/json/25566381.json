@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25566381&Hyundai.ENTOURAGE.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "ENTOURAGE",
+    "precio_crc": 7669,
+    "precio_usd": 3850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25566381-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25566381-1.jpg",
+        "https://crautos.com/clasificados/usados/25566381-2.jpg",
+        "https://crautos.com/clasificados/usados/25566381-3.jpg",
+        "https://crautos.com/clasificados/usados/25566381-4.jpg",
+        "https://crautos.com/clasificados/usados/25566381-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO PORRAS",
+        "teléfono": "8666-4096",
+        "whatsapp": "8666-4096"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "354,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Full extras. siete pasajeros, mensajes escrito por whatsapp,se recibe pickup o camioncito..",
+        "kilometraje_number": 354000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

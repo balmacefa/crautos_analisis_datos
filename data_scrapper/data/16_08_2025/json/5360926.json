@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5360926&Ford.RANGER.2015",
+    "año": 2015,
+    "marca": "FORD",
+    "modelo": "RANGER",
+    "precio_crc": 29681,
+    "precio_usd": 14900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5360926-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5360926-1.jpg",
+        "https://crautos.com/clasificados/usados/5360926-2.jpg",
+        "https://crautos.com/clasificados/usados/5360926-3.jpg",
+        "https://crautos.com/clasificados/usados/5360926-4.jpg",
+        "https://crautos.com/clasificados/usados/5360926-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTONORTE S.A.",
+        "teléfono": "8359-3130 8308-3750 2240-5613",
+        "whatsapp": "8308-3750",
+        "dirección": "Diagonal Agencia ICE Florida de Tibás San José"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "189,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "19 de Junio del 2025",
+        "comentario_vendedor": "CONSÚLTENOS POR FINANCIAMIENTO, GARANTÍA Y AUTOS QUE RECIBIMOS.",
+        "kilometraje_number": 189000,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

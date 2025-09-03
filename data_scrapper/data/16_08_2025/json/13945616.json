@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13945616&Volvo.XC40.2020",
+    "año": 2020,
+    "marca": "VOLVO",
+    "modelo": "XC40",
+    "precio_crc": 35500,
+    "precio_usd": 17821000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13945616-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13945616-1.jpg",
+        "https://crautos.com/clasificados/usados/13945616-2.jpg",
+        "https://crautos.com/clasificados/usados/13945616-3.jpg",
+        "https://crautos.com/clasificados/usados/13945616-4.jpg",
+        "https://crautos.com/clasificados/usados/13945616-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SILVIA ROJAS",
+        "teléfono": "8813-5133",
+        "whatsapp": "8813-5133"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "53,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Impecable!!Cómodo y segurotreintaycuatromilquinientosdolares..",
+        "kilometraje_number": 53000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

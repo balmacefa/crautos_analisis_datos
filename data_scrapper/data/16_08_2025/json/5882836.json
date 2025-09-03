@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5882836&BMW.X3.2014",
+    "año": 2014,
+    "marca": "BMW",
+    "modelo": "X3",
+    "precio_crc": 10040000,
+    "precio_usd": 20000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5882836-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5882836-1.jpg",
+        "https://crautos.com/clasificados/usados/5882836-2.jpg",
+        "https://crautos.com/clasificados/usados/5882836-3.jpg",
+        "https://crautos.com/clasificados/usados/5882836-4.jpg",
+        "https://crautos.com/clasificados/usados/5882836-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "104,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Diciembre del 2024",
+        "comentario_vendedor": "Precio de venta no incluye gastos de traspaso..",
+        "kilometraje_number": 104000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

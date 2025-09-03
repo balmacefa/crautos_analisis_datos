@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54050207&Toyota.YARIS.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54050207-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54050207-1.jpg",
+        "https://crautos.com/clasificados/usados/54050207-2.jpg",
+        "https://crautos.com/clasificados/usados/54050207-3.jpg",
+        "https://crautos.com/clasificados/usados/54050207-4.jpg",
+        "https://crautos.com/clasificados/usados/54050207-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA FERNANDA CORDERO ROJAS",
+        "teléfono": "6020-4817 8367-7623",
+        "whatsapp": "6020-4817"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "46,500 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Carro de cochera muy cuidado.",
+        "kilometraje_number": 46500,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

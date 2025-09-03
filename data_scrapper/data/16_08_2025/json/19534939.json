@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19534939&Suzuki.GRAND%20VITARA.2000",
+    "año": 2000,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19534939-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19534939-1.jpg",
+        "https://crautos.com/clasificados/usados/19534939-2.jpg",
+        "https://crautos.com/clasificados/usados/19534939-3.jpg",
+        "https://crautos.com/clasificados/usados/19534939-4.jpg",
+        "https://crautos.com/clasificados/usados/19534939-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN BARBOZA CHAVES",
+        "teléfono": "7037-3626",
+        "whatsapp": "7037-3626"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Se escuchan ofertas No se recibe auto.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

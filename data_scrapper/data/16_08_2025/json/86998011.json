@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86998011&Toyota.RAV4%20.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86998011-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86998011-1.jpg",
+        "https://crautos.com/clasificados/usados/86998011-2.jpg",
+        "https://crautos.com/clasificados/usados/86998011-3.jpg",
+        "https://crautos.com/clasificados/usados/86998011-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICHARD SOTO",
+        "teléfono": "8597-6707 6488-2563",
+        "whatsapp": "8597-6707"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "138,970 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Es nacional manual doble todo funciona excelente poco recorrido.",
+        "kilometraje_number": 138970,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62109396&Suzuki.CELERIO%20.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62109396-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62109396-1.jpg",
+        "https://crautos.com/clasificados/usados/62109396-2.jpg",
+        "https://crautos.com/clasificados/usados/62109396-3.jpg",
+        "https://crautos.com/clasificados/usados/62109396-4.jpg",
+        "https://crautos.com/clasificados/usados/62109396-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PEDRO CECILIANO",
+        "teléfono": "8526-1511 8855-7191"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "254,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Urge vender Negociable!.",
+        "kilometraje_number": 254000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

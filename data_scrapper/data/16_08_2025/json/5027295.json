@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5027295&Chevrolet.SPARK.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5027295-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5027295-1.jpg",
+        "https://crautos.com/clasificados/usados/5027295-2.jpg",
+        "https://crautos.com/clasificados/usados/5027295-3.jpg",
+        "https://crautos.com/clasificados/usados/5027295-4.jpg",
+        "https://crautos.com/clasificados/usados/5027295-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Abril del 2025",
+        "comentario_vendedor": "muy económico y bueno, para inscribir. sea primer dueñ en CR ,financiamos .",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

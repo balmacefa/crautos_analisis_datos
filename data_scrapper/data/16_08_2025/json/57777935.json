@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57777935&Jeep.RENEGADE.2022",
+    "año": 2022,
+    "marca": "JEEP",
+    "modelo": "RENEGADE",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57777935-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57777935-1.jpg",
+        "https://crautos.com/clasificados/usados/57777935-2.jpg",
+        "https://crautos.com/clasificados/usados/57777935-3.jpg",
+        "https://crautos.com/clasificados/usados/57777935-4.jpg",
+        "https://crautos.com/clasificados/usados/57777935-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELIDA OSBORNE",
+        "teléfono": "8864-7522",
+        "whatsapp": "8864-7522"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "44,427 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "kilometraje_number": 44427,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

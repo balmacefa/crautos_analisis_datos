@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95549761&Suzuki.JIMNY%20JX.2005",
+    "año": 2005,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY JX",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95549761-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95549761-1.jpg",
+        "https://crautos.com/clasificados/usados/95549761-2.jpg",
+        "https://crautos.com/clasificados/usados/95549761-3.jpg",
+        "https://crautos.com/clasificados/usados/95549761-4.jpg",
+        "https://crautos.com/clasificados/usados/95549761-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANKLIN CALDERÓN ZÚÑIGA",
+        "teléfono": "8586-4865 8535-6236",
+        "whatsapp": "8586-4865"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "269,400 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "CAFÉ",
+        "color_interior": "OSCURO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "En buenas condiciones .",
+        "kilometraje_number": 269400,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

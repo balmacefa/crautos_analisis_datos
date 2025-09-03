@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1730119&Nissan.TIIDA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1730119-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1730119-1.jpg",
+        "https://crautos.com/clasificados/usados/1730119-2.jpg",
+        "https://crautos.com/clasificados/usados/1730119-3.jpg",
+        "https://crautos.com/clasificados/usados/1730119-4.jpg",
+        "https://crautos.com/clasificados/usados/1730119-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GARAJE46",
+        "teléfono": "8881-2909 7270-3910",
+        "whatsapp": "7270-3910",
+        "dirección": "San Miguel, Santo Domingo"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "97,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Un dueño de agencia, como nuevo, poco km, tiene que verlo..",
+        "kilometraje_number": 97000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

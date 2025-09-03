@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42372138&Mitsubishi.L200.2015",
+    "año": 2015,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 25498,
+    "precio_usd": 12800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42372138-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42372138-1.jpg",
+        "https://crautos.com/clasificados/usados/42372138-2.jpg",
+        "https://crautos.com/clasificados/usados/42372138-3.jpg",
+        "https://crautos.com/clasificados/usados/42372138-4.jpg",
+        "https://crautos.com/clasificados/usados/42372138-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANYELO SANCHEZ JIMENEZ",
+        "teléfono": "8399-2677",
+        "whatsapp": "8399-2677"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Está en Pérez Zeledón llantas nuevas bateria nueva kitt de distribución nueva snorkel plancha luzled.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81130278&Nissan.FRONTIER.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81130278-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81130278-1.jpg",
+        "https://crautos.com/clasificados/usados/81130278-2.jpg",
+        "https://crautos.com/clasificados/usados/81130278-3.jpg",
+        "https://crautos.com/clasificados/usados/81130278-4.jpg",
+        "https://crautos.com/clasificados/usados/81130278-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIÁN MADRIZ LEANDRO",
+        "teléfono": "8479-8865 8334-2037",
+        "whatsapp": "8479-8865"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "193,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 193000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1365201&Hyundai.CRETA%20GL.2020",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "CRETA GL",
+    "precio_crc": 8483800,
+    "precio_usd": 16900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1365201-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1365201-1.jpg",
+        "https://crautos.com/clasificados/usados/1365201-2.jpg",
+        "https://crautos.com/clasificados/usados/1365201-3.jpg",
+        "https://crautos.com/clasificados/usados/1365201-4.jpg",
+        "https://crautos.com/clasificados/usados/1365201-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOMOTORES CARSOT",
+        "teléfono": "2589-0512 8817-0303",
+        "whatsapp": "8443-0303",
+        "dirección": "600 mts Este de la Iglesia San Antonio de Belén Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "74,371 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "COMPLETAMENTE AL DIA RECIBO FINANCIO... PRECIO EN DOLARES...",
+        "kilometraje_number": 74371,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36638071&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36638071-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36638071-1.jpg",
+        "https://crautos.com/clasificados/usados/36638071-2.jpg",
+        "https://crautos.com/clasificados/usados/36638071-3.jpg",
+        "https://crautos.com/clasificados/usados/36638071-4.jpg",
+        "https://crautos.com/clasificados/usados/36638071-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN FLORES SOTO",
+        "teléfono": "8939-0921",
+        "whatsapp": "8939-0921"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "172,892 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Gps, Camara para grabar frontal y trasera.Corto Eléctrico.",
+        "kilometraje_number": 172892,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

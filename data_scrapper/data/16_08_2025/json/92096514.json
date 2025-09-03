@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92096514&Kia.RIO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92096514-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92096514-1.jpg",
+        "https://crautos.com/clasificados/usados/92096514-2.jpg",
+        "https://crautos.com/clasificados/usados/92096514-3.jpg",
+        "https://crautos.com/clasificados/usados/92096514-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD GUZMAN",
+        "teléfono": "6050-6138",
+        "whatsapp": "6050-6138"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "179,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo ee Agencia. Solo dos dueños.",
+        "kilometraje_number": 179000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

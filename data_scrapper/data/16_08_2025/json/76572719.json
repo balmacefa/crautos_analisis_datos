@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76572719&Isuzu.DMAX.2020",
+    "año": 2020,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 31873,
+    "precio_usd": 16000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIAN CORTES",
+        "teléfono": "8567-2355"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "117,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Perfecto estado un solo dueño pequeños camanances normales para lod vinco años de uso .",
+        "kilometraje_number": 117000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

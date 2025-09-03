@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6959544&Toyota.HIACE%205L.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "HIACE 5L",
+    "precio_crc": 34263,
+    "precio_usd": 17200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6959544-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6959544-1.jpg",
+        "https://crautos.com/clasificados/usados/6959544-2.jpg",
+        "https://crautos.com/clasificados/usados/6959544-3.jpg",
+        "https://crautos.com/clasificados/usados/6959544-4.jpg",
+        "https://crautos.com/clasificados/usados/6959544-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MC CARS",
+        "teléfono": "8331-7699",
+        "dirección": "Paseo Colon, detrás de KFC Avenida 1 entre calle 32 y 34 San José"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "267,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "ESTADO IMPECABLE COMPRADO EN AGENCIA GARANTIA POR ESCRITO.",
+        "kilometraje_number": 267000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

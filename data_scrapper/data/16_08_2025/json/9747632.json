@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9747632&Mercedes%20Benz.250D.1988",
+    "año": 1988,
+    "marca": "MERCEDES BENZ",
+    "modelo": "250D",
+    "precio_crc": 2610400,
+    "precio_usd": 5200.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9747632-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9747632-1.jpg",
+        "https://crautos.com/clasificados/usados/9747632-2.jpg",
+        "https://crautos.com/clasificados/usados/9747632-3.jpg",
+        "https://crautos.com/clasificados/usados/9747632-4.jpg",
+        "https://crautos.com/clasificados/usados/9747632-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN AZOFEIFA",
+        "teléfono": "8513-3864",
+        "whatsapp": "8513-3864",
+        "dirección": "Alajuela, Ciruelas"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Agosto del 2024",
+        "comentario_vendedor": "EXCELENTE ESTADO. SÚPER ECONÓMICO. .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 37
+}

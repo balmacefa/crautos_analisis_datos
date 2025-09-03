@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65879684&Nissan.NAVARA%20LE.2011",
+    "año": 2011,
+    "marca": "NISSAN",
+    "modelo": "NAVARA LE",
+    "precio_crc": 20120,
+    "precio_usd": 10100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65879684-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65879684-1.jpg",
+        "https://crautos.com/clasificados/usados/65879684-2.jpg",
+        "https://crautos.com/clasificados/usados/65879684-3.jpg",
+        "https://crautos.com/clasificados/usados/65879684-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADOLFO DUARTES LOPEZ",
+        "teléfono": "7016-7202"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "231 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Carro fuerte y veloz pantalla rack Thule lona porta halogenos roll bar luz led .",
+        "kilometraje_number": 231,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

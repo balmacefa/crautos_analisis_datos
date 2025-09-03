@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92758548&Isuzu.FSR%20.1999",
+    "año": 1999,
+    "marca": "ISUZU",
+    "modelo": "FSR",
+    "precio_crc": 28884,
+    "precio_usd": 14500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92758548-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92758548-1.jpg",
+        "https://crautos.com/clasificados/usados/92758548-2.jpg",
+        "https://crautos.com/clasificados/usados/92758548-3.jpg",
+        "https://crautos.com/clasificados/usados/92758548-4.jpg",
+        "https://crautos.com/clasificados/usados/92758548-5.jpg",
+        "https://crautos.com/clasificados/usados/92758548-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OMAR",
+        "teléfono": "8998-3738",
+        "whatsapp": "8998-3738"
+    },
+    "informacion_general": {
+        "cilindrada": "8300 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "383 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Está en muy buenas condiciones..",
+        "kilometraje_number": 383,
+        "cilindrada_number": 8300
+    },
+    "equipamiento": [
+        "Alarma",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 26
+}

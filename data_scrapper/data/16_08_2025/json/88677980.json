@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88677980&Kia.PICANTO.2009",
+    "año": 2009,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 7669,
+    "precio_usd": 3850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88677980-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88677980-1.jpg",
+        "https://crautos.com/clasificados/usados/88677980-2.jpg",
+        "https://crautos.com/clasificados/usados/88677980-3.jpg",
+        "https://crautos.com/clasificados/usados/88677980-4.jpg",
+        "https://crautos.com/clasificados/usados/88677980-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO",
+        "teléfono": "8318-5308"
+    },
+    "informacion_general": {
+        "cilindrada": "1080 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "147,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATEADO GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 1080
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 16
+}

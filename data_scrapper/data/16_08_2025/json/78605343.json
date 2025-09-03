@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78605343&Toyota.LAND%20CRUISER.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 24104,
+    "precio_usd": 12100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78605343-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78605343-1.jpg",
+        "https://crautos.com/clasificados/usados/78605343-2.jpg",
+        "https://crautos.com/clasificados/usados/78605343-3.jpg",
+        "https://crautos.com/clasificados/usados/78605343-4.jpg",
+        "https://crautos.com/clasificados/usados/78605343-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CASEY OTOOLE",
+        "teléfono": "8056-6575",
+        "whatsapp": "8056-6575"
+    },
+    "informacion_general": {
+        "cilindrada": "2982 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "8",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "255,375 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GREY",
+        "color_interior": "GREY",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "11 de Junio del 2025",
+        "comentario_vendedor": "y Serviced and Transmission Rebuilt - Warranty Included.",
+        "kilometraje_number": 255375,
+        "cilindrada_number": 2982
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

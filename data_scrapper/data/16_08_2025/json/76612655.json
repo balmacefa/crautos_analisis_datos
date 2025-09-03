@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76612655&Toyota.COROLLA%20.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76612655-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76612655-1.jpg",
+        "https://crautos.com/clasificados/usados/76612655-2.jpg",
+        "https://crautos.com/clasificados/usados/76612655-3.jpg",
+        "https://crautos.com/clasificados/usados/76612655-4.jpg",
+        "https://crautos.com/clasificados/usados/76612655-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO GONZALEZ ARAGON",
+        "teléfono": "8803-2589 6147-6573",
+        "whatsapp": "8803-2589"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "CHAMPAGNE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Tiene sistema a gas detalle en caja por eso el precio pero esta funcionando al cien por ciento .",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 27
+}

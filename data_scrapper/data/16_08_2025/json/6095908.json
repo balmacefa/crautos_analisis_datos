@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6095908&Mercedes%20Benz.GLE350D.2017",
+    "año": 2017,
+    "marca": "MERCEDES BENZ",
+    "modelo": "GLE350D",
+    "precio_crc": 26596,
+    "precio_usd": 13351000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6095908-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6095908-1.jpg",
+        "https://crautos.com/clasificados/usados/6095908-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2987 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "214,464 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Agosto del 2023",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 214464,
+        "cilindrada_number": 2987
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 8
+}

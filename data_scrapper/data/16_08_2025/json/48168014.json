@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48168014&Hyundai.TUCSON.2019",
+    "año": 2019,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48168014-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48168014-1.jpg",
+        "https://crautos.com/clasificados/usados/48168014-2.jpg",
+        "https://crautos.com/clasificados/usados/48168014-3.jpg",
+        "https://crautos.com/clasificados/usados/48168014-4.jpg",
+        "https://crautos.com/clasificados/usados/48168014-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIANA",
+        "teléfono": "7281-4218",
+        "whatsapp": "7281-4218"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "68,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Como nuevo….cuatro por cuatro.",
+        "kilometraje_number": 68000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

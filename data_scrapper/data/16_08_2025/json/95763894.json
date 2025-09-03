@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95763894&Nissan.SENTRA%20B14%20GXE%20.1997",
+    "año": 1997,
+    "marca": "NISSAN",
+    "modelo": "SENTRA B14 GXE",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95763894-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95763894-1.jpg",
+        "https://crautos.com/clasificados/usados/95763894-2.jpg",
+        "https://crautos.com/clasificados/usados/95763894-3.jpg",
+        "https://crautos.com/clasificados/usados/95763894-4.jpg",
+        "https://crautos.com/clasificados/usados/95763894-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARVIN VASQUEZ",
+        "teléfono": "6195-0820",
+        "whatsapp": "6195-0820"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "AIRE ACONDICONADO-AUTOMATICO..MOTOR Y CAJA EXCELENTE ..DETALLITOS DE PINTURA CARRO FAMILIAR. .",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

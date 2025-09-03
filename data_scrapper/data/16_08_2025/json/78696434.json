@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78696434&Toyota.HILUX%20.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78696434-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78696434-1.jpg",
+        "https://crautos.com/clasificados/usados/78696434-2.jpg",
+        "https://crautos.com/clasificados/usados/78696434-3.jpg",
+        "https://crautos.com/clasificados/usados/78696434-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLIVIER ANGULO ANGULO",
+        "teléfono": "6155-4176",
+        "whatsapp": "6155-4176"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "210,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Aros de lujo. Especial para negocio ventas tiene caja cerrada.",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

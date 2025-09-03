@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47478758&Honda.CIVIC.1997",
+    "año": 1997,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 3287,
+    "precio_usd": 1650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47478758-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47478758-1.jpg",
+        "https://crautos.com/clasificados/usados/47478758-2.jpg",
+        "https://crautos.com/clasificados/usados/47478758-3.jpg",
+        "https://crautos.com/clasificados/usados/47478758-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA PAMELA CHAVES",
+        "teléfono": "8894-9046 8835-1053"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "240,933 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 240933,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 28
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31484612&Toyota.TACOMA.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 17829,
+    "precio_usd": 8950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31484612-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31484612-1.jpg",
+        "https://crautos.com/clasificados/usados/31484612-2.jpg",
+        "https://crautos.com/clasificados/usados/31484612-3.jpg",
+        "https://crautos.com/clasificados/usados/31484612-4.jpg",
+        "https://crautos.com/clasificados/usados/31484612-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ÁLVARO JIMÉNEZ",
+        "teléfono": "8395-7704",
+        "whatsapp": "8395-7704"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "104,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Pick up todo terreno para inscribir cero óxido Dekra limpio financiamiento disponible .",
+        "kilometraje_number": 104000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

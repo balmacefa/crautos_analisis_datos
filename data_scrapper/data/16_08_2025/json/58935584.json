@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58935584&Hyundai.GRAND%20I10.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58935584-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58935584-1.jpg",
+        "https://crautos.com/clasificados/usados/58935584-2.jpg",
+        "https://crautos.com/clasificados/usados/58935584-3.jpg",
+        "https://crautos.com/clasificados/usados/58935584-4.jpg",
+        "https://crautos.com/clasificados/usados/58935584-5.jpg",
+        "https://crautos.com/clasificados/usados/58935584-6.jpg",
+        "https://crautos.com/clasificados/usados/58935584-7.jpg",
+        "https://crautos.com/clasificados/usados/58935584-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SOFIA RAMIREZ GONZALEZ",
+        "teléfono": "6040-1867",
+        "whatsapp": "6040-1867"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "RECORD DE AGENCIA SIN GRAVAMENES SOLO UN DUEÑO VEHICULO FAMILIAR NO PLATAFORMAS.",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26925082&Chevrolet.P30.1992",
+    "año": 1992,
+    "marca": "CHEVROLET",
+    "modelo": "P30",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26925082-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26925082-1.jpg",
+        "https://crautos.com/clasificados/usados/26925082-2.jpg",
+        "https://crautos.com/clasificados/usados/26925082-3.jpg",
+        "https://crautos.com/clasificados/usados/26925082-4.jpg",
+        "https://crautos.com/clasificados/usados/26925082-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAMSES CAMACHO",
+        "teléfono": "8545-4545 8413-4545",
+        "whatsapp": "8545-4545"
+    },
+    "informacion_general": {
+        "cilindrada": "7400 cc",
+        "estilo": "Casa Rodante",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "BLANCO/MADERA",
+        "#_de_puertas": "1",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Junio del 2025",
+        "comentario_vendedor": "Escucho Ofertas - Todo al día - Perfectas condiciones - Precio Negociable .",
+        "kilometraje_number": null,
+        "cilindrada_number": 7400
+    },
+    "equipamiento": [],
+    "antiguedad": 33
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38225707&Toyota.YARIS.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38225707-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38225707-1.jpg",
+        "https://crautos.com/clasificados/usados/38225707-2.jpg",
+        "https://crautos.com/clasificados/usados/38225707-3.jpg",
+        "https://crautos.com/clasificados/usados/38225707-4.jpg",
+        "https://crautos.com/clasificados/usados/38225707-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EVELYN",
+        "teléfono": "6097-9982 7293-7303",
+        "whatsapp": "7293-7303"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "235,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "Auto ideal y económico.",
+        "kilometraje_number": 235000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 15
+}

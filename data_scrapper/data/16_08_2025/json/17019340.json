@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17019340&Ssang%20Yong.REXTON.2006",
+    "año": 2006,
+    "marca": "SSANG YONG",
+    "modelo": "REXTON",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17019340-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17019340-1.jpg",
+        "https://crautos.com/clasificados/usados/17019340-2.jpg",
+        "https://crautos.com/clasificados/usados/17019340-3.jpg",
+        "https://crautos.com/clasificados/usados/17019340-4.jpg",
+        "https://crautos.com/clasificados/usados/17019340-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWIN MORICE",
+        "teléfono": "8995-1674",
+        "whatsapp": "8995-1674"
+    },
+    "informacion_general": {
+        "cilindrada": "2874 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "207,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Un sólo dueño. Se incluye manual original de agencia. Motor Mercedes Benz.",
+        "kilometraje_number": 207000,
+        "cilindrada_number": 2874
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90705780&Toyota.RAV4.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90705780-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90705780-1.jpg",
+        "https://crautos.com/clasificados/usados/90705780-2.jpg",
+        "https://crautos.com/clasificados/usados/90705780-3.jpg",
+        "https://crautos.com/clasificados/usados/90705780-4.jpg",
+        "https://crautos.com/clasificados/usados/90705780-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS CAMACHO",
+        "teléfono": "8998-2851",
+        "whatsapp": "8998-2851"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "192,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Negociable .",
+        "kilometraje_number": 192000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

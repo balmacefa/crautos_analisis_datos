@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92379342&Nissan.FRONTIER.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 28088,
+    "precio_usd": 14100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92379342-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92379342-1.jpg",
+        "https://crautos.com/clasificados/usados/92379342-2.jpg",
+        "https://crautos.com/clasificados/usados/92379342-3.jpg",
+        "https://crautos.com/clasificados/usados/92379342-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS VEGA",
+        "teléfono": "7112-8535"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Un dueño Excelente estado Poco kilometraje.",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78786623&Volkswagen.JETTA%20CLASIC.2009",
+    "año": 2009,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA CLASIC",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78786623-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78786623-1.jpg",
+        "https://crautos.com/clasificados/usados/78786623-2.jpg",
+        "https://crautos.com/clasificados/usados/78786623-3.jpg",
+        "https://crautos.com/clasificados/usados/78786623-4.jpg",
+        "https://crautos.com/clasificados/usados/78786623-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN ROJAS",
+        "teléfono": "8426-4276 8763-2268 2551-7571",
+        "whatsapp": "8426-4276"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "162,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Rápido, estable y confortable. Excelente estado general. Precio negociable, se vende por viaje. .",
+        "kilometraje_number": 162000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

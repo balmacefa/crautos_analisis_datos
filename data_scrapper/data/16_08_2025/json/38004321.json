@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38004321&BYD.SEAGULL.2025",
+    "año": 2025,
+    "marca": "BYD",
+    "modelo": "SEAGULL",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38004321-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38004321-1.jpg",
+        "https://crautos.com/clasificados/usados/38004321-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YOSELYN ARCE",
+        "teléfono": "8510-8986",
+        "whatsapp": "8510-8986"
+    },
+    "informacion_general": {
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Eléctrico",
+        "autonomía": "405 kms",
+        "batería": "38.8 kWh",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "52 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "AZUL MARINO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo nuevo **para inscribir***.",
+        "kilometraje_number": 52
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 0
+}

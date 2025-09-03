@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59756707&Suzuki.SAMURAI.1988",
+    "año": 1988,
+    "marca": "SUZUKI",
+    "modelo": "SAMURAI",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL PASTOR",
+        "teléfono": "8851-1120",
+        "whatsapp": "8851-1120"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "31,723 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Heredia.",
+        "kilometraje_number": 31723,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Bluetooth"
+    ],
+    "antiguedad": 37
+}

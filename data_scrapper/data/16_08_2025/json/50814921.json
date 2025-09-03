@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50814921&Kia.RIO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50814921-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50814921-1.jpg",
+        "https://crautos.com/clasificados/usados/50814921-2.jpg",
+        "https://crautos.com/clasificados/usados/50814921-3.jpg",
+        "https://crautos.com/clasificados/usados/50814921-4.jpg",
+        "https://crautos.com/clasificados/usados/50814921-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "REBECA GONZALEZ",
+        "teléfono": "8827-9705"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "102,000 kms",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Ya está inscrito termina en cero, se da a ese precio por detalles en pintura.",
+        "kilometraje_number": 102000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

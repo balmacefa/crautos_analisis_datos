@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21682225&Volkswagen.JETTA.2006",
+    "año": 2006,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21682225-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21682225-1.jpg",
+        "https://crautos.com/clasificados/usados/21682225-2.jpg",
+        "https://crautos.com/clasificados/usados/21682225-3.jpg",
+        "https://crautos.com/clasificados/usados/21682225-4.jpg",
+        "https://crautos.com/clasificados/usados/21682225-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILBER GILBERTO DORMOND",
+        "teléfono": "8308-2054 6060-1860",
+        "whatsapp": "8308-2054"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "215,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO Y GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Recien se convirtio en manual..",
+        "kilometraje_number": 215000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 19
+}

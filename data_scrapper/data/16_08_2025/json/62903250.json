@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62903250&Honda.CRV.2012",
+    "año": 2012,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 15438,
+    "precio_usd": 7750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62903250-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62903250-1.jpg",
+        "https://crautos.com/clasificados/usados/62903250-2.jpg",
+        "https://crautos.com/clasificados/usados/62903250-3.jpg",
+        "https://crautos.com/clasificados/usados/62903250-4.jpg",
+        "https://crautos.com/clasificados/usados/62903250-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO VEGA MIRANDA",
+        "teléfono": "8824-9176 8743-6483",
+        "whatsapp": "8824-9176"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "123,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Mayo del 2025",
+        "comentario_vendedor": "Llantas en muy buen estado.",
+        "kilometraje_number": 123000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57112458&Toyota.HILUX.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57112458-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57112458-1.jpg",
+        "https://crautos.com/clasificados/usados/57112458-2.jpg",
+        "https://crautos.com/clasificados/usados/57112458-3.jpg",
+        "https://crautos.com/clasificados/usados/57112458-4.jpg",
+        "https://crautos.com/clasificados/usados/57112458-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS CALDERON GUTIERREZ",
+        "teléfono": "8782-0660",
+        "whatsapp": "8782-0660"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "94,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR - MUY BUEN ESTADO LLANTAS NUEVAS TAPICERIA PERFECTA.",
+        "kilometraje_number": 94000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

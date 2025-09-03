@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36562224&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36562224-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36562224-1.jpg",
+        "https://crautos.com/clasificados/usados/36562224-2.jpg",
+        "https://crautos.com/clasificados/usados/36562224-3.jpg",
+        "https://crautos.com/clasificados/usados/36562224-4.jpg",
+        "https://crautos.com/clasificados/usados/36562224-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANK PAGNUSATT",
+        "teléfono": "6407-3420",
+        "whatsapp": "6407-3420"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "108,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Motor perfecto estado, marchamo al dia, no rtv por fisura en el parabrisa.",
+        "kilometraje_number": 108000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

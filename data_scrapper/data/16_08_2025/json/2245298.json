@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2245298&Land%20Rover.DEFENDER%20110%20TD4%20SE.2009",
+    "año": 2009,
+    "marca": "LAND ROVER",
+    "modelo": "DEFENDER 110 TD4 SE",
+    "precio_crc": 32630000,
+    "precio_usd": 65000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2245298-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2245298-1.jpg",
+        "https://crautos.com/clasificados/usados/2245298-2.jpg",
+        "https://crautos.com/clasificados/usados/2245298-3.jpg",
+        "https://crautos.com/clasificados/usados/2245298-4.jpg",
+        "https://crautos.com/clasificados/usados/2245298-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELITE MOTORS",
+        "teléfono": "2228-2226 8842-9581 8825-8911",
+        "whatsapp": "8358-8333",
+        "dirección": "Guachipelin de Escazú, frente al Gimnasio de la escuela pública San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "240,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, PRECIO EN DOLARES!.",
+        "kilometraje_number": 240000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

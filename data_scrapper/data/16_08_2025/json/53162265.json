@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53162265&Toyota.RAV4.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53162265-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53162265-1.jpg",
+        "https://crautos.com/clasificados/usados/53162265-2.jpg",
+        "https://crautos.com/clasificados/usados/53162265-3.jpg",
+        "https://crautos.com/clasificados/usados/53162265-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA JOSE ALVAREZ",
+        "teléfono": "6036-0910",
+        "whatsapp": "6036-0910"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "117,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO MUY CUIDADO.",
+        "kilometraje_number": 117000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

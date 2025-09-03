@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31327291&Toyota.YARIS.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31327291-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31327291-1.jpg",
+        "https://crautos.com/clasificados/usados/31327291-2.jpg",
+        "https://crautos.com/clasificados/usados/31327291-3.jpg",
+        "https://crautos.com/clasificados/usados/31327291-4.jpg",
+        "https://crautos.com/clasificados/usados/31327291-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAIKOL ARGUEDAS",
+        "teléfono": "7110-8108",
+        "whatsapp": "7110-8108"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "134,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Excelente y económico .",
+        "kilometraje_number": 134000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

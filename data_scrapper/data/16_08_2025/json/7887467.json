@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7887467&Suzuki.JIMNY.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7887467-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7887467-1.jpg",
+        "https://crautos.com/clasificados/usados/7887467-2.jpg",
+        "https://crautos.com/clasificados/usados/7887467-3.jpg",
+        "https://crautos.com/clasificados/usados/7887467-4.jpg",
+        "https://crautos.com/clasificados/usados/7887467-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ROPE",
+        "teléfono": "8868-5124",
+        "dirección": "Cartago centro Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Llantas Nuevas!!! Excelente Estado !! Precio Incluye Traspaso !!!.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86648229&Chevrolet.COLORADO.2020",
+    "año": 2020,
+    "marca": "CHEVROLET",
+    "modelo": "COLORADO",
+    "precio_crc": 32869,
+    "precio_usd": 16500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86648229-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86648229-1.jpg",
+        "https://crautos.com/clasificados/usados/86648229-2.jpg",
+        "https://crautos.com/clasificados/usados/86648229-3.jpg",
+        "https://crautos.com/clasificados/usados/86648229-4.jpg",
+        "https://crautos.com/clasificados/usados/86648229-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO RAMIREZ",
+        "teléfono": "8822-0022",
+        "whatsapp": "8822-0022"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Recibo Santa Fe .",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

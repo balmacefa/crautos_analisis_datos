@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7794511&Mercedes%20Benz.MERCEDES%20BENZ%20EQA%20350%20.2023",
+    "año": 2023,
+    "marca": "MERCEDES BENZ",
+    "modelo": "MERCEDES BENZ EQA 350",
+    "precio_crc": 25100000,
+    "precio_usd": 50000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7794511-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7794511-1.jpg",
+        "https://crautos.com/clasificados/usados/7794511-2.jpg",
+        "https://crautos.com/clasificados/usados/7794511-3.jpg",
+        "https://crautos.com/clasificados/usados/7794511-4.jpg",
+        "https://crautos.com/clasificados/usados/7794511-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "23,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 23000
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

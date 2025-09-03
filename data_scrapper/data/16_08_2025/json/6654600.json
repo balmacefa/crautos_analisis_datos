@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6654600&Citroen.C-ELYSEE.2016",
+    "año": 2016,
+    "marca": "CITROEN",
+    "modelo": "C-ELYSEE",
+    "precio_crc": 7869,
+    "precio_usd": 3950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6654600-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6654600-1.jpg",
+        "https://crautos.com/clasificados/usados/6654600-2.jpg",
+        "https://crautos.com/clasificados/usados/6654600-3.jpg",
+        "https://crautos.com/clasificados/usados/6654600-4.jpg",
+        "https://crautos.com/clasificados/usados/6654600-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO ROJAS",
+        "teléfono": "8485-2638 7194-9962",
+        "dirección": "San Francisco de 2 Ríos"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "81,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Se recibe vehículo de menor valor precio negociable .",
+        "kilometraje_number": 81000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

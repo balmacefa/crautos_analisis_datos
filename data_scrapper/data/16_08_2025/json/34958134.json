@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34958134",
+    "año": 2010,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34958134-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34958134-1.jpg",
+        "https://crautos.com/clasificados/usados/34958134-2.jpg",
+        "https://crautos.com/clasificados/usados/34958134-3.jpg",
+        "https://crautos.com/clasificados/usados/34958134-4.jpg",
+        "https://crautos.com/clasificados/usados/34958134-5.jpg",
+        "https://crautos.com/clasificados/usados/34958134-6.jpg",
+        "https://crautos.com/clasificados/usados/34958134-7.jpg",
+        "https://crautos.com/clasificados/usados/34958134-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIANA CHAVES",
+        "teléfono": "8533-5286 8368-0951",
+        "whatsapp": "8533-5286"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

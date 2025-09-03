@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6221552&Chevrolet.CAPTIVA%20PREMIERE.2022",
+    "año": 2022,
+    "marca": "CHEVROLET",
+    "modelo": "CAPTIVA PREMIERE",
+    "precio_crc": 11867280,
+    "precio_usd": 23640.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6221552-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6221552-1.jpg",
+        "https://crautos.com/clasificados/usados/6221552-2.jpg",
+        "https://crautos.com/clasificados/usados/6221552-3.jpg",
+        "https://crautos.com/clasificados/usados/6221552-4.jpg",
+        "https://crautos.com/clasificados/usados/6221552-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO Q",
+        "teléfono": "2522-7474",
+        "whatsapp": "7094-6958",
+        "dirección": "400 mtrs al oeste de la plaza de deportes de La Uruca Frente a la intersección Uruca, Circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "44,508 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Con el respaldo de GrupoQ.",
+        "kilometraje_number": 44508,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 3
+}

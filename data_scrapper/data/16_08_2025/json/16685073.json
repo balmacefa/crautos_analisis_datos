@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16685073",
+    "año": 1986,
+    "marca": "FORD",
+    "modelo": "F250 XL",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16685073-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16685073-1.jpg",
+        "https://crautos.com/clasificados/usados/16685073-2.jpg",
+        "https://crautos.com/clasificados/usados/16685073-3.jpg",
+        "https://crautos.com/clasificados/usados/16685073-4.jpg",
+        "https://crautos.com/clasificados/usados/16685073-5.jpg",
+        "https://crautos.com/clasificados/usados/16685073-6.jpg",
+        "https://crautos.com/clasificados/usados/16685073-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR MONGE VARGAS",
+        "teléfono": "8320-1497",
+        "whatsapp": "8320-1497"
+    },
+    "informacion_general": {
+        "cilindrada": "6900 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Julio del 2025",
+        "comentario_vendedor": "Se encuentra en San Marcos de Tarrazú .",
+        "kilometraje_number": null,
+        "cilindrada_number": 6900
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 39
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83168798&Mitsubishi.L200.1990",
+    "año": 1990,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83168798-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83168798-1.jpg",
+        "https://crautos.com/clasificados/usados/83168798-2.jpg",
+        "https://crautos.com/clasificados/usados/83168798-3.jpg",
+        "https://crautos.com/clasificados/usados/83168798-4.jpg",
+        "https://crautos.com/clasificados/usados/83168798-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CLAUDIO MORA",
+        "teléfono": "8366-6691",
+        "whatsapp": "8366-6691"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "210,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "El carro esta bien de motor detalles de pintura y en el cajon.",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 35
+}

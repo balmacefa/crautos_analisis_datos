@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15124883&Hyundai.I10%20GLS.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "I10 GLS",
+    "precio_crc": 8068,
+    "precio_usd": 4050000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15124883-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15124883-1.jpg",
+        "https://crautos.com/clasificados/usados/15124883-2.jpg",
+        "https://crautos.com/clasificados/usados/15124883-3.jpg",
+        "https://crautos.com/clasificados/usados/15124883-4.jpg",
+        "https://crautos.com/clasificados/usados/15124883-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WAYNER RODRÍGUEZ",
+        "teléfono": "7010-3078",
+        "whatsapp": "7010-3078"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGUE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "EN CIUDAD QUESADA. VEHÍCULO CON POCO USO. MUY ECONÓMICO. .",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

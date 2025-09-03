@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50666674&Mitsubishi.MONTERO%20GXL.2002",
+    "año": 2002,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GXL",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50666674-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50666674-1.jpg",
+        "https://crautos.com/clasificados/usados/50666674-2.jpg",
+        "https://crautos.com/clasificados/usados/50666674-3.jpg",
+        "https://crautos.com/clasificados/usados/50666674-4.jpg",
+        "https://crautos.com/clasificados/usados/50666674-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLA DAVIDSON",
+        "teléfono": "7267-4968",
+        "whatsapp": "7267-4968"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "284,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Tiene sistema de gas LP.",
+        "kilometraje_number": 284000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

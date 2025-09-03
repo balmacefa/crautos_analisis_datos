@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38035399&Peugeot.206.2005",
+    "año": 2005,
+    "marca": "PEUGEOT",
+    "modelo": "206",
+    "precio_crc": 996,
+    "precio_usd": 500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38035399-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38035399-1.jpg",
+        "https://crautos.com/clasificados/usados/38035399-2.jpg",
+        "https://crautos.com/clasificados/usados/38035399-3.jpg",
+        "https://crautos.com/clasificados/usados/38035399-4.jpg",
+        "https://crautos.com/clasificados/usados/38035399-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DEMIAN MEZA HERNANDEZ",
+        "teléfono": "7104-3468",
+        "whatsapp": "7104-3468"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "PARA REPRAR Apesar de eso si camina. Se puede negociar.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

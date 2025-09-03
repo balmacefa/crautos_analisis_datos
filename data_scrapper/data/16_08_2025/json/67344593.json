@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67344593&Toyota.RAV4.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 20120,
+    "precio_usd": 10100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67344593-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67344593-1.jpg",
+        "https://crautos.com/clasificados/usados/67344593-2.jpg",
+        "https://crautos.com/clasificados/usados/67344593-3.jpg",
+        "https://crautos.com/clasificados/usados/67344593-4.jpg",
+        "https://crautos.com/clasificados/usados/67344593-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSEPH VENEGAS",
+        "teléfono": "8510-0107",
+        "whatsapp": "8510-0107"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "173,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Mayo del 2025",
+        "comentario_vendedor": "Comprado en agencia ,mantenimientos al día ,se recibe automóvil .",
+        "kilometraje_number": 173000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

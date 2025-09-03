@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45119377&Suzuki.ERTIGA%20GLX.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "ERTIGA GLX",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45119377-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45119377-1.jpg",
+        "https://crautos.com/clasificados/usados/45119377-2.jpg",
+        "https://crautos.com/clasificados/usados/45119377-3.jpg",
+        "https://crautos.com/clasificados/usados/45119377-4.jpg",
+        "https://crautos.com/clasificados/usados/45119377-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO SOLIS",
+        "teléfono": "8347-1279",
+        "whatsapp": "8347-1279"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "91,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "CELESTE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en muy buen estado..",
+        "kilometraje_number": 91000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

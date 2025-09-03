@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18818414&Suzuki.CELERIO.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18818414-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18818414-1.jpg",
+        "https://crautos.com/clasificados/usados/18818414-2.jpg",
+        "https://crautos.com/clasificados/usados/18818414-3.jpg",
+        "https://crautos.com/clasificados/usados/18818414-4.jpg",
+        "https://crautos.com/clasificados/usados/18818414-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSELYN FALLAS RIOS",
+        "teléfono": "8856-5314",
+        "whatsapp": "8856-5314"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "30,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Poco kilometraje extras.",
+        "kilometraje_number": 30000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

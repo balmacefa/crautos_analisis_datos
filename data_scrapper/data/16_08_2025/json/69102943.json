@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69102943&BMW.320I.2004",
+    "año": 2004,
+    "marca": "BMW",
+    "modelo": "320I",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69102943-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69102943-1.jpg",
+        "https://crautos.com/clasificados/usados/69102943-2.jpg",
+        "https://crautos.com/clasificados/usados/69102943-3.jpg",
+        "https://crautos.com/clasificados/usados/69102943-4.jpg",
+        "https://crautos.com/clasificados/usados/69102943-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO VARGAS",
+        "teléfono": "8430-4902",
+        "whatsapp": "8430-4902"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "207,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "kilometraje_number": 207000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Espejos eléctricos",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

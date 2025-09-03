@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44439159&Volkswagen.PASSAT.1990",
+    "año": 1990,
+    "marca": "VOLKSWAGEN",
+    "modelo": "PASSAT",
+    "precio_crc": 1992,
+    "precio_usd": 1000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44439159-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44439159-1.jpg",
+        "https://crautos.com/clasificados/usados/44439159-2.jpg",
+        "https://crautos.com/clasificados/usados/44439159-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS GUTIERREZ MALAVASI",
+        "teléfono": "8887-4657",
+        "whatsapp": "8887-4657"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "247,794 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 247794,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 35
+}

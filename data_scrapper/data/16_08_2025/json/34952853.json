@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34952853&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34952853-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34952853-1.jpg",
+        "https://crautos.com/clasificados/usados/34952853-2.jpg",
+        "https://crautos.com/clasificados/usados/34952853-3.jpg",
+        "https://crautos.com/clasificados/usados/34952853-4.jpg",
+        "https://crautos.com/clasificados/usados/34952853-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAFAEL ANGEL ALFARO",
+        "teléfono": "8694-7055 8335-1516",
+        "whatsapp": "8694-7055"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "115,212 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 115212,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

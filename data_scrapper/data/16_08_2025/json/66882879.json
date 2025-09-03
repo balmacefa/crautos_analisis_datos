@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66882879&Hyundai.H1.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66882879-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66882879-1.jpg",
+        "https://crautos.com/clasificados/usados/66882879-2.jpg",
+        "https://crautos.com/clasificados/usados/66882879-3.jpg",
+        "https://crautos.com/clasificados/usados/66882879-4.jpg",
+        "https://crautos.com/clasificados/usados/66882879-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOAN ARTAVIA VALVERDE",
+        "teléfono": "8418-7201 6465-6718",
+        "whatsapp": "8418-7201"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "266,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "17 de Junio del 2025",
+        "comentario_vendedor": "Uso familiar no turismo version nacional .",
+        "kilometraje_number": 266000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47662377",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47662377-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47662377-1.jpg",
+        "https://crautos.com/clasificados/usados/47662377-2.jpg",
+        "https://crautos.com/clasificados/usados/47662377-3.jpg",
+        "https://crautos.com/clasificados/usados/47662377-4.jpg",
+        "https://crautos.com/clasificados/usados/47662377-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LISETH MATA GONZALEZ",
+        "teléfono": "8304-7649 8887-2481"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "99,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado con Dekra al Dia.",
+        "kilometraje_number": 99500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

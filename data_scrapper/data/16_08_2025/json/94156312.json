@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94156312&Honda.CIVIC.1998",
+    "año": 1998,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94156312-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94156312-1.jpg",
+        "https://crautos.com/clasificados/usados/94156312-2.jpg",
+        "https://crautos.com/clasificados/usados/94156312-3.jpg",
+        "https://crautos.com/clasificados/usados/94156312-4.jpg",
+        "https://crautos.com/clasificados/usados/94156312-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA ELENA CESPEDES",
+        "teléfono": "8530-8648 8626-9760",
+        "whatsapp": "8626-9760"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Honda civic coupe en excelente estado detalles de pintura .",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 27
+}

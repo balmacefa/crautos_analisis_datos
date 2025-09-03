@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94525441&Nissan.PATHFINDER.1995",
+    "año": 1995,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94525441-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94525441-1.jpg",
+        "https://crautos.com/clasificados/usados/94525441-2.jpg",
+        "https://crautos.com/clasificados/usados/94525441-3.jpg",
+        "https://crautos.com/clasificados/usados/94525441-4.jpg",
+        "https://crautos.com/clasificados/usados/94525441-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PATRICIA ULLOA",
+        "teléfono": "7215-4598 7158-1430",
+        "whatsapp": "7215-4598"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "244,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Al día mataburros manual .",
+        "kilometraje_number": 244000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

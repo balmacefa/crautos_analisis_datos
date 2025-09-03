@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9676552&Nissan.VERSA.2022",
+    "año": 2022,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9676552-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9676552-1.jpg",
+        "https://crautos.com/clasificados/usados/9676552-2.jpg",
+        "https://crautos.com/clasificados/usados/9676552-3.jpg",
+        "https://crautos.com/clasificados/usados/9676552-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VILLALOBOS",
+        "teléfono": "8318-9393 2236-0191",
+        "whatsapp": "8318-9393",
+        "dirección": "San Miguel, Sto Domingo de Heredia,300 Mtrs norte del Restaurante La Casa de Doña Lela"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "60,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "RECIBIMOS, FINANCIAMOS.",
+        "kilometraje_number": 60000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51026886&Toyota.RAV4.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51026886-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51026886-1.jpg",
+        "https://crautos.com/clasificados/usados/51026886-2.jpg",
+        "https://crautos.com/clasificados/usados/51026886-3.jpg",
+        "https://crautos.com/clasificados/usados/51026886-4.jpg",
+        "https://crautos.com/clasificados/usados/51026886-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS MORALES",
+        "teléfono": "7210-9227",
+        "whatsapp": "8916-4192"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "101,618 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Guápiles siete pasajeros Gasolina y gas.",
+        "kilometraje_number": 101618,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

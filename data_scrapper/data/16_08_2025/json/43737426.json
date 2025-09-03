@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43737426&Freightliner.M2.2016",
+    "año": 2016,
+    "marca": "FREIGHTLINER",
+    "modelo": "M2",
+    "precio_crc": 35359,
+    "precio_usd": 17750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43737426-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43737426-1.jpg",
+        "https://crautos.com/clasificados/usados/43737426-2.jpg",
+        "https://crautos.com/clasificados/usados/43737426-3.jpg",
+        "https://crautos.com/clasificados/usados/43737426-4.jpg",
+        "https://crautos.com/clasificados/usados/43737426-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO CÉSAR G",
+        "teléfono": "8861-0582",
+        "whatsapp": "8861-0582"
+    },
+    "informacion_general": {
+        "cilindrada": "6700 cc",
+        "estilo": "Camión 8.0-9.5 ton.",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "369,500 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Manual - Motor Cummins - treinta y tres mil libras - Eliminado EGR y DPF - Para inscribir.",
+        "kilometraje_number": 369500,
+        "cilindrada_number": 6700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

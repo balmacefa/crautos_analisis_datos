@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81254371&Toyota.LAND%20CRUISER%20LX.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER LX",
+    "precio_crc": 44821,
+    "precio_usd": 22500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81254371-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81254371-1.jpg",
+        "https://crautos.com/clasificados/usados/81254371-2.jpg",
+        "https://crautos.com/clasificados/usados/81254371-3.jpg",
+        "https://crautos.com/clasificados/usados/81254371-4.jpg",
+        "https://crautos.com/clasificados/usados/81254371-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONIO MORA",
+        "teléfono": "8734-6257",
+        "whatsapp": "8734-6257"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "9",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "318 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Récord Purdy Motor.co Cita previa para verlo.",
+        "kilometraje_number": 318,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

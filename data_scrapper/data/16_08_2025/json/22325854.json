@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22325854&Isuzu.DMAX%20LS.2020",
+    "año": 2020,
+    "marca": "ISUZU",
+    "modelo": "DMAX LS",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22325854-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22325854-1.jpg",
+        "https://crautos.com/clasificados/usados/22325854-2.jpg",
+        "https://crautos.com/clasificados/usados/22325854-3.jpg",
+        "https://crautos.com/clasificados/usados/22325854-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EUGENIA HERRERA",
+        "teléfono": "8706-0734",
+        "whatsapp": "8706-0734"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "148,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Junio del 2025",
+        "comentario_vendedor": "Comprado en agencia - un dueño- excelente estado -llantas y bateria nueva - record de mantenimiento.",
+        "kilometraje_number": 148000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

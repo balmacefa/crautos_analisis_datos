@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12781029&Daihatsu.CUORE%20.1999",
+    "año": 1999,
+    "marca": "DAIHATSU",
+    "modelo": "CUORE",
+    "precio_crc": 2800000,
+    "precio_usd": 2300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12781029-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12781029-1.jpg",
+        "https://crautos.com/clasificados/usados/12781029-2.jpg",
+        "https://crautos.com/clasificados/usados/12781029-3.jpg",
+        "https://crautos.com/clasificados/usados/12781029-4.jpg",
+        "https://crautos.com/clasificados/usados/12781029-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS",
+        "teléfono": "8550-6361",
+        "whatsapp": "8550-6361"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "229,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ALUMINIO",
+        "color_interior": "GRIS/NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "CARRO ADULTO MAYOR-COMPRADO EN AGENCIA TOYOTA-DEKRA JULIO 2026-UNICO DUEÑO-100% JAPONES-MUY CUIDADO.",
+        "kilometraje_number": 229000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

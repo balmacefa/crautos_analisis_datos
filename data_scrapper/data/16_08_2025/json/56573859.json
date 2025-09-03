@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56573859&Mitsubishi.CANTER.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "CANTER",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56573859-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56573859-1.jpg",
+        "https://crautos.com/clasificados/usados/56573859-2.jpg",
+        "https://crautos.com/clasificados/usados/56573859-3.jpg",
+        "https://crautos.com/clasificados/usados/56573859-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR UREÑA ROJAS",
+        "teléfono": "7135-0683 7136-7114",
+        "whatsapp": "7136-7114"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "330,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "PEREZ ZELEDON.",
+        "kilometraje_number": 330000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 17
+}

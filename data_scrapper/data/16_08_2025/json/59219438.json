@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59219438&Chevrolet.TRACKER.1999",
+    "año": 1999,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER",
+    "precio_crc": 5179,
+    "precio_usd": 2600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59219438-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59219438-1.jpg",
+        "https://crautos.com/clasificados/usados/59219438-2.jpg",
+        "https://crautos.com/clasificados/usados/59219438-3.jpg",
+        "https://crautos.com/clasificados/usados/59219438-4.jpg",
+        "https://crautos.com/clasificados/usados/59219438-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDAL NARANJO",
+        "teléfono": "8844-2414"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "81,186 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "MUY ECONOMICO RECIEN OVERGUOL .",
+        "kilometraje_number": 81186,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 26
+}

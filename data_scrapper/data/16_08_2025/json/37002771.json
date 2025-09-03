@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37002771&Chevrolet.SONIC%20LT.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "SONIC LT",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37002771-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37002771-1.jpg",
+        "https://crautos.com/clasificados/usados/37002771-2.jpg",
+        "https://crautos.com/clasificados/usados/37002771-3.jpg",
+        "https://crautos.com/clasificados/usados/37002771-4.jpg",
+        "https://crautos.com/clasificados/usados/37002771-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LAURA ZAMORA",
+        "teléfono": "8847-4598",
+        "whatsapp": "8847-4598"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "130,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "CHERRY",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Mayo del 2025",
+        "comentario_vendedor": "Para repuestos o para el que quiera ponerlo al día. Se recibe carro del mismo valor .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

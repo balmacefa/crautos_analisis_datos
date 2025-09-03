@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15012839&Kia.MORNING.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "MORNING",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15012839-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15012839-1.jpg",
+        "https://crautos.com/clasificados/usados/15012839-2.jpg",
+        "https://crautos.com/clasificados/usados/15012839-3.jpg",
+        "https://crautos.com/clasificados/usados/15012839-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELISSA CASTRO",
+        "teléfono": "8974-8504 7088-0050 8974-8493",
+        "whatsapp": "8974-8504"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "61,089 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "¡Perfecto para quienes buscan economía comodidad y buen estado!.",
+        "kilometraje_number": 61089,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

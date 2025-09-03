@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33811551&Isuzu.DMAX%20LS.2019",
+    "año": 2019,
+    "marca": "ISUZU",
+    "modelo": "DMAX LS",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33811551-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33811551-1.jpg",
+        "https://crautos.com/clasificados/usados/33811551-2.jpg",
+        "https://crautos.com/clasificados/usados/33811551-3.jpg",
+        "https://crautos.com/clasificados/usados/33811551-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN LOPEZ",
+        "teléfono": "8769-1093",
+        "whatsapp": "8769-1093"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "179,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado record de agencia. Con GPS. Con tool box.",
+        "kilometraje_number": 179000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

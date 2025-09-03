@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78465748&Kia.RIO.2011",
+    "año": 2011,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78465748-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78465748-1.jpg",
+        "https://crautos.com/clasificados/usados/78465748-2.jpg",
+        "https://crautos.com/clasificados/usados/78465748-3.jpg",
+        "https://crautos.com/clasificados/usados/78465748-4.jpg",
+        "https://crautos.com/clasificados/usados/78465748-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN JOSE SEVILLA",
+        "teléfono": "8844-6223",
+        "whatsapp": "8844-6223"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "131,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ANARANJADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño record de agencia excelente estado.",
+        "kilometraje_number": 131000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 14
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9673228&Toyota.RUSH%20G.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "RUSH G",
+    "precio_crc": 9393861,
+    "precio_usd": 18713.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9673228-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9673228-1.jpg",
+        "https://crautos.com/clasificados/usados/9673228-2.jpg",
+        "https://crautos.com/clasificados/usados/9673228-3.jpg",
+        "https://crautos.com/clasificados/usados/9673228-4.jpg",
+        "https://crautos.com/clasificados/usados/9673228-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOMOTORES CARSOT",
+        "teléfono": "2589-0512 8817-0303",
+        "whatsapp": "8443-0303",
+        "dirección": "600 mts Este de la Iglesia San Antonio de Belén Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "100,045 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "COMPLETAMENTE AL DIA RECIBO Y FINANCIO ....PRECIO EN DOLARES .",
+        "kilometraje_number": 100045,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

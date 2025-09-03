@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51685627&Toyota.COROLLA%20SE-G.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA SE-G",
+    "precio_crc": 8665,
+    "precio_usd": 4350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51685627-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51685627-1.jpg",
+        "https://crautos.com/clasificados/usados/51685627-2.jpg",
+        "https://crautos.com/clasificados/usados/51685627-3.jpg",
+        "https://crautos.com/clasificados/usados/51685627-4.jpg",
+        "https://crautos.com/clasificados/usados/51685627-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CLAUDIO VEAS",
+        "teléfono": "6162-4663",
+        "whatsapp": "6162-4663"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "228,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Llantas nuevas-Recien Tuneup-Sin oxido- tercer dueño.",
+        "kilometraje_number": 228000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92153512&Nissan.D21.1989",
+    "año": 1989,
+    "marca": "NISSAN",
+    "modelo": "D21",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92153512-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92153512-1.jpg",
+        "https://crautos.com/clasificados/usados/92153512-2.jpg",
+        "https://crautos.com/clasificados/usados/92153512-3.jpg",
+        "https://crautos.com/clasificados/usados/92153512-4.jpg",
+        "https://crautos.com/clasificados/usados/92153512-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN MIRANDA",
+        "teléfono": "6318-5650",
+        "whatsapp": "6318-5650"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "206,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "El carro está en sarapiqui el kilometraje no es exacto info al - con Wilson Huertas.",
+        "kilometraje_number": 206000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 36
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6143893&Kia.RIO.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6143893-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6143893-1.jpg",
+        "https://crautos.com/clasificados/usados/6143893-2.jpg",
+        "https://crautos.com/clasificados/usados/6143893-3.jpg",
+        "https://crautos.com/clasificados/usados/6143893-4.jpg",
+        "https://crautos.com/clasificados/usados/6143893-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "61,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Junio del 2025",
+        "comentario_vendedor": "perfecto estado, se recibe vehiculo y se financia.",
+        "kilometraje_number": 61000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

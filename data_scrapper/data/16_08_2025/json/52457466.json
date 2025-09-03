@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52457466&Land%20Rover.RANGE%20ROVER%20EVOQUE.2012",
+    "año": 2012,
+    "marca": "LAND ROVER",
+    "modelo": "RANGE ROVER EVOQUE",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52457466-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52457466-1.jpg",
+        "https://crautos.com/clasificados/usados/52457466-2.jpg",
+        "https://crautos.com/clasificados/usados/52457466-3.jpg",
+        "https://crautos.com/clasificados/usados/52457466-4.jpg",
+        "https://crautos.com/clasificados/usados/52457466-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LIZANO",
+        "teléfono": "7215-0028",
+        "whatsapp": "7215-0028"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "CUERO NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Mayo del 2025",
+        "comentario_vendedor": "Excelente estado. Poco uso. Bajo Kilometraje. Super precio! Compare. .",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 13
+}

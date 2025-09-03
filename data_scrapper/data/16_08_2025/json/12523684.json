@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12523684&Hyundai.I10.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 9263,
+    "precio_usd": 4650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12523684-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12523684-1.jpg",
+        "https://crautos.com/clasificados/usados/12523684-2.jpg",
+        "https://crautos.com/clasificados/usados/12523684-3.jpg",
+        "https://crautos.com/clasificados/usados/12523684-4.jpg",
+        "https://crautos.com/clasificados/usados/12523684-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YONISIO ALVARADO S",
+        "teléfono": "8317-0085",
+        "whatsapp": "8317-0085"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "153,400 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO/CREMA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Uso familiar, muy cuidado y muy económico..",
+        "kilometraje_number": 153400,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

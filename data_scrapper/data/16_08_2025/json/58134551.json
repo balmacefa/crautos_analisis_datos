@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58134551&Suzuki.SX4.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58134551-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58134551-1.jpg",
+        "https://crautos.com/clasificados/usados/58134551-2.jpg",
+        "https://crautos.com/clasificados/usados/58134551-3.jpg",
+        "https://crautos.com/clasificados/usados/58134551-4.jpg",
+        "https://crautos.com/clasificados/usados/58134551-5.jpg",
+        "https://crautos.com/clasificados/usados/58134551-6.jpg",
+        "https://crautos.com/clasificados/usados/58134551-7.jpg",
+        "https://crautos.com/clasificados/usados/58134551-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER BURNS CASTRO",
+        "teléfono": "8855-4733 4082-6750",
+        "whatsapp": "8855-4733"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "86,500 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "TERRACOTA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "UN SOLO DUEÑO poco Kilómetraje.",
+        "kilometraje_number": 86500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

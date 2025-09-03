@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37901259&BYD.S1.2023",
+    "año": 2023,
+    "marca": "BYD",
+    "modelo": "S1",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37901259-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37901259-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ESQUIVEL",
+        "teléfono": "8335-1959",
+        "whatsapp": "8335-1959"
+    },
+    "informacion_general": {
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "401 kms",
+        "batería": "50.0 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "61,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "CELESTE",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Comprado en concesionaria BYD en Costa Rica unico dueño.",
+        "kilometraje_number": 61000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 2
+}

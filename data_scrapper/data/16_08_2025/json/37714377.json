@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37714377&Nissan.VANETTE%20.1994",
+    "año": 1994,
+    "marca": "NISSAN",
+    "modelo": "VANETTE",
+    "precio_crc": 4681,
+    "precio_usd": 2350000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUIDO ESPINOZA",
+        "teléfono": "6263-4465",
+        "whatsapp": "6263-4465"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Está muy cuidada y con poco km .",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Cámara de retroceso",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 31
+}

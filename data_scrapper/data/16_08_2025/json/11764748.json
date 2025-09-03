@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11764748&Mitsubishi.MONTERO%20.2003",
+    "año": 2003,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11764748-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11764748-1.jpg",
+        "https://crautos.com/clasificados/usados/11764748-2.jpg",
+        "https://crautos.com/clasificados/usados/11764748-3.jpg",
+        "https://crautos.com/clasificados/usados/11764748-4.jpg",
+        "https://crautos.com/clasificados/usados/11764748-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE MUÑOZ ARROYO",
+        "teléfono": "8315-0125",
+        "whatsapp": "8315-0125"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

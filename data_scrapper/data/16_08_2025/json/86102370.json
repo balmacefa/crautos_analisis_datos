@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86102370&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86102370-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86102370-1.jpg",
+        "https://crautos.com/clasificados/usados/86102370-2.jpg",
+        "https://crautos.com/clasificados/usados/86102370-3.jpg",
+        "https://crautos.com/clasificados/usados/86102370-4.jpg",
+        "https://crautos.com/clasificados/usados/86102370-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YAMIL RAMIREZ",
+        "teléfono": "7042-7278 8823-6077",
+        "whatsapp": "7042-7278"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "220,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable.",
+        "kilometraje_number": 220000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

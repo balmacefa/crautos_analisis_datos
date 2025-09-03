@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3622477&Land%20Rover.DEFENDER%20110%20.1999",
+    "año": 1999,
+    "marca": "LAND ROVER",
+    "modelo": "DEFENDER 110",
+    "precio_crc": 35558,
+    "precio_usd": 17850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3622477-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3622477-1.jpg",
+        "https://crautos.com/clasificados/usados/3622477-2.jpg",
+        "https://crautos.com/clasificados/usados/3622477-3.jpg",
+        "https://crautos.com/clasificados/usados/3622477-4.jpg",
+        "https://crautos.com/clasificados/usados/3622477-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ABRE",
+        "teléfono": "8387-8110 8860-4040 2537-5000",
+        "whatsapp": "8387-8110",
+        "dirección": "La Lima de Cartago, 50 metros norte de Wallmart, costado sur de la Dos Pinos. Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "190,000 kms",
+        "placa": "ND",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "Excelente carro para trabajo, Alta capacidad de carga, Tiene detalles de Pintura , por eso el precio.",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

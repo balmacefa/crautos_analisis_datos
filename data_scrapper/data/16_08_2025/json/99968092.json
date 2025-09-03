@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99968092&Isuzu.DMAX.2020",
+    "año": 2020,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99968092-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99968092-1.jpg",
+        "https://crautos.com/clasificados/usados/99968092-2.jpg",
+        "https://crautos.com/clasificados/usados/99968092-3.jpg",
+        "https://crautos.com/clasificados/usados/99968092-4.jpg",
+        "https://crautos.com/clasificados/usados/99968092-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHNNY SERRANO",
+        "teléfono": "7031-6790",
+        "whatsapp": "7031-6790"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "152,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "OPORTUNIDAD... URGE VENDER .",
+        "kilometraje_number": 152000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

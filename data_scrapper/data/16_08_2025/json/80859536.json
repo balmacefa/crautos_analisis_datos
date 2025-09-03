@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80859536&Toyota.LAND%20CRUISER%20BJ40%20.1978",
+    "año": 1978,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER BJ40",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80859536-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80859536-1.jpg",
+        "https://crautos.com/clasificados/usados/80859536-2.jpg",
+        "https://crautos.com/clasificados/usados/80859536-3.jpg",
+        "https://crautos.com/clasificados/usados/80859536-4.jpg",
+        "https://crautos.com/clasificados/usados/80859536-5.jpg",
+        "https://crautos.com/clasificados/usados/80859536-6.jpg",
+        "https://crautos.com/clasificados/usados/80859536-7.jpg",
+        "https://crautos.com/clasificados/usados/80859536-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER GONZÁLEZ",
+        "teléfono": "8838-8006 8325-0065 2272-0979",
+        "whatsapp": "8325-0065"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AMARILLO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Para coleccionistas amantes de los todoterreno o quien busque un carro con historia y personalidad. .",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 47
+}

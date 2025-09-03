@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89724232&Mitsubishi.MIRAGE.1997",
+    "año": 1997,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE",
+    "precio_crc": 3187,
+    "precio_usd": 1600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89724232-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89724232-1.jpg",
+        "https://crautos.com/clasificados/usados/89724232-2.jpg",
+        "https://crautos.com/clasificados/usados/89724232-3.jpg",
+        "https://crautos.com/clasificados/usados/89724232-4.jpg",
+        "https://crautos.com/clasificados/usados/89724232-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES",
+        "teléfono": "8339-1551",
+        "whatsapp": "8339-1551"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "291,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura. Se escuchan ofertas.",
+        "kilometraje_number": 291000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39799009&Toyota.YARIS.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39799009-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39799009-1.jpg",
+        "https://crautos.com/clasificados/usados/39799009-2.jpg",
+        "https://crautos.com/clasificados/usados/39799009-3.jpg",
+        "https://crautos.com/clasificados/usados/39799009-4.jpg",
+        "https://crautos.com/clasificados/usados/39799009-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO CALVO",
+        "teléfono": "8997-1013",
+        "whatsapp": "8997-1013"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "94,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "En excelente estado todo al día y libre.",
+        "kilometraje_number": 94000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97197836&Toyota.ECHO.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6673,
+    "precio_usd": 3350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97197836-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97197836-1.jpg",
+        "https://crautos.com/clasificados/usados/97197836-2.jpg",
+        "https://crautos.com/clasificados/usados/97197836-3.jpg",
+        "https://crautos.com/clasificados/usados/97197836-4.jpg",
+        "https://crautos.com/clasificados/usados/97197836-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN CAMACHO",
+        "teléfono": "6106-0306",
+        "whatsapp": "6106-0306"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "103,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "ARENA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "dekra hasta julio del otro año .",
+        "kilometraje_number": 103000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

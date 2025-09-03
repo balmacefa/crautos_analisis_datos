@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6093814&Toyota.YARIS.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6093814-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6093814-1.jpg",
+        "https://crautos.com/clasificados/usados/6093814-2.jpg",
+        "https://crautos.com/clasificados/usados/6093814-3.jpg",
+        "https://crautos.com/clasificados/usados/6093814-4.jpg",
+        "https://crautos.com/clasificados/usados/6093814-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VEHÍCULOS Z Y M S.A.",
+        "teléfono": "8818-9142 7274-3207 2537-4545",
+        "whatsapp": "8818-9142",
+        "dirección": "San Nicolás el Alto de Ochomogo frente a Recope"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "167,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Mayo del 2025",
+        "comentario_vendedor": "Excelente estado, Económico. Financio.",
+        "kilometraje_number": 167000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

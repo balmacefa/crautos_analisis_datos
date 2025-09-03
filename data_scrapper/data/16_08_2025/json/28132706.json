@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28132706",
+    "año": 2019,
+    "marca": "JEEP",
+    "modelo": "WRANGLER SAHARA",
+    "precio_crc": 65737,
+    "precio_usd": 33000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28132706-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28132706-1.jpg",
+        "https://crautos.com/clasificados/usados/28132706-2.jpg",
+        "https://crautos.com/clasificados/usados/28132706-3.jpg",
+        "https://crautos.com/clasificados/usados/28132706-4.jpg",
+        "https://crautos.com/clasificados/usados/28132706-5.jpg",
+        "https://crautos.com/clasificados/usados/28132706-6.jpg",
+        "https://crautos.com/clasificados/usados/28132706-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEREMY FUENTES",
+        "teléfono": "8831-1837",
+        "whatsapp": "8831-1837"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "93,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS CEMENTO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Junio del 2025",
+        "comentario_vendedor": "RÉCORD DE AGENCIA AUTOSTAR como nuevo SE RECIBE.",
+        "kilometraje_number": 93000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [],
+    "antiguedad": 6
+}

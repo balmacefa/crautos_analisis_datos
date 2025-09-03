@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90015386&Toyota.COROLLA.1993",
+    "año": 1993,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90015386-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90015386-1.jpg",
+        "https://crautos.com/clasificados/usados/90015386-2.jpg",
+        "https://crautos.com/clasificados/usados/90015386-3.jpg",
+        "https://crautos.com/clasificados/usados/90015386-4.jpg",
+        "https://crautos.com/clasificados/usados/90015386-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS ZAMORA HERNANDEZ",
+        "teléfono": "8353-6229",
+        "whatsapp": "8353-6229"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "99,999 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Toyota Corolla japones.",
+        "kilometraje_number": 99999,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 32
+}

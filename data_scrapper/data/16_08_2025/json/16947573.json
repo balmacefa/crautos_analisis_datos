@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16947573&Hyundai.SANTA%20FE.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16947573-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16947573-1.jpg",
+        "https://crautos.com/clasificados/usados/16947573-2.jpg",
+        "https://crautos.com/clasificados/usados/16947573-3.jpg",
+        "https://crautos.com/clasificados/usados/16947573-4.jpg",
+        "https://crautos.com/clasificados/usados/16947573-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTIAN ESQUIVEL HERNANDEZ",
+        "teléfono": "8858-6648 8754-9339",
+        "whatsapp": "8858-6648"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "138,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Mayo del 2025",
+        "comentario_vendedor": "Excelente condición muy cuidado .",
+        "kilometraje_number": 138000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

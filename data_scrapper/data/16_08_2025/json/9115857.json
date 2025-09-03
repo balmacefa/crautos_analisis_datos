@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9115857&Kia.RIO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10608,
+    "precio_usd": 5325000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9115857-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9115857-1.jpg",
+        "https://crautos.com/clasificados/usados/9115857-2.jpg",
+        "https://crautos.com/clasificados/usados/9115857-3.jpg",
+        "https://crautos.com/clasificados/usados/9115857-4.jpg",
+        "https://crautos.com/clasificados/usados/9115857-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO ROJAS",
+        "teléfono": "8485-2638 7194-9962",
+        "dirección": "San Francisco de 2 Ríos"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "108,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Se recibe vehículo de menor precio negociable .",
+        "kilometraje_number": 108000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

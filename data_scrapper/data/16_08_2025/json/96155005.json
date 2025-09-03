@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96155005&Suzuki.CELERIO.2018",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96155005-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96155005-1.jpg",
+        "https://crautos.com/clasificados/usados/96155005-2.jpg",
+        "https://crautos.com/clasificados/usados/96155005-3.jpg",
+        "https://crautos.com/clasificados/usados/96155005-4.jpg",
+        "https://crautos.com/clasificados/usados/96155005-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANKLIN CHINCHILLA BRENES",
+        "teléfono": "8431-2609 6004-2195 6162-0293",
+        "whatsapp": "8431-2609"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Urge vender por oportunidad laboral fuera del pais.",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87034246&Chevrolet.SONIC%20.2016",
+    "año": 2016,
+    "marca": "CHEVROLET",
+    "modelo": "SONIC",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87034246-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87034246-1.jpg",
+        "https://crautos.com/clasificados/usados/87034246-2.jpg",
+        "https://crautos.com/clasificados/usados/87034246-3.jpg",
+        "https://crautos.com/clasificados/usados/87034246-4.jpg",
+        "https://crautos.com/clasificados/usados/87034246-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTOPHER AROSTEGUI",
+        "teléfono": "7160-2842 6129-9197"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "400,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Se vende o se cambia.",
+        "kilometraje_number": 400000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

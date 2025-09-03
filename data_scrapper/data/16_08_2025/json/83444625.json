@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83444625&Toyota.YARIS.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83444625-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83444625-1.jpg",
+        "https://crautos.com/clasificados/usados/83444625-2.jpg",
+        "https://crautos.com/clasificados/usados/83444625-3.jpg",
+        "https://crautos.com/clasificados/usados/83444625-4.jpg",
+        "https://crautos.com/clasificados/usados/83444625-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR BOLAÑOS",
+        "teléfono": "8726-0888",
+        "whatsapp": "8726-0888"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "158,083 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Ocho siete veintiséis cero ocho ocho ocho.",
+        "kilometraje_number": 158083,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

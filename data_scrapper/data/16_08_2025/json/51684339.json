@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51684339&Suzuki.JIMNY.2021",
+    "año": 2021,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 21813,
+    "precio_usd": 10950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51684339-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51684339-1.jpg",
+        "https://crautos.com/clasificados/usados/51684339-2.jpg",
+        "https://crautos.com/clasificados/usados/51684339-3.jpg",
+        "https://crautos.com/clasificados/usados/51684339-4.jpg",
+        "https://crautos.com/clasificados/usados/51684339-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PEDRO COTO TAYLOR",
+        "teléfono": "8883-2812 8384-6825",
+        "whatsapp": "8883-2812"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "76,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Comprado en agencia impecable.",
+        "kilometraje_number": 76000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 4
+}

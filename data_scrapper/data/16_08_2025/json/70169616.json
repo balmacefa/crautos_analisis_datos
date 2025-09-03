@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70169616&Hyundai.KONA.2022",
+    "año": 2022,
+    "marca": "HYUNDAI",
+    "modelo": "KONA",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70169616-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70169616-1.jpg",
+        "https://crautos.com/clasificados/usados/70169616-2.jpg",
+        "https://crautos.com/clasificados/usados/70169616-3.jpg",
+        "https://crautos.com/clasificados/usados/70169616-4.jpg",
+        "https://crautos.com/clasificados/usados/70169616-5.jpg",
+        "https://crautos.com/clasificados/usados/70169616-6.jpg",
+        "https://crautos.com/clasificados/usados/70169616-7.jpg",
+        "https://crautos.com/clasificados/usados/70169616-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREY GIOVANNI DURAN SALAZAR",
+        "teléfono": "6427-3722",
+        "whatsapp": "6427-3722"
+    },
+    "informacion_general": {
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "350 kms",
+        "batería": "39.0 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "50,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Julio del 2025",
+        "comentario_vendedor": "Aun con garantía Versi Limited único dueño auto familiar récord de agencia color único en el país .",
+        "kilometraje_number": 50000
+    },
+    "equipamiento": [],
+    "antiguedad": 3
+}

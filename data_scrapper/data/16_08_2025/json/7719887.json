@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7719887&BMW.X1.2019",
+    "año": 2019,
+    "marca": "BMW",
+    "modelo": "X1",
+    "precio_crc": 14056000,
+    "precio_usd": 28000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7719887-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7719887-1.jpg",
+        "https://crautos.com/clasificados/usados/7719887-2.jpg",
+        "https://crautos.com/clasificados/usados/7719887-3.jpg",
+        "https://crautos.com/clasificados/usados/7719887-4.jpg",
+        "https://crautos.com/clasificados/usados/7719887-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "USADOS MOTORES BRITÁNICOS",
+        "teléfono": "4037-5720",
+        "whatsapp": "4037-5720",
+        "dirección": "Avenida Land Rover, La Uruca"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "74,400 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Certificado y garantía de Grupo Motores Británicos .",
+        "kilometraje_number": 74400,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 6
+}

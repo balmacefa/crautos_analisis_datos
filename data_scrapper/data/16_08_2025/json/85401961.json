@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85401961&Suzuki.SWIFT.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85401961-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85401961-1.jpg",
+        "https://crautos.com/clasificados/usados/85401961-2.jpg",
+        "https://crautos.com/clasificados/usados/85401961-3.jpg",
+        "https://crautos.com/clasificados/usados/85401961-4.jpg",
+        "https://crautos.com/clasificados/usados/85401961-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE PABLO HERRERA CAMPOS",
+        "teléfono": "6019-6762",
+        "whatsapp": "6019-6762"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "vendo suzuki swift en excelente estado todo electrico y hoja de dekra en blanco de todos los años.",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

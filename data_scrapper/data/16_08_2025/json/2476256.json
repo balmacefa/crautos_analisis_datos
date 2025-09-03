@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2476256&Land%20Rover.SERIE%202%20A.1963",
+    "año": 1963,
+    "marca": "LAND ROVER",
+    "modelo": "SERIE 2 A",
+    "precio_crc": 4518000,
+    "precio_usd": 9000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2476256-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2476256-1.jpg",
+        "https://crautos.com/clasificados/usados/2476256-2.jpg",
+        "https://crautos.com/clasificados/usados/2476256-3.jpg",
+        "https://crautos.com/clasificados/usados/2476256-4.jpg",
+        "https://crautos.com/clasificados/usados/2476256-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOTOR CITY",
+        "teléfono": "8844-1919 8364-5234 2100-0808",
+        "whatsapp": "8844-1919",
+        "dirección": "San Rafael de Escazú, 75 Mtrs sur del Centro Comercial Paco"
+    },
+    "informacion_general": {
+        "cilindrada": "2250 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "86,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AMARILLO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "IMPECABLE, NACIONAL, TAPICERÍA EN BUEN ESTADO, MEJOR PRECIO DEL MERCADO......",
+        "kilometraje_number": 86000,
+        "cilindrada_number": 2250
+    },
+    "equipamiento": [],
+    "antiguedad": 62
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80077006&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80077006-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80077006-1.jpg",
+        "https://crautos.com/clasificados/usados/80077006-2.jpg",
+        "https://crautos.com/clasificados/usados/80077006-3.jpg",
+        "https://crautos.com/clasificados/usados/80077006-4.jpg",
+        "https://crautos.com/clasificados/usados/80077006-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAIKOL GONZALEZ",
+        "teléfono": "8346-1868",
+        "whatsapp": "8346-1868"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "164,000 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Marzo del 2025",
+        "comentario_vendedor": "Excelente estado -PARA INSCRIBIR-.",
+        "kilometraje_number": 164000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

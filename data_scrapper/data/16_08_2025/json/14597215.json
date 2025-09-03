@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14597215&Suzuki.SWIFT%20DZIRE%20GL.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE GL",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14597215-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14597215-1.jpg",
+        "https://crautos.com/clasificados/usados/14597215-2.jpg",
+        "https://crautos.com/clasificados/usados/14597215-3.jpg",
+        "https://crautos.com/clasificados/usados/14597215-4.jpg",
+        "https://crautos.com/clasificados/usados/14597215-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MASIOTH MARÍA JIMÉNEZ ZAMORA",
+        "teléfono": "8317-9541 8988-1015 8707-8999",
+        "whatsapp": "8317-9541"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Hoja de Deckra en blanco.",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

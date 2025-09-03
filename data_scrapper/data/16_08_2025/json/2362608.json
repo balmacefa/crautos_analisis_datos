@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2362608&Suzuki.SWIFT%20DZIRE%20GA.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE GA",
+    "precio_crc": 4233135,
+    "precio_usd": 8433.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2362608-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2362608-1.jpg",
+        "https://crautos.com/clasificados/usados/2362608-2.jpg",
+        "https://crautos.com/clasificados/usados/2362608-3.jpg",
+        "https://crautos.com/clasificados/usados/2362608-4.jpg",
+        "https://crautos.com/clasificados/usados/2362608-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS DIEKCANT",
+        "teléfono": "2203-2641 8451-2861",
+        "whatsapp": "8451-2861",
+        "dirección": "Rio Oro de Santa Ana, calle Cebadilla, 100 metros sur de la iglesia católica."
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "105,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Mayo del 2025",
+        "comentario_vendedor": "PERFECTO ESTADO GARANTIA DISPONIBLE.",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

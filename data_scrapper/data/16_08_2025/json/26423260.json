@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26423260&Nissan.SENTRA.1998",
+    "año": 1998,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 3486,
+    "precio_usd": 1750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26423260-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26423260-1.jpg",
+        "https://crautos.com/clasificados/usados/26423260-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREIVIN PEÑA LÓPEZ",
+        "teléfono": "7058-5318 8767-9209",
+        "whatsapp": "7058-5318"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

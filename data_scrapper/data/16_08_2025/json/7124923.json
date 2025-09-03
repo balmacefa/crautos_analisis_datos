@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7124923&Mitsubishi.MONTERO%20GLS.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 13554000,
+    "precio_usd": 27000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7124923-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7124923-1.jpg",
+        "https://crautos.com/clasificados/usados/7124923-2.jpg",
+        "https://crautos.com/clasificados/usados/7124923-3.jpg",
+        "https://crautos.com/clasificados/usados/7124923-4.jpg",
+        "https://crautos.com/clasificados/usados/7124923-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "151,420 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Precio de venta no incluye gastos de traspaso.",
+        "kilometraje_number": 151420,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

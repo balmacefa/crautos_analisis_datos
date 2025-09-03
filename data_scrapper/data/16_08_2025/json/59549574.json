@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59549574&Nissan.200SX.1995",
+    "año": 1995,
+    "marca": "NISSAN",
+    "modelo": "200SX",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59549574-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59549574-1.jpg",
+        "https://crautos.com/clasificados/usados/59549574-2.jpg",
+        "https://crautos.com/clasificados/usados/59549574-3.jpg",
+        "https://crautos.com/clasificados/usados/59549574-4.jpg",
+        "https://crautos.com/clasificados/usados/59549574-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN CAMPOS",
+        "teléfono": "8945-9614",
+        "whatsapp": "8945-9614"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "228,959 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente.",
+        "kilometraje_number": 228959,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 30
+}

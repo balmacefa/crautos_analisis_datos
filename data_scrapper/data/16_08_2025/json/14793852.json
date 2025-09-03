@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14793852&Hyundai.I10.2023",
+    "año": 2023,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14793852-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14793852-1.jpg",
+        "https://crautos.com/clasificados/usados/14793852-2.jpg",
+        "https://crautos.com/clasificados/usados/14793852-3.jpg",
+        "https://crautos.com/clasificados/usados/14793852-4.jpg",
+        "https://crautos.com/clasificados/usados/14793852-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA FERNANDA PÉREZ CHACÓN",
+        "teléfono": "8320-0504 7231-8588",
+        "whatsapp": "8320-0504"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "22,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE. Pantalla inteligente..",
+        "kilometraje_number": 22000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 2
+}

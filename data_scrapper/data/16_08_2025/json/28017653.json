@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28017653&Chevrolet.SPARK.2015",
+    "año": 2015,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28017653-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28017653-1.jpg",
+        "https://crautos.com/clasificados/usados/28017653-2.jpg",
+        "https://crautos.com/clasificados/usados/28017653-3.jpg",
+        "https://crautos.com/clasificados/usados/28017653-4.jpg",
+        "https://crautos.com/clasificados/usados/28017653-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERNESTO ALFARO",
+        "teléfono": "7268-3006",
+        "whatsapp": "7268-3006"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "121,596 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Lo vendo por motivo de movilización laboral a otro país.",
+        "kilometraje_number": 121596,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60907932&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60907932-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60907932-1.jpg",
+        "https://crautos.com/clasificados/usados/60907932-2.jpg",
+        "https://crautos.com/clasificados/usados/60907932-3.jpg",
+        "https://crautos.com/clasificados/usados/60907932-4.jpg",
+        "https://crautos.com/clasificados/usados/60907932-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS PEREZ",
+        "teléfono": "7215-6759",
+        "whatsapp": "7215-6759"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "1,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Abril del 2025",
+        "comentario_vendedor": "Motor completamente nuevo, menos de mil km. Termostato Nuevo, Bomba de Agua Nueva, Abanico Nuevo.",
+        "kilometraje_number": 1000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

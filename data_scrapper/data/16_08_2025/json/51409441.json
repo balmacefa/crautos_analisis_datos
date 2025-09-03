@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51409441&Audi.A3.2012",
+    "año": 2012,
+    "marca": "AUDI",
+    "modelo": "A3",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51409441-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51409441-1.jpg",
+        "https://crautos.com/clasificados/usados/51409441-2.jpg",
+        "https://crautos.com/clasificados/usados/51409441-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE",
+        "teléfono": "8991-7642",
+        "whatsapp": "8991-7642"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "AROS DE LUJO AUDI AC BIZONA.",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

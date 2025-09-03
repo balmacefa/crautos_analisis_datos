@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51296730&Honda.CRV%20.2011",
+    "año": 2011,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 15139,
+    "precio_usd": 7600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51296730-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51296730-1.jpg",
+        "https://crautos.com/clasificados/usados/51296730-2.jpg",
+        "https://crautos.com/clasificados/usados/51296730-3.jpg",
+        "https://crautos.com/clasificados/usados/51296730-4.jpg",
+        "https://crautos.com/clasificados/usados/51296730-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY CORRALES",
+        "teléfono": "8860-6140",
+        "whatsapp": "8860-6140"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "205,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Perfecto estado mantenimiento en un .",
+        "kilometraje_number": 205000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 14
+}

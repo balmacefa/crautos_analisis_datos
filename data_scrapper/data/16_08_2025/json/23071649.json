@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23071649",
+    "año": 2008,
+    "marca": "HINO",
+    "modelo": "DUTRO",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23071649-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23071649-1.jpg",
+        "https://crautos.com/clasificados/usados/23071649-2.jpg",
+        "https://crautos.com/clasificados/usados/23071649-3.jpg",
+        "https://crautos.com/clasificados/usados/23071649-4.jpg",
+        "https://crautos.com/clasificados/usados/23071649-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TONY CHENG HE",
+        "teléfono": "7107-1707 8514-3770 6055-8040"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "240,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Mayo del 2025",
+        "comentario_vendedor": "precio negociable muy cuidada poco uso .",
+        "kilometraje_number": 240000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

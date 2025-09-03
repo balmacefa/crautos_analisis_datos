@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75299555&Hyundai.VENUE%20GL.2024",
+    "año": 2024,
+    "marca": "HYUNDAI",
+    "modelo": "VENUE GL",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75299555-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75299555-1.jpg",
+        "https://crautos.com/clasificados/usados/75299555-2.jpg",
+        "https://crautos.com/clasificados/usados/75299555-3.jpg",
+        "https://crautos.com/clasificados/usados/75299555-4.jpg",
+        "https://crautos.com/clasificados/usados/75299555-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATANAEL BLANCO ARGUEDAS",
+        "teléfono": "8634-5160 8327-7147",
+        "whatsapp": "8634-5160"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "48,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado solo detalles muy poco la verdad de pintura lo demás todo bien .",
+        "kilometraje_number": 48000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Halógenos",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

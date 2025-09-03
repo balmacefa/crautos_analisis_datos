@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51323429",
+    "año": 2012,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 24104,
+    "precio_usd": 12100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51323429-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51323429-1.jpg",
+        "https://crautos.com/clasificados/usados/51323429-2.jpg",
+        "https://crautos.com/clasificados/usados/51323429-3.jpg",
+        "https://crautos.com/clasificados/usados/51323429-4.jpg",
+        "https://crautos.com/clasificados/usados/51323429-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIANA MORA",
+        "teléfono": "7019-1382 8874-1848",
+        "whatsapp": "7019-1392"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "158,263 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Julio del 2025",
+        "comentario_vendedor": "Comprado Agencia. Único dueño, Rtv al dia,duraliner, GPS, pantalla DVD.",
+        "kilometraje_number": 158263,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

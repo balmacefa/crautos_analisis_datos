@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70566720&Nissan.PATROL.1999",
+    "año": 1999,
+    "marca": "NISSAN",
+    "modelo": "PATROL",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70566720-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70566720-1.jpg",
+        "https://crautos.com/clasificados/usados/70566720-2.jpg",
+        "https://crautos.com/clasificados/usados/70566720-3.jpg",
+        "https://crautos.com/clasificados/usados/70566720-4.jpg",
+        "https://crautos.com/clasificados/usados/70566720-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TONY RETANA C.",
+        "teléfono": "8844-1698",
+        "whatsapp": "8844-1698"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "235,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Modificaciones para la montaña . Wichs . esnórquel. Llantas MT . altura . Butacas . y mucho mas .",
+        "kilometraje_number": 235000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 26
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12378412&Hyundai.ACCENT.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12378412-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12378412-1.jpg",
+        "https://crautos.com/clasificados/usados/12378412-2.jpg",
+        "https://crautos.com/clasificados/usados/12378412-3.jpg",
+        "https://crautos.com/clasificados/usados/12378412-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ODILY JIMENEZ",
+        "teléfono": "8686-0604 6167-4420 8513-2149",
+        "whatsapp": "8686-0604"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "129,294 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Hyundai accent Año 2014 Motor 1,600 A/A , D/H , C/C, A/C , Automático Shiftronic, 6velocidades, fre.",
+        "kilometraje_number": 129294,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

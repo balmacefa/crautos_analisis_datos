@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8751369&Subaru.IMPREZA%20WRX.2009",
+    "año": 2009,
+    "marca": "SUBARU",
+    "modelo": "IMPREZA WRX",
+    "precio_crc": 21614,
+    "precio_usd": 10850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8751369-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8751369-1.jpg",
+        "https://crautos.com/clasificados/usados/8751369-2.jpg",
+        "https://crautos.com/clasificados/usados/8751369-3.jpg",
+        "https://crautos.com/clasificados/usados/8751369-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS KALEB",
+        "teléfono": "8829-0243 8830-8672 8831-6585",
+        "whatsapp": "8829-0243",
+        "dirección": "San Juan de Santa Bárbara, Heredia 200 metros oeste del colegio New Hope"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "125,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "Butacas,originales.",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56754369&Toyota.HILUX.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56754369-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56754369-1.jpg",
+        "https://crautos.com/clasificados/usados/56754369-2.jpg",
+        "https://crautos.com/clasificados/usados/56754369-3.jpg",
+        "https://crautos.com/clasificados/usados/56754369-4.jpg",
+        "https://crautos.com/clasificados/usados/56754369-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NICOLE SERRANO",
+        "teléfono": "8379-7087"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "86,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Muy cuidado inf .",
+        "kilometraje_number": 86000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 9
+}

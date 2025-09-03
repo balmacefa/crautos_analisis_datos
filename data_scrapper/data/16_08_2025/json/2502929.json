@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2502929&MG.G3%20CROSS.2016",
+    "año": 2016,
+    "marca": "MG",
+    "modelo": "G3 CROSS",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2502929-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2502929-1.jpg",
+        "https://crautos.com/clasificados/usados/2502929-2.jpg",
+        "https://crautos.com/clasificados/usados/2502929-3.jpg",
+        "https://crautos.com/clasificados/usados/2502929-4.jpg",
+        "https://crautos.com/clasificados/usados/2502929-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS PRIPA",
+        "teléfono": "6018-1919 2553-0010",
+        "whatsapp": "6018-1919",
+        "dirección": "Costado Sur de la Biblioteca Pública Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO / NARANJA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "20 de Mayo del 2025",
+        "comentario_vendedor": "Se recibe y se financia envíenos un WhatsApp .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

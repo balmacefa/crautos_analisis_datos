@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1151620&Hyundai.TUCSON.2024",
+    "año": 2024,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 21033800,
+    "precio_usd": 41900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1151620-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1151620-1.jpg",
+        "https://crautos.com/clasificados/usados/1151620-2.jpg",
+        "https://crautos.com/clasificados/usados/1151620-3.jpg",
+        "https://crautos.com/clasificados/usados/1151620-4.jpg",
+        "https://crautos.com/clasificados/usados/1151620-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO Q",
+        "teléfono": "2522-7474",
+        "whatsapp": "7094-6958",
+        "dirección": "400 mtrs al oeste de la plaza de deportes de La Uruca Frente a la intersección Uruca, Circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "23,988 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Con el respaldo de GrupoQ.",
+        "kilometraje_number": 23988,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

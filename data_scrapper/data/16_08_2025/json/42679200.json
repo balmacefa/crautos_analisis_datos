@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42679200&Honda.CRV.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 19124,
+    "precio_usd": 9600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42679200-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42679200-1.jpg",
+        "https://crautos.com/clasificados/usados/42679200-2.jpg",
+        "https://crautos.com/clasificados/usados/42679200-3.jpg",
+        "https://crautos.com/clasificados/usados/42679200-4.jpg",
+        "https://crautos.com/clasificados/usados/42679200-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO SOLIS",
+        "teléfono": "8882-1374"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "157,700 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Marzo del 2025",
+        "comentario_vendedor": "MUY BUEN ESTADO MECANICO CARROCERIA Y ACCESORIOS.",
+        "kilometraje_number": 157700,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

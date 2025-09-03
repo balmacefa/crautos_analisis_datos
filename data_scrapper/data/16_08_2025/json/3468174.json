@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3468174&Chery.TIGGO%202%20PRO.2025",
+    "año": 2025,
+    "marca": "CHERY",
+    "modelo": "TIGGO 2 PRO",
+    "precio_crc": 7781000,
+    "precio_usd": 15500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3468174-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3468174-1.jpg",
+        "https://crautos.com/clasificados/usados/3468174-2.jpg",
+        "https://crautos.com/clasificados/usados/3468174-3.jpg",
+        "https://crautos.com/clasificados/usados/3468174-4.jpg",
+        "https://crautos.com/clasificados/usados/3468174-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "12,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "PRECIO EN DOLARES SUJETO AL TIPO DE CAMBIO DE GRUPO QUALITY MOTORS. PRECIO MAS TRASPASO..",
+        "kilometraje_number": 12000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 0
+}

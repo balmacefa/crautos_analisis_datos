@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7630589&Jeep.WRANGLER%20UNLIMITED%20SPORT%20.2012",
+    "año": 2012,
+    "marca": "JEEP",
+    "modelo": "WRANGLER UNLIMITED SPORT",
+    "precio_crc": 37849,
+    "precio_usd": 19000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7630589-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7630589-1.jpg",
+        "https://crautos.com/clasificados/usados/7630589-2.jpg",
+        "https://crautos.com/clasificados/usados/7630589-3.jpg",
+        "https://crautos.com/clasificados/usados/7630589-4.jpg",
+        "https://crautos.com/clasificados/usados/7630589-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "74,500 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Enero del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 74500,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

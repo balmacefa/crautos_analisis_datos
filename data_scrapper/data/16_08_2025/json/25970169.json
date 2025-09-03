@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25970169",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 11952,
+    "precio_usd": 6000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25970169-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25970169-1.jpg",
+        "https://crautos.com/clasificados/usados/25970169-2.jpg",
+        "https://crautos.com/clasificados/usados/25970169-3.jpg",
+        "https://crautos.com/clasificados/usados/25970169-4.jpg",
+        "https://crautos.com/clasificados/usados/25970169-5.jpg",
+        "https://crautos.com/clasificados/usados/25970169-6.jpg",
+        "https://crautos.com/clasificados/usados/25970169-7.jpg",
+        "https://crautos.com/clasificados/usados/25970169-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREA CHAVES",
+        "teléfono": "7017-2354 8343-9536",
+        "whatsapp": "8343-9536"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "30,576 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "NEGOCIABLE. Poco Kilometraje. Muy buen estado..",
+        "kilometraje_number": 30576,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

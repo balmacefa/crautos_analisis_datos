@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38258678&Honda.CIVIC%20.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38258678-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38258678-1.jpg",
+        "https://crautos.com/clasificados/usados/38258678-2.jpg",
+        "https://crautos.com/clasificados/usados/38258678-3.jpg",
+        "https://crautos.com/clasificados/usados/38258678-4.jpg",
+        "https://crautos.com/clasificados/usados/38258678-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL MEJIA",
+        "teléfono": "6097-6199 8478-8379",
+        "whatsapp": "6097-6199"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "210,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Civic ex .",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37080045&Volkswagen.POLO.2003",
+    "año": 2003,
+    "marca": "VOLKSWAGEN",
+    "modelo": "POLO",
+    "precio_crc": 4781,
+    "precio_usd": 2400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37080045-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37080045-1.jpg",
+        "https://crautos.com/clasificados/usados/37080045-2.jpg",
+        "https://crautos.com/clasificados/usados/37080045-3.jpg",
+        "https://crautos.com/clasificados/usados/37080045-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL",
+        "teléfono": "8329-1717 8553-0005",
+        "whatsapp": "8329-1717"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "151,700 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "Unico dueño. Vidrios electricos . Airbags Frontales. Uso Familiar. Llantas nuevas. Dekra y marchamo.",
+        "kilometraje_number": 151700,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

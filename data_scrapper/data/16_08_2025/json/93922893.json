@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93922893&Nissan.VERSA.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93922893-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93922893-1.jpg",
+        "https://crautos.com/clasificados/usados/93922893-2.jpg",
+        "https://crautos.com/clasificados/usados/93922893-3.jpg",
+        "https://crautos.com/clasificados/usados/93922893-4.jpg",
+        "https://crautos.com/clasificados/usados/93922893-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO SALAS ULATE",
+        "teléfono": "8504-0783 8813-4724",
+        "whatsapp": "8813-4724"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "68,300 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "06 de Julio del 2025",
+        "comentario_vendedor": "Hoja de rtv en blanco carro de cochera.",
+        "kilometraje_number": 68300,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

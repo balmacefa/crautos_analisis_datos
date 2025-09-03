@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75426850&Suzuki.SAMURAI.1987",
+    "año": 1987,
+    "marca": "SUZUKI",
+    "modelo": "SAMURAI",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75426850-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75426850-1.jpg",
+        "https://crautos.com/clasificados/usados/75426850-2.jpg",
+        "https://crautos.com/clasificados/usados/75426850-3.jpg",
+        "https://crautos.com/clasificados/usados/75426850-4.jpg",
+        "https://crautos.com/clasificados/usados/75426850-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CORDERO",
+        "teléfono": "6213-0776",
+        "whatsapp": "6213-0776"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Tamarindo. Aire acondicionado. Nuevo carburador..",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 38
+}

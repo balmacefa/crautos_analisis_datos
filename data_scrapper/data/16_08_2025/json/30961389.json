@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30961389&Hyundai.TUCSON.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30961389-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30961389-1.jpg",
+        "https://crautos.com/clasificados/usados/30961389-2.jpg",
+        "https://crautos.com/clasificados/usados/30961389-3.jpg",
+        "https://crautos.com/clasificados/usados/30961389-4.jpg",
+        "https://crautos.com/clasificados/usados/30961389-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE PEREZ",
+        "teléfono": "8857-7250 8763-1001",
+        "whatsapp": "8857-7250"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "185,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "MUY LINDO INTERIOR.",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70330909&Honda.ODYSSEY%20EX.2000",
+    "año": 2000,
+    "marca": "HONDA",
+    "modelo": "ODYSSEY EX",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70330909-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70330909-1.jpg",
+        "https://crautos.com/clasificados/usados/70330909-2.jpg",
+        "https://crautos.com/clasificados/usados/70330909-3.jpg",
+        "https://crautos.com/clasificados/usados/70330909-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL HERRERA JARQUIN",
+        "teléfono": "8393-3451",
+        "whatsapp": "8393-3451"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Se deben marchamos - esta en desuso - incluye tienda de campaña en el techo - reparaciones varias.",
+        "kilometraje_number": null,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

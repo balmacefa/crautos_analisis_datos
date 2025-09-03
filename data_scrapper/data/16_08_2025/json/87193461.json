@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87193461&Chevrolet.TRACKER%20PREMIER.2022",
+    "año": 2022,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER PREMIER",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87193461-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87193461-1.jpg",
+        "https://crautos.com/clasificados/usados/87193461-2.jpg",
+        "https://crautos.com/clasificados/usados/87193461-3.jpg",
+        "https://crautos.com/clasificados/usados/87193461-4.jpg",
+        "https://crautos.com/clasificados/usados/87193461-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL JARA PHILLIPS",
+        "teléfono": "8811-7171 7187-7863 2289-9227",
+        "whatsapp": "8811-7171"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "35,435 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "kilometraje_number": 35435,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 3
+}

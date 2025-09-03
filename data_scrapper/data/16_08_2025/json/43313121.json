@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43313121",
+    "año": 2012,
+    "marca": "DAIHATSU",
+    "modelo": "GRAND MAX",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43313121-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43313121-1.jpg",
+        "https://crautos.com/clasificados/usados/43313121-2.jpg",
+        "https://crautos.com/clasificados/usados/43313121-3.jpg",
+        "https://crautos.com/clasificados/usados/43313121-4.jpg",
+        "https://crautos.com/clasificados/usados/43313121-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAX CASTILLO",
+        "teléfono": "2479-1070 8547-6666",
+        "whatsapp": "8547-6666"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "153,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "Vehiculo tipo panel con puertas corredizas.",
+        "kilometraje_number": 153000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 13
+}

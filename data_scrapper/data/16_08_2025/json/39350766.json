@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39350766&Hyundai.ELANTRA.2003",
+    "año": 2003,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 4582,
+    "precio_usd": 2300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39350766-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39350766-1.jpg",
+        "https://crautos.com/clasificados/usados/39350766-2.jpg",
+        "https://crautos.com/clasificados/usados/39350766-3.jpg",
+        "https://crautos.com/clasificados/usados/39350766-4.jpg",
+        "https://crautos.com/clasificados/usados/39350766-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PIERO CAPRA",
+        "teléfono": "8836-3788",
+        "whatsapp": "8836-3788"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "189,900 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 189900,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

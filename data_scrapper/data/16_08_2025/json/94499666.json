@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94499666&Hyundai.SANTA%20FE%20GL.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE GL",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94499666-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94499666-1.jpg",
+        "https://crautos.com/clasificados/usados/94499666-2.jpg",
+        "https://crautos.com/clasificados/usados/94499666-3.jpg",
+        "https://crautos.com/clasificados/usados/94499666-4.jpg",
+        "https://crautos.com/clasificados/usados/94499666-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "XINIA MARÍA SIBAJA",
+        "teléfono": "8386-5986 6310-7600 6157-7721",
+        "whatsapp": "8386-5987"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "189,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Hyundai Santa Fe 2011. Manual. Gasolina. Solo 2 dueños. Motor 2400. Precio 5.500.000 Ubicación Alaj.",
+        "kilometraje_number": 189000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

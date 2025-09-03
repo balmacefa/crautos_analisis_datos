@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67231324&Nissan.FRONTIER%20.2000",
+    "año": 2000,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67231324-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67231324-1.jpg",
+        "https://crautos.com/clasificados/usados/67231324-2.jpg",
+        "https://crautos.com/clasificados/usados/67231324-3.jpg",
+        "https://crautos.com/clasificados/usados/67231324-4.jpg",
+        "https://crautos.com/clasificados/usados/67231324-5.jpg",
+        "https://crautos.com/clasificados/usados/67231324-6.jpg",
+        "https://crautos.com/clasificados/usados/67231324-7.jpg",
+        "https://crautos.com/clasificados/usados/67231324-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IVANNIA VEGA V",
+        "teléfono": "8634-3434",
+        "whatsapp": "8634-3434"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "347,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 347000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 25
+}

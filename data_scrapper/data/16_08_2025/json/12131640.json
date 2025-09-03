@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12131640&Honda.CRV%20.2004",
+    "año": 2004,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12131640-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12131640-1.jpg",
+        "https://crautos.com/clasificados/usados/12131640-2.jpg",
+        "https://crautos.com/clasificados/usados/12131640-3.jpg",
+        "https://crautos.com/clasificados/usados/12131640-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO CASTRO",
+        "teléfono": "8346-3104",
+        "whatsapp": "8346-3104"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "248,300 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "CAFÉ",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Versión nacional llantas y batería nuevas canasta halógenos LED barra led hielera mesa y carcover .",
+        "kilometraje_number": 248300,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

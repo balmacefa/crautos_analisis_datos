@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57990732&Suzuki.BALENO.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "BALENO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57990732-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57990732-1.jpg",
+        "https://crautos.com/clasificados/usados/57990732-2.jpg",
+        "https://crautos.com/clasificados/usados/57990732-3.jpg",
+        "https://crautos.com/clasificados/usados/57990732-4.jpg",
+        "https://crautos.com/clasificados/usados/57990732-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONIO CORRALES",
+        "teléfono": "8883-6747 2268-8705",
+        "whatsapp": "8883-6747"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "105,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Rtv al día.",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

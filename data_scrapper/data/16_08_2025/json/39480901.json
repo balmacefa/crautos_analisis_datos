@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39480901&Honda.CIVIC.1993",
+    "año": 1993,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 2639,
+    "precio_usd": 1325000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39480901-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39480901-1.jpg",
+        "https://crautos.com/clasificados/usados/39480901-2.jpg",
+        "https://crautos.com/clasificados/usados/39480901-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN FERNANDEZ",
+        "teléfono": "8716-8454"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "motor y caja en buen estado todo al dia detalles de pintura e interior mecanicamente bien.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 32
+}

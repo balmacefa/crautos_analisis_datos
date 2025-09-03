@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1372284&JMC.N350.2014",
+    "año": 2014,
+    "marca": "JMC",
+    "modelo": "N350",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1372284-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1372284-1.jpg",
+        "https://crautos.com/clasificados/usados/1372284-2.jpg",
+        "https://crautos.com/clasificados/usados/1372284-3.jpg",
+        "https://crautos.com/clasificados/usados/1372284-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "144,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "No cuenta con la llave, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 144000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 11
+}

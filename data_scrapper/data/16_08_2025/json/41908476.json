@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41908476&Dodge/RAM.1500%20MILD%20HIBRID.2014",
+    "año": 2014,
+    "marca": "DODGE/RAM",
+    "modelo": "1500 MILD HIBRID",
+    "precio_crc": 39831,
+    "precio_usd": 19995000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41908476-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41908476-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO CHACON",
+        "teléfono": "8392-7569"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "84,500 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "motor sistema hibrido Gasolina Etanol.",
+        "kilometraje_number": 84500,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

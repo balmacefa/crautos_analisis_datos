@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87706968&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87706968-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87706968-1.jpg",
+        "https://crautos.com/clasificados/usados/87706968-2.jpg",
+        "https://crautos.com/clasificados/usados/87706968-3.jpg",
+        "https://crautos.com/clasificados/usados/87706968-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSMAN DAVID SALAS ULATE",
+        "teléfono": "8654-6371",
+        "whatsapp": "8654-6371"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "149,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Doy garantía por escrito.",
+        "kilometraje_number": 149000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

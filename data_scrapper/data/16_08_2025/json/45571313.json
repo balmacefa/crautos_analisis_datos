@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45571313&Daewoo.MATIZ.2001",
+    "año": 2001,
+    "marca": "DAEWOO",
+    "modelo": "MATIZ",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45571313-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45571313-1.jpg",
+        "https://crautos.com/clasificados/usados/45571313-2.jpg",
+        "https://crautos.com/clasificados/usados/45571313-3.jpg",
+        "https://crautos.com/clasificados/usados/45571313-4.jpg",
+        "https://crautos.com/clasificados/usados/45571313-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD GUEVARA VILLALOBOS",
+        "teléfono": "8641-1656 2000-3313"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "124,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Muy economico.",
+        "kilometraje_number": 124000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

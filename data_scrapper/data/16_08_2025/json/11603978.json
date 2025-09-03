@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11603978&Kia.SPORTAGE%20.2019",
+    "año": 2019,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 19074,
+    "precio_usd": 9575000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11603978-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11603978-1.jpg",
+        "https://crautos.com/clasificados/usados/11603978-2.jpg",
+        "https://crautos.com/clasificados/usados/11603978-3.jpg",
+        "https://crautos.com/clasificados/usados/11603978-4.jpg",
+        "https://crautos.com/clasificados/usados/11603978-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO MORA",
+        "teléfono": "8501-6963",
+        "whatsapp": "8501-6963"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "96,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "LINDO UN SOLO DUEÑO TOD AL DIA .",
+        "kilometraje_number": 96000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asiento con memoria",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Sensor de lluvia",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99832781&Chevrolet.SPARK.2014",
+    "año": 2014,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99832781-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99832781-1.jpg",
+        "https://crautos.com/clasificados/usados/99832781-2.jpg",
+        "https://crautos.com/clasificados/usados/99832781-3.jpg",
+        "https://crautos.com/clasificados/usados/99832781-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN BARBOZA CHAVES",
+        "teléfono": "7037-3626",
+        "whatsapp": "7037-3626"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Economico comodo al dia .",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

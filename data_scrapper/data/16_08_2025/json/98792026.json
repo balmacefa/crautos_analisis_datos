@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98792026&Honda.CIVIC%20EG.1994",
+    "año": 1994,
+    "marca": "HONDA",
+    "modelo": "CIVIC EG",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98792026-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98792026-1.jpg",
+        "https://crautos.com/clasificados/usados/98792026-2.jpg",
+        "https://crautos.com/clasificados/usados/98792026-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL GONZÁLEZ",
+        "teléfono": "6308-3239",
+        "whatsapp": "6308-3239"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO PERLA",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Auto de cochera no usa para correr y tampoco se anda majado se cuida mucho muy confiable y entero .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 31
+}

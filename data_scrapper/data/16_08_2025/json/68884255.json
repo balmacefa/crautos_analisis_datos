@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68884255&Chevrolet.TRAX%20LS.2015",
+    "año": 2015,
+    "marca": "CHEVROLET",
+    "modelo": "TRAX LS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68884255-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68884255-1.jpg",
+        "https://crautos.com/clasificados/usados/68884255-2.jpg",
+        "https://crautos.com/clasificados/usados/68884255-3.jpg",
+        "https://crautos.com/clasificados/usados/68884255-4.jpg",
+        "https://crautos.com/clasificados/usados/68884255-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERIC QUESADA",
+        "teléfono": "8707-2822",
+        "whatsapp": "8707-2822"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "44,800 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Kilometraje más bajo de todos recibo de menor valor llantas nuevas dekra dos mil veintiséis .",
+        "kilometraje_number": 44800,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

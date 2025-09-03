@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9178651",
+    "año": 2019,
+    "marca": "SUZUKI",
+    "modelo": "DZIRE",
+    "precio_crc": 12151,
+    "precio_usd": 6100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9178651-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9178651-1.jpg",
+        "https://crautos.com/clasificados/usados/9178651-2.jpg",
+        "https://crautos.com/clasificados/usados/9178651-3.jpg",
+        "https://crautos.com/clasificados/usados/9178651-4.jpg",
+        "https://crautos.com/clasificados/usados/9178651-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VEHÍCULOS Z Y M S.A.",
+        "teléfono": "8818-9142 7274-3207 2537-4545",
+        "whatsapp": "8818-9142",
+        "dirección": "San Nicolás el Alto de Ochomogo frente a Recope"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Muy económico. Poco uso. Vale la pena .",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11728247&Suzuki.GRAND%20VITARA%20XL7.2002",
+    "año": 2002,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA XL7",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11728247-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11728247-1.jpg",
+        "https://crautos.com/clasificados/usados/11728247-2.jpg",
+        "https://crautos.com/clasificados/usados/11728247-3.jpg",
+        "https://crautos.com/clasificados/usados/11728247-4.jpg",
+        "https://crautos.com/clasificados/usados/11728247-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMMANUEL GALEANO",
+        "teléfono": "8830-6190",
+        "whatsapp": "8830-6190"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Abril del 2025",
+        "comentario_vendedor": "No hay que hacerla nada llame y negociamos Rebajado carro de cochera.",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 23
+}

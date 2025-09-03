@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29779538&Suzuki.GRAND%20VITARA.2009",
+    "año": 2009,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29779538-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29779538-1.jpg",
+        "https://crautos.com/clasificados/usados/29779538-2.jpg",
+        "https://crautos.com/clasificados/usados/29779538-3.jpg",
+        "https://crautos.com/clasificados/usados/29779538-4.jpg",
+        "https://crautos.com/clasificados/usados/29779538-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRÉS GUTIÉRREZ",
+        "teléfono": "8886-7001",
+        "whatsapp": "8886-7001"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Junio del 2025",
+        "comentario_vendedor": "llantas nuevas-radio táctil-fibras de cerámica-quinto aro.",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

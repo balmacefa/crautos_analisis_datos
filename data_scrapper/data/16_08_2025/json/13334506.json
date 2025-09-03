@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13334506&Mazda.CX7.2011",
+    "año": 2011,
+    "marca": "MAZDA",
+    "modelo": "CX7",
+    "precio_crc": 9263,
+    "precio_usd": 4650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13334506-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13334506-1.jpg",
+        "https://crautos.com/clasificados/usados/13334506-2.jpg",
+        "https://crautos.com/clasificados/usados/13334506-3.jpg",
+        "https://crautos.com/clasificados/usados/13334506-4.jpg",
+        "https://crautos.com/clasificados/usados/13334506-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWIN SALAZAR",
+        "teléfono": "6055-8340 8914-1035",
+        "whatsapp": "6055-8340"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "166,500 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Marzo del 2025",
+        "comentario_vendedor": "Se vende excelente estado un solo dueño.No se recibe .",
+        "kilometraje_number": 166500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

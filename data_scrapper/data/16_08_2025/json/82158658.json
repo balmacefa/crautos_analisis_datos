@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82158658&Nissan.FRONTIER%20XE.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER XE",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82158658-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82158658-1.jpg",
+        "https://crautos.com/clasificados/usados/82158658-2.jpg",
+        "https://crautos.com/clasificados/usados/82158658-3.jpg",
+        "https://crautos.com/clasificados/usados/82158658-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAFAEL ÁNGEL SÁNCHEZ RAMIREZ",
+        "teléfono": "8345-8005"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "194,283 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "CAFE",
+        "color_interior": "VERDE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Esta en muy buenas condiciones llantas nuevas .",
+        "kilometraje_number": 194283,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 23
+}

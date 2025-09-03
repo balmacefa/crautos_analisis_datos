@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95274608&Toyota.ECHO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95274608-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95274608-1.jpg",
+        "https://crautos.com/clasificados/usados/95274608-2.jpg",
+        "https://crautos.com/clasificados/usados/95274608-3.jpg",
+        "https://crautos.com/clasificados/usados/95274608-4.jpg",
+        "https://crautos.com/clasificados/usados/95274608-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ MARTÍN CARMONA OBANDO",
+        "teléfono": "6348-5506 6073-2554 8706-1740",
+        "whatsapp": "6348-5506"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Martín Carmona. Puedo recibir motocicleta dependiendo del valor.",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

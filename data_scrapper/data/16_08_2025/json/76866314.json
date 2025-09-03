@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76866314&Toyota.HILUX%20.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 21414,
+    "precio_usd": 10750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76866314-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76866314-1.jpg",
+        "https://crautos.com/clasificados/usados/76866314-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL SANCHEZ MASIS",
+        "teléfono": "8311-2222 8877-5000 8377-9183",
+        "whatsapp": "8311-2222"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "186,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Perfecto Estado Cajón de Alumnio Cabina Sencilla..",
+        "kilometraje_number": 186000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

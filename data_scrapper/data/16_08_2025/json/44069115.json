@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44069115&Mitsubishi.LANCER.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 15637,
+    "precio_usd": 7850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44069115-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44069115-1.jpg",
+        "https://crautos.com/clasificados/usados/44069115-2.jpg",
+        "https://crautos.com/clasificados/usados/44069115-3.jpg",
+        "https://crautos.com/clasificados/usados/44069115-4.jpg",
+        "https://crautos.com/clasificados/usados/44069115-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR NAVARRO",
+        "teléfono": "8359-2747",
+        "whatsapp": "8359-2747"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Excelente Estado. Super cuidado y varias extras que casi ninguno tiene! Alfombras, tratamiento ceram.",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

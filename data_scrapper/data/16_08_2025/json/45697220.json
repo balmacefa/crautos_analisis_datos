@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45697220&Toyota.YARIS%20.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 5500000,
+    "precio_usd": 5225000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45697220-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45697220-1.jpg",
+        "https://crautos.com/clasificados/usados/45697220-2.jpg",
+        "https://crautos.com/clasificados/usados/45697220-3.jpg",
+        "https://crautos.com/clasificados/usados/45697220-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHANA PADILLA",
+        "teléfono": "8518-6849 8698-8787",
+        "whatsapp": "8518-6849"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "144,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 144000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

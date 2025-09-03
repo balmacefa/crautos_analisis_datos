@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97944378&Toyota.HIACE.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 39343,
+    "precio_usd": 19750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97944378-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97944378-1.jpg",
+        "https://crautos.com/clasificados/usados/97944378-2.jpg",
+        "https://crautos.com/clasificados/usados/97944378-3.jpg",
+        "https://crautos.com/clasificados/usados/97944378-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIAN MARTINEZ SALAS",
+        "teléfono": "8706-9584 6007-1076 8997-1969",
+        "whatsapp": "8706-9584"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "368,505 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "SE VENDE POR CAMBIO DE FLOTILLA. EN EXCELENTE ESTADO. .",
+        "kilometraje_number": 368505,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

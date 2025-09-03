@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9268762&Toyota.LAND%20CRUISER%20FJ40%202F%20.1976",
+    "año": 1976,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER FJ40 2F",
+    "precio_crc": 17570000,
+    "precio_usd": 35000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9268762-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9268762-1.jpg",
+        "https://crautos.com/clasificados/usados/9268762-2.jpg",
+        "https://crautos.com/clasificados/usados/9268762-3.jpg",
+        "https://crautos.com/clasificados/usados/9268762-4.jpg",
+        "https://crautos.com/clasificados/usados/9268762-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS CALDERÓN",
+        "teléfono": "2252-1886 8534-2419",
+        "whatsapp": "8534-2419",
+        "dirección": "Hatillo Centro, de la clínica Solón Nuñez 300 norte en Autos Calderón San José"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "De purdy original suspe OldManEmu bloqueos ARB winch mecanico direccion hidraulica frenosdisco y mas.",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 49
+}

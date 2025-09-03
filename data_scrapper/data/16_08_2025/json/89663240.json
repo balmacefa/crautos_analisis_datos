@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89663240",
+    "año": 2021,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89663240-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89663240-1.jpg",
+        "https://crautos.com/clasificados/usados/89663240-2.jpg",
+        "https://crautos.com/clasificados/usados/89663240-3.jpg",
+        "https://crautos.com/clasificados/usados/89663240-4.jpg",
+        "https://crautos.com/clasificados/usados/89663240-5.jpg",
+        "https://crautos.com/clasificados/usados/89663240-6.jpg",
+        "https://crautos.com/clasificados/usados/89663240-7.jpg",
+        "https://crautos.com/clasificados/usados/89663240-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CESAR",
+        "teléfono": "8496-8989",
+        "whatsapp": "8496-8989"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "186,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Mini van de Carga lista para trabajar .",
+        "kilometraje_number": 186000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 4
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46284369&Toyota.HILUX.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46284369-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46284369-1.jpg",
+        "https://crautos.com/clasificados/usados/46284369-2.jpg",
+        "https://crautos.com/clasificados/usados/46284369-3.jpg",
+        "https://crautos.com/clasificados/usados/46284369-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO MASIS",
+        "teléfono": "8379-1511 8868-9328",
+        "whatsapp": "8379-1511"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "223,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Abril del 2025",
+        "comentario_vendedor": "Excelente estado muy lindo véalo y compare. Varias extras..",
+        "kilometraje_number": 223000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

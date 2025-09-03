@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48603748&Hyundai.SANTA%20FE.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48603748-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48603748-1.jpg",
+        "https://crautos.com/clasificados/usados/48603748-2.jpg",
+        "https://crautos.com/clasificados/usados/48603748-3.jpg",
+        "https://crautos.com/clasificados/usados/48603748-4.jpg",
+        "https://crautos.com/clasificados/usados/48603748-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BERNARDO BRENES",
+        "teléfono": "8931-8268",
+        "whatsapp": "8931-8268"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "91,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "Impecable - Nacional - Poco Kilometraje - Siete Pasajeros - Cámara y Sensores de Retroceso.",
+        "kilometraje_number": 91000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

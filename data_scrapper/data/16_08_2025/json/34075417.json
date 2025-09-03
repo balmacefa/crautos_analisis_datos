@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34075417&Mitsubishi.L200%20SPORTERO.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "L200 SPORTERO",
+    "precio_crc": 31474,
+    "precio_usd": 15800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34075417-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34075417-1.jpg",
+        "https://crautos.com/clasificados/usados/34075417-2.jpg",
+        "https://crautos.com/clasificados/usados/34075417-3.jpg",
+        "https://crautos.com/clasificados/usados/34075417-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO VINICIO SÁNCHEZ MONTERO",
+        "teléfono": "8847-4940",
+        "whatsapp": "8847-4940"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "167,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Rollbar pegadero estribos canasta snorkel portahalogenos.",
+        "kilometraje_number": 167000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Luces de Xenón/Bixenón",
+        "Retrovisores auto-retractibles",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

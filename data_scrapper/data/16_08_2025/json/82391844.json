@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82391844&Suzuki.BALENO.2000",
+    "año": 2000,
+    "marca": "SUZUKI",
+    "modelo": "BALENO",
+    "precio_crc": 3088,
+    "precio_usd": 1550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82391844-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82391844-1.jpg",
+        "https://crautos.com/clasificados/usados/82391844-2.jpg",
+        "https://crautos.com/clasificados/usados/82391844-3.jpg",
+        "https://crautos.com/clasificados/usados/82391844-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISAAC RAMIREZ",
+        "teléfono": "6095-9294 8363-0143",
+        "whatsapp": "6095-9294"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "vendo por salud.. firma.. todo al día negociable.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17778756&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8665,
+    "precio_usd": 4350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17778756-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17778756-1.jpg",
+        "https://crautos.com/clasificados/usados/17778756-2.jpg",
+        "https://crautos.com/clasificados/usados/17778756-3.jpg",
+        "https://crautos.com/clasificados/usados/17778756-4.jpg",
+        "https://crautos.com/clasificados/usados/17778756-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE MIGUEL JARA PARINI",
+        "teléfono": "7178-4622",
+        "whatsapp": "7178-4622"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "103,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Economía en su máxima expresión Excelente Estado General Ideal para uso Personal o Plataformas .",
+        "kilometraje_number": 103000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

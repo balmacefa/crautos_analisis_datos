@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95831712&Toyota.LAND%20CRUISER%20.1989",
+    "año": 1989,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 16434,
+    "precio_usd": 8250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95831712-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95831712-1.jpg",
+        "https://crautos.com/clasificados/usados/95831712-2.jpg",
+        "https://crautos.com/clasificados/usados/95831712-3.jpg",
+        "https://crautos.com/clasificados/usados/95831712-4.jpg",
+        "https://crautos.com/clasificados/usados/95831712-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREIVIN BENAVIDES",
+        "teléfono": "6108-5266 8448-1412"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "454,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Snorkel canasta motor Hz dekra otro año solo conocedores.",
+        "kilometraje_number": 454000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 36
+}

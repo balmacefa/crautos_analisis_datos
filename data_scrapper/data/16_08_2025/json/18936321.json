@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18936321&Chevrolet.EQUINOX.2019",
+    "año": 2019,
+    "marca": "CHEVROLET",
+    "modelo": "EQUINOX",
+    "precio_crc": 20020,
+    "precio_usd": 10050000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18936321-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18936321-1.jpg",
+        "https://crautos.com/clasificados/usados/18936321-2.jpg",
+        "https://crautos.com/clasificados/usados/18936321-3.jpg",
+        "https://crautos.com/clasificados/usados/18936321-4.jpg",
+        "https://crautos.com/clasificados/usados/18936321-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIELA VARGAS VEGA",
+        "teléfono": "8432-4941",
+        "whatsapp": "8432-4941"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "52,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 52000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 6
+}

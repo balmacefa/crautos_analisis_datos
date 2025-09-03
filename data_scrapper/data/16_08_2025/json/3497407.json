@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3497407&Mitsubishi.L200.2023",
+    "año": 2023,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 17068000,
+    "precio_usd": 34000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3497407-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3497407-1.jpg",
+        "https://crautos.com/clasificados/usados/3497407-2.jpg",
+        "https://crautos.com/clasificados/usados/3497407-3.jpg",
+        "https://crautos.com/clasificados/usados/3497407-4.jpg",
+        "https://crautos.com/clasificados/usados/3497407-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "24 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "72,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO. .",
+        "kilometraje_number": 72000,
+        "cilindrada_number": 24
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 2
+}

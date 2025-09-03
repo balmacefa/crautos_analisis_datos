@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15031487&Suzuki.CELERIO.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15031487-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15031487-1.jpg",
+        "https://crautos.com/clasificados/usados/15031487-2.jpg",
+        "https://crautos.com/clasificados/usados/15031487-3.jpg",
+        "https://crautos.com/clasificados/usados/15031487-4.jpg",
+        "https://crautos.com/clasificados/usados/15031487-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YANIN JIMÉNEZ",
+        "teléfono": "8319-8101 7111-1625",
+        "whatsapp": "8319-8101"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "117,558 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Excelente precio y estado urge vender. .",
+        "kilometraje_number": 117558,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 9
+}

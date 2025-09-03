@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67333315&Toyota.COROLLA.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67333315-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67333315-1.jpg",
+        "https://crautos.com/clasificados/usados/67333315-2.jpg",
+        "https://crautos.com/clasificados/usados/67333315-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ CASTRO",
+        "teléfono": "7106-6980"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "184,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en muy buen estado motor impecable interior muy buen estado único dueño en el pais.",
+        "kilometraje_number": 184000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

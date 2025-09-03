@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55567932&Toyota.LAND%20CRUISER.1993",
+    "año": 1993,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 16235,
+    "precio_usd": 8150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55567932-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55567932-1.jpg",
+        "https://crautos.com/clasificados/usados/55567932-2.jpg",
+        "https://crautos.com/clasificados/usados/55567932-3.jpg",
+        "https://crautos.com/clasificados/usados/55567932-4.jpg",
+        "https://crautos.com/clasificados/usados/55567932-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HENRY ALVAREZ",
+        "teléfono": "8741-6932",
+        "whatsapp": "8741-6932"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [],
+    "antiguedad": 32
+}

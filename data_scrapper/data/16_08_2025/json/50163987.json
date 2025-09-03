@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50163987&Mitsubishi.LANCER%20GLX.2004",
+    "año": 2004,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER GLX",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50163987-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50163987-1.jpg",
+        "https://crautos.com/clasificados/usados/50163987-2.jpg",
+        "https://crautos.com/clasificados/usados/50163987-3.jpg",
+        "https://crautos.com/clasificados/usados/50163987-4.jpg",
+        "https://crautos.com/clasificados/usados/50163987-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM SOLANO CALDERÓN",
+        "teléfono": "8990-8663",
+        "whatsapp": "8990-8663"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "243,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. Candado multilock bloqueo de marcha. Llanta de repuesto de tamaño completo.",
+        "kilometraje_number": 243000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

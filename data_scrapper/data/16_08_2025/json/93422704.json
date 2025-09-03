@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93422704&Honda.PILOT.2004",
+    "año": 2004,
+    "marca": "HONDA",
+    "modelo": "PILOT",
+    "precio_crc": 10915,
+    "precio_usd": 5479250.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93422704-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93422704-1.jpg",
+        "https://crautos.com/clasificados/usados/93422704-2.jpg",
+        "https://crautos.com/clasificados/usados/93422704-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LOURDES LOBO",
+        "teléfono": "8287-2671",
+        "whatsapp": "8387-2671"
+    },
+    "informacion_general": {
+        "cilindrada": "3471 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "189,030 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS PERLADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Mantenimiemto correctivo y preventido por HONDA-FACO y overhaul reciente de caja de transmisiones .",
+        "kilometraje_number": 189030,
+        "cilindrada_number": 3471
+    },
+    "equipamiento": [
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

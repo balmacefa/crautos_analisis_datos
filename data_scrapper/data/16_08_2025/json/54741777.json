@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54741777&Toyota.TERCEL.1992",
+    "año": 1992,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54741777-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54741777-1.jpg",
+        "https://crautos.com/clasificados/usados/54741777-2.jpg",
+        "https://crautos.com/clasificados/usados/54741777-3.jpg",
+        "https://crautos.com/clasificados/usados/54741777-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO ELIZONDO F.",
+        "teléfono": "8881-5191",
+        "whatsapp": "8881-5191"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Todo al día y sin ningún problema... Firma inmediata .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 33
+}

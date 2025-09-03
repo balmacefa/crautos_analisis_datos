@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97498700&Nissan.FRONTIER.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 23506,
+    "precio_usd": 11800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97498700-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97498700-1.jpg",
+        "https://crautos.com/clasificados/usados/97498700-2.jpg",
+        "https://crautos.com/clasificados/usados/97498700-3.jpg",
+        "https://crautos.com/clasificados/usados/97498700-4.jpg",
+        "https://crautos.com/clasificados/usados/97498700-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YORLENY SEGURA LÁSCAREZ",
+        "teléfono": "8925-8936",
+        "whatsapp": "8925-8936"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "145,000 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ Excelentes condiciones.",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

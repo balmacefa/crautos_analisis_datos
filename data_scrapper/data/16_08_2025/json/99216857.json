@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99216857&Suzuki.SIDEKICK.1997",
+    "año": 1997,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK",
+    "precio_crc": 6673,
+    "precio_usd": 3350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99216857-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99216857-1.jpg",
+        "https://crautos.com/clasificados/usados/99216857-2.jpg",
+        "https://crautos.com/clasificados/usados/99216857-3.jpg",
+        "https://crautos.com/clasificados/usados/99216857-4.jpg",
+        "https://crautos.com/clasificados/usados/99216857-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL HIDALGO",
+        "teléfono": "8711-1468 8681-0508",
+        "whatsapp": "8711-1468"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "187,177 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "Carro en buen estado la doble funciona perfectamente Dekra veintiséis .",
+        "kilometraje_number": 187177,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

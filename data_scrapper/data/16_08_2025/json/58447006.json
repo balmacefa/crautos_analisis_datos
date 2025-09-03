@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58447006&Honda.CIVIC.1995",
+    "año": 1995,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58447006-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58447006-1.jpg",
+        "https://crautos.com/clasificados/usados/58447006-2.jpg",
+        "https://crautos.com/clasificados/usados/58447006-3.jpg",
+        "https://crautos.com/clasificados/usados/58447006-4.jpg",
+        "https://crautos.com/clasificados/usados/58447006-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JIMMY DINARTE",
+        "teléfono": "6035-7553 6256-7329",
+        "whatsapp": "6035-7553"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "156,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable al dia ac bien detalles mínimos .",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 30
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74175766&Volvo.1997.1997",
+    "año": 1997,
+    "marca": "VOLVO",
+    "modelo": "1997",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74175766-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74175766-1.jpg",
+        "https://crautos.com/clasificados/usados/74175766-2.jpg",
+        "https://crautos.com/clasificados/usados/74175766-3.jpg",
+        "https://crautos.com/clasificados/usados/74175766-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAPACHE PROPERTIES",
+        "teléfono": "6052-1815 2670-0670",
+        "whatsapp": "6052-1815"
+    },
+    "informacion_general": {
+        "cilindrada": "7100 cc",
+        "estilo": "Camión 8.0-9.5 ton.",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "400,354 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "Marca/Modelo: Volvo, año 1997 Condición: Buen estado, listo para trabajar.",
+        "kilometraje_number": 400354,
+        "cilindrada_number": 7100
+    },
+    "equipamiento": [],
+    "antiguedad": 28
+}

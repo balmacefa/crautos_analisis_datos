@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81676231&Hyundai.COUNTY.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "COUNTY",
+    "precio_crc": 31873,
+    "precio_usd": 16000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81676231-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81676231-1.jpg",
+        "https://crautos.com/clasificados/usados/81676231-2.jpg",
+        "https://crautos.com/clasificados/usados/81676231-3.jpg",
+        "https://crautos.com/clasificados/usados/81676231-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARVIN GARRO GAMBOA",
+        "teléfono": "8338-5971 7079-8910",
+        "whatsapp": "8338-5971"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "340,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO Y VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 340000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

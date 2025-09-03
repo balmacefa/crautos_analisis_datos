@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85736140&Suzuki.SX4.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85736140-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85736140-1.jpg",
+        "https://crautos.com/clasificados/usados/85736140-2.jpg",
+        "https://crautos.com/clasificados/usados/85736140-3.jpg",
+        "https://crautos.com/clasificados/usados/85736140-4.jpg",
+        "https://crautos.com/clasificados/usados/85736140-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE PÉREZ GUIDO",
+        "teléfono": "8979-0535",
+        "whatsapp": "8979-0535"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "162,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 162000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98604257&Chevrolet.AVEO.2005",
+    "año": 2005,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 5179,
+    "precio_usd": 2600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98604257-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98604257-1.jpg",
+        "https://crautos.com/clasificados/usados/98604257-2.jpg",
+        "https://crautos.com/clasificados/usados/98604257-3.jpg",
+        "https://crautos.com/clasificados/usados/98604257-4.jpg",
+        "https://crautos.com/clasificados/usados/98604257-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS V",
+        "teléfono": "8804-4303",
+        "whatsapp": "8804-4303"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "158,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Al dia deckra hasta el otro año firma inmediata. excelentes condiciones..",
+        "kilometraje_number": 158000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

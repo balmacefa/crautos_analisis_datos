@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86285468&Renault.DUSTER.2014",
+    "año": 2014,
+    "marca": "RENAULT",
+    "modelo": "DUSTER",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86285468-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86285468-1.jpg",
+        "https://crautos.com/clasificados/usados/86285468-2.jpg",
+        "https://crautos.com/clasificados/usados/86285468-3.jpg",
+        "https://crautos.com/clasificados/usados/86285468-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN QUESADA GUERRERO",
+        "teléfono": "8720-4001",
+        "whatsapp": "8720-4001"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Junio del 2025",
+        "comentario_vendedor": "Funcionando perfectamente negociable. Precio ganga, urge vender .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

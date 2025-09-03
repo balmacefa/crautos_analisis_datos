@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49250848",
+    "año": 1974,
+    "marca": "VOLKSWAGEN",
+    "modelo": "WESTFALIA",
+    "precio_crc": 14641,
+    "precio_usd": 7350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49250848-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49250848-1.jpg",
+        "https://crautos.com/clasificados/usados/49250848-2.jpg",
+        "https://crautos.com/clasificados/usados/49250848-3.jpg",
+        "https://crautos.com/clasificados/usados/49250848-4.jpg",
+        "https://crautos.com/clasificados/usados/49250848-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGARDO CUBILLO",
+        "teléfono": "8703-8514",
+        "whatsapp": "8703-8514"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "VINO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Abril del 2025",
+        "comentario_vendedor": "Westfalia Camper-Precio Negociable-dos camas-Al DIA-motor excelente estado-Lista para las aventuras!.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 51
+}

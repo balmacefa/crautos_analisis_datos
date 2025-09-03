@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77792552&Nissan.XTERRA.2001",
+    "año": 2001,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77792552-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77792552-1.jpg",
+        "https://crautos.com/clasificados/usados/77792552-2.jpg",
+        "https://crautos.com/clasificados/usados/77792552-3.jpg",
+        "https://crautos.com/clasificados/usados/77792552-4.jpg",
+        "https://crautos.com/clasificados/usados/77792552-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARÓN RODRIGUEZ",
+        "teléfono": "8479-2179",
+        "whatsapp": "8479-2179"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "128,650 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Se encuentra en muy buen estado. Uso familiar. Versión USA. Todo original. .",
+        "kilometraje_number": 128650,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33281312&Toyota.AVANZA%20G.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "AVANZA G",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33281312-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33281312-1.jpg",
+        "https://crautos.com/clasificados/usados/33281312-2.jpg",
+        "https://crautos.com/clasificados/usados/33281312-3.jpg",
+        "https://crautos.com/clasificados/usados/33281312-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROGER ESTEBAN ROJAS",
+        "teléfono": "8728-5024 8719-1064",
+        "whatsapp": "8728-5024"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Record de agencia .",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

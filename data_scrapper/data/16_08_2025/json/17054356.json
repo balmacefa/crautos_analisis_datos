@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17054356&Nissan.D21.2000",
+    "año": 2000,
+    "marca": "NISSAN",
+    "modelo": "D21",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17054356-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17054356-1.jpg",
+        "https://crautos.com/clasificados/usados/17054356-2.jpg",
+        "https://crautos.com/clasificados/usados/17054356-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO MALAVASSI",
+        "teléfono": "6357-2690",
+        "whatsapp": "6357-2690"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "213,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Junio del 2025",
+        "comentario_vendedor": "Escucho ofertas negociab hardbody batea larga excelente calidad de pick up en exc estado todo al día.",
+        "kilometraje_number": 213000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

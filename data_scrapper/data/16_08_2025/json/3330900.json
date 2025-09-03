@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3330900&Toyota.RAIZE%20.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "RAIZE",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3330900-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3330900-1.jpg",
+        "https://crautos.com/clasificados/usados/3330900-2.jpg",
+        "https://crautos.com/clasificados/usados/3330900-3.jpg",
+        "https://crautos.com/clasificados/usados/3330900-4.jpg",
+        "https://crautos.com/clasificados/usados/3330900-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MULTIAUTOS",
+        "teléfono": "8829-1323 8844-1269 2225-0622",
+        "whatsapp": "8829-1323",
+        "dirección": "75 metros Norte de Novacentro Guadalupe San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "32,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Prácticamente nuevo super económico alarma Bluetooth aire acondicionado bolsas de aire .",
+        "kilometraje_number": 32000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 1
+}

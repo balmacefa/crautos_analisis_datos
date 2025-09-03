@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6584081&Chevrolet.MONTANA%20RS.2024",
+    "año": 2024,
+    "marca": "CHEVROLET",
+    "modelo": "MONTANA RS",
+    "precio_crc": 14558000,
+    "precio_usd": 29000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6584081-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6584081-1.jpg",
+        "https://crautos.com/clasificados/usados/6584081-2.jpg",
+        "https://crautos.com/clasificados/usados/6584081-3.jpg",
+        "https://crautos.com/clasificados/usados/6584081-4.jpg",
+        "https://crautos.com/clasificados/usados/6584081-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "14,500 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Precio venta no incluye gastos de traspaso.",
+        "kilometraje_number": 14500,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

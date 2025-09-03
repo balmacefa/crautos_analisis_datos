@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33931776&Chevrolet.SPARK.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA MARÍA GAMBOA ZELEDÓN",
+        "teléfono": "6020-3120 6387-4682",
+        "whatsapp": "6020-3120"
+    },
+    "informacion_general": {
+        "cilindrada": "980 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "74,691 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "kilometraje_number": 74691,
+        "cilindrada_number": 980
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 8
+}

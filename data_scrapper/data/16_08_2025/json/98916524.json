@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98916524&Toyota.HILUX.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98916524-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98916524-1.jpg",
+        "https://crautos.com/clasificados/usados/98916524-2.jpg",
+        "https://crautos.com/clasificados/usados/98916524-3.jpg",
+        "https://crautos.com/clasificados/usados/98916524-4.jpg",
+        "https://crautos.com/clasificados/usados/98916524-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JERSON HERNANDEZ",
+        "teléfono": "6207-0356"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "252,527 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "-PARA INSCRIBIR-.",
+        "kilometraje_number": 252527,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

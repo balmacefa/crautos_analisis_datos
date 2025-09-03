@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34355841&Hyundai.PONY.1979",
+    "año": 1979,
+    "marca": "HYUNDAI",
+    "modelo": "PONY",
+    "precio_crc": 2888,
+    "precio_usd": 1450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34355841-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34355841-1.jpg",
+        "https://crautos.com/clasificados/usados/34355841-2.jpg",
+        "https://crautos.com/clasificados/usados/34355841-3.jpg",
+        "https://crautos.com/clasificados/usados/34355841-4.jpg",
+        "https://crautos.com/clasificados/usados/34355841-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL MURILLO VALVERDE",
+        "teléfono": "8559-8137",
+        "whatsapp": "8559-8137"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "111,111 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "al dia todo le funciona .",
+        "kilometraje_number": 111111,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 46
+}

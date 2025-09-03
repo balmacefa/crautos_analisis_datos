@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80731954&Nissan.ALMERA.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "ALMERA",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80731954-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80731954-1.jpg",
+        "https://crautos.com/clasificados/usados/80731954-2.jpg",
+        "https://crautos.com/clasificados/usados/80731954-3.jpg",
+        "https://crautos.com/clasificados/usados/80731954-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FELIPE WHEELOCK",
+        "teléfono": "8992-3366",
+        "whatsapp": "8992-3366"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "412,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "kilometraje_number": 412000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

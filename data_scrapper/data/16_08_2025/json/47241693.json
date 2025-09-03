@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47241693&Toyota.HILUX%20.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47241693-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47241693-1.jpg",
+        "https://crautos.com/clasificados/usados/47241693-2.jpg",
+        "https://crautos.com/clasificados/usados/47241693-3.jpg",
+        "https://crautos.com/clasificados/usados/47241693-4.jpg",
+        "https://crautos.com/clasificados/usados/47241693-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NORBERTO NÚÑEZ",
+        "teléfono": "8811-6866 8665-5783 8311-8030",
+        "whatsapp": "8811-6866"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "235,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Impecable de pintura motor chasis y caja .",
+        "kilometraje_number": 235000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 31
+}

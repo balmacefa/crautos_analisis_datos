@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86204101&Mazda.BT50.2014",
+    "año": 2014,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86204101-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86204101-1.jpg",
+        "https://crautos.com/clasificados/usados/86204101-2.jpg",
+        "https://crautos.com/clasificados/usados/86204101-3.jpg",
+        "https://crautos.com/clasificados/usados/86204101-4.jpg",
+        "https://crautos.com/clasificados/usados/86204101-5.jpg",
+        "https://crautos.com/clasificados/usados/86204101-6.jpg",
+        "https://crautos.com/clasificados/usados/86204101-7.jpg",
+        "https://crautos.com/clasificados/usados/86204101-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIHAEL",
+        "teléfono": "7289-1381",
+        "whatsapp": "7289-1381"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "91,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Julio del 2025",
+        "comentario_vendedor": "Impecable! Un solo dueño y con muy poco kilometraje..",
+        "kilometraje_number": 91000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

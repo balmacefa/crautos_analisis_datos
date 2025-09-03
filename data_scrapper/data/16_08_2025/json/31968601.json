@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31968601&Toyota.RAV4.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 5279,
+    "precio_usd": 2650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31968601-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31968601-1.jpg",
+        "https://crautos.com/clasificados/usados/31968601-2.jpg",
+        "https://crautos.com/clasificados/usados/31968601-3.jpg",
+        "https://crautos.com/clasificados/usados/31968601-4.jpg",
+        "https://crautos.com/clasificados/usados/31968601-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GILBERT GARITA",
+        "teléfono": "7204-3286",
+        "whatsapp": "7204-3286"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "310,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Urge vender.... .",
+        "kilometraje_number": 310000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

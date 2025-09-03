@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6455598&Land%20Rover.DEFENDER%20130.2007",
+    "año": 2007,
+    "marca": "LAND ROVER",
+    "modelo": "DEFENDER 130",
+    "precio_crc": 32630000,
+    "precio_usd": 65000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6455598-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6455598-1.jpg",
+        "https://crautos.com/clasificados/usados/6455598-2.jpg",
+        "https://crautos.com/clasificados/usados/6455598-3.jpg",
+        "https://crautos.com/clasificados/usados/6455598-4.jpg",
+        "https://crautos.com/clasificados/usados/6455598-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELITE MOTORS",
+        "teléfono": "2228-2226 8842-9581 8825-8911",
+        "whatsapp": "8358-8333",
+        "dirección": "Guachipelin de Escazú, frente al Gimnasio de la escuela pública San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "187,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, COMO NUEVO, PRECIO EN DOLARES!.",
+        "kilometraje_number": 187000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

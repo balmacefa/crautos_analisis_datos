@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88453337&Toyota.TACOMA%20.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 19821,
+    "precio_usd": 9950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88453337-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88453337-1.jpg",
+        "https://crautos.com/clasificados/usados/88453337-2.jpg",
+        "https://crautos.com/clasificados/usados/88453337-3.jpg",
+        "https://crautos.com/clasificados/usados/88453337-4.jpg",
+        "https://crautos.com/clasificados/usados/88453337-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO RODRIGUEZ",
+        "teléfono": "6013-9297",
+        "whatsapp": "6013-9297"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Impecable manual como pocos cero óxido para inscribir .",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43174212",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 14343,
+    "precio_usd": 7200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43174212-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43174212-1.jpg",
+        "https://crautos.com/clasificados/usados/43174212-2.jpg",
+        "https://crautos.com/clasificados/usados/43174212-3.jpg",
+        "https://crautos.com/clasificados/usados/43174212-4.jpg",
+        "https://crautos.com/clasificados/usados/43174212-5.jpg",
+        "https://crautos.com/clasificados/usados/43174212-6.jpg",
+        "https://crautos.com/clasificados/usados/43174212-7.jpg",
+        "https://crautos.com/clasificados/usados/43174212-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEYCOB DEL VALLE",
+        "teléfono": "7093-4853 7051-8442",
+        "whatsapp": "7093-4853"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "133,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR Este carro solo se ha usado en las calles de Carolina del Norte USA.",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

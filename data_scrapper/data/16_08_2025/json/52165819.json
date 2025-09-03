@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52165819&Hyundai.TERRACAN.2003",
+    "año": 2003,
+    "marca": "HYUNDAI",
+    "modelo": "TERRACAN",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52165819-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52165819-1.jpg",
+        "https://crautos.com/clasificados/usados/52165819-2.jpg",
+        "https://crautos.com/clasificados/usados/52165819-3.jpg",
+        "https://crautos.com/clasificados/usados/52165819-4.jpg",
+        "https://crautos.com/clasificados/usados/52165819-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA YANCY CHAVES",
+        "teléfono": "5713-7814 8944-8246",
+        "whatsapp": "5713-7814"
+    },
+    "informacion_general": {
+        "cilindrada": "2902 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "164,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Carro en excelente estado espacioso.",
+        "kilometraje_number": 164000,
+        "cilindrada_number": 2902
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18216219&Tesla.MODEL%20Y.2023",
+    "año": 2023,
+    "modelo": "Tesla MODEL Y",
+    "precio_crc": 44821,
+    "precio_usd": 22500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18216219-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18216219-1.jpg",
+        "https://crautos.com/clasificados/usados/18216219-2.jpg",
+        "https://crautos.com/clasificados/usados/18216219-3.jpg",
+        "https://crautos.com/clasificados/usados/18216219-4.jpg",
+        "https://crautos.com/clasificados/usados/18216219-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN CRUZ",
+        "teléfono": "6019-0610",
+        "whatsapp": "6019-0610"
+    },
+    "informacion_general": {
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "545 kms",
+        "batería": "60.0 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "5,000 kms",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Junio del 2025",
+        "comentario_vendedor": "Batería LFP (litio-ferrofosfato).",
+        "kilometraje_number": 5000
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

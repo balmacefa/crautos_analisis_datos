@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88900055",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 32669,
+    "precio_usd": 16400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88900055-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88900055-1.jpg",
+        "https://crautos.com/clasificados/usados/88900055-2.jpg",
+        "https://crautos.com/clasificados/usados/88900055-3.jpg",
+        "https://crautos.com/clasificados/usados/88900055-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MASIHUL LAH BADAT RAWAT",
+        "teléfono": "7168-0381",
+        "whatsapp": "7168-0381"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "183,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Firma inmediata Exelente chuzo bien cuidado precio negociable.",
+        "kilometraje_number": 183000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 6
+}

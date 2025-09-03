@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46072209&Toyota.HILUX.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 25398,
+    "precio_usd": 12750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46072209-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46072209-1.jpg",
+        "https://crautos.com/clasificados/usados/46072209-2.jpg",
+        "https://crautos.com/clasificados/usados/46072209-3.jpg",
+        "https://crautos.com/clasificados/usados/46072209-4.jpg",
+        "https://crautos.com/clasificados/usados/46072209-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ANCHETA",
+        "teléfono": "8380-8996 8578-7223",
+        "whatsapp": "8380-8996"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "231,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Carro en buenas condiciones puedo recibir sedan Hyundai Toyota Suzuki Kia Nissan.",
+        "kilometraje_number": 231000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8093440&Audi.Q5.2016",
+    "año": 2016,
+    "marca": "AUDI",
+    "modelo": "Q5",
+    "precio_crc": 13001800,
+    "precio_usd": 25900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8093440-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8093440-1.jpg",
+        "https://crautos.com/clasificados/usados/8093440-2.jpg",
+        "https://crautos.com/clasificados/usados/8093440-3.jpg",
+        "https://crautos.com/clasificados/usados/8093440-4.jpg",
+        "https://crautos.com/clasificados/usados/8093440-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO XIRI VEHÍCULOS S.A.",
+        "teléfono": "6220-8342 8741-2360 6003-7205",
+        "whatsapp": "6220-8342",
+        "dirección": "La Valencia, Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "71,300 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Financiamiento disponible sin manchas, requisitos fáciles, recibimos carro de menor valor .",
+        "kilometraje_number": 71300,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

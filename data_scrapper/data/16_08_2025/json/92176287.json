@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92176287&Hyundai.ACCENT.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92176287-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92176287-1.jpg",
+        "https://crautos.com/clasificados/usados/92176287-2.jpg",
+        "https://crautos.com/clasificados/usados/92176287-3.jpg",
+        "https://crautos.com/clasificados/usados/92176287-4.jpg",
+        "https://crautos.com/clasificados/usados/92176287-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TATIANA TELLEZ",
+        "teléfono": "6018-1943"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "78,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BOANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado primera dueña en el país no se utiliza en plataformas. Kilometraje real .",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

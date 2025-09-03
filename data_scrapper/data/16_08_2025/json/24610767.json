@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24610767&Nissan.TIIDA.2010",
+    "año": 2010,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24610767-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24610767-1.jpg",
+        "https://crautos.com/clasificados/usados/24610767-2.jpg",
+        "https://crautos.com/clasificados/usados/24610767-3.jpg",
+        "https://crautos.com/clasificados/usados/24610767-4.jpg",
+        "https://crautos.com/clasificados/usados/24610767-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YARINA CARVAJAL",
+        "teléfono": "8895-4182 8637-1874",
+        "whatsapp": "8895-4182"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "205,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Cuenta con transmisión automática original nueva .",
+        "kilometraje_number": 205000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

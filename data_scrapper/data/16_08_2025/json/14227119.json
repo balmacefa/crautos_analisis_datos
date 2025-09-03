@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14227119&Isuzu.DMAX.2016",
+    "año": 2016,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14227119-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14227119-1.jpg",
+        "https://crautos.com/clasificados/usados/14227119-2.jpg",
+        "https://crautos.com/clasificados/usados/14227119-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAFAEL ARTAVIA PICADO",
+        "teléfono": "8693-2564",
+        "whatsapp": "8693-2564"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "suspensión frenos clucht nuevos.",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

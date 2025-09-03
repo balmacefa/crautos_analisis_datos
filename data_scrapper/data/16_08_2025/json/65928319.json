@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65928319&Nissan.VERSA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65928319-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65928319-1.jpg",
+        "https://crautos.com/clasificados/usados/65928319-2.jpg",
+        "https://crautos.com/clasificados/usados/65928319-3.jpg",
+        "https://crautos.com/clasificados/usados/65928319-4.jpg",
+        "https://crautos.com/clasificados/usados/65928319-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER TORRES",
+        "teléfono": "8603-9077",
+        "whatsapp": "8603-9077"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "VENTA Perfectas condiciones Manual sensores de presencia para abrir y encender originales .",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

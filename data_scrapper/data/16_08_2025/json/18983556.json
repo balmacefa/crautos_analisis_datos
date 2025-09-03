@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18983556&Chevrolet.SPARK.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18983556-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18983556-1.jpg",
+        "https://crautos.com/clasificados/usados/18983556-2.jpg",
+        "https://crautos.com/clasificados/usados/18983556-3.jpg",
+        "https://crautos.com/clasificados/usados/18983556-4.jpg",
+        "https://crautos.com/clasificados/usados/18983556-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAROL CHACÓN",
+        "teléfono": "6020-2898",
+        "whatsapp": "6020-2898"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Ubicación: San Antonio de Coronado.",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

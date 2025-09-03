@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80770084&Changan.CS35%20PLUS.2023",
+    "año": 2023,
+    "marca": "CHANGAN",
+    "modelo": "CS35 PLUS",
+    "precio_crc": 17131,
+    "precio_usd": 8600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80770084-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80770084-1.jpg",
+        "https://crautos.com/clasificados/usados/80770084-2.jpg",
+        "https://crautos.com/clasificados/usados/80770084-3.jpg",
+        "https://crautos.com/clasificados/usados/80770084-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEKSANDR NIKOLAEV",
+        "teléfono": "7113-8540",
+        "whatsapp": "7113-8540"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "34,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Esta en Santa Ana. .",
+        "kilometraje_number": 34000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Turbo"
+    ],
+    "antiguedad": 2
+}

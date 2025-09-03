@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28592129&Toyota.1000.1979",
+    "año": 1979,
+    "marca": "TOYOTA",
+    "modelo": "1000",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28592129-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28592129-1.jpg",
+        "https://crautos.com/clasificados/usados/28592129-2.jpg",
+        "https://crautos.com/clasificados/usados/28592129-3.jpg",
+        "https://crautos.com/clasificados/usados/28592129-4.jpg",
+        "https://crautos.com/clasificados/usados/28592129-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS MADRIGAL",
+        "teléfono": "8848-4898 8565-8315",
+        "whatsapp": "8848-4898"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "873,605 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 873605,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [],
+    "antiguedad": 46
+}

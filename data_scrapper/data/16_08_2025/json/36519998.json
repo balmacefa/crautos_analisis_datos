@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36519998&Fiat.PUNTO%20SX.2002",
+    "año": 2002,
+    "marca": "FIAT",
+    "modelo": "PUNTO SX",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36519998-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36519998-1.jpg",
+        "https://crautos.com/clasificados/usados/36519998-2.jpg",
+        "https://crautos.com/clasificados/usados/36519998-3.jpg",
+        "https://crautos.com/clasificados/usados/36519998-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RUY FUENTES",
+        "teléfono": "8862-1038",
+        "whatsapp": "8862-1038"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "256 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Todo al dia - muy economico - tapiceria en perfecto estado - AC por reparar.",
+        "kilometraje_number": 256,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

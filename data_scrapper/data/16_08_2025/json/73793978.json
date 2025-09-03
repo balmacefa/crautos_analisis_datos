@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73793978&Nissan.XTRAIL%20.2011",
+    "año": 2011,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73793978-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73793978-1.jpg",
+        "https://crautos.com/clasificados/usados/73793978-2.jpg",
+        "https://crautos.com/clasificados/usados/73793978-3.jpg",
+        "https://crautos.com/clasificados/usados/73793978-4.jpg",
+        "https://crautos.com/clasificados/usados/73793978-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORDI BELTRAN",
+        "teléfono": "8353-6857",
+        "whatsapp": "8353-6857"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Nissan XTrail muy cuidado mecánicamente impecable. Precio negociable .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

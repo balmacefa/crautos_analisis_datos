@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44005449&Chevrolet.SPARK.2009",
+    "año": 2009,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 4930,
+    "precio_usd": 2475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44005449-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44005449-1.jpg",
+        "https://crautos.com/clasificados/usados/44005449-2.jpg",
+        "https://crautos.com/clasificados/usados/44005449-3.jpg",
+        "https://crautos.com/clasificados/usados/44005449-4.jpg",
+        "https://crautos.com/clasificados/usados/44005449-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELVIS CUEVAS",
+        "teléfono": "2278-3230 8884-7685 8621-5444",
+        "whatsapp": "8884-7685"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "167,528 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "SUPER ECONÓMICO-Unico dueño de Grupo Q-Dekra vigente-Caja quinta-Aire acondicionado-.",
+        "kilometraje_number": 167528,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

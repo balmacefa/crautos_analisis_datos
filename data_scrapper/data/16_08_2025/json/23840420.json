@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23840420&Toyota.YARIS.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23840420-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23840420-1.jpg",
+        "https://crautos.com/clasificados/usados/23840420-2.jpg",
+        "https://crautos.com/clasificados/usados/23840420-3.jpg",
+        "https://crautos.com/clasificados/usados/23840420-4.jpg",
+        "https://crautos.com/clasificados/usados/23840420-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA JOSE BARBOZA",
+        "teléfono": "6182-0474",
+        "whatsapp": "6182-0474"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "207,896 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "URGE VENDER detalle en pintura lo demas esta en buen estado.",
+        "kilometraje_number": 207896,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

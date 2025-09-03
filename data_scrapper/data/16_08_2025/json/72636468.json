@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72636468&Honda.CIVIC%20LX.1997",
+    "año": 1997,
+    "marca": "HONDA",
+    "modelo": "CIVIC LX",
+    "precio_crc": 3287,
+    "precio_usd": 1650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72636468-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72636468-1.jpg",
+        "https://crautos.com/clasificados/usados/72636468-2.jpg",
+        "https://crautos.com/clasificados/usados/72636468-3.jpg",
+        "https://crautos.com/clasificados/usados/72636468-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL WU",
+        "teléfono": "8377-4370",
+        "whatsapp": "8377-4370"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "236,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "muy buen estado mecanico solo dar llave todo al dia detalle pintura.",
+        "kilometraje_number": 236000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

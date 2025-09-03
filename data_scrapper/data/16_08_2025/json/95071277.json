@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95071277",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 13845,
+    "precio_usd": 6950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95071277-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95071277-1.jpg",
+        "https://crautos.com/clasificados/usados/95071277-2.jpg",
+        "https://crautos.com/clasificados/usados/95071277-3.jpg",
+        "https://crautos.com/clasificados/usados/95071277-4.jpg",
+        "https://crautos.com/clasificados/usados/95071277-5.jpg",
+        "https://crautos.com/clasificados/usados/95071277-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERMAN PANIAGUA CASCANTE",
+        "teléfono": "8998-1212",
+        "whatsapp": "8998-1212"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "102,607 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Perfecto estado Poco Kilometraje y buen mantenimiento.",
+        "kilometraje_number": 102607,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

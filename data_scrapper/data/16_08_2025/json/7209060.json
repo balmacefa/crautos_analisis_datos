@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7209060&Mercedes%20Benz.EQE%2053%20AMG.2024",
+    "año": 2024,
+    "marca": "MERCEDES BENZ",
+    "modelo": "EQE 53 AMG",
+    "precio_crc": 72790000,
+    "precio_usd": 145000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7209060-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7209060-1.jpg",
+        "https://crautos.com/clasificados/usados/7209060-2.jpg",
+        "https://crautos.com/clasificados/usados/7209060-3.jpg",
+        "https://crautos.com/clasificados/usados/7209060-4.jpg",
+        "https://crautos.com/clasificados/usados/7209060-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "2,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Julio del 2025",
+        "comentario_vendedor": "Hyperscreen, garantía de fábrica sobre batería vigente hasta año dos mil treinta y dos.",
+        "kilometraje_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

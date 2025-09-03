@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3581824&Toyota.HILUX.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 24303,
+    "precio_usd": 12200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3581824-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3581824-1.jpg",
+        "https://crautos.com/clasificados/usados/3581824-2.jpg",
+        "https://crautos.com/clasificados/usados/3581824-3.jpg",
+        "https://crautos.com/clasificados/usados/3581824-4.jpg",
+        "https://crautos.com/clasificados/usados/3581824-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS LA ESTACIÓN",
+        "teléfono": "6131-4522 8850-7637",
+        "whatsapp": "8801-1510",
+        "dirección": "De la bomba La Castellana, 100 mts Oeste y 400 mts Sur. Avenida 20 calle 10. San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "207,238 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Turbo Diesel Intercooler,duraliner,Mantenimiento de Agencia .",
+        "kilometraje_number": 207238,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 5
+}

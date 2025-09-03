@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48945122&Honda.CRV%20EX%20.1998",
+    "año": 1998,
+    "marca": "HONDA",
+    "modelo": "CRV EX",
+    "precio_crc": 7072,
+    "precio_usd": 3550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48945122-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48945122-1.jpg",
+        "https://crautos.com/clasificados/usados/48945122-2.jpg",
+        "https://crautos.com/clasificados/usados/48945122-3.jpg",
+        "https://crautos.com/clasificados/usados/48945122-4.jpg",
+        "https://crautos.com/clasificados/usados/48945122-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN ARAYA",
+        "teléfono": "8437-4358",
+        "whatsapp": "8437-4358"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "250,146 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Para inscribir incluye placas y traspaso muy cuidado véalo Taras de Cartago .",
+        "kilometraje_number": 250146,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 27
+}

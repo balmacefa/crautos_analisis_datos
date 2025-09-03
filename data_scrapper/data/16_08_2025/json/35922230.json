@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35922230&Suzuki.APV.2006",
+    "año": 2006,
+    "marca": "SUZUKI",
+    "modelo": "APV",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35922230-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35922230-1.jpg",
+        "https://crautos.com/clasificados/usados/35922230-2.jpg",
+        "https://crautos.com/clasificados/usados/35922230-3.jpg",
+        "https://crautos.com/clasificados/usados/35922230-4.jpg",
+        "https://crautos.com/clasificados/usados/35922230-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERMAN DIAZ",
+        "teléfono": "8973-2927",
+        "whatsapp": "8973-2927"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "IMPECABLE.GARANTIA EN MOTOR Y CAJA POLARIZADO NUEVO.SE LA LLEVO DONDE GUSTE SIN COMPROMISO..",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

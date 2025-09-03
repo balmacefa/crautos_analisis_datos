@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69259880&Toyota.YARIS.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69259880-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69259880-1.jpg",
+        "https://crautos.com/clasificados/usados/69259880-2.jpg",
+        "https://crautos.com/clasificados/usados/69259880-3.jpg",
+        "https://crautos.com/clasificados/usados/69259880-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN BRENES SALAS",
+        "teléfono": "8782-9093 8926-0238",
+        "whatsapp": "8782-9093"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS RATON",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Mecanicamente excelente estado - recien pintado- bateria y llantas nuevas.",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

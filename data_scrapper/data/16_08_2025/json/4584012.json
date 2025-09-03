@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4584012&Toyota.TACOMA.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 19871,
+    "precio_usd": 9975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4584012-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4584012-1.jpg",
+        "https://crautos.com/clasificados/usados/4584012-2.jpg",
+        "https://crautos.com/clasificados/usados/4584012-3.jpg",
+        "https://crautos.com/clasificados/usados/4584012-4.jpg",
+        "https://crautos.com/clasificados/usados/4584012-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "184,345 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS-NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "27 de Julio del 2025",
+        "comentario_vendedor": "DEKRA AL DIA-FULL EXT-GARANTI x ESCRIT-RECIB-FINANCI-autosantodomingoABIERT DOMING STA CRUZ GTE.",
+        "kilometraje_number": 184345,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

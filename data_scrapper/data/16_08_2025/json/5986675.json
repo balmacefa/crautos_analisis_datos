@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5986675&Maxus.D60%20LUXURY.2023",
+    "año": 2023,
+    "modelo": "Maxus D60 LUXURY",
+    "precio_crc": 14307000,
+    "precio_usd": 28500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5986675-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5986675-1.jpg",
+        "https://crautos.com/clasificados/usados/5986675-2.jpg",
+        "https://crautos.com/clasificados/usados/5986675-3.jpg",
+        "https://crautos.com/clasificados/usados/5986675-4.jpg",
+        "https://crautos.com/clasificados/usados/5986675-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "50,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Abril del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 50000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

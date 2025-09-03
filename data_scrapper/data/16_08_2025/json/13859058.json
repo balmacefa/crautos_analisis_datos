@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13859058&Toyota.HILUX.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 35259,
+    "precio_usd": 17700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13859058-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13859058-1.jpg",
+        "https://crautos.com/clasificados/usados/13859058-2.jpg",
+        "https://crautos.com/clasificados/usados/13859058-3.jpg",
+        "https://crautos.com/clasificados/usados/13859058-4.jpg",
+        "https://crautos.com/clasificados/usados/13859058-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIAN RODRÍGUEZ VARGAS",
+        "teléfono": "8706-3219",
+        "whatsapp": "8706-3219"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "143,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO LONA TAPA DURA RACKS.",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

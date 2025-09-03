@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55703974&Mitsubishi.MONTERO%20.1995",
+    "año": 1995,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55703974-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55703974-1.jpg",
+        "https://crautos.com/clasificados/usados/55703974-2.jpg",
+        "https://crautos.com/clasificados/usados/55703974-3.jpg",
+        "https://crautos.com/clasificados/usados/55703974-4.jpg",
+        "https://crautos.com/clasificados/usados/55703974-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUGO MORA GAMBOA",
+        "teléfono": "8448-3518",
+        "whatsapp": "8448-3518"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Montero en buen estado se paso dekra hace poco se tiene efectivo por uno mejor .",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

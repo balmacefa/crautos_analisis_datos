@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24424495&Honda.CRV%20LX.1998",
+    "año": 1998,
+    "marca": "HONDA",
+    "modelo": "CRV LX",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24424495-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24424495-1.jpg",
+        "https://crautos.com/clasificados/usados/24424495-2.jpg",
+        "https://crautos.com/clasificados/usados/24424495-3.jpg",
+        "https://crautos.com/clasificados/usados/24424495-4.jpg",
+        "https://crautos.com/clasificados/usados/24424495-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL SERMEÑO G",
+        "teléfono": "5701-1447",
+        "whatsapp": "5701-1447"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "183,802 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en buen estado.",
+        "kilometraje_number": 183802,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 27
+}

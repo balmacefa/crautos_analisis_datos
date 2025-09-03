@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48898861&Nissan.SENTRA%20B13.1992",
+    "año": 1992,
+    "marca": "NISSAN",
+    "modelo": "SENTRA B13",
+    "precio_crc": 2191,
+    "precio_usd": 1100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48898861-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48898861-1.jpg",
+        "https://crautos.com/clasificados/usados/48898861-2.jpg",
+        "https://crautos.com/clasificados/usados/48898861-3.jpg",
+        "https://crautos.com/clasificados/usados/48898861-4.jpg",
+        "https://crautos.com/clasificados/usados/48898861-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SILVIA COMEZ CHAVES",
+        "teléfono": "8968-5696",
+        "whatsapp": "8968-5696"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "279,962 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 279962,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 33
+}

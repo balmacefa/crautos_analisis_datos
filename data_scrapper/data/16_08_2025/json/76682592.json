@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76682592&Chevrolet.CAPTIVA%20SPORT.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "CAPTIVA SPORT",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76682592-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76682592-1.jpg",
+        "https://crautos.com/clasificados/usados/76682592-2.jpg",
+        "https://crautos.com/clasificados/usados/76682592-3.jpg",
+        "https://crautos.com/clasificados/usados/76682592-4.jpg",
+        "https://crautos.com/clasificados/usados/76682592-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STANLEY",
+        "teléfono": "6161-7903",
+        "whatsapp": "6161-7903"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "159,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "kilometraje_number": 159000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69500671&Nissan.FRONTIER%20.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69500671-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69500671-1.jpg",
+        "https://crautos.com/clasificados/usados/69500671-2.jpg",
+        "https://crautos.com/clasificados/usados/69500671-3.jpg",
+        "https://crautos.com/clasificados/usados/69500671-4.jpg",
+        "https://crautos.com/clasificados/usados/69500671-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALICIA OROZCO GRANADOS",
+        "teléfono": "8636-7931 8495-9543 8862-8311",
+        "whatsapp": "8636-7931"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "147,525 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Junio del 2025",
+        "kilometraje_number": 147525,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

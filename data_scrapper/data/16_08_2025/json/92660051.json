@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92660051&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92660051-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92660051-1.jpg",
+        "https://crautos.com/clasificados/usados/92660051-2.jpg",
+        "https://crautos.com/clasificados/usados/92660051-3.jpg",
+        "https://crautos.com/clasificados/usados/92660051-4.jpg",
+        "https://crautos.com/clasificados/usados/92660051-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO JIMÉNEZ",
+        "teléfono": "8911-7779",
+        "whatsapp": "8911-7779"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Auto en muy buen estado recientemente cambio de aceite de caja y motor mecánicamente muy bien..",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

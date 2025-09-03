@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26186489&Kia.SELTOS.2023",
+    "año": 2023,
+    "marca": "KIA",
+    "modelo": "SELTOS",
+    "precio_crc": 27092,
+    "precio_usd": 13600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26186489-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26186489-1.jpg",
+        "https://crautos.com/clasificados/usados/26186489-2.jpg",
+        "https://crautos.com/clasificados/usados/26186489-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PRISCILLA RODRIGUEZ",
+        "teléfono": "8624-6944 8591-2210",
+        "whatsapp": "8624-6944"
+    },
+    "informacion_general": {
+        "cilindrada": "1591 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "45,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Está en excelente estado- solamente una dueña- puede hacerse novación de deuda con el BNCR.",
+        "kilometraje_number": 45000,
+        "cilindrada_number": 1591
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 2
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58100472&Chevrolet.SPARK.2010",
+    "año": 2010,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 5677,
+    "precio_usd": 2850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58100472-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58100472-1.jpg",
+        "https://crautos.com/clasificados/usados/58100472-2.jpg",
+        "https://crautos.com/clasificados/usados/58100472-3.jpg",
+        "https://crautos.com/clasificados/usados/58100472-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERIC LÓPEZ",
+        "teléfono": "8980-0862",
+        "whatsapp": "8980-0862"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Excelente mantenimiento y muy buen estado general.",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22359364&Hyundai.TUCSON%20.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22359364-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22359364-1.jpg",
+        "https://crautos.com/clasificados/usados/22359364-2.jpg",
+        "https://crautos.com/clasificados/usados/22359364-3.jpg",
+        "https://crautos.com/clasificados/usados/22359364-4.jpg",
+        "https://crautos.com/clasificados/usados/22359364-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO ARMANDO TORUÑO ZUÑIGA",
+        "teléfono": "8762-0853 8340-5411",
+        "whatsapp": "8762-0853"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "74,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "kilometraje_number": 74000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

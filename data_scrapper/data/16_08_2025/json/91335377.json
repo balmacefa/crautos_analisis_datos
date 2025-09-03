@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91335377&Toyota.YARIS%20S.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS S",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91335377-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91335377-1.jpg",
+        "https://crautos.com/clasificados/usados/91335377-2.jpg",
+        "https://crautos.com/clasificados/usados/91335377-3.jpg",
+        "https://crautos.com/clasificados/usados/91335377-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RUBÉN QUESADA CASTRO",
+        "teléfono": "8895-9162 7176-7676 2445-6794",
+        "whatsapp": "8895-9162"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "170,357 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Para inscribir pintura original cero óxido. Llámenos y negociamos .",
+        "kilometraje_number": 170357,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90471545&Toyota.YARIS%20.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90471545-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90471545-1.jpg",
+        "https://crautos.com/clasificados/usados/90471545-2.jpg",
+        "https://crautos.com/clasificados/usados/90471545-3.jpg",
+        "https://crautos.com/clasificados/usados/90471545-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO ANCHIA",
+        "teléfono": "8326-3468 6088-8070",
+        "whatsapp": "8326-3468"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "252,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Garantizado . En buen estado .",
+        "kilometraje_number": 252000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

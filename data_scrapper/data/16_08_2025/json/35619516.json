@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35619516&Toyota.RAV4.1997",
+    "año": 1997,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35619516-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35619516-1.jpg",
+        "https://crautos.com/clasificados/usados/35619516-2.jpg",
+        "https://crautos.com/clasificados/usados/35619516-3.jpg",
+        "https://crautos.com/clasificados/usados/35619516-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERARDO VALVERDE T",
+        "teléfono": "8366-3567 8308-5054 6082-8234",
+        "whatsapp": "8366-3567"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "222,390 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "En muy buen estado tanto del motor como de pintura. Se entrega con la canasta y pegadero!.",
+        "kilometraje_number": 222390,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

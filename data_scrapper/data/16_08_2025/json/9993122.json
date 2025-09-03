@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9993122&Audi.A3.2015",
+    "año": 2015,
+    "marca": "AUDI",
+    "modelo": "A3",
+    "precio_crc": 5271000,
+    "precio_usd": 10500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9993122-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9993122-1.jpg",
+        "https://crautos.com/clasificados/usados/9993122-2.jpg",
+        "https://crautos.com/clasificados/usados/9993122-3.jpg",
+        "https://crautos.com/clasificados/usados/9993122-4.jpg",
+        "https://crautos.com/clasificados/usados/9993122-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "1197 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "149,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "HATCHBACK.",
+        "kilometraje_number": 149000,
+        "cilindrada_number": 1197
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 10
+}

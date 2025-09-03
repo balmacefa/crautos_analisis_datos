@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30884583",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "VERNA",
+    "precio_crc": 12749,
+    "precio_usd": 6400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30884583-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30884583-1.jpg",
+        "https://crautos.com/clasificados/usados/30884583-2.jpg",
+        "https://crautos.com/clasificados/usados/30884583-3.jpg",
+        "https://crautos.com/clasificados/usados/30884583-4.jpg",
+        "https://crautos.com/clasificados/usados/30884583-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS BOGANTES",
+        "teléfono": "8801-3335",
+        "whatsapp": "8801-3335"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "62,700 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Impecable como Nuevo Compare Pantalla camara Reversa Lo Tengo En Esparza Centro .",
+        "kilometraje_number": 62700,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

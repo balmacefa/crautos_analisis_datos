@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87768089&Toyota.TERCEL.1991",
+    "año": 1991,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87768089-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87768089-1.jpg",
+        "https://crautos.com/clasificados/usados/87768089-2.jpg",
+        "https://crautos.com/clasificados/usados/87768089-3.jpg",
+        "https://crautos.com/clasificados/usados/87768089-4.jpg",
+        "https://crautos.com/clasificados/usados/87768089-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN CORRALES ZAMORA",
+        "teléfono": "8606-5946",
+        "whatsapp": "8606-5946"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "263,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 263000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 34
+}

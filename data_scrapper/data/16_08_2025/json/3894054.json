@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3894054",
+    "año": 2014,
+    "marca": "SUBARU",
+    "modelo": "FORESTER",
+    "precio_crc": 14930,
+    "precio_usd": 7495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3894054-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3894054-1.jpg",
+        "https://crautos.com/clasificados/usados/3894054-2.jpg",
+        "https://crautos.com/clasificados/usados/3894054-3.jpg",
+        "https://crautos.com/clasificados/usados/3894054-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GOI CARS",
+        "teléfono": "8901-0666 8881-4710",
+        "whatsapp": "8881-4710",
+        "dirección": "Ipís de Guadalupe, frente a la gasolinera Trova"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "127,629 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Junio del 2024",
+        "comentario_vendedor": "Una única dueña, nacional muy bien cuidado, excelente estado.",
+        "kilometraje_number": 127629,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

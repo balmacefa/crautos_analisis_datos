@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10300495&Nissan.VERSA.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10300495-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10300495-1.jpg",
+        "https://crautos.com/clasificados/usados/10300495-2.jpg",
+        "https://crautos.com/clasificados/usados/10300495-3.jpg",
+        "https://crautos.com/clasificados/usados/10300495-4.jpg",
+        "https://crautos.com/clasificados/usados/10300495-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA ANTONIETA VARGAS",
+        "teléfono": "8783-4334",
+        "whatsapp": "8783-4334"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "84,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CAFÉ OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Es un carro de garaje solo lo uso para ir a la oficina una vez por semana soy segunda dueña .",
+        "kilometraje_number": 84000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

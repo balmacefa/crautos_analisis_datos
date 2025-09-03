@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15219780&Nissan.KICKS.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 17032,
+    "precio_usd": 8550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15219780-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15219780-1.jpg",
+        "https://crautos.com/clasificados/usados/15219780-2.jpg",
+        "https://crautos.com/clasificados/usados/15219780-3.jpg",
+        "https://crautos.com/clasificados/usados/15219780-4.jpg",
+        "https://crautos.com/clasificados/usados/15219780-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER DÍAZ MORENO",
+        "teléfono": "8795-5490",
+        "whatsapp": "8795-5490"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "60,500 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo de cochera, récord de mantenimiento en agencia, con extras muy cuidado .",
+        "kilometraje_number": 60500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

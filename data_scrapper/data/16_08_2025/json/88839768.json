@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88839768&Land%20Rover.SERIE%202.1967",
+    "año": 1967,
+    "marca": "LAND ROVER",
+    "modelo": "SERIE 2",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88839768-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88839768-1.jpg",
+        "https://crautos.com/clasificados/usados/88839768-2.jpg",
+        "https://crautos.com/clasificados/usados/88839768-3.jpg",
+        "https://crautos.com/clasificados/usados/88839768-4.jpg",
+        "https://crautos.com/clasificados/usados/88839768-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERMAN GUEVARA",
+        "teléfono": "8822-1616"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "2,222 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "CAFÉ",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "En muy buen estado mecánico detalles como todo carro antiguo precio negociable .",
+        "kilometraje_number": 2222,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 58
+}

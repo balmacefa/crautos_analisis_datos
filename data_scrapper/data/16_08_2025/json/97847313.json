@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97847313&Hyundai.TUCSON.2009",
+    "año": 2009,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97847313-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97847313-1.jpg",
+        "https://crautos.com/clasificados/usados/97847313-2.jpg",
+        "https://crautos.com/clasificados/usados/97847313-3.jpg",
+        "https://crautos.com/clasificados/usados/97847313-4.jpg",
+        "https://crautos.com/clasificados/usados/97847313-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN ANGULO",
+        "teléfono": "6190-1305 2288-4425",
+        "whatsapp": "6190-1305"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "182,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE OSCURO",
+        "color_interior": "CAFÉ CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 182000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81487994&Hyundai.STAREX.2002",
+    "año": 2002,
+    "marca": "HYUNDAI",
+    "modelo": "STAREX",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81487994-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81487994-1.jpg",
+        "https://crautos.com/clasificados/usados/81487994-2.jpg",
+        "https://crautos.com/clasificados/usados/81487994-3.jpg",
+        "https://crautos.com/clasificados/usados/81487994-4.jpg",
+        "https://crautos.com/clasificados/usados/81487994-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL SANCHEZ CESPEDES",
+        "teléfono": "8750-2845",
+        "whatsapp": "8750-2845"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

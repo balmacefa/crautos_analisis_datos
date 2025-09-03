@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1874565&Donfeng%20(ZNA).KARRY%20YO-YO.2025",
+    "año": 2025,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) KARRY YO-YO",
+    "precio_crc": 7981800,
+    "precio_usd": 15900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1874565-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1874565-1.jpg",
+        "https://crautos.com/clasificados/usados/1874565-2.jpg",
+        "https://crautos.com/clasificados/usados/1874565-3.jpg",
+        "https://crautos.com/clasificados/usados/1874565-4.jpg",
+        "https://crautos.com/clasificados/usados/1874565-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "USADOS AMBACAR",
+        "teléfono": "7102-7838 7102-7748",
+        "whatsapp": "7102-7838",
+        "dirección": "300 mtrs este de la Rotonda de la Y Griega San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "3 kms",
+        "placa": "Termina en D",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "MUY ECONÓMICO ESPECIAL PARA EL DIA A DIA DE TRABAJO. .",
+        "kilometraje_number": 3,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 0
+}

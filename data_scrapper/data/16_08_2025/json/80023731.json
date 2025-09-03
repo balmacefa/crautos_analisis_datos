@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80023731&Kia.SELTOS.2020",
+    "año": 2020,
+    "marca": "KIA",
+    "modelo": "SELTOS",
+    "precio_crc": 22311,
+    "precio_usd": 11200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80023731-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80023731-1.jpg",
+        "https://crautos.com/clasificados/usados/80023731-2.jpg",
+        "https://crautos.com/clasificados/usados/80023731-3.jpg",
+        "https://crautos.com/clasificados/usados/80023731-4.jpg",
+        "https://crautos.com/clasificados/usados/80023731-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIA HERNÁNDEZ",
+        "teléfono": "8779-3712",
+        "whatsapp": "8779-3712"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "53,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "kilometraje_number": 53000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

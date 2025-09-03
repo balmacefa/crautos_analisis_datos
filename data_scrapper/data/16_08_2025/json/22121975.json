@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22121975&Nissan.PATHFINDER.2015",
+    "año": 2015,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22121975-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22121975-1.jpg",
+        "https://crautos.com/clasificados/usados/22121975-2.jpg",
+        "https://crautos.com/clasificados/usados/22121975-3.jpg",
+        "https://crautos.com/clasificados/usados/22121975-4.jpg",
+        "https://crautos.com/clasificados/usados/22121975-5.jpg",
+        "https://crautos.com/clasificados/usados/22121975-6.jpg",
+        "https://crautos.com/clasificados/usados/22121975-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEORGIA KING",
+        "teléfono": "8813-2913",
+        "whatsapp": "8813-2913"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "138,900 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Interior de Cuero TRANSMISSION del fabrica viene con todos extras. Excelente estado NUEVO.",
+        "kilometraje_number": 138900,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

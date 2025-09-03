@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91491875&Honda.CIVIC%20DX.1993",
+    "año": 1993,
+    "marca": "HONDA",
+    "modelo": "CIVIC DX",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91491875-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91491875-1.jpg",
+        "https://crautos.com/clasificados/usados/91491875-2.jpg",
+        "https://crautos.com/clasificados/usados/91491875-3.jpg",
+        "https://crautos.com/clasificados/usados/91491875-4.jpg",
+        "https://crautos.com/clasificados/usados/91491875-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDERSON GÓMEZ",
+        "teléfono": "6050-3687 6121-7530 6379-9199",
+        "whatsapp": "6050-3687"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "300,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Se vende o se cambia por automático.",
+        "kilometraje_number": 300000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Volante ajustable"
+    ],
+    "antiguedad": 32
+}

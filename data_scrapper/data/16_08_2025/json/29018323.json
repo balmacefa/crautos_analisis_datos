@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29018323&BMW.733L.1978",
+    "año": 1978,
+    "marca": "BMW",
+    "modelo": "733L",
+    "precio_crc": 1892,
+    "precio_usd": 950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29018323-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29018323-1.jpg",
+        "https://crautos.com/clasificados/usados/29018323-2.jpg",
+        "https://crautos.com/clasificados/usados/29018323-3.jpg",
+        "https://crautos.com/clasificados/usados/29018323-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO CHAVES",
+        "teléfono": "8395-6199",
+        "whatsapp": "8395-6199"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "VERDE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Debe marchamo de este año.",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 47
+}

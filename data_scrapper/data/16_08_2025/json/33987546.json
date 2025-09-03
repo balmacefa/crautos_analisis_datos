@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33987546&Hyundai.ACCENT.2003",
+    "año": 2003,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 4582,
+    "precio_usd": 2300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33987546-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33987546-1.jpg",
+        "https://crautos.com/clasificados/usados/33987546-2.jpg",
+        "https://crautos.com/clasificados/usados/33987546-3.jpg",
+        "https://crautos.com/clasificados/usados/33987546-4.jpg",
+        "https://crautos.com/clasificados/usados/33987546-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HENRY RIVERA CAMPOS",
+        "teléfono": "5001-3702 8946-1421",
+        "whatsapp": "8946-1421"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "153,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Se vende hiunday en buen estado excelente pintura bien cuidado dekra y marchamo al día .",
+        "kilometraje_number": 153000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 22
+}

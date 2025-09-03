@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99664737&Toyota.HILUX.1989",
+    "año": 1989,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99664737-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99664737-1.jpg",
+        "https://crautos.com/clasificados/usados/99664737-2.jpg",
+        "https://crautos.com/clasificados/usados/99664737-3.jpg",
+        "https://crautos.com/clasificados/usados/99664737-4.jpg",
+        "https://crautos.com/clasificados/usados/99664737-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO ARAYA",
+        "teléfono": "8864-3848 8710-6175"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "316 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado motor dosY muy económico y fuerte .",
+        "kilometraje_number": 316,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 36
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74981364&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74981364-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74981364-1.jpg",
+        "https://crautos.com/clasificados/usados/74981364-2.jpg",
+        "https://crautos.com/clasificados/usados/74981364-3.jpg",
+        "https://crautos.com/clasificados/usados/74981364-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "REYMON HERNANDEZ",
+        "teléfono": "8322-5627",
+        "whatsapp": "8322-5627"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "167,900 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo cuenta con sistema GLP inyectado en buen funcionamiento..",
+        "kilometraje_number": 167900,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

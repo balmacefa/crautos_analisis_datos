@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53195789&Toyota.RAIZE.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "RAIZE",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53195789-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53195789-1.jpg",
+        "https://crautos.com/clasificados/usados/53195789-2.jpg",
+        "https://crautos.com/clasificados/usados/53195789-3.jpg",
+        "https://crautos.com/clasificados/usados/53195789-4.jpg",
+        "https://crautos.com/clasificados/usados/53195789-5.jpg",
+        "https://crautos.com/clasificados/usados/53195789-6.jpg",
+        "https://crautos.com/clasificados/usados/53195789-7.jpg",
+        "https://crautos.com/clasificados/usados/53195789-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL PICADO",
+        "teléfono": "7107-3560",
+        "whatsapp": "7107-3560"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "40,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado poco uso se usaba para viajar de Cartago a San Jose.",
+        "kilometraje_number": 40000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

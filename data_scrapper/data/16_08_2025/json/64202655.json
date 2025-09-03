@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64202655&Toyota.TERCEL.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64202655-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64202655-1.jpg",
+        "https://crautos.com/clasificados/usados/64202655-2.jpg",
+        "https://crautos.com/clasificados/usados/64202655-3.jpg",
+        "https://crautos.com/clasificados/usados/64202655-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CALDERÓN",
+        "teléfono": "6080-0686",
+        "whatsapp": "6080-0686"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,200 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Se vende porque no se usa.",
+        "kilometraje_number": 250200,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 31
+}

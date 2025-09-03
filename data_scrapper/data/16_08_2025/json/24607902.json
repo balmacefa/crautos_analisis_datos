@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24607902&Toyota.ECHO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24607902-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24607902-1.jpg",
+        "https://crautos.com/clasificados/usados/24607902-2.jpg",
+        "https://crautos.com/clasificados/usados/24607902-3.jpg",
+        "https://crautos.com/clasificados/usados/24607902-4.jpg",
+        "https://crautos.com/clasificados/usados/24607902-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO MONGE",
+        "teléfono": "8701-9177",
+        "whatsapp": "8701-9177"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "178,400 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Detalles de pintura.",
+        "kilometraje_number": 178400,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

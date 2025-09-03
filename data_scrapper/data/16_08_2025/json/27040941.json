@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27040941&Nissan.URVAN%20NV350.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "URVAN NV350",
+    "precio_crc": 27789,
+    "precio_usd": 13950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27040941-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27040941-1.jpg",
+        "https://crautos.com/clasificados/usados/27040941-2.jpg",
+        "https://crautos.com/clasificados/usados/27040941-3.jpg",
+        "https://crautos.com/clasificados/usados/27040941-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PRADO",
+        "teléfono": "8363-1933"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "10 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen estado pintura excelente cubre asientos llantas nuevas alfombra impermeable en el piso .",
+        "kilometraje_number": 10,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

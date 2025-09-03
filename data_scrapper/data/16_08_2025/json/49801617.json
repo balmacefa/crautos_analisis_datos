@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49801617&Mazda.6.2008",
+    "año": 2008,
+    "marca": "MAZDA",
+    "modelo": "6",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49801617-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49801617-1.jpg",
+        "https://crautos.com/clasificados/usados/49801617-2.jpg",
+        "https://crautos.com/clasificados/usados/49801617-3.jpg",
+        "https://crautos.com/clasificados/usados/49801617-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHNNY CASTRO",
+        "teléfono": "8626-8998",
+        "whatsapp": "8626-8998"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "173,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Contacto .",
+        "kilometraje_number": 173000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

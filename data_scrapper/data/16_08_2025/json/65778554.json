@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65778554&Chevrolet.CMV%20.2009",
+    "año": 2009,
+    "marca": "CHEVROLET",
+    "modelo": "CMV",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENDALL BONILLA BRENES",
+        "teléfono": "6096-8099 8772-1250 8317-6202",
+        "whatsapp": "6096-8099"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "274,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado nada que hacerle..",
+        "kilometraje_number": 274000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

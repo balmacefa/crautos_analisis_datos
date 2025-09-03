@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52964296&Kia.PICANTO.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52964296-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52964296-1.jpg",
+        "https://crautos.com/clasificados/usados/52964296-2.jpg",
+        "https://crautos.com/clasificados/usados/52964296-3.jpg",
+        "https://crautos.com/clasificados/usados/52964296-4.jpg",
+        "https://crautos.com/clasificados/usados/52964296-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA JOSE FERNANDEZ",
+        "teléfono": "8749-2013"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "280,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "kilometraje_number": 280000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso"
+    ],
+    "antiguedad": 9
+}

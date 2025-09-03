@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21149356&Suzuki.VITARA%20GL%20ALL%20GRIP.2023",
+    "año": 2023,
+    "marca": "SUZUKI",
+    "modelo": "VITARA GL ALL GRIP",
+    "precio_crc": 22510,
+    "precio_usd": 11300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21149356-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21149356-1.jpg",
+        "https://crautos.com/clasificados/usados/21149356-2.jpg",
+        "https://crautos.com/clasificados/usados/21149356-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN SANCHEZ SALAS",
+        "teléfono": "8730-8998",
+        "whatsapp": "8730-8998"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "66,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Tiene llantas nuevas Pirelli, todo al día. .",
+        "kilometraje_number": 66000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 2
+}

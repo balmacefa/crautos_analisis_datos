@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17000781&Jeep.WRANGLER.2003",
+    "año": 2003,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 19323,
+    "precio_usd": 9700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17000781-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17000781-1.jpg",
+        "https://crautos.com/clasificados/usados/17000781-2.jpg",
+        "https://crautos.com/clasificados/usados/17000781-3.jpg",
+        "https://crautos.com/clasificados/usados/17000781-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE SOTO",
+        "teléfono": "8311-9679",
+        "whatsapp": "8311-9679"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "174,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "AMARILLO",
+        "color_interior": "AMARILLO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Totalmente restaurado.",
+        "kilometraje_number": 174000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

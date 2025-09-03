@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15093538&Kia.SOUL.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "SOUL",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15093538-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15093538-1.jpg",
+        "https://crautos.com/clasificados/usados/15093538-2.jpg",
+        "https://crautos.com/clasificados/usados/15093538-3.jpg",
+        "https://crautos.com/clasificados/usados/15093538-4.jpg",
+        "https://crautos.com/clasificados/usados/15093538-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PERCY DURAN",
+        "teléfono": "8845-9557",
+        "whatsapp": "8845-9557"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "158,675 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Con algunos detalles ver fotos.",
+        "kilometraje_number": 158675,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Sensores de retroceso",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

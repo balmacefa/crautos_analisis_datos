@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4187329&BYD.S6%20GS-I.2015",
+    "año": 2015,
+    "marca": "BYD",
+    "modelo": "S6 GS-I",
+    "precio_crc": 8914,
+    "precio_usd": 4475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4187329-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4187329-1.jpg",
+        "https://crautos.com/clasificados/usados/4187329-2.jpg",
+        "https://crautos.com/clasificados/usados/4187329-3.jpg",
+        "https://crautos.com/clasificados/usados/4187329-4.jpg",
+        "https://crautos.com/clasificados/usados/4187329-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE HERRERA",
+        "teléfono": "8527-5487 7123-7468",
+        "whatsapp": "8527-5487",
+        "dirección": "Desamparados centro"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "161,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA VEINTI SEIS , RECIBO CARRO DE MENOR VALOR Y ACEPTAMOS TARJETAS DE CRÉDITO LLAMAR PARA MÁS INFO.",
+        "kilometraje_number": 161000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

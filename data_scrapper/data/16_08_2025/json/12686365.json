@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12686365&Land%20Rover.DEFENDER%20130.2009",
+    "año": 2009,
+    "marca": "LAND ROVER",
+    "modelo": "DEFENDER 130",
+    "precio_crc": 70418,
+    "precio_usd": 35350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12686365-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12686365-1.jpg",
+        "https://crautos.com/clasificados/usados/12686365-2.jpg",
+        "https://crautos.com/clasificados/usados/12686365-3.jpg",
+        "https://crautos.com/clasificados/usados/12686365-4.jpg",
+        "https://crautos.com/clasificados/usados/12686365-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ABRAHAM HIDALGO",
+        "teléfono": "8661-4791",
+        "whatsapp": "8661-4791"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "240,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "Excelente estado - segundo dueño - tapicería excelente tiene cobertores para los asientos.",
+        "kilometraje_number": 240000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

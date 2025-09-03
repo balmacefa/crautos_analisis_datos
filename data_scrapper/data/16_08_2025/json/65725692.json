@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65725692&Honda.CRV.2002",
+    "año": 2002,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65725692-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65725692-1.jpg",
+        "https://crautos.com/clasificados/usados/65725692-2.jpg",
+        "https://crautos.com/clasificados/usados/65725692-3.jpg",
+        "https://crautos.com/clasificados/usados/65725692-4.jpg",
+        "https://crautos.com/clasificados/usados/65725692-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN RODRIGUEZ",
+        "teléfono": "8920-4473",
+        "whatsapp": "8920-4473"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "177,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "DORADO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64470321&Toyota.FJ%20CRUISER.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "FJ CRUISER",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64470321-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64470321-1.jpg",
+        "https://crautos.com/clasificados/usados/64470321-2.jpg",
+        "https://crautos.com/clasificados/usados/64470321-3.jpg",
+        "https://crautos.com/clasificados/usados/64470321-4.jpg",
+        "https://crautos.com/clasificados/usados/64470321-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS LÓPEZ RUIZ",
+        "teléfono": "7291-3424 7109-4645",
+        "whatsapp": "7291-3424"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "240,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Varias extras buen .",
+        "kilometraje_number": 240000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

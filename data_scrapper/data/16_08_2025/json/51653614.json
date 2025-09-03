@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51653614&Nissan.SENTRA%20B15.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "SENTRA B15",
+    "precio_crc": 3187,
+    "precio_usd": 1600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51653614-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51653614-1.jpg",
+        "https://crautos.com/clasificados/usados/51653614-2.jpg",
+        "https://crautos.com/clasificados/usados/51653614-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL",
+        "teléfono": "8989-2116",
+        "whatsapp": "8989-2116"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "2 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Veiculo al día listo para firmar negociable o se cambia por automático .",
+        "kilometraje_number": 2,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

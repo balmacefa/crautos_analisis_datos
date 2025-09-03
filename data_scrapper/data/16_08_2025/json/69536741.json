@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69536741&Toyota.HILUX%20SRV.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "HILUX SRV",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69536741-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69536741-1.jpg",
+        "https://crautos.com/clasificados/usados/69536741-2.jpg",
+        "https://crautos.com/clasificados/usados/69536741-3.jpg",
+        "https://crautos.com/clasificados/usados/69536741-4.jpg",
+        "https://crautos.com/clasificados/usados/69536741-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEWART ALVARADO",
+        "teléfono": "8670-9582 8452-9628",
+        "whatsapp": "8670-9582"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "237,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Exelente estado como nuevo manual x.",
+        "kilometraje_number": 237000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

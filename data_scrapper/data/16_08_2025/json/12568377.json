@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12568377&Citroen.C-ELYSEE.2014",
+    "año": 2014,
+    "marca": "CITROEN",
+    "modelo": "C-ELYSEE",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12568377-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12568377-1.jpg",
+        "https://crautos.com/clasificados/usados/12568377-2.jpg",
+        "https://crautos.com/clasificados/usados/12568377-3.jpg",
+        "https://crautos.com/clasificados/usados/12568377-4.jpg",
+        "https://crautos.com/clasificados/usados/12568377-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO BARRETO",
+        "teléfono": "8873-9385",
+        "whatsapp": "8873-9385"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "96,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "MANTENIMIENTO DE AGENCIA muy económico y seguro llantas nuevas .",
+        "kilometraje_number": 96000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

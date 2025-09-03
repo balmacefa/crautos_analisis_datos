@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44659360&Suzuki.XL7.2022",
+    "año": 2022,
+    "marca": "SUZUKI",
+    "modelo": "XL7",
+    "precio_crc": 21514,
+    "precio_usd": 10800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44659360-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44659360-1.jpg",
+        "https://crautos.com/clasificados/usados/44659360-2.jpg",
+        "https://crautos.com/clasificados/usados/44659360-3.jpg",
+        "https://crautos.com/clasificados/usados/44659360-4.jpg",
+        "https://crautos.com/clasificados/usados/44659360-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SOFIA DELGADO NAVARRO",
+        "teléfono": "8576-4006",
+        "whatsapp": "8576-4006"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "126,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Oferta.",
+        "kilometraje_number": 126000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

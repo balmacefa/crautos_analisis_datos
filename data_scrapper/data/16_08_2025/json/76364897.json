@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76364897&Toyota.RAV4.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 18526,
+    "precio_usd": 9300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76364897-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76364897-1.jpg",
+        "https://crautos.com/clasificados/usados/76364897-2.jpg",
+        "https://crautos.com/clasificados/usados/76364897-3.jpg",
+        "https://crautos.com/clasificados/usados/76364897-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID ZELEDON",
+        "teléfono": "8917-6718",
+        "whatsapp": "8917-6718"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS RATON",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO ÚNICO DUEÑO DE AGENCIA .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

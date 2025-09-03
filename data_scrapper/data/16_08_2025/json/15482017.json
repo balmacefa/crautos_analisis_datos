@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15482017&Toyota.COROLLA%20CROSS.2025",
+    "año": 2025,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA CROSS",
+    "precio_crc": 29482,
+    "precio_usd": 14800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15482017-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15482017-1.jpg",
+        "https://crautos.com/clasificados/usados/15482017-2.jpg",
+        "https://crautos.com/clasificados/usados/15482017-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO DIEN",
+        "teléfono": "8334-0260",
+        "whatsapp": "8334-0260"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "38 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente vehículo economico y potente.",
+        "kilometraje_number": 38,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 0
+}

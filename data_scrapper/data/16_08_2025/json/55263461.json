@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55263461&Toyota.PREVIA%20.1990",
+    "año": 1990,
+    "marca": "TOYOTA",
+    "modelo": "PREVIA",
+    "precio_crc": 3436,
+    "precio_usd": 1725000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR MORA",
+        "teléfono": "8838-9941"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "202,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Dekra dos mil veinti seis mecánicamente muy bien. Si recibo el precio cambia a dos millones .",
+        "kilometraje_number": 202000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 35
+}

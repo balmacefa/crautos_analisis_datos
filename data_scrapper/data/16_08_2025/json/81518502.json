@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81518502&Suzuki.SWIFT%20.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81518502-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81518502-1.jpg",
+        "https://crautos.com/clasificados/usados/81518502-2.jpg",
+        "https://crautos.com/clasificados/usados/81518502-3.jpg",
+        "https://crautos.com/clasificados/usados/81518502-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID SOLERA",
+        "teléfono": "8921-0318 8698-8998"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Pintura en perfecto estado llantas en perfectas condiciones vehículo supera económico .",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

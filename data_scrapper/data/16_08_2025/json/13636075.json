@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13636075&Chery.TIGGO%202.2018",
+    "año": 2018,
+    "marca": "CHERY",
+    "modelo": "TIGGO 2",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13636075-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13636075-1.jpg",
+        "https://crautos.com/clasificados/usados/13636075-2.jpg",
+        "https://crautos.com/clasificados/usados/13636075-3.jpg",
+        "https://crautos.com/clasificados/usados/13636075-4.jpg",
+        "https://crautos.com/clasificados/usados/13636075-5.jpg",
+        "https://crautos.com/clasificados/usados/13636075-6.jpg",
+        "https://crautos.com/clasificados/usados/13636075-7.jpg",
+        "https://crautos.com/clasificados/usados/13636075-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LÁZARO RAMÍREZ",
+        "teléfono": "8496-5515",
+        "whatsapp": "8496-5515"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO Y NARANJA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Julio del 2025",
+        "comentario_vendedor": "No recibo Está en San Marcos tarrazu .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

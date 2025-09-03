@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8619086&Isuzu.DMAX.2017",
+    "año": 2017,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 27689,
+    "precio_usd": 13900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8619086-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8619086-1.jpg",
+        "https://crautos.com/clasificados/usados/8619086-2.jpg",
+        "https://crautos.com/clasificados/usados/8619086-3.jpg",
+        "https://crautos.com/clasificados/usados/8619086-4.jpg",
+        "https://crautos.com/clasificados/usados/8619086-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EXCELLENT CARS",
+        "teléfono": "8844-9740 7075-1870",
+        "whatsapp": "8844-9740",
+        "dirección": "Hospital, de la entrada del cementerio de obreros 150 este y 150 norte San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "184,700 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Noviembre del 2024",
+        "comentario_vendedor": "VEHICULO EN PERFECTO ESTADO UNICO DUEÑO Y EXCELENTE MANTENIMIENTO .",
+        "kilometraje_number": 184700,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

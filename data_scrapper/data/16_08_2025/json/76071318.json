@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76071318&Hyundai.ACCENT.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76071318-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76071318-1.jpg",
+        "https://crautos.com/clasificados/usados/76071318-2.jpg",
+        "https://crautos.com/clasificados/usados/76071318-3.jpg",
+        "https://crautos.com/clasificados/usados/76071318-4.jpg",
+        "https://crautos.com/clasificados/usados/76071318-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATALIA JIMÉNEZ MONGE",
+        "teléfono": "6079-4804",
+        "whatsapp": "6079-4804"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "95,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Pocas millas, bateria Nueva,llantas nuevas, escucho ofertasUrge vender.",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92146729&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92146729-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92146729-1.jpg",
+        "https://crautos.com/clasificados/usados/92146729-2.jpg",
+        "https://crautos.com/clasificados/usados/92146729-3.jpg",
+        "https://crautos.com/clasificados/usados/92146729-4.jpg",
+        "https://crautos.com/clasificados/usados/92146729-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ROMERO BOLAÑOS",
+        "teléfono": "8665-1022 8313-2419",
+        "whatsapp": "8665-1022"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "100,000 millas",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado motor, caja, tapicería y pintura. Deckra en blanco.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56791462&Hyundai.I10.2018",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56791462-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56791462-1.jpg",
+        "https://crautos.com/clasificados/usados/56791462-2.jpg",
+        "https://crautos.com/clasificados/usados/56791462-3.jpg",
+        "https://crautos.com/clasificados/usados/56791462-4.jpg",
+        "https://crautos.com/clasificados/usados/56791462-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "XAVIER CORDERO PICADO",
+        "teléfono": "6026-1199",
+        "whatsapp": "6026-1199"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "109,564 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Sin goteos ni fugas llantas nuevas .",
+        "kilometraje_number": 109564,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

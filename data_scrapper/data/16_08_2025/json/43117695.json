@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43117695&Daihatsu.CUORE.2002",
+    "año": 2002,
+    "marca": "DAIHATSU",
+    "modelo": "CUORE",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43117695-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43117695-1.jpg",
+        "https://crautos.com/clasificados/usados/43117695-2.jpg",
+        "https://crautos.com/clasificados/usados/43117695-3.jpg",
+        "https://crautos.com/clasificados/usados/43117695-4.jpg",
+        "https://crautos.com/clasificados/usados/43117695-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ÁVILA",
+        "teléfono": "8380-0166",
+        "whatsapp": "8380-0166"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "211,540 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Muy económico exelente estado .",
+        "kilometraje_number": 211540,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Desempañador Trasero",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 23
+}

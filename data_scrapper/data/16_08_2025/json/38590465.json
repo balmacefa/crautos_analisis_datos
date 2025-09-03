@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38590465&Kia.SOUL.2011",
+    "año": 2011,
+    "marca": "KIA",
+    "modelo": "SOUL",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38590465-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38590465-1.jpg",
+        "https://crautos.com/clasificados/usados/38590465-2.jpg",
+        "https://crautos.com/clasificados/usados/38590465-3.jpg",
+        "https://crautos.com/clasificados/usados/38590465-4.jpg",
+        "https://crautos.com/clasificados/usados/38590465-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICKA CH",
+        "teléfono": "8860-5612 8316-1556",
+        "whatsapp": "8860-5612"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Doble Airbag.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

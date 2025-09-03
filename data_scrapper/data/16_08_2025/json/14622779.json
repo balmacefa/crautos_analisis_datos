@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14622779&Nissan.MARCH.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "MARCH",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14622779-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14622779-1.jpg",
+        "https://crautos.com/clasificados/usados/14622779-2.jpg",
+        "https://crautos.com/clasificados/usados/14622779-3.jpg",
+        "https://crautos.com/clasificados/usados/14622779-4.jpg",
+        "https://crautos.com/clasificados/usados/14622779-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN VALVERDE",
+        "teléfono": "8323-6373",
+        "whatsapp": "8323-6373"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "178,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado un solo dueño.",
+        "kilometraje_number": 178000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

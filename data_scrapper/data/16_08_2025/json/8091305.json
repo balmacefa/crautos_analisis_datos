@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8091305&Renault.DUSTER.2015",
+    "año": 2015,
+    "marca": "RENAULT",
+    "modelo": "DUSTER",
+    "precio_crc": 4267000,
+    "precio_usd": 8500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8091305-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8091305-1.jpg",
+        "https://crautos.com/clasificados/usados/8091305-2.jpg",
+        "https://crautos.com/clasificados/usados/8091305-3.jpg",
+        "https://crautos.com/clasificados/usados/8091305-4.jpg",
+        "https://crautos.com/clasificados/usados/8091305-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOMOTORES CARSOT",
+        "teléfono": "2589-0512 8817-0303",
+        "whatsapp": "8443-0303",
+        "dirección": "600 mts Este de la Iglesia San Antonio de Belén Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "159,169 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "COMPLETAMENTE AL DIA RECIBO FINANCIO... PRECIO EN DOLARES...",
+        "kilometraje_number": 159169,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

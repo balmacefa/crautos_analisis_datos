@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18898287&Fiat.UNO%20WAY.2017",
+    "año": 2017,
+    "marca": "FIAT",
+    "modelo": "UNO WAY",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18898287-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18898287-1.jpg",
+        "https://crautos.com/clasificados/usados/18898287-2.jpg",
+        "https://crautos.com/clasificados/usados/18898287-3.jpg",
+        "https://crautos.com/clasificados/usados/18898287-4.jpg",
+        "https://crautos.com/clasificados/usados/18898287-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS HERRERA",
+        "teléfono": "8396-1382",
+        "whatsapp": "8396-1382"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "36,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Junio del 2025",
+        "comentario_vendedor": "Un solo dueño-Muy poco uso-Bien Cuidado-REBAJADO.",
+        "kilometraje_number": 36000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

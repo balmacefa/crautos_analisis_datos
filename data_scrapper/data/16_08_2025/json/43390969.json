@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43390969&Toyota.HILUX.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43390969-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43390969-1.jpg",
+        "https://crautos.com/clasificados/usados/43390969-2.jpg",
+        "https://crautos.com/clasificados/usados/43390969-3.jpg",
+        "https://crautos.com/clasificados/usados/43390969-4.jpg",
+        "https://crautos.com/clasificados/usados/43390969-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY HIDALGO",
+        "teléfono": "8316-1525",
+        "whatsapp": "8316-1525"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Cajón furgón .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67240294&Nissan.XTRAIL.2021",
+    "año": 2021,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 25398,
+    "precio_usd": 12750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67240294-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67240294-1.jpg",
+        "https://crautos.com/clasificados/usados/67240294-2.jpg",
+        "https://crautos.com/clasificados/usados/67240294-3.jpg",
+        "https://crautos.com/clasificados/usados/67240294-4.jpg",
+        "https://crautos.com/clasificados/usados/67240294-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BYRON VARGAS VÁSQUEZ",
+        "teléfono": "8861-0254",
+        "whatsapp": "8861-0254"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "95,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Único dueño. Asientos y suelo de todo el carro tapizado. Muy bien cuidado, mantenimiento de agencia .",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 4
+}

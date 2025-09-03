@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40374802&Suzuki.SWIFT%20DZIRE.2013",
+    "año": 2013,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40374802-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40374802-1.jpg",
+        "https://crautos.com/clasificados/usados/40374802-2.jpg",
+        "https://crautos.com/clasificados/usados/40374802-3.jpg",
+        "https://crautos.com/clasificados/usados/40374802-4.jpg",
+        "https://crautos.com/clasificados/usados/40374802-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLGA AGUILAR HERNÁNDEZ",
+        "teléfono": "8829-7020 8349-4368",
+        "whatsapp": "8829-7020"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "91,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "CHAMPAGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Llantas nuevas. Luces LED. Cámara y sensores de reversa. Alarma antisecuestro.",
+        "kilometraje_number": 91000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

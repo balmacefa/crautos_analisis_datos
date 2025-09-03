@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45292960&Nissan.TIIDA.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45292960-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45292960-1.jpg",
+        "https://crautos.com/clasificados/usados/45292960-2.jpg",
+        "https://crautos.com/clasificados/usados/45292960-3.jpg",
+        "https://crautos.com/clasificados/usados/45292960-4.jpg",
+        "https://crautos.com/clasificados/usados/45292960-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO ALPIZAR",
+        "teléfono": "8672-6232"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "SILVER",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Exclente condicines mecanicas .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

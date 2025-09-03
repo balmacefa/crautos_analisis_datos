@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3996785&Toyota.HILUX.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 31673,
+    "precio_usd": 15900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3996785-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3996785-1.jpg",
+        "https://crautos.com/clasificados/usados/3996785-2.jpg",
+        "https://crautos.com/clasificados/usados/3996785-3.jpg",
+        "https://crautos.com/clasificados/usados/3996785-4.jpg",
+        "https://crautos.com/clasificados/usados/3996785-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARS BELÉN",
+        "teléfono": "6290-9073 8412-3434 2102-8111",
+        "whatsapp": "8827-2568",
+        "dirección": "San Joaquín de Flores, Llorente, de la Ferretería El Lagar 75 mts oeste contiguo a Cevichera San Joaquín Nº2"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "79,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "SE RECIBE VEHICULO MENOR VALOR TODO AL DIA IMPECABLE.",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

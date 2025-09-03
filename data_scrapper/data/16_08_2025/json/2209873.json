@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2209873&BYD.F3.2019",
+    "año": 2019,
+    "marca": "BYD",
+    "modelo": "F3",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2209873-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2209873-1.jpg",
+        "https://crautos.com/clasificados/usados/2209873-2.jpg",
+        "https://crautos.com/clasificados/usados/2209873-3.jpg",
+        "https://crautos.com/clasificados/usados/2209873-4.jpg",
+        "https://crautos.com/clasificados/usados/2209873-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO MÍO",
+        "teléfono": "8861-4847",
+        "whatsapp": "8861-4847",
+        "dirección": "Costado Norte Gimnasio Liceo de C.R. Plaza González Víquez por el (MOPT) San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "81,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "un solo dueño muy buen estado.",
+        "kilometraje_number": 81000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

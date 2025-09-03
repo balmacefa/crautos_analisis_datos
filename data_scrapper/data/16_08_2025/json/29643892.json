@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29643892&Suzuki.CIAZ.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CIAZ",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29643892-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29643892-1.jpg",
+        "https://crautos.com/clasificados/usados/29643892-2.jpg",
+        "https://crautos.com/clasificados/usados/29643892-3.jpg",
+        "https://crautos.com/clasificados/usados/29643892-4.jpg",
+        "https://crautos.com/clasificados/usados/29643892-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTHIAN ARCE",
+        "teléfono": "8944-5288 7004-3400"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "NEGRO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Buen auto y económico .",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

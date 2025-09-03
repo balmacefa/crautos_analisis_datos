@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41186373&Ford.ECOSPORT.2006",
+    "año": 2006,
+    "marca": "FORD",
+    "modelo": "ECOSPORT",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41186373-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41186373-1.jpg",
+        "https://crautos.com/clasificados/usados/41186373-2.jpg",
+        "https://crautos.com/clasificados/usados/41186373-3.jpg",
+        "https://crautos.com/clasificados/usados/41186373-4.jpg",
+        "https://crautos.com/clasificados/usados/41186373-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUILLERMO SEGURA",
+        "teléfono": "8535-4027",
+        "whatsapp": "8535-4027"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "207,706 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Vehiculo en excelente estado.",
+        "kilometraje_number": 207706,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25439656&Peugeot.206.2005",
+    "año": 2005,
+    "marca": "PEUGEOT",
+    "modelo": "206",
+    "precio_crc": 2888,
+    "precio_usd": 1450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25439656-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25439656-1.jpg",
+        "https://crautos.com/clasificados/usados/25439656-2.jpg",
+        "https://crautos.com/clasificados/usados/25439656-3.jpg",
+        "https://crautos.com/clasificados/usados/25439656-4.jpg",
+        "https://crautos.com/clasificados/usados/25439656-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO ROJAS ROJAS",
+        "teléfono": "8885-0520"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "185,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ORO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Mayo del 2025",
+        "comentario_vendedor": "Muy muy buen estado .",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

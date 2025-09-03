@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30409519&Chevrolet.TRACKER.2000",
+    "año": 2000,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30409519-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30409519-1.jpg",
+        "https://crautos.com/clasificados/usados/30409519-2.jpg",
+        "https://crautos.com/clasificados/usados/30409519-3.jpg",
+        "https://crautos.com/clasificados/usados/30409519-4.jpg",
+        "https://crautos.com/clasificados/usados/30409519-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ MAURICIO CAMPOS RAMÍREZ",
+        "teléfono": "8893-4116",
+        "whatsapp": "8893-4116"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "110,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

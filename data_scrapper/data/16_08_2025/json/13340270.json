@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13340270&Chevrolet.BEAT%20LTZ.2019",
+    "año": 2019,
+    "marca": "CHEVROLET",
+    "modelo": "BEAT LTZ",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13340270-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13340270-1.jpg",
+        "https://crautos.com/clasificados/usados/13340270-2.jpg",
+        "https://crautos.com/clasificados/usados/13340270-3.jpg",
+        "https://crautos.com/clasificados/usados/13340270-4.jpg",
+        "https://crautos.com/clasificados/usados/13340270-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAUL CASTILLO",
+        "teléfono": "7024-7057 6243-8814",
+        "whatsapp": "7024-7057"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,500 kms",
+        "placa": "Termina en",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "kilometraje_number": 110500,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

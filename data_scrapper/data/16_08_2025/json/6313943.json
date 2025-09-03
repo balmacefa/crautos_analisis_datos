@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6313943&Hyundai.TUCSON.2018",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6313943-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6313943-1.jpg",
+        "https://crautos.com/clasificados/usados/6313943-2.jpg",
+        "https://crautos.com/clasificados/usados/6313943-3.jpg",
+        "https://crautos.com/clasificados/usados/6313943-4.jpg",
+        "https://crautos.com/clasificados/usados/6313943-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTONORTE S.A.",
+        "teléfono": "8359-3130 8308-3750 2240-5613",
+        "whatsapp": "8308-3750",
+        "dirección": "Diagonal Agencia ICE Florida de Tibás San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "119,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Junio del 2025",
+        "comentario_vendedor": "MUCHAS EXTRAS, CONSÚLTENOS POR FINANCIAMIENTO, GARANTÍA Y AUTOS QUE RECIBIMOS.",
+        "kilometraje_number": 119000,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

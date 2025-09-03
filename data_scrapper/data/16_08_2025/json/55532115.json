@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55532115&Isuzu.DMAX.2012",
+    "año": 2012,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 24104,
+    "precio_usd": 12100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55532115-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55532115-1.jpg",
+        "https://crautos.com/clasificados/usados/55532115-2.jpg",
+        "https://crautos.com/clasificados/usados/55532115-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERSON CHACÓN",
+        "teléfono": "8859-0704",
+        "whatsapp": "8859-0704"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "166,800 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "kilometraje_number": 166800,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

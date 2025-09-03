@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74560921&Suzuki.SX4.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74560921-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74560921-1.jpg",
+        "https://crautos.com/clasificados/usados/74560921-2.jpg",
+        "https://crautos.com/clasificados/usados/74560921-3.jpg",
+        "https://crautos.com/clasificados/usados/74560921-4.jpg",
+        "https://crautos.com/clasificados/usados/74560921-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO COTO M.",
+        "teléfono": "8706-6029",
+        "whatsapp": "8706-6029"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en Excelente estado. Con marchamo y dekra al dia. Uso familiar. Poco kilometraje.",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

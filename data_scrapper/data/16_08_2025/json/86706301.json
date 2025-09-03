@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86706301&Nissan.XTRAIL.2014",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86706301-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86706301-1.jpg",
+        "https://crautos.com/clasificados/usados/86706301-2.jpg",
+        "https://crautos.com/clasificados/usados/86706301-3.jpg",
+        "https://crautos.com/clasificados/usados/86706301-4.jpg",
+        "https://crautos.com/clasificados/usados/86706301-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE REBELO GAITÁN",
+        "teléfono": "8860-3162 8483-3190",
+        "whatsapp": "8483-3190"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Listo para ser entregado excelentes condiciones escuchan ofertas .",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

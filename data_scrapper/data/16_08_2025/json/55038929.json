@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55038929&Jeep.CHEROKEE.2004",
+    "año": 2004,
+    "marca": "JEEP",
+    "modelo": "CHEROKEE",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55038929-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55038929-1.jpg",
+        "https://crautos.com/clasificados/usados/55038929-2.jpg",
+        "https://crautos.com/clasificados/usados/55038929-3.jpg",
+        "https://crautos.com/clasificados/usados/55038929-4.jpg",
+        "https://crautos.com/clasificados/usados/55038929-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEAN HOGAN",
+        "teléfono": "8585-8977",
+        "whatsapp": "8585-8977"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "209,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Mechanicamente excelente. Detalles de pintura y carrocería. El precio es negociable.",
+        "kilometraje_number": 209000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

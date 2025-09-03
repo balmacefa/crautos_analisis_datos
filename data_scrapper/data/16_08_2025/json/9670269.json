@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9670269&Isuzu.NPR%20.2007",
+    "año": 2007,
+    "marca": "ISUZU",
+    "modelo": "NPR",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9670269-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9670269-1.jpg",
+        "https://crautos.com/clasificados/usados/9670269-2.jpg",
+        "https://crautos.com/clasificados/usados/9670269-3.jpg",
+        "https://crautos.com/clasificados/usados/9670269-4.jpg",
+        "https://crautos.com/clasificados/usados/9670269-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEQ DRIVE",
+        "teléfono": "6001-4170 8622-3111",
+        "whatsapp": "6001-4170",
+        "dirección": "Santa Bárbara"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Todo al día perfecto estado se recibe.",
+        "kilometraje_number": null,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

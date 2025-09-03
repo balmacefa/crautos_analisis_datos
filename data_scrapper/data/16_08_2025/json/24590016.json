@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24590016&Peugeot.PARTNER.2008",
+    "año": 2008,
+    "marca": "PEUGEOT",
+    "modelo": "PARTNER",
+    "precio_crc": 5876,
+    "precio_usd": 2950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24590016-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24590016-1.jpg",
+        "https://crautos.com/clasificados/usados/24590016-2.jpg",
+        "https://crautos.com/clasificados/usados/24590016-3.jpg",
+        "https://crautos.com/clasificados/usados/24590016-4.jpg",
+        "https://crautos.com/clasificados/usados/24590016-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL CAMPOS V.",
+        "teléfono": "8890-7986 7084-2831",
+        "whatsapp": "8890-7986"
+    },
+    "informacion_general": {
+        "cilindrada": "1900 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "146,341 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO VENGA VEALA TRANSPASO INCLUIDO.",
+        "kilometraje_number": 146341,
+        "cilindrada_number": 1900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

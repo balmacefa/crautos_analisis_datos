@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71158233&Kia.BONGO%20III.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "BONGO III",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71158233-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71158233-1.jpg",
+        "https://crautos.com/clasificados/usados/71158233-2.jpg",
+        "https://crautos.com/clasificados/usados/71158233-3.jpg",
+        "https://crautos.com/clasificados/usados/71158233-4.jpg",
+        "https://crautos.com/clasificados/usados/71158233-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NICOLS",
+        "teléfono": "8747-2060"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "96,192 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Cuenta con llantas nuevas pantógrafo de telecomunicaciones.",
+        "kilometraje_number": 96192,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

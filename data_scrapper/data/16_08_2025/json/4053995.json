@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4053995&Hyundai.TUCSON.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4053995-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4053995-1.jpg",
+        "https://crautos.com/clasificados/usados/4053995-2.jpg",
+        "https://crautos.com/clasificados/usados/4053995-3.jpg",
+        "https://crautos.com/clasificados/usados/4053995-4.jpg",
+        "https://crautos.com/clasificados/usados/4053995-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTONORTE S.A.",
+        "teléfono": "8359-3130 8308-3750 2240-5613",
+        "whatsapp": "8308-3750",
+        "dirección": "Diagonal Agencia ICE Florida de Tibás San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "127,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "FINANCIAMIENTO, GARANTÍA, SE RECIBE.",
+        "kilometraje_number": 127000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46245577&Toyota.LAND%20CRUISER.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46245577-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46245577-1.jpg",
+        "https://crautos.com/clasificados/usados/46245577-2.jpg",
+        "https://crautos.com/clasificados/usados/46245577-3.jpg",
+        "https://crautos.com/clasificados/usados/46245577-4.jpg",
+        "https://crautos.com/clasificados/usados/46245577-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRAULIO DELGADO",
+        "teléfono": "8820-6997",
+        "whatsapp": "8820-6997"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "239,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Muy cuidado. Motor UNO-HD veinticuatro VÁLVULAS. TDI .",
+        "kilometraje_number": 239000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4460856&Kia.BONGO%20III%20SPACE%20CAB.2011",
+    "año": 2011,
+    "marca": "KIA",
+    "modelo": "BONGO III SPACE CAB",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4460856-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4460856-1.jpg",
+        "https://crautos.com/clasificados/usados/4460856-2.jpg",
+        "https://crautos.com/clasificados/usados/4460856-3.jpg",
+        "https://crautos.com/clasificados/usados/4460856-4.jpg",
+        "https://crautos.com/clasificados/usados/4460856-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ICONS CARS",
+        "teléfono": "8843-0456 8317-3703",
+        "whatsapp": "8843-0456",
+        "dirección": "Heredia, San Antonio de Belén, del depósito de materiales El Lagar 250 mtrs oeste"
+    },
+    "informacion_general": {
+        "cilindrada": "2900 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "64,135 kms",
+        "placa": "Termina en -",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Precio no incluyen gastos legales, negociable de contado, RECIBO carro menor valor..",
+        "kilometraje_number": 64135,
+        "cilindrada_number": 2900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

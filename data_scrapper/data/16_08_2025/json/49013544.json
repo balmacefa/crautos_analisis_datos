@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49013544&Hyundai.COUNTY.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "COUNTY",
+    "precio_crc": 42829,
+    "precio_usd": 21500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49013544-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49013544-1.jpg",
+        "https://crautos.com/clasificados/usados/49013544-2.jpg",
+        "https://crautos.com/clasificados/usados/49013544-3.jpg",
+        "https://crautos.com/clasificados/usados/49013544-4.jpg",
+        "https://crautos.com/clasificados/usados/49013544-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ MORALES",
+        "teléfono": "8391-2875",
+        "whatsapp": "8391-2875"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "258,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Microbus en perfectas condiciones único Dueño .",
+        "kilometraje_number": 258000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

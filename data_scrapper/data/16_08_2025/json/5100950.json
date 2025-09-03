@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5100950&Hyundai.H1.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 21614,
+    "precio_usd": 10850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5100950-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5100950-1.jpg",
+        "https://crautos.com/clasificados/usados/5100950-2.jpg",
+        "https://crautos.com/clasificados/usados/5100950-3.jpg",
+        "https://crautos.com/clasificados/usados/5100950-4.jpg",
+        "https://crautos.com/clasificados/usados/5100950-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHITO CARS",
+        "teléfono": "6290-1001 2589-6565",
+        "whatsapp": "6290-1001",
+        "dirección": "300 metros Oeste de la ferreteria EPA en San Antonio de Belen. Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "134,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Completamente al día recibo y financio, garantía por escrito. Chito Cars..",
+        "kilometraje_number": 134000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

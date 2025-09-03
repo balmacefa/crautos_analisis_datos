@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74798287&JMC.N601.2017",
+    "año": 2017,
+    "marca": "JMC",
+    "modelo": "N601",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74798287-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74798287-1.jpg",
+        "https://crautos.com/clasificados/usados/74798287-2.jpg",
+        "https://crautos.com/clasificados/usados/74798287-3.jpg",
+        "https://crautos.com/clasificados/usados/74798287-4.jpg",
+        "https://crautos.com/clasificados/usados/74798287-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO DEBEN",
+        "teléfono": "8876-4144 8876-4202",
+        "whatsapp": "8876-4144"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "CRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "DOBLE CABINA - Está preparado para tiraje fibra óptica poco kilometraje bien cuidado .",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

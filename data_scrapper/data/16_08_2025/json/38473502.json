@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38473502&Volkswagen.JETTA.2015",
+    "año": 2015,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38473502-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38473502-1.jpg",
+        "https://crautos.com/clasificados/usados/38473502-2.jpg",
+        "https://crautos.com/clasificados/usados/38473502-3.jpg",
+        "https://crautos.com/clasificados/usados/38473502-4.jpg",
+        "https://crautos.com/clasificados/usados/38473502-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADOLFO GONZALEZ",
+        "teléfono": "8312-4731",
+        "whatsapp": "8312-4731"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "145,271 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Estado Excelente.",
+        "kilometraje_number": 145271,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

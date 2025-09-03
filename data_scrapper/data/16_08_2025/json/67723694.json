@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67723694&Toyota.YARIS%20SPORT.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS SPORT",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67723694-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67723694-1.jpg",
+        "https://crautos.com/clasificados/usados/67723694-2.jpg",
+        "https://crautos.com/clasificados/usados/67723694-3.jpg",
+        "https://crautos.com/clasificados/usados/67723694-4.jpg",
+        "https://crautos.com/clasificados/usados/67723694-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SANTIAGO LOPERA",
+        "teléfono": "8339-3631",
+        "whatsapp": "8339-3631"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,400 millas",
+        "placa": "Termina en",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "kilometraje_number": 170400,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 18
+}

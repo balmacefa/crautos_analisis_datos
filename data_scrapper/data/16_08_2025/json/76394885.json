@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76394885&Honda.CIVIC.2008",
+    "año": 2008,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76394885-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76394885-1.jpg",
+        "https://crautos.com/clasificados/usados/76394885-2.jpg",
+        "https://crautos.com/clasificados/usados/76394885-3.jpg",
+        "https://crautos.com/clasificados/usados/76394885-4.jpg",
+        "https://crautos.com/clasificados/usados/76394885-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO MEZA",
+        "teléfono": "6057-1529",
+        "whatsapp": "6057-1529"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "ARENA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "TRASPASO INCLUIDO.",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

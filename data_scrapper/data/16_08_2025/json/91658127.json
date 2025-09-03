@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91658127&Hyundai.TUCSON%20GL.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON GL",
+    "precio_crc": 16633,
+    "precio_usd": 8350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91658127-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91658127-1.jpg",
+        "https://crautos.com/clasificados/usados/91658127-2.jpg",
+        "https://crautos.com/clasificados/usados/91658127-3.jpg",
+        "https://crautos.com/clasificados/usados/91658127-4.jpg",
+        "https://crautos.com/clasificados/usados/91658127-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YHONNATAN ALFARO",
+        "teléfono": "8998-7839",
+        "whatsapp": "8998-7839"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "163,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Noviembre del 2024",
+        "comentario_vendedor": "Dekra veintiseis, No se cambia.",
+        "kilometraje_number": 163000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65831341&Daihatsu.TERIOS%20BEGO.2013",
+    "año": 2013,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65831341-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65831341-1.jpg",
+        "https://crautos.com/clasificados/usados/65831341-2.jpg",
+        "https://crautos.com/clasificados/usados/65831341-3.jpg",
+        "https://crautos.com/clasificados/usados/65831341-4.jpg",
+        "https://crautos.com/clasificados/usados/65831341-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALFREDO HEINZ",
+        "teléfono": "8970-7010",
+        "whatsapp": "8970-7010"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "117,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Julio del 2025",
+        "kilometraje_number": 117000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

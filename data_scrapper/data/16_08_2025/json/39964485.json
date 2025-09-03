@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39964485&Hyundai.TUCSON%20.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39964485-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39964485-1.jpg",
+        "https://crautos.com/clasificados/usados/39964485-2.jpg",
+        "https://crautos.com/clasificados/usados/39964485-3.jpg",
+        "https://crautos.com/clasificados/usados/39964485-4.jpg",
+        "https://crautos.com/clasificados/usados/39964485-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH OROZCO ESPINOZA",
+        "teléfono": "8449-0614 8708-1444",
+        "whatsapp": "8449-0614"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "121,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "Único dueño .",
+        "kilometraje_number": 121500,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

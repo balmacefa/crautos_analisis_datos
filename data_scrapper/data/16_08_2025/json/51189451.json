@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51189451&Hino.DUTRO.2019",
+    "año": 2019,
+    "marca": "HINO",
+    "modelo": "DUTRO",
+    "precio_crc": 32869,
+    "precio_usd": 16500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51189451-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51189451-1.jpg",
+        "https://crautos.com/clasificados/usados/51189451-2.jpg",
+        "https://crautos.com/clasificados/usados/51189451-3.jpg",
+        "https://crautos.com/clasificados/usados/51189451-4.jpg",
+        "https://crautos.com/clasificados/usados/51189451-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEO MIRANDA",
+        "teléfono": "8708-8708"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "75,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "RECIBO SU VEHICULO FINANCIO Y ESCUCHO OFERTAS.",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 6
+}

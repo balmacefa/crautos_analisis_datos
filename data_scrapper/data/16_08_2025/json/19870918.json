@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19870918&Toyota.LAND%20CRUISER%20PRADO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER PRADO",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19870918-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19870918-1.jpg",
+        "https://crautos.com/clasificados/usados/19870918-2.jpg",
+        "https://crautos.com/clasificados/usados/19870918-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID JIRON",
+        "teléfono": "8840-7186"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "361,754 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "TOTALMENTE RESTAURADO.",
+        "kilometraje_number": 361754,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3748376&Hyundai.H1.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 8513648,
+    "precio_usd": 16959.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3748376-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3748376-1.jpg",
+        "https://crautos.com/clasificados/usados/3748376-2.jpg",
+        "https://crautos.com/clasificados/usados/3748376-3.jpg",
+        "https://crautos.com/clasificados/usados/3748376-4.jpg",
+        "https://crautos.com/clasificados/usados/3748376-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STARCARS LA URUCA",
+        "teléfono": "4105-6654 8860-9090 8713-6343",
+        "whatsapp": "8860-9090",
+        "dirección": "La Uruca Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "ND",
+        "color_exterior": "BRONCE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Octubre del 2024",
+        "comentario_vendedor": "FINANCIAMIENTO DISPONIBLE, ECONOMICO, PRIMA BAJAS.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

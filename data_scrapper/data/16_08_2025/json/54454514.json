@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54454514&Volkswagen.JETTA%20EUROPA.2002",
+    "año": 2002,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA EUROPA",
+    "precio_crc": 4283,
+    "precio_usd": 2150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54454514-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54454514-1.jpg",
+        "https://crautos.com/clasificados/usados/54454514-2.jpg",
+        "https://crautos.com/clasificados/usados/54454514-3.jpg",
+        "https://crautos.com/clasificados/usados/54454514-4.jpg",
+        "https://crautos.com/clasificados/usados/54454514-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN HIDALGO",
+        "teléfono": "8512-4523 8775-0981",
+        "whatsapp": "8775-0981"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "MUY BUEN ESTADO COMPRADO EN DE AGENCIA .",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

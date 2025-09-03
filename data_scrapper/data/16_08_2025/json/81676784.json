@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81676784&Toyota.FORTUNER.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 30876,
+    "precio_usd": 15500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81676784-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81676784-1.jpg",
+        "https://crautos.com/clasificados/usados/81676784-2.jpg",
+        "https://crautos.com/clasificados/usados/81676784-3.jpg",
+        "https://crautos.com/clasificados/usados/81676784-4.jpg",
+        "https://crautos.com/clasificados/usados/81676784-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO MONTOYA P",
+        "teléfono": "8511-5768",
+        "whatsapp": "8511-5768"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "108,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "SE EL CARRO ESTÁ IMPECABLE PUEDE TRAER SU MECÁNICO PUEDO RECIBIR RUSH YARIS SE DA TRASPASO.",
+        "kilometraje_number": 108000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

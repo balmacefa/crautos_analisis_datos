@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87655112&Mitsubishi.L200.2012",
+    "año": 2012,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 22311,
+    "precio_usd": 11200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87655112-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87655112-1.jpg",
+        "https://crautos.com/clasificados/usados/87655112-2.jpg",
+        "https://crautos.com/clasificados/usados/87655112-3.jpg",
+        "https://crautos.com/clasificados/usados/87655112-4.jpg",
+        "https://crautos.com/clasificados/usados/87655112-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIO GONZALEZ",
+        "teléfono": "2260-4481 8835-1305",
+        "whatsapp": "8835-1305"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "104,044 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Cuenta con radio con pantalla-camara de retroceso-alarma-cierre central-sensores de retroceso.",
+        "kilometraje_number": 104044,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

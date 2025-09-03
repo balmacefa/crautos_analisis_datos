@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29072587&Mitsubishi.MONTERO%20GLS.2006",
+    "año": 2006,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29072587-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29072587-1.jpg",
+        "https://crautos.com/clasificados/usados/29072587-2.jpg",
+        "https://crautos.com/clasificados/usados/29072587-3.jpg",
+        "https://crautos.com/clasificados/usados/29072587-4.jpg",
+        "https://crautos.com/clasificados/usados/29072587-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERALD SERRANO GARITA",
+        "teléfono": "6238-9904",
+        "whatsapp": "6238-9904"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "256,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "kilometraje_number": 256000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

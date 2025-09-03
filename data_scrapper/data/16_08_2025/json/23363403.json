@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23363403&Honda.CRV.2005",
+    "año": 2005,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23363403-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23363403-1.jpg",
+        "https://crautos.com/clasificados/usados/23363403-2.jpg",
+        "https://crautos.com/clasificados/usados/23363403-3.jpg",
+        "https://crautos.com/clasificados/usados/23363403-4.jpg",
+        "https://crautos.com/clasificados/usados/23363403-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY FONSECA MATARRITA",
+        "teléfono": "8395-9492",
+        "whatsapp": "8395-9492"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "236,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "CELESTE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado llantasnuevas pantalla pioneer .",
+        "kilometraje_number": 236000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

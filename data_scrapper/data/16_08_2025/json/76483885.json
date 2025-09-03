@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76483885&Ssang%20Yong.KORANDO.2018",
+    "año": 2018,
+    "marca": "SSANG YONG",
+    "modelo": "KORANDO",
+    "precio_crc": 10339,
+    "precio_usd": 5190000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76483885-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76483885-1.jpg",
+        "https://crautos.com/clasificados/usados/76483885-2.jpg",
+        "https://crautos.com/clasificados/usados/76483885-3.jpg",
+        "https://crautos.com/clasificados/usados/76483885-4.jpg",
+        "https://crautos.com/clasificados/usados/76483885-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES FALLAS",
+        "teléfono": "8866-9373 8338-0174",
+        "whatsapp": "8866-9373"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "49,689 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño, sin accidentes y cuidado en todo.",
+        "kilometraje_number": 49689,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

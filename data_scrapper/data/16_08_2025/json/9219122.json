@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9219122&Kia.CARNIVAL.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "CARNIVAL",
+    "precio_crc": 12550000,
+    "precio_usd": 25000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9219122-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9219122-1.jpg",
+        "https://crautos.com/clasificados/usados/9219122-2.jpg",
+        "https://crautos.com/clasificados/usados/9219122-3.jpg",
+        "https://crautos.com/clasificados/usados/9219122-4.jpg",
+        "https://crautos.com/clasificados/usados/9219122-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "8",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Abril del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO. DISPONIBLE EN SUCURSAL LA URUCA.",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

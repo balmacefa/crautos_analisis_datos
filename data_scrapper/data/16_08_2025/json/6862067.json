@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6862067&Mercedes%20Benz.GLE450.2024",
+    "año": 2024,
+    "marca": "MERCEDES BENZ",
+    "modelo": "GLE450",
+    "precio_crc": 62750000,
+    "precio_usd": 125000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6862067-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6862067-1.jpg",
+        "https://crautos.com/clasificados/usados/6862067-2.jpg",
+        "https://crautos.com/clasificados/usados/6862067-3.jpg",
+        "https://crautos.com/clasificados/usados/6862067-4.jpg",
+        "https://crautos.com/clasificados/usados/6862067-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "677 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Abril del 2025",
+        "comentario_vendedor": "Precio de venta no incluye gastos de traspaso.",
+        "kilometraje_number": 677,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3838026&Toyota.HILUX.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 18825000,
+    "precio_usd": 37500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3838026-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3838026-1.jpg",
+        "https://crautos.com/clasificados/usados/3838026-2.jpg",
+        "https://crautos.com/clasificados/usados/3838026-3.jpg",
+        "https://crautos.com/clasificados/usados/3838026-4.jpg",
+        "https://crautos.com/clasificados/usados/3838026-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CENTRAL DE AUTOS",
+        "teléfono": "8676-2180 8314-2022 6186-7677",
+        "whatsapp": "2236-3636",
+        "dirección": "Cruce de Llorente, Colima de Tibás San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado, garantia por escrito. Financiamiento disponible...",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

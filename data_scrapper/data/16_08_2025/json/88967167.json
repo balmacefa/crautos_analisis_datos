@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88967167&Mitsubishi.MONTERO%20GLS.2011",
+    "año": 2011,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88967167-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88967167-1.jpg",
+        "https://crautos.com/clasificados/usados/88967167-2.jpg",
+        "https://crautos.com/clasificados/usados/88967167-3.jpg",
+        "https://crautos.com/clasificados/usados/88967167-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IGNACIO BARQUERO MÉNDEZ",
+        "teléfono": "8761-1084",
+        "whatsapp": "8761-1084"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "185,513 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "kilometraje_number": 185513,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

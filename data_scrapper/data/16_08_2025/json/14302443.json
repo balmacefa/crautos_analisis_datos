@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14302443&Mitsubishi.ASX.2022",
+    "año": 2022,
+    "marca": "MITSUBISHI",
+    "modelo": "ASX",
+    "precio_crc": 25900,
+    "precio_usd": 13001800.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14302443-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14302443-1.jpg",
+        "https://crautos.com/clasificados/usados/14302443-2.jpg",
+        "https://crautos.com/clasificados/usados/14302443-3.jpg",
+        "https://crautos.com/clasificados/usados/14302443-4.jpg",
+        "https://crautos.com/clasificados/usados/14302443-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDRA SANDOVAL",
+        "teléfono": "6030-2567",
+        "whatsapp": "6030-2567"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 3
+}

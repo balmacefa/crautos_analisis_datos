@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92654696&Mini.COOPER.2004",
+    "año": 2004,
+    "marca": "MINI",
+    "modelo": "COOPER",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92654696-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92654696-1.jpg",
+        "https://crautos.com/clasificados/usados/92654696-2.jpg",
+        "https://crautos.com/clasificados/usados/92654696-3.jpg",
+        "https://crautos.com/clasificados/usados/92654696-4.jpg",
+        "https://crautos.com/clasificados/usados/92654696-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WALTER CERDAS",
+        "teléfono": "8871-0597",
+        "whatsapp": "8871-0597"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "125,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO CUERO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen estado todo al día interior impecable mantenimiento al día .",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

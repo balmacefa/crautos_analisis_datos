@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21400624&Nissan.VERSA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21400624-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21400624-1.jpg",
+        "https://crautos.com/clasificados/usados/21400624-2.jpg",
+        "https://crautos.com/clasificados/usados/21400624-3.jpg",
+        "https://crautos.com/clasificados/usados/21400624-4.jpg",
+        "https://crautos.com/clasificados/usados/21400624-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELENA VARGAS",
+        "teléfono": "8814-3108",
+        "whatsapp": "8814-3108"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "102,500 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 102500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Control crucero",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

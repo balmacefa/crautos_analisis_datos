@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95008807&Nissan.FRONTIER.2023",
+    "año": 2023,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 32869,
+    "precio_usd": 16500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95008807-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95008807-1.jpg",
+        "https://crautos.com/clasificados/usados/95008807-2.jpg",
+        "https://crautos.com/clasificados/usados/95008807-3.jpg",
+        "https://crautos.com/clasificados/usados/95008807-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CARLOS",
+        "teléfono": "6029-0403",
+        "whatsapp": "6029-0403"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Está en San Carlos Aros de lujo radio butacas se puede negociar .",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 2
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78406411&Mitsubishi.MONTERO%20XLS.2002",
+    "año": 2002,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO XLS",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78406411-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78406411-1.jpg",
+        "https://crautos.com/clasificados/usados/78406411-2.jpg",
+        "https://crautos.com/clasificados/usados/78406411-3.jpg",
+        "https://crautos.com/clasificados/usados/78406411-4.jpg",
+        "https://crautos.com/clasificados/usados/78406411-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PRISCILA JIMÉNEZ",
+        "teléfono": "8640-1037",
+        "whatsapp": "8640-1037"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "223,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Mayo del 2025",
+        "comentario_vendedor": "SOLO WHATSAPP. Gasolina y Gas.",
+        "kilometraje_number": 223000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

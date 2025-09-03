@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25838449&Nissan.ALMERA%20SG.2009",
+    "año": 2009,
+    "marca": "NISSAN",
+    "modelo": "ALMERA SG",
+    "precio_crc": 7500,
+    "precio_usd": 3765000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25838449-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25838449-1.jpg",
+        "https://crautos.com/clasificados/usados/25838449-2.jpg",
+        "https://crautos.com/clasificados/usados/25838449-3.jpg",
+        "https://crautos.com/clasificados/usados/25838449-4.jpg",
+        "https://crautos.com/clasificados/usados/25838449-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAIKOL ALFARO",
+        "teléfono": "8829-0498",
+        "whatsapp": "8829-0498"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "DE AGENCIA SOLO DOS DUEÑOS POCO KILOMETRAJE EN EXCELENTE ESTADO..",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

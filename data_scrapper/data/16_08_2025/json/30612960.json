@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30612960&Toyota.HIACE.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30612960-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30612960-1.jpg",
+        "https://crautos.com/clasificados/usados/30612960-2.jpg",
+        "https://crautos.com/clasificados/usados/30612960-3.jpg",
+        "https://crautos.com/clasificados/usados/30612960-4.jpg",
+        "https://crautos.com/clasificados/usados/30612960-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL ROJAS LOPEZ",
+        "teléfono": "8397-4542 8910-6403",
+        "whatsapp": "8397-4542"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "750,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Se encuentra en exelente estado. Llantas nuevas coméntamete al dia .",
+        "kilometraje_number": 750000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

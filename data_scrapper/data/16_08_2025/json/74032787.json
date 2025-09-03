@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74032787&Toyota.RAV4.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74032787-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74032787-1.jpg",
+        "https://crautos.com/clasificados/usados/74032787-2.jpg",
+        "https://crautos.com/clasificados/usados/74032787-3.jpg",
+        "https://crautos.com/clasificados/usados/74032787-4.jpg",
+        "https://crautos.com/clasificados/usados/74032787-5.jpg",
+        "https://crautos.com/clasificados/usados/74032787-6.jpg",
+        "https://crautos.com/clasificados/usados/74032787-7.jpg",
+        "https://crautos.com/clasificados/usados/74032787-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEISON",
+        "teléfono": "8868-7806",
+        "whatsapp": "8868-7806"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Perfecto Estado.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

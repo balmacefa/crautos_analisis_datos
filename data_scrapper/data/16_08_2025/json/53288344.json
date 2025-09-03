@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53288344&Hyundai.H1.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53288344-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53288344-1.jpg",
+        "https://crautos.com/clasificados/usados/53288344-2.jpg",
+        "https://crautos.com/clasificados/usados/53288344-3.jpg",
+        "https://crautos.com/clasificados/usados/53288344-4.jpg",
+        "https://crautos.com/clasificados/usados/53288344-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YESENIA ARROYO",
+        "teléfono": "8377-6923",
+        "whatsapp": "8377-6923"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "92,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Microbus uso familiar .",
+        "kilometraje_number": 92000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

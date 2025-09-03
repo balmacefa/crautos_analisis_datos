@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40192812&Toyota.YARIS%20.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 20319,
+    "precio_usd": 10200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40192812-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40192812-1.jpg",
+        "https://crautos.com/clasificados/usados/40192812-2.jpg",
+        "https://crautos.com/clasificados/usados/40192812-3.jpg",
+        "https://crautos.com/clasificados/usados/40192812-4.jpg",
+        "https://crautos.com/clasificados/usados/40192812-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL FONSECA ARRIETA",
+        "teléfono": "8473-2752 8840-3577",
+        "whatsapp": "8473-2752"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "74,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "SE ESCUCHAN OFERTAS, NACIONAL, IMPECABLE.",
+        "kilometraje_number": 74000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 3
+}

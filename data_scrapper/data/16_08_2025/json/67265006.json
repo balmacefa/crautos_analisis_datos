@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67265006&Toyota.YARIS.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67265006-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67265006-1.jpg",
+        "https://crautos.com/clasificados/usados/67265006-2.jpg",
+        "https://crautos.com/clasificados/usados/67265006-3.jpg",
+        "https://crautos.com/clasificados/usados/67265006-4.jpg",
+        "https://crautos.com/clasificados/usados/67265006-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD SALAZAR",
+        "teléfono": "8739-0326 8583-8955",
+        "whatsapp": "8739-0326"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "143,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "DORADO",
+        "color_interior": "DORADO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Versión Americana .",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

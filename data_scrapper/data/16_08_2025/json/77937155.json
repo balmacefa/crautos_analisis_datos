@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77937155&Nissan.FRONTIER%20SE.2022",
+    "año": 2022,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER SE",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77937155-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77937155-1.jpg",
+        "https://crautos.com/clasificados/usados/77937155-2.jpg",
+        "https://crautos.com/clasificados/usados/77937155-3.jpg",
+        "https://crautos.com/clasificados/usados/77937155-4.jpg",
+        "https://crautos.com/clasificados/usados/77937155-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE POVEDA BARQUERO",
+        "teléfono": "8836-2648 7109-5590",
+        "whatsapp": "8836-2648"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "108,325 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Se vende por motivo de viaje .",
+        "kilometraje_number": 108325,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 3
+}

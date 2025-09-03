@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23291673&Toyota.YARIS.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23291673-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23291673-1.jpg",
+        "https://crautos.com/clasificados/usados/23291673-2.jpg",
+        "https://crautos.com/clasificados/usados/23291673-3.jpg",
+        "https://crautos.com/clasificados/usados/23291673-4.jpg",
+        "https://crautos.com/clasificados/usados/23291673-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "REYNER RODRÍGUEZ ZÚÑIGA",
+        "teléfono": "6079-8052",
+        "whatsapp": "6079-8052"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "CITRUS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Excelente carro se vende x cambio. Más grande Super económico cómodo para manejar... .",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

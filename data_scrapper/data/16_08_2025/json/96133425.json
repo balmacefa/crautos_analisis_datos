@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96133425&Nissan.QASHQAI.2019",
+    "año": 2019,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 18250,
+    "precio_usd": 9161500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96133425-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96133425-1.jpg",
+        "https://crautos.com/clasificados/usados/96133425-2.jpg",
+        "https://crautos.com/clasificados/usados/96133425-3.jpg",
+        "https://crautos.com/clasificados/usados/96133425-4.jpg",
+        "https://crautos.com/clasificados/usados/96133425-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIÁN PRADO",
+        "teléfono": "8822-0602",
+        "whatsapp": "8822-0602"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "76,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Junio del 2025",
+        "comentario_vendedor": "MEJOR PRECIO Y OPORTUNIDAD DEL MERCADO, un solo dueño, cobertor de asientos desde nuevo, Garantia.",
+        "kilometraje_number": 76000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 6
+}

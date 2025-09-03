@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67304678&Suzuki.BALENO%20GLX.2020",
+    "año": 2020,
+    "marca": "SUZUKI",
+    "modelo": "BALENO GLX",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67304678-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67304678-1.jpg",
+        "https://crautos.com/clasificados/usados/67304678-2.jpg",
+        "https://crautos.com/clasificados/usados/67304678-3.jpg",
+        "https://crautos.com/clasificados/usados/67304678-4.jpg",
+        "https://crautos.com/clasificados/usados/67304678-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS MÁRQUEZ",
+        "teléfono": "8880-0033",
+        "whatsapp": "8880-0033"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "33,200 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Record de Agencia - Poco Kilometraje - Excelente Estado.",
+        "kilometraje_number": 33200,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

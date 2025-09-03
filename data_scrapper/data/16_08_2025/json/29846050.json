@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29846050&Suzuki.DMAX.2022",
+    "año": 2022,
+    "marca": "SUZUKI",
+    "modelo": "DMAX",
+    "precio_crc": 39641,
+    "precio_usd": 19900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29846050-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29846050-1.jpg",
+        "https://crautos.com/clasificados/usados/29846050-2.jpg",
+        "https://crautos.com/clasificados/usados/29846050-3.jpg",
+        "https://crautos.com/clasificados/usados/29846050-4.jpg",
+        "https://crautos.com/clasificados/usados/29846050-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHANNA",
+        "teléfono": "6060-6075 6091-6859",
+        "whatsapp": "6060-6075"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Escucho ofertas .",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

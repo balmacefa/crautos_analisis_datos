@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87090196&Nissan.VERSA.2014",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87090196-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87090196-1.jpg",
+        "https://crautos.com/clasificados/usados/87090196-2.jpg",
+        "https://crautos.com/clasificados/usados/87090196-3.jpg",
+        "https://crautos.com/clasificados/usados/87090196-4.jpg",
+        "https://crautos.com/clasificados/usados/87090196-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRÉS HERNÁNDEZ",
+        "teléfono": "8844-7489",
+        "whatsapp": "8844-7489"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89443559&Chevrolet.SPARK.2006",
+    "año": 2006,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 4582,
+    "precio_usd": 2300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89443559-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89443559-1.jpg",
+        "https://crautos.com/clasificados/usados/89443559-2.jpg",
+        "https://crautos.com/clasificados/usados/89443559-3.jpg",
+        "https://crautos.com/clasificados/usados/89443559-4.jpg",
+        "https://crautos.com/clasificados/usados/89443559-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN JOSE CHAVARRIA",
+        "teléfono": "8812-8438",
+        "whatsapp": "8812-8438"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,560 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO DE MOTOR NO RECIBO VEHICULO SOLO HA TENIDO UN DUEÑO.",
+        "kilometraje_number": 135560,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 19
+}

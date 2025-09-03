@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4173475&Honda.CRV%20LX.2013",
+    "año": 2013,
+    "marca": "HONDA",
+    "modelo": "CRV LX",
+    "precio_crc": 18725,
+    "precio_usd": 9400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4173475-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4173475-1.jpg",
+        "https://crautos.com/clasificados/usados/4173475-2.jpg",
+        "https://crautos.com/clasificados/usados/4173475-3.jpg",
+        "https://crautos.com/clasificados/usados/4173475-4.jpg",
+        "https://crautos.com/clasificados/usados/4173475-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ABRE",
+        "teléfono": "8387-8110 8860-4040 2537-5000",
+        "whatsapp": "8387-8110",
+        "dirección": "La Lima de Cartago, 50 metros norte de Wallmart, costado sur de la Dos Pinos. Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "211,000 kms",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Febrero del 2025",
+        "comentario_vendedor": "Recibo y Financio para Asalariados, Excelente Carro, Llantas nuevas, muy espacioso.",
+        "kilometraje_number": 211000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

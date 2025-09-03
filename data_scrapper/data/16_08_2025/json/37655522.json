@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37655522&Nissan.TIIDA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37655522-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37655522-1.jpg",
+        "https://crautos.com/clasificados/usados/37655522-2.jpg",
+        "https://crautos.com/clasificados/usados/37655522-3.jpg",
+        "https://crautos.com/clasificados/usados/37655522-4.jpg",
+        "https://crautos.com/clasificados/usados/37655522-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LAURA ESQUIVEL",
+        "teléfono": "8826-8577",
+        "whatsapp": "8826-8577"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "Dekra hasta Enero solo dos duenos, poco kilometraje.",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

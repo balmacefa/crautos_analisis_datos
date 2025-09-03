@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47695281&Toyota.YARIS%20.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9263,
+    "precio_usd": 4650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47695281-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47695281-1.jpg",
+        "https://crautos.com/clasificados/usados/47695281-2.jpg",
+        "https://crautos.com/clasificados/usados/47695281-3.jpg",
+        "https://crautos.com/clasificados/usados/47695281-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO QUIRÓS",
+        "teléfono": "8343-2729 2495-5063",
+        "whatsapp": "8343-2729"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "196,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "Exelente estado llantas nuevas radio nuevo. .",
+        "kilometraje_number": 196000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

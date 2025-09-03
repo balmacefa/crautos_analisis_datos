@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49427070&Mazda.BT50.2014",
+    "año": 2014,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49427070-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49427070-1.jpg",
+        "https://crautos.com/clasificados/usados/49427070-2.jpg",
+        "https://crautos.com/clasificados/usados/49427070-3.jpg",
+        "https://crautos.com/clasificados/usados/49427070-4.jpg",
+        "https://crautos.com/clasificados/usados/49427070-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS DIEGO MORA CENTENO",
+        "teléfono": "8526-1695"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "198,525 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "El vehículo se encuentra en Puriscal.",
+        "kilometraje_number": 198525,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35007120&Isuzu.DMAX.2013",
+    "año": 2013,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35007120-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35007120-1.jpg",
+        "https://crautos.com/clasificados/usados/35007120-2.jpg",
+        "https://crautos.com/clasificados/usados/35007120-3.jpg",
+        "https://crautos.com/clasificados/usados/35007120-4.jpg",
+        "https://crautos.com/clasificados/usados/35007120-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR",
+        "teléfono": "8750-9618",
+        "whatsapp": "8750-9618"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "246,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Está en Pérez excelente estado .",
+        "kilometraje_number": 246000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

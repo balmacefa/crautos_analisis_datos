@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25243401&Mazda.BT50.2008",
+    "año": 2008,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25243401-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25243401-1.jpg",
+        "https://crautos.com/clasificados/usados/25243401-2.jpg",
+        "https://crautos.com/clasificados/usados/25243401-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEONARDO STELLER",
+        "teléfono": "8897-0973 8652-7907"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "240,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado Dekra al día .",
+        "kilometraje_number": 240000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

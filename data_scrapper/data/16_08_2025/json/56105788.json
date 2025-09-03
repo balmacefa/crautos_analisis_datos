@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56105788&Nissan.D21.1987",
+    "año": 1987,
+    "marca": "NISSAN",
+    "modelo": "D21",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56105788-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56105788-1.jpg",
+        "https://crautos.com/clasificados/usados/56105788-2.jpg",
+        "https://crautos.com/clasificados/usados/56105788-3.jpg",
+        "https://crautos.com/clasificados/usados/56105788-4.jpg",
+        "https://crautos.com/clasificados/usados/56105788-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARMANDO SUÁREZ GRANADOS",
+        "teléfono": "8803-6781 8918-9808 2238-0767",
+        "whatsapp": "8918-9808"
+    },
+    "informacion_general": {
+        "cilindrada": "2488 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Una pick-up robusta y funcional con motor renovado y excelente potencia. Aproveche esta oportunidad.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2488
+    },
+    "equipamiento": [],
+    "antiguedad": 38
+}

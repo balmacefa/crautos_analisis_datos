@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61279490&Mitsubishi.MONTERO%20SPORT.2000",
+    "año": 2000,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61279490-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61279490-1.jpg",
+        "https://crautos.com/clasificados/usados/61279490-2.jpg",
+        "https://crautos.com/clasificados/usados/61279490-3.jpg",
+        "https://crautos.com/clasificados/usados/61279490-4.jpg",
+        "https://crautos.com/clasificados/usados/61279490-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EUGENIO MANUEL GÓMEZ BRENES",
+        "teléfono": "8763-6506 7012-3040 8943-5443",
+        "whatsapp": "7012-3040"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "248,247 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "VINO",
+        "color_interior": "CAFÉ-BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "NO CAMBIO. Escribir o llamar para mostrar más fotografías o detalles..",
+        "kilometraje_number": 248247,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

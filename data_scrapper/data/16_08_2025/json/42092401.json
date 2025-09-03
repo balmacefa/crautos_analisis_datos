@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42092401&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42092401-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42092401-1.jpg",
+        "https://crautos.com/clasificados/usados/42092401-2.jpg",
+        "https://crautos.com/clasificados/usados/42092401-3.jpg",
+        "https://crautos.com/clasificados/usados/42092401-4.jpg",
+        "https://crautos.com/clasificados/usados/42092401-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO CASCANTE",
+        "teléfono": "7108-9034"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "203,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura problema de arranque por eso el precio.",
+        "kilometraje_number": 203000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1974352&Geely.GX3.2019",
+    "año": 2019,
+    "marca": "GEELY",
+    "modelo": "GX3",
+    "precio_crc": 9008,
+    "precio_usd": 4522000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1974352-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1974352-1.jpg",
+        "https://crautos.com/clasificados/usados/1974352-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "171,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 171000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 6
+}

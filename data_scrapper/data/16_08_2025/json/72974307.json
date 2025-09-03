@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72974307&BMW.520I.1988",
+    "año": 1988,
+    "marca": "BMW",
+    "modelo": "520I",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72974307-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72974307-1.jpg",
+        "https://crautos.com/clasificados/usados/72974307-2.jpg",
+        "https://crautos.com/clasificados/usados/72974307-3.jpg",
+        "https://crautos.com/clasificados/usados/72974307-4.jpg",
+        "https://crautos.com/clasificados/usados/72974307-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN ARIAS",
+        "teléfono": "8813-3660",
+        "whatsapp": "8813-3660"
+    },
+    "informacion_general": {
+        "cilindrada": "1990 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "252,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Totalmente restaurado. Recien pintado. Excelente estado. .",
+        "kilometraje_number": 252000,
+        "cilindrada_number": 1990
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 37
+}

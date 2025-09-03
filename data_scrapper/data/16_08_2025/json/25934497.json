@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25934497",
+    "año": 2022,
+    "marca": "PORSCHE",
+    "modelo": "CAYENNE COUPE",
+    "precio_crc": 101594,
+    "precio_usd": 51000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25934497-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25934497-1.jpg",
+        "https://crautos.com/clasificados/usados/25934497-2.jpg",
+        "https://crautos.com/clasificados/usados/25934497-3.jpg",
+        "https://crautos.com/clasificados/usados/25934497-4.jpg",
+        "https://crautos.com/clasificados/usados/25934497-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSLEYNI JARQUIN",
+        "teléfono": "8970-9180",
+        "whatsapp": "8970-9180"
+    },
+    "informacion_general": {
+        "cilindrada": "2995 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "20,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "01 de Abril del 2024",
+        "kilometraje_number": 20000,
+        "cilindrada_number": 2995
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 3
+}

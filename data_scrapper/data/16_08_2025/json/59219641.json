@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59219641",
+    "año": 2012,
+    "marca": "HONDA",
+    "modelo": "CRV LX",
+    "precio_crc": 14442,
+    "precio_usd": 7250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59219641-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59219641-1.jpg",
+        "https://crautos.com/clasificados/usados/59219641-2.jpg",
+        "https://crautos.com/clasificados/usados/59219641-3.jpg",
+        "https://crautos.com/clasificados/usados/59219641-4.jpg",
+        "https://crautos.com/clasificados/usados/59219641-5.jpg",
+        "https://crautos.com/clasificados/usados/59219641-6.jpg",
+        "https://crautos.com/clasificados/usados/59219641-7.jpg",
+        "https://crautos.com/clasificados/usados/59219641-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OMAR JACOME",
+        "teléfono": "8329-2193",
+        "whatsapp": "8329-2193"
+    },
+    "informacion_general": {
+        "cilindrada": "2354 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "253,700 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "kilometraje_number": 253700,
+        "cilindrada_number": 2354
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

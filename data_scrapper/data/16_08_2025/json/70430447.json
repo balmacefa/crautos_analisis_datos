@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70430447&Toyota.RAV4.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 21414,
+    "precio_usd": 10750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70430447-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70430447-1.jpg",
+        "https://crautos.com/clasificados/usados/70430447-2.jpg",
+        "https://crautos.com/clasificados/usados/70430447-3.jpg",
+        "https://crautos.com/clasificados/usados/70430447-4.jpg",
+        "https://crautos.com/clasificados/usados/70430447-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN DANIEL PASTRANA UREÑA",
+        "teléfono": "7268-0980",
+        "whatsapp": "7268-0980"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "133,000 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR El vehículo está en muy buen estado interior de cuero mantenimientos al dia.",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

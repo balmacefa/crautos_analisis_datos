@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49010450&Honda.CRV.2000",
+    "año": 2000,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 7271,
+    "precio_usd": 3650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49010450-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49010450-1.jpg",
+        "https://crautos.com/clasificados/usados/49010450-2.jpg",
+        "https://crautos.com/clasificados/usados/49010450-3.jpg",
+        "https://crautos.com/clasificados/usados/49010450-4.jpg",
+        "https://crautos.com/clasificados/usados/49010450-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO RIVAS",
+        "teléfono": "7010-9010",
+        "whatsapp": "7010-9010"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "199,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "VEHICULO FAMILIAR EN BUEN ESTADO - TREN MOTRIS Y EN GENERAL EN EXC ESTADO -- NEGOCIABLE.",
+        "kilometraje_number": 199000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

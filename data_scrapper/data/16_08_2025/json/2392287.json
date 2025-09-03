@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2392287&Fiat.PULSE%20DRIVE.2022",
+    "año": 2022,
+    "marca": "FIAT",
+    "modelo": "PULSE DRIVE",
+    "precio_crc": 10542000,
+    "precio_usd": 21000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2392287-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2392287-1.jpg",
+        "https://crautos.com/clasificados/usados/2392287-2.jpg",
+        "https://crautos.com/clasificados/usados/2392287-3.jpg",
+        "https://crautos.com/clasificados/usados/2392287-4.jpg",
+        "https://crautos.com/clasificados/usados/2392287-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "17,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 17500,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [],
+    "antiguedad": 3
+}

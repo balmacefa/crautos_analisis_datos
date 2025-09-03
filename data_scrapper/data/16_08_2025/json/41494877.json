@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41494877&Ssang%20Yong.KORANDO.2016",
+    "año": 2016,
+    "marca": "SSANG YONG",
+    "modelo": "KORANDO",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41494877-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41494877-1.jpg",
+        "https://crautos.com/clasificados/usados/41494877-2.jpg",
+        "https://crautos.com/clasificados/usados/41494877-3.jpg",
+        "https://crautos.com/clasificados/usados/41494877-4.jpg",
+        "https://crautos.com/clasificados/usados/41494877-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LAURA FONSECA",
+        "teléfono": "8800-4718",
+        "whatsapp": "8800-4718"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado mecánico batería nueva, mantenimientos al día .",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

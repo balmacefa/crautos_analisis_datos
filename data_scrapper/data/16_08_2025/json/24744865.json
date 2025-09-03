@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24744865&Nissan.1200.1987",
+    "año": 1987,
+    "marca": "NISSAN",
+    "modelo": "1200",
+    "precio_crc": 3785,
+    "precio_usd": 1900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24744865-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24744865-1.jpg",
+        "https://crautos.com/clasificados/usados/24744865-2.jpg",
+        "https://crautos.com/clasificados/usados/24744865-3.jpg",
+        "https://crautos.com/clasificados/usados/24744865-4.jpg",
+        "https://crautos.com/clasificados/usados/24744865-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARNOLDO ALPIZAR",
+        "teléfono": "8753-1500 6449-5297",
+        "whatsapp": "8753-1500"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "ROJO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Muy cuidado / MOTOR A15.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 38
+}

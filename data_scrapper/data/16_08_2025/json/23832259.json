@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23832259&Hyundai.COUNTY.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "COUNTY",
+    "precio_crc": 45817,
+    "precio_usd": 23000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23832259-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23832259-1.jpg",
+        "https://crautos.com/clasificados/usados/23832259-2.jpg",
+        "https://crautos.com/clasificados/usados/23832259-3.jpg",
+        "https://crautos.com/clasificados/usados/23832259-4.jpg",
+        "https://crautos.com/clasificados/usados/23832259-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONNY RIVERA",
+        "teléfono": "8706-3693 8947-5977 8671-7286",
+        "whatsapp": "8706-3693"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "350,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Nacional e incluye pegadero y canasta .",
+        "kilometraje_number": 350000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 8
+}

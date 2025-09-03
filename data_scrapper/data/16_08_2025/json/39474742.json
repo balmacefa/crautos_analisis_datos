@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39474742&Hyundai.SANTA%20FE.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39474742-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39474742-1.jpg",
+        "https://crautos.com/clasificados/usados/39474742-2.jpg",
+        "https://crautos.com/clasificados/usados/39474742-3.jpg",
+        "https://crautos.com/clasificados/usados/39474742-4.jpg",
+        "https://crautos.com/clasificados/usados/39474742-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL DIAZ",
+        "teléfono": "8557-0564",
+        "whatsapp": "8557-0564"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "144,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Agosto del 2025",
+        "kilometraje_number": 144000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 14
+}

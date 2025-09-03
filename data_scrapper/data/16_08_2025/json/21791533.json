@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21791533&Land%20Rover.SERIES%202A.1969",
+    "año": 1969,
+    "marca": "LAND ROVER",
+    "modelo": "SERIES 2A",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO BUCHERT",
+        "teléfono": "8827-8538",
+        "whatsapp": "8827-8538"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "30,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "De colección. Muy poco uso. Belleza. .",
+        "kilometraje_number": 30000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 56
+}

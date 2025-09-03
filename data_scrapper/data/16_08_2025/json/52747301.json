@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52747301&Daihatsu.FEROZA.1999",
+    "año": 1999,
+    "marca": "DAIHATSU",
+    "modelo": "FEROZA",
+    "precio_crc": 6474,
+    "precio_usd": 3250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52747301-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52747301-1.jpg",
+        "https://crautos.com/clasificados/usados/52747301-2.jpg",
+        "https://crautos.com/clasificados/usados/52747301-3.jpg",
+        "https://crautos.com/clasificados/usados/52747301-4.jpg",
+        "https://crautos.com/clasificados/usados/52747301-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM ARCE GONZALEZ",
+        "teléfono": "8496-1184",
+        "whatsapp": "8496-1184"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "78,900 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "Perfecto estado..................",
+        "kilometraje_number": 78900,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico"
+    ],
+    "antiguedad": 26
+}

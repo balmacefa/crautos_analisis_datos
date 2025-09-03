@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22380453&Volkswagen.POLO.2008",
+    "año": 2008,
+    "marca": "VOLKSWAGEN",
+    "modelo": "POLO",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22380453-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22380453-1.jpg",
+        "https://crautos.com/clasificados/usados/22380453-2.jpg",
+        "https://crautos.com/clasificados/usados/22380453-3.jpg",
+        "https://crautos.com/clasificados/usados/22380453-4.jpg",
+        "https://crautos.com/clasificados/usados/22380453-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTOPHER THOMSEN",
+        "teléfono": "8406-9391"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "144,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 144000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aros de lujo"
+    ],
+    "antiguedad": 17
+}

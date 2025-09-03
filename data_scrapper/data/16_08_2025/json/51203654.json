@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51203654&Isuzu.KB.1989",
+    "año": 1989,
+    "marca": "ISUZU",
+    "modelo": "KB",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51203654-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51203654-1.jpg",
+        "https://crautos.com/clasificados/usados/51203654-2.jpg",
+        "https://crautos.com/clasificados/usados/51203654-3.jpg",
+        "https://crautos.com/clasificados/usados/51203654-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ÁVILA",
+        "teléfono": "8380-0166",
+        "whatsapp": "8380-0166"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "1,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Diésel original .",
+        "kilometraje_number": 1000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 36
+}

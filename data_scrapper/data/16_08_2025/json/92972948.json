@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92972948&Jeep.WRANGLER%20RUBICON.2008",
+    "año": 2008,
+    "marca": "JEEP",
+    "modelo": "WRANGLER RUBICON",
+    "precio_crc": 24303,
+    "precio_usd": 12200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92972948-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92972948-1.jpg",
+        "https://crautos.com/clasificados/usados/92972948-2.jpg",
+        "https://crautos.com/clasificados/usados/92972948-3.jpg",
+        "https://crautos.com/clasificados/usados/92972948-4.jpg",
+        "https://crautos.com/clasificados/usados/92972948-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWIN PEREZ",
+        "teléfono": "6300-0094",
+        "whatsapp": "8320-8985"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "74,000 millas",
+        "placa": "Termina en r",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 74000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

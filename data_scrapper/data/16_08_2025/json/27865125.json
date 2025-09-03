@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27865125&Peugeot.2008.2015",
+    "año": 2015,
+    "marca": "PEUGEOT",
+    "modelo": "2008",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27865125-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27865125-1.jpg",
+        "https://crautos.com/clasificados/usados/27865125-2.jpg",
+        "https://crautos.com/clasificados/usados/27865125-3.jpg",
+        "https://crautos.com/clasificados/usados/27865125-4.jpg",
+        "https://crautos.com/clasificados/usados/27865125-5.jpg",
+        "https://crautos.com/clasificados/usados/27865125-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VERÓNICA FERNÁNDEZ",
+        "teléfono": "8578-3193"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "111,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "CAFÉ",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Recibo moto .",
+        "kilometraje_number": 111000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Control crucero",
+        "Control de descenso",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

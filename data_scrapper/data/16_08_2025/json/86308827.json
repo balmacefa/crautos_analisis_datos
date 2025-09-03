@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86308827&Volkswagen.JETTA.2011",
+    "año": 2011,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA",
+    "precio_crc": 7918,
+    "precio_usd": 3975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86308827-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86308827-1.jpg",
+        "https://crautos.com/clasificados/usados/86308827-2.jpg",
+        "https://crautos.com/clasificados/usados/86308827-3.jpg",
+        "https://crautos.com/clasificados/usados/86308827-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARVIN COTO",
+        "teléfono": "8328-2685",
+        "whatsapp": "8328-2685"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "130,253 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "MUY..CUIDADO..TIENE..TURBO..QUEMA..COCOS..ORIGINAL..DISCOS..ATRAS..NEGOCIABLE.ES.DECOCHERA...",
+        "kilometraje_number": 130253,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

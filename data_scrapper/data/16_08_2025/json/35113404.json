@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35113404&Kia.SPORTAGE.2018",
+    "año": 2018,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 15837,
+    "precio_usd": 7950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35113404-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35113404-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS ENRIQUE MUÑOZ",
+        "teléfono": "8810-5978",
+        "whatsapp": "8810-5978"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

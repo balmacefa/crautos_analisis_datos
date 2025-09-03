@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7964954&Daihatsu.TERIOS.2007",
+    "año": 2007,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7964954-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7964954-1.jpg",
+        "https://crautos.com/clasificados/usados/7964954-2.jpg",
+        "https://crautos.com/clasificados/usados/7964954-3.jpg",
+        "https://crautos.com/clasificados/usados/7964954-4.jpg",
+        "https://crautos.com/clasificados/usados/7964954-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DRIVE MOTORS CR",
+        "teléfono": "8455-2663",
+        "whatsapp": "8455-2663",
+        "dirección": "200 mts de la entrada principal del Condominio Montezuma, camino hacia Grecia"
+    },
+    "informacion_general": {
+        "cilindrada": "1495 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "294,600 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado, listo para traspaso.",
+        "kilometraje_number": 294600,
+        "cilindrada_number": 1495
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65296811&Mitsubishi.LANCER.2007",
+    "año": 2007,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65296811-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65296811-1.jpg",
+        "https://crautos.com/clasificados/usados/65296811-2.jpg",
+        "https://crautos.com/clasificados/usados/65296811-3.jpg",
+        "https://crautos.com/clasificados/usados/65296811-4.jpg",
+        "https://crautos.com/clasificados/usados/65296811-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAQUEL SERRANO",
+        "teléfono": "7271-3505 8818-6187"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "235,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado impecable mecánicamente excelente puede traer al mecánico de su preferencia .",
+        "kilometraje_number": 235000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

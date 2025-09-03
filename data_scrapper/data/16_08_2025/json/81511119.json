@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81511119&Hyundai.ACCENT%20.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81511119-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81511119-1.jpg",
+        "https://crautos.com/clasificados/usados/81511119-2.jpg",
+        "https://crautos.com/clasificados/usados/81511119-3.jpg",
+        "https://crautos.com/clasificados/usados/81511119-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JARVIN ARIAS",
+        "teléfono": "8311-8955",
+        "whatsapp": "8311-8955"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Cambio por carro alto cuatro por cuatro o venta puedo recibir depende, escríbame.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37030968&Toyota.RAV4.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37030968-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37030968-1.jpg",
+        "https://crautos.com/clasificados/usados/37030968-2.jpg",
+        "https://crautos.com/clasificados/usados/37030968-3.jpg",
+        "https://crautos.com/clasificados/usados/37030968-4.jpg",
+        "https://crautos.com/clasificados/usados/37030968-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RITA CÁRDENAS",
+        "teléfono": "8542-7165 6058-5626",
+        "whatsapp": "8542-7165"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "92,162 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO.",
+        "kilometraje_number": 92162,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

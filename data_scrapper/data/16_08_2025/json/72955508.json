@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72955508&Peugeot.307.2008",
+    "año": 2008,
+    "marca": "PEUGEOT",
+    "modelo": "307",
+    "precio_crc": 1793,
+    "precio_usd": 900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72955508-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72955508-1.jpg",
+        "https://crautos.com/clasificados/usados/72955508-2.jpg",
+        "https://crautos.com/clasificados/usados/72955508-3.jpg",
+        "https://crautos.com/clasificados/usados/72955508-4.jpg",
+        "https://crautos.com/clasificados/usados/72955508-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER ARAYA",
+        "teléfono": "7015-7680",
+        "whatsapp": "7015-7680"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "178,911 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Para reparación o repuestos .",
+        "kilometraje_number": 178911,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 17
+}

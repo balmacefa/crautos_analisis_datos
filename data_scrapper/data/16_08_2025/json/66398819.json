@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66398819&Nissan.FRONTIER%20NP300.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER NP300",
+    "precio_crc": 23805,
+    "precio_usd": 11950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66398819-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66398819-1.jpg",
+        "https://crautos.com/clasificados/usados/66398819-2.jpg",
+        "https://crautos.com/clasificados/usados/66398819-3.jpg",
+        "https://crautos.com/clasificados/usados/66398819-4.jpg",
+        "https://crautos.com/clasificados/usados/66398819-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO ESQUIVEL",
+        "teléfono": "8356-5368",
+        "whatsapp": "8356-5368"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Carro en perfecto estado un solo dueño mantenimiento .",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

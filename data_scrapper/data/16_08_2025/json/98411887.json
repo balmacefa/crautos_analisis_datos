@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98411887&Hyundai.I10.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98411887-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98411887-1.jpg",
+        "https://crautos.com/clasificados/usados/98411887-2.jpg",
+        "https://crautos.com/clasificados/usados/98411887-3.jpg",
+        "https://crautos.com/clasificados/usados/98411887-4.jpg",
+        "https://crautos.com/clasificados/usados/98411887-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAFET CHAVARRÍA ALVAREZ",
+        "teléfono": "8749-6102 7214-1508",
+        "whatsapp": "8749-6102"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "201,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen estado a como se ve en las fotos .",
+        "kilometraje_number": 201000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

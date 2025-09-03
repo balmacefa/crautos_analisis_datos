@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71233795&Honda.CRV.2013",
+    "año": 2013,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 16683,
+    "precio_usd": 8375000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71233795-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71233795-1.jpg",
+        "https://crautos.com/clasificados/usados/71233795-2.jpg",
+        "https://crautos.com/clasificados/usados/71233795-3.jpg",
+        "https://crautos.com/clasificados/usados/71233795-4.jpg",
+        "https://crautos.com/clasificados/usados/71233795-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARO MORA",
+        "teléfono": "6141-2621 2444-7683",
+        "whatsapp": "6141-2621"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "103,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Perfecto estado mecánicamente y estéticamente .",
+        "kilometraje_number": 103000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Cierre central",
+        "Cámara 360",
+        "Espejos eléctricos",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

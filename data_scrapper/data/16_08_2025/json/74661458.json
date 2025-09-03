@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74661458&Nissan.PATHFINDER.2005",
+    "año": 2005,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 9956,
+    "precio_usd": 4998000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74661458-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74661458-1.jpg",
+        "https://crautos.com/clasificados/usados/74661458-2.jpg",
+        "https://crautos.com/clasificados/usados/74661458-3.jpg",
+        "https://crautos.com/clasificados/usados/74661458-4.jpg",
+        "https://crautos.com/clasificados/usados/74661458-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO HUEZO",
+        "teléfono": "8569-6942",
+        "whatsapp": "8569-6942"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "313,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Gas Romano canasta pegadero. Motor reciente original. Detalles pintura..",
+        "kilometraje_number": 313000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

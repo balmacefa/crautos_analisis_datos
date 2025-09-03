@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67224783&Hyundai.GRAND%20I10.2022",
+    "año": 2022,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67224783-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67224783-1.jpg",
+        "https://crautos.com/clasificados/usados/67224783-2.jpg",
+        "https://crautos.com/clasificados/usados/67224783-3.jpg",
+        "https://crautos.com/clasificados/usados/67224783-4.jpg",
+        "https://crautos.com/clasificados/usados/67224783-5.jpg",
+        "https://crautos.com/clasificados/usados/67224783-6.jpg",
+        "https://crautos.com/clasificados/usados/67224783-7.jpg",
+        "https://crautos.com/clasificados/usados/67224783-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS ALBERTO",
+        "teléfono": "7035-5093",
+        "whatsapp": "7035-5093"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "59,766 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO Y ROJO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "kilometraje_number": 59766,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

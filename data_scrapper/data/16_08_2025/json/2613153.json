@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2613153&Toyota.YARIS.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 19323,
+    "precio_usd": 9700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2613153-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2613153-1.jpg",
+        "https://crautos.com/clasificados/usados/2613153-2.jpg",
+        "https://crautos.com/clasificados/usados/2613153-3.jpg",
+        "https://crautos.com/clasificados/usados/2613153-4.jpg",
+        "https://crautos.com/clasificados/usados/2613153-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "67,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Junio del 2025",
+        "comentario_vendedor": "como nuevo, de purdy,el auto ideal, se recibe auto y se financia.",
+        "kilometraje_number": 67000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

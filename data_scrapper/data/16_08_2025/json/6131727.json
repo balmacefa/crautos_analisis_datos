@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6131727&Toyota.HILUX%20TD.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "HILUX TD",
+    "precio_crc": 32819,
+    "precio_usd": 16475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6131727-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6131727-1.jpg",
+        "https://crautos.com/clasificados/usados/6131727-2.jpg",
+        "https://crautos.com/clasificados/usados/6131727-3.jpg",
+        "https://crautos.com/clasificados/usados/6131727-4.jpg",
+        "https://crautos.com/clasificados/usados/6131727-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "115,398 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA AL DIA-TD-FULL EXT-GARANTI x ESCRIT-RECIB-FINANCI-ABIERT DOMING STA CRUZ GTE.",
+        "kilometraje_number": 115398,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

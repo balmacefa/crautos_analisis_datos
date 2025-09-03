@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37195979&Toyota.TACOMA.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37195979-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37195979-1.jpg",
+        "https://crautos.com/clasificados/usados/37195979-2.jpg",
+        "https://crautos.com/clasificados/usados/37195979-3.jpg",
+        "https://crautos.com/clasificados/usados/37195979-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIELA CASTRO",
+        "teléfono": "7130-6423 8839-1732",
+        "whatsapp": "7130-6423"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "113,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "Gris y Negro",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Hoja Dekra en blanco - tapiceria -pintura - motor y pintura impecable.",
+        "kilometraje_number": 113000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

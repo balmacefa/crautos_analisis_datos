@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18891063&BMW.X4.2019",
+    "año": 2019,
+    "marca": "BMW",
+    "modelo": "X4",
+    "precio_crc": 47809,
+    "precio_usd": 24000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JIMMY MAROTHA",
+        "teléfono": "6240-7996",
+        "whatsapp": "6240-7996"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "102,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ Paquete M Bi-Turbo.",
+        "kilometraje_number": 102000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Frenos ABS",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 6
+}

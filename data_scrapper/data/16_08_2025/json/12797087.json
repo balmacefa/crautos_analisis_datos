@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12797087&Toyota.ECHO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12797087-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12797087-1.jpg",
+        "https://crautos.com/clasificados/usados/12797087-2.jpg",
+        "https://crautos.com/clasificados/usados/12797087-3.jpg",
+        "https://crautos.com/clasificados/usados/12797087-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAREN CARBALLO",
+        "teléfono": "6262-1394 6059-4821",
+        "whatsapp": "6262-1394"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "16,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "ESMERALDA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Excelentes condisiones precio negociable.",
+        "kilometraje_number": 16000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos"
+    ],
+    "antiguedad": 24
+}

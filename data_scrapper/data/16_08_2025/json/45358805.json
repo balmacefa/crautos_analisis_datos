@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45358805&Suzuki.SWIFT%20DZIRE.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45358805-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45358805-1.jpg",
+        "https://crautos.com/clasificados/usados/45358805-2.jpg",
+        "https://crautos.com/clasificados/usados/45358805-3.jpg",
+        "https://crautos.com/clasificados/usados/45358805-4.jpg",
+        "https://crautos.com/clasificados/usados/45358805-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR CHÁVEZ",
+        "teléfono": "7109-2570",
+        "whatsapp": "7109-2570"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "214,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "En muy buen estado vehículo súper económico. .",
+        "kilometraje_number": 214000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

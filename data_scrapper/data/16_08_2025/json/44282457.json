@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44282457",
+    "año": 1994,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44282457-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44282457-1.jpg",
+        "https://crautos.com/clasificados/usados/44282457-2.jpg",
+        "https://crautos.com/clasificados/usados/44282457-3.jpg",
+        "https://crautos.com/clasificados/usados/44282457-4.jpg",
+        "https://crautos.com/clasificados/usados/44282457-5.jpg",
+        "https://crautos.com/clasificados/usados/44282457-6.jpg",
+        "https://crautos.com/clasificados/usados/44282457-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DOUGLAS OROZCO CHAVES",
+        "teléfono": "8940-3171",
+        "whatsapp": "8940-3171"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "260,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE PERLADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Julio del 2025",
+        "comentario_vendedor": "Esta en excelentes condiciones con buen mantenimiento todo le funciona versión americana original.",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 31
+}

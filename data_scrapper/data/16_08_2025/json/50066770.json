@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50066770&Chevrolet.ASTRO%20VAN%20.2004",
+    "año": 2004,
+    "marca": "CHEVROLET",
+    "modelo": "ASTRO VAN",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50066770-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50066770-1.jpg",
+        "https://crautos.com/clasificados/usados/50066770-2.jpg",
+        "https://crautos.com/clasificados/usados/50066770-3.jpg",
+        "https://crautos.com/clasificados/usados/50066770-4.jpg",
+        "https://crautos.com/clasificados/usados/50066770-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO CORRALES",
+        "teléfono": "8890-1881",
+        "whatsapp": "8890-1881"
+    },
+    "informacion_general": {
+        "cilindrada": "4300 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "112,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en muy buen estado. Precio negociable .",
+        "kilometraje_number": 112000,
+        "cilindrada_number": 4300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

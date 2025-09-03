@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30513239&Ssang%20Yong.TIVOLI%20.2018",
+    "año": 2018,
+    "marca": "SSANG YONG",
+    "modelo": "TIVOLI",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30513239-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30513239-1.jpg",
+        "https://crautos.com/clasificados/usados/30513239-2.jpg",
+        "https://crautos.com/clasificados/usados/30513239-3.jpg",
+        "https://crautos.com/clasificados/usados/30513239-4.jpg",
+        "https://crautos.com/clasificados/usados/30513239-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PRISCILA GÓMEZ GÓMEZ",
+        "teléfono": "8681-9092",
+        "whatsapp": "8681-9092"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Incluye radio con cámara de retroceso .",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

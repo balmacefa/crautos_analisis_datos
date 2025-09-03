@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82403079&Toyota.COROLLA%20S.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA S",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82403079-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82403079-1.jpg",
+        "https://crautos.com/clasificados/usados/82403079-2.jpg",
+        "https://crautos.com/clasificados/usados/82403079-3.jpg",
+        "https://crautos.com/clasificados/usados/82403079-4.jpg",
+        "https://crautos.com/clasificados/usados/82403079-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO HERRERA",
+        "teléfono": "8566-2168 8330-8225",
+        "whatsapp": "8566-2168"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "88,780 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Toyota Corolla S Motor VVT-I Automatica Americana millas AC .",
+        "kilometraje_number": 88780,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

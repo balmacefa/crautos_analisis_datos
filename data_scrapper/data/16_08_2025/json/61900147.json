@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61900147&Mitsubishi.MONTERO%20SPORT.2002",
+    "año": 2002,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61900147-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61900147-1.jpg",
+        "https://crautos.com/clasificados/usados/61900147-2.jpg",
+        "https://crautos.com/clasificados/usados/61900147-3.jpg",
+        "https://crautos.com/clasificados/usados/61900147-4.jpg",
+        "https://crautos.com/clasificados/usados/61900147-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN HERNÁNDEZ ARCE.",
+        "teléfono": "8755-8662",
+        "whatsapp": "8755-8662"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "146,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Carro familiar de cochera muy cuidado y original..",
+        "kilometraje_number": 146000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83177186&Kia.RIO%20.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83177186-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83177186-1.jpg",
+        "https://crautos.com/clasificados/usados/83177186-2.jpg",
+        "https://crautos.com/clasificados/usados/83177186-3.jpg",
+        "https://crautos.com/clasificados/usados/83177186-4.jpg",
+        "https://crautos.com/clasificados/usados/83177186-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS VILLALOBOS ROJAS",
+        "teléfono": "6361-3244",
+        "whatsapp": "6361-3244"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "288,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO / GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "El precio es por detalles en pintura. Cuatro años sin cochera. .",
+        "kilometraje_number": 288000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35680210",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "H100 PORTER",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35680210-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35680210-1.jpg",
+        "https://crautos.com/clasificados/usados/35680210-2.jpg",
+        "https://crautos.com/clasificados/usados/35680210-3.jpg",
+        "https://crautos.com/clasificados/usados/35680210-4.jpg",
+        "https://crautos.com/clasificados/usados/35680210-5.jpg",
+        "https://crautos.com/clasificados/usados/35680210-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORDAN CASCANTE",
+        "teléfono": "8872-9563",
+        "whatsapp": "8872-9563"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "158,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Precio Reducido!.",
+        "kilometraje_number": 158000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

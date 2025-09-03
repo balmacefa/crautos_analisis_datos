@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69150392&Hyundai.ACCENT%20BLUE%20.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69150392-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69150392-1.jpg",
+        "https://crautos.com/clasificados/usados/69150392-2.jpg",
+        "https://crautos.com/clasificados/usados/69150392-3.jpg",
+        "https://crautos.com/clasificados/usados/69150392-4.jpg",
+        "https://crautos.com/clasificados/usados/69150392-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO MORA RETANA",
+        "teléfono": "8433-1301",
+        "whatsapp": "8433-1301"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado. extras. Vidrios y espejos eléctricos. Discos en las rruedas. Control en el v.",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

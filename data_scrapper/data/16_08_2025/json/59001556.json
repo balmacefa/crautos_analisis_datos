@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59001556&Hyundai.TUCSON.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 15637,
+    "precio_usd": 7850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59001556-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59001556-1.jpg",
+        "https://crautos.com/clasificados/usados/59001556-2.jpg",
+        "https://crautos.com/clasificados/usados/59001556-3.jpg",
+        "https://crautos.com/clasificados/usados/59001556-4.jpg",
+        "https://crautos.com/clasificados/usados/59001556-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR SEGURA",
+        "teléfono": "7100-5104",
+        "whatsapp": "7100-5104"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "65,300 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "TURBO DIESEL - PARA INSCRIBIR - .",
+        "kilometraje_number": 65300,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

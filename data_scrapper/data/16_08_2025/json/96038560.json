@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96038560&Suzuki.JIMNY.2018",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 18526,
+    "precio_usd": 9300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96038560-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96038560-1.jpg",
+        "https://crautos.com/clasificados/usados/96038560-2.jpg",
+        "https://crautos.com/clasificados/usados/96038560-3.jpg",
+        "https://crautos.com/clasificados/usados/96038560-4.jpg",
+        "https://crautos.com/clasificados/usados/96038560-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANNY SALAS",
+        "teléfono": "7013-8221 7118-2882",
+        "whatsapp": "7013-8221"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Comprado en agencia. Mantenimientos de agencia. .",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

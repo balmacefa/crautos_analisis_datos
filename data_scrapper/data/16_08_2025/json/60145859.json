@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60145859&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60145859-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60145859-1.jpg",
+        "https://crautos.com/clasificados/usados/60145859-2.jpg",
+        "https://crautos.com/clasificados/usados/60145859-3.jpg",
+        "https://crautos.com/clasificados/usados/60145859-4.jpg",
+        "https://crautos.com/clasificados/usados/60145859-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ CHAVARRIA VIQUEZ",
+        "teléfono": "8823-8115",
+        "whatsapp": "8823-8115"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Muy buen estado ppuede verlo sin compromiso lllevo a Alajuela centro .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

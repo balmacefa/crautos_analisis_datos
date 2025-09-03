@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48284998&Changan.STAR%203%20.2019",
+    "año": 2019,
+    "marca": "CHANGAN",
+    "modelo": "STAR 3",
+    "precio_crc": 7869,
+    "precio_usd": 3950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48284998-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48284998-1.jpg",
+        "https://crautos.com/clasificados/usados/48284998-2.jpg",
+        "https://crautos.com/clasificados/usados/48284998-3.jpg",
+        "https://crautos.com/clasificados/usados/48284998-4.jpg",
+        "https://crautos.com/clasificados/usados/48284998-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SHEYLA CAMPOS",
+        "teléfono": "8442-4925",
+        "whatsapp": "8442-4925"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Llantas nuevas.",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 6
+}

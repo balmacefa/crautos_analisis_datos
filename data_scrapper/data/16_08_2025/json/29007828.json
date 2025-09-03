@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29007828",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29007828-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29007828-1.jpg",
+        "https://crautos.com/clasificados/usados/29007828-2.jpg",
+        "https://crautos.com/clasificados/usados/29007828-3.jpg",
+        "https://crautos.com/clasificados/usados/29007828-4.jpg",
+        "https://crautos.com/clasificados/usados/29007828-5.jpg",
+        "https://crautos.com/clasificados/usados/29007828-6.jpg",
+        "https://crautos.com/clasificados/usados/29007828-7.jpg",
+        "https://crautos.com/clasificados/usados/29007828-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIANA MARÍN",
+        "teléfono": "7108-8436",
+        "whatsapp": "7108-8436"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "159,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Exc condiciones - Llantas, batería y fribras nuevas.",
+        "kilometraje_number": 159000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

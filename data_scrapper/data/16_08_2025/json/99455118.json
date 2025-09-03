@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99455118&Isuzu.RODEO%20SPORT.2002",
+    "año": 2002,
+    "marca": "ISUZU",
+    "modelo": "RODEO SPORT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99455118-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99455118-1.jpg",
+        "https://crautos.com/clasificados/usados/99455118-2.jpg",
+        "https://crautos.com/clasificados/usados/99455118-3.jpg",
+        "https://crautos.com/clasificados/usados/99455118-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO GAMEZ",
+        "teléfono": "8931-3277",
+        "whatsapp": "8931-3277"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "207,125 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 207125,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico"
+    ],
+    "antiguedad": 23
+}

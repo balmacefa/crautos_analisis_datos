@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21141181&Toyota.RAV4.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21141181-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21141181-1.jpg",
+        "https://crautos.com/clasificados/usados/21141181-2.jpg",
+        "https://crautos.com/clasificados/usados/21141181-3.jpg",
+        "https://crautos.com/clasificados/usados/21141181-4.jpg",
+        "https://crautos.com/clasificados/usados/21141181-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ENRIQUE SOLÍS",
+        "teléfono": "8351-8598 8451-9661",
+        "whatsapp": "8351-8598"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "224,617 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Carro en muy buen estado general. Pequeños detalles de pintura.",
+        "kilometraje_number": 224617,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50519971&Nissan.XTRAIL.2023",
+    "año": 2023,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50519971-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50519971-1.jpg",
+        "https://crautos.com/clasificados/usados/50519971-2.jpg",
+        "https://crautos.com/clasificados/usados/50519971-3.jpg",
+        "https://crautos.com/clasificados/usados/50519971-4.jpg",
+        "https://crautos.com/clasificados/usados/50519971-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID VÍQUEZ",
+        "teléfono": "8822-9668",
+        "whatsapp": "8822-9668"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "59,885 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Record y aún con garantía de agencia. Sin anotaciones ni pendientes.",
+        "kilometraje_number": 59885,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 2
+}

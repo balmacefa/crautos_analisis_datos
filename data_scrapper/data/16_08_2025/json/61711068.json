@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61711068&Isuzu.KB.1990",
+    "año": 1990,
+    "marca": "ISUZU",
+    "modelo": "KB",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL GONZÁLEZ",
+        "teléfono": "6033-3431 8886-6167 8681-9331",
+        "whatsapp": "6164-2624"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Cajón recién pintado parabrisas nuevo.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aros de lujo"
+    ],
+    "antiguedad": 35
+}

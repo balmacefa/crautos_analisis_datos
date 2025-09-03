@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89743369&Suzuki.VITARA.2020",
+    "año": 2020,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 18327,
+    "precio_usd": 9200000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN MONGE",
+        "teléfono": "8883-8160",
+        "whatsapp": "8883-8160"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "43,573 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "único dueño.",
+        "kilometraje_number": 43573,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

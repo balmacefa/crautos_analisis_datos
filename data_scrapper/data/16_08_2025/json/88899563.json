@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88899563&Suzuki.CELERIO.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88899563-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88899563-1.jpg",
+        "https://crautos.com/clasificados/usados/88899563-2.jpg",
+        "https://crautos.com/clasificados/usados/88899563-3.jpg",
+        "https://crautos.com/clasificados/usados/88899563-4.jpg",
+        "https://crautos.com/clasificados/usados/88899563-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELENA ARROYO",
+        "teléfono": "8897-0263",
+        "whatsapp": "8897-9263"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Buen estado. Se puede llevar a la GAM por ofertas serias .",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20087013&Mercedes%20Benz.190E.1985",
+    "año": 1985,
+    "marca": "MERCEDES BENZ",
+    "modelo": "190E",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20087013-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20087013-1.jpg",
+        "https://crautos.com/clasificados/usados/20087013-2.jpg",
+        "https://crautos.com/clasificados/usados/20087013-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARISELLE ZAMORA RAMIREZ",
+        "teléfono": "8830-2501 8811-8772",
+        "whatsapp": "8830-2501"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "1 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "En bien estado .",
+        "kilometraje_number": 1,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 40
+}

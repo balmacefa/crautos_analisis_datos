@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10836348&Toyota.TERCEL.1997",
+    "año": 1997,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 4532,
+    "precio_usd": 2275000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10836348-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10836348-1.jpg",
+        "https://crautos.com/clasificados/usados/10836348-2.jpg",
+        "https://crautos.com/clasificados/usados/10836348-3.jpg",
+        "https://crautos.com/clasificados/usados/10836348-4.jpg",
+        "https://crautos.com/clasificados/usados/10836348-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO JIMÉNEZ",
+        "teléfono": "8917-6656",
+        "whatsapp": "8917-6656"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "197,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 197000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96203652&Toyota.RAV4.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 4781,
+    "precio_usd": 2400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96203652-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96203652-1.jpg",
+        "https://crautos.com/clasificados/usados/96203652-2.jpg",
+        "https://crautos.com/clasificados/usados/96203652-3.jpg",
+        "https://crautos.com/clasificados/usados/96203652-4.jpg",
+        "https://crautos.com/clasificados/usados/96203652-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONULFO PRENDAS CAMPOS",
+        "teléfono": "8308-2163"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "172,100 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Muy bien cuidado mejor precio del mercado. Precio NEGOCIABLE.",
+        "kilometraje_number": 172100,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 29
+}

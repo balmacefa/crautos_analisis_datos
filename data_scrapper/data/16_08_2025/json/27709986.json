@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27709986&Toyota.HILUX.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 21514,
+    "precio_usd": 10800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27709986-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27709986-1.jpg",
+        "https://crautos.com/clasificados/usados/27709986-2.jpg",
+        "https://crautos.com/clasificados/usados/27709986-3.jpg",
+        "https://crautos.com/clasificados/usados/27709986-4.jpg",
+        "https://crautos.com/clasificados/usados/27709986-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODNIE QUESADA",
+        "teléfono": "8820-5298",
+        "whatsapp": "8820-5298"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "360,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "26 de Mayo del 2025",
+        "comentario_vendedor": "Muy buen estado recien pintado llantas y bateria nueva.",
+        "kilometraje_number": 360000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 22
+}

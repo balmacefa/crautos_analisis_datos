@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6740396&Nissan.FRONTIER%20XE.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER XE",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6740396-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6740396-1.jpg",
+        "https://crautos.com/clasificados/usados/6740396-2.jpg",
+        "https://crautos.com/clasificados/usados/6740396-3.jpg",
+        "https://crautos.com/clasificados/usados/6740396-4.jpg",
+        "https://crautos.com/clasificados/usados/6740396-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ABRE",
+        "teléfono": "8387-8110 8860-4040 2537-5000",
+        "whatsapp": "8387-8110",
+        "dirección": "La Lima de Cartago, 50 metros norte de Wallmart, costado sur de la Dos Pinos. Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "169,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Diciembre del 2024",
+        "comentario_vendedor": "Recibo carro de menor valor,esta muy lindo,Asientos de Cuero,llantas como Nuevas,apenas para trabajo.",
+        "kilometraje_number": 169000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

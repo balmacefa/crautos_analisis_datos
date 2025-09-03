@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24486032&Nissan.XTERRA.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24486032-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24486032-1.jpg",
+        "https://crautos.com/clasificados/usados/24486032-2.jpg",
+        "https://crautos.com/clasificados/usados/24486032-3.jpg",
+        "https://crautos.com/clasificados/usados/24486032-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUBERT HERNANDEZ GUTIERREZ",
+        "teléfono": "8359-1979",
+        "whatsapp": "8359-1979"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "185,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "19 de Junio del 2025",
+        "comentario_vendedor": "Negociable, Toldo lateral, tanque de agua,Camara frontal, camara retroceso alarma, pantalla android .",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

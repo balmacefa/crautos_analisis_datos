@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20530858&Kia.RIO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20530858-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20530858-1.jpg",
+        "https://crautos.com/clasificados/usados/20530858-2.jpg",
+        "https://crautos.com/clasificados/usados/20530858-3.jpg",
+        "https://crautos.com/clasificados/usados/20530858-4.jpg",
+        "https://crautos.com/clasificados/usados/20530858-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ARIAS",
+        "teléfono": "8367-2790 8874-2731",
+        "whatsapp": "8367-2790"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "87,898 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Solo ha tenido dos dueños. .",
+        "kilometraje_number": 87898,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

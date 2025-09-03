@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34406246&Dodge/RAM.2500%20LARAMIE.2012",
+    "año": 2012,
+    "marca": "DODGE/RAM",
+    "modelo": "2500 LARAMIE",
+    "precio_crc": 37775,
+    "precio_usd": 18962850.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34406246-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34406246-1.jpg",
+        "https://crautos.com/clasificados/usados/34406246-2.jpg",
+        "https://crautos.com/clasificados/usados/34406246-3.jpg",
+        "https://crautos.com/clasificados/usados/34406246-4.jpg",
+        "https://crautos.com/clasificados/usados/34406246-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "THOMAS GATGENS",
+        "teléfono": "8761-6481",
+        "whatsapp": "8761-6481"
+    },
+    "informacion_general": {
+        "cilindrada": "6700 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "172,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "PLATEADA",
+        "color_interior": "NEGRA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Se vende en treinta y siete mil setecientos dólares .",
+        "kilometraje_number": 172000,
+        "cilindrada_number": 6700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

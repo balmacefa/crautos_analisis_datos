@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18831356&Kia.PICANTO%20.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 10857,
+    "precio_usd": 5450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18831356-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18831356-1.jpg",
+        "https://crautos.com/clasificados/usados/18831356-2.jpg",
+        "https://crautos.com/clasificados/usados/18831356-3.jpg",
+        "https://crautos.com/clasificados/usados/18831356-4.jpg",
+        "https://crautos.com/clasificados/usados/18831356-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO R. GOMEZ B.",
+        "teléfono": "6087-5235",
+        "whatsapp": "6087-5235"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "132,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ANARANJADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "NEGOCIABLE- Recibo vehículo de menor valor del dos mil trece en adelante y vuelto escucho ofertas.",
+        "kilometraje_number": 132000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

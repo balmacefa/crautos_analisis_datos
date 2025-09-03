@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7997518&Honda.PILOT%20EXL.2005",
+    "año": 2005,
+    "marca": "HONDA",
+    "modelo": "PILOT EXL",
+    "precio_crc": 5467328,
+    "precio_usd": 10891.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7997518-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7997518-1.jpg",
+        "https://crautos.com/clasificados/usados/7997518-2.jpg",
+        "https://crautos.com/clasificados/usados/7997518-3.jpg",
+        "https://crautos.com/clasificados/usados/7997518-4.jpg",
+        "https://crautos.com/clasificados/usados/7997518-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STARCARS LA URUCA",
+        "teléfono": "4105-6654 8860-9090 8713-6343",
+        "whatsapp": "8860-9090",
+        "dirección": "La Uruca Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "ND",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE CUERO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Enero del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

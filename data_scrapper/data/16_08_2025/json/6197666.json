@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6197666&Mitsubishi.MIRAGE%20G4.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE G4",
+    "precio_crc": 3861539,
+    "precio_usd": 7692.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6197666-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6197666-1.jpg",
+        "https://crautos.com/clasificados/usados/6197666-2.jpg",
+        "https://crautos.com/clasificados/usados/6197666-3.jpg",
+        "https://crautos.com/clasificados/usados/6197666-4.jpg",
+        "https://crautos.com/clasificados/usados/6197666-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "G CARS",
+        "teléfono": "8904-3636 8323-4430",
+        "whatsapp": "8904-3636",
+        "dirección": "Tibás, detrás del Más x Menos, calle sin salida. 8904-3636"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Marzo del 2025",
+        "comentario_vendedor": "Completamente libre, para entrega inmediata; se financia. .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

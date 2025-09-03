@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70156857&Nissan.XTRAIL.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70156857-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70156857-1.jpg",
+        "https://crautos.com/clasificados/usados/70156857-2.jpg",
+        "https://crautos.com/clasificados/usados/70156857-3.jpg",
+        "https://crautos.com/clasificados/usados/70156857-4.jpg",
+        "https://crautos.com/clasificados/usados/70156857-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MYRLLANA FONSECA",
+        "teléfono": "8329-9890 8991-3771"
+    },
+    "informacion_general": {
+        "cilindrada": "2488 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "140,854 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "26 de Mayo del 2025",
+        "comentario_vendedor": "Se vende carro en excelente estado.Solamente dos dueñas.Decka al dia.Segunda dueña. .",
+        "kilometraje_number": 140854,
+        "cilindrada_number": 2488
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

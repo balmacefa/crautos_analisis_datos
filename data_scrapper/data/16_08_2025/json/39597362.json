@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39597362&Honda.CITY%20LX.2018",
+    "año": 2018,
+    "marca": "HONDA",
+    "modelo": "CITY LX",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39597362-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39597362-1.jpg",
+        "https://crautos.com/clasificados/usados/39597362-2.jpg",
+        "https://crautos.com/clasificados/usados/39597362-3.jpg",
+        "https://crautos.com/clasificados/usados/39597362-4.jpg",
+        "https://crautos.com/clasificados/usados/39597362-5.jpg",
+        "https://crautos.com/clasificados/usados/39597362-6.jpg",
+        "https://crautos.com/clasificados/usados/39597362-7.jpg",
+        "https://crautos.com/clasificados/usados/39597362-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMILIO ROMERO",
+        "teléfono": "8383-5775"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "75,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado Bastantes extras. En el mundo de los sedanes compactos, el Honda CITY LX 2018 destaca. Un coche de 5 plazas, ideal para la ciudad y la carretera. Su motor de 1500 cc a gasolina ofrece un equilibrio entre eficiencia y respuesta. La transmisión automática hace la conducción muy sencilla. Con 75000 kilómetros recorridos, este ejemplar se encuentra en excelente estado. Cuenta con frenos A B S y bolsa de aire para su seguridad. La revisión técnica está al día y posee cierre centralizado. El precio es negociable. Una oportunidad para tener un Honda confiable.",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12793551&Kia.SPORTAGE%20.2012",
+    "año": 2012,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12793551-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12793551-1.jpg",
+        "https://crautos.com/clasificados/usados/12793551-2.jpg",
+        "https://crautos.com/clasificados/usados/12793551-3.jpg",
+        "https://crautos.com/clasificados/usados/12793551-4.jpg",
+        "https://crautos.com/clasificados/usados/12793551-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO GONZÁLEZ",
+        "teléfono": "6429-3814 6350-9414",
+        "whatsapp": "6429-3814"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "145,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado Pintura Motor y Caja Compare escríbame x WhatsApp y conversamos gente seria urge ve.",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97434796&Suzuki.JIMNY.2006",
+    "año": 2006,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97434796-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97434796-1.jpg",
+        "https://crautos.com/clasificados/usados/97434796-2.jpg",
+        "https://crautos.com/clasificados/usados/97434796-3.jpg",
+        "https://crautos.com/clasificados/usados/97434796-4.jpg",
+        "https://crautos.com/clasificados/usados/97434796-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL ELIZONDO",
+        "teléfono": "8384-9132 2236-7762",
+        "whatsapp": "8384-9132"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "260,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Buen estado un solo dueño, precio negociable.",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 19
+}

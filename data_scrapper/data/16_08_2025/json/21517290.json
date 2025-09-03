@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21517290&Nissan.VERSA%20.2009",
+    "año": 2009,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21517290-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21517290-1.jpg",
+        "https://crautos.com/clasificados/usados/21517290-2.jpg",
+        "https://crautos.com/clasificados/usados/21517290-3.jpg",
+        "https://crautos.com/clasificados/usados/21517290-4.jpg",
+        "https://crautos.com/clasificados/usados/21517290-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER VALVERDE",
+        "teléfono": "7069-6819",
+        "whatsapp": "7069-6819"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "196,896 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Precio Negociable.",
+        "kilometraje_number": 196896,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Alarma",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50201054&Kia.SOLUTO.2024",
+    "año": 2024,
+    "marca": "KIA",
+    "modelo": "SOLUTO",
+    "precio_crc": 18426,
+    "precio_usd": 9250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50201054-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50201054-1.jpg",
+        "https://crautos.com/clasificados/usados/50201054-2.jpg",
+        "https://crautos.com/clasificados/usados/50201054-3.jpg",
+        "https://crautos.com/clasificados/usados/50201054-4.jpg",
+        "https://crautos.com/clasificados/usados/50201054-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MADELLINE SANCHEZ SILES",
+        "teléfono": "6040-5731",
+        "whatsapp": "6040-5731"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "1,800 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "CHANPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "vehiculo practicamente nuevo muy buen precio Garantia de agencia..",
+        "kilometraje_number": 1800,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

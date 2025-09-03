@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1769343&Ford.ECONOLINE%20E350.2008",
+    "año": 2008,
+    "marca": "FORD",
+    "modelo": "ECONOLINE E350",
+    "precio_crc": 11797000,
+    "precio_usd": 23500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1769343-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1769343-1.jpg",
+        "https://crautos.com/clasificados/usados/1769343-2.jpg",
+        "https://crautos.com/clasificados/usados/1769343-3.jpg",
+        "https://crautos.com/clasificados/usados/1769343-4.jpg",
+        "https://crautos.com/clasificados/usados/1769343-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN AZOFEIFA",
+        "teléfono": "8513-3864",
+        "whatsapp": "8513-3864",
+        "dirección": "Alajuela, Ciruelas"
+    },
+    "informacion_general": {
+        "cilindrada": "6000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "66,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Agosto del 2024",
+        "comentario_vendedor": "EXCELENTE ESTADO. IDEAL PARA CLÍNICA MÓVIL. PRECIO USD.",
+        "kilometraje_number": 66000,
+        "cilindrada_number": 6000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

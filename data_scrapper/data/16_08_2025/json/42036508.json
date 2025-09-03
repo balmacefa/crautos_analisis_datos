@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42036508&Mitsubishi.L200.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 31773,
+    "precio_usd": 15950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42036508-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42036508-1.jpg",
+        "https://crautos.com/clasificados/usados/42036508-2.jpg",
+        "https://crautos.com/clasificados/usados/42036508-3.jpg",
+        "https://crautos.com/clasificados/usados/42036508-4.jpg",
+        "https://crautos.com/clasificados/usados/42036508-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAMSES CAMACHO",
+        "teléfono": "8545-4545 8413-4545",
+        "whatsapp": "8545-4545"
+    },
+    "informacion_general": {
+        "cilindrada": "2477 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Escucho Ofertas - Todo al día - Perfectas condiciones - Precio Negociable .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2477
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

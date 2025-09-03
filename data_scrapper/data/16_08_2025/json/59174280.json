@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59174280&Chevrolet.SONIC.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SONIC",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59174280-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59174280-1.jpg",
+        "https://crautos.com/clasificados/usados/59174280-2.jpg",
+        "https://crautos.com/clasificados/usados/59174280-3.jpg",
+        "https://crautos.com/clasificados/usados/59174280-4.jpg",
+        "https://crautos.com/clasificados/usados/59174280-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS BOLAÑOS",
+        "teléfono": "8976-5131",
+        "whatsapp": "8976-5131"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "62,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Sonic LT sedan .",
+        "kilometraje_number": 62000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

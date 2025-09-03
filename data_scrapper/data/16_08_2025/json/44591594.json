@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44591594&Suzuki.JIMNY.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44591594-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44591594-1.jpg",
+        "https://crautos.com/clasificados/usados/44591594-2.jpg",
+        "https://crautos.com/clasificados/usados/44591594-3.jpg",
+        "https://crautos.com/clasificados/usados/44591594-4.jpg",
+        "https://crautos.com/clasificados/usados/44591594-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTOPHER AGUERO",
+        "teléfono": "8615-6541",
+        "whatsapp": "8615-6541"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "153,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "kilometraje_number": 153000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

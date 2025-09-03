@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4973696&Volkswagen.JETTA%20MK6.2014",
+    "año": 2014,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA MK6",
+    "precio_crc": 4969800,
+    "precio_usd": 9900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4973696-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4973696-1.jpg",
+        "https://crautos.com/clasificados/usados/4973696-2.jpg",
+        "https://crautos.com/clasificados/usados/4973696-3.jpg",
+        "https://crautos.com/clasificados/usados/4973696-4.jpg",
+        "https://crautos.com/clasificados/usados/4973696-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOMOTORES CARSOT",
+        "teléfono": "2589-0512 8817-0303",
+        "whatsapp": "8443-0303",
+        "dirección": "600 mts Este de la Iglesia San Antonio de Belén Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "121,651 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "COMPLETAMENTE AL DIA RECIBO FINANCIO... PRECIO EN DOLARES...",
+        "kilometraje_number": 121651,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56398241",
+    "año": 2004,
+    "marca": "AUDI",
+    "modelo": "A4",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56398241-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56398241-1.jpg",
+        "https://crautos.com/clasificados/usados/56398241-2.jpg",
+        "https://crautos.com/clasificados/usados/56398241-3.jpg",
+        "https://crautos.com/clasificados/usados/56398241-4.jpg",
+        "https://crautos.com/clasificados/usados/56398241-5.jpg",
+        "https://crautos.com/clasificados/usados/56398241-6.jpg",
+        "https://crautos.com/clasificados/usados/56398241-7.jpg",
+        "https://crautos.com/clasificados/usados/56398241-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GISELLE FERNÁNDEZ SALAS",
+        "teléfono": "5004-9400 8835-1494",
+        "whatsapp": "5004-9400"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "171,300 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "San Rafael de Heredia .",
+        "kilometraje_number": 171300,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

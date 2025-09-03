@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72581035&Nissan.XTRAIL.2011",
+    "año": 2011,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72581035-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72581035-1.jpg",
+        "https://crautos.com/clasificados/usados/72581035-2.jpg",
+        "https://crautos.com/clasificados/usados/72581035-3.jpg",
+        "https://crautos.com/clasificados/usados/72581035-4.jpg",
+        "https://crautos.com/clasificados/usados/72581035-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCELA SAUREZ",
+        "teléfono": "8868-6383 8314-9514",
+        "whatsapp": "8868-6383"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "131,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO-BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Polarizado de Seguridad. Solo dos dueños. SUV amplio confiable y versátil..",
+        "kilometraje_number": 131000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

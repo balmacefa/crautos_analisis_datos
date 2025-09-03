@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61548233&Nissan.FRONTIER.2005",
+    "año": 2005,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 17500,
+    "precio_usd": 8785000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61548233-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61548233-1.jpg",
+        "https://crautos.com/clasificados/usados/61548233-2.jpg",
+        "https://crautos.com/clasificados/usados/61548233-3.jpg",
+        "https://crautos.com/clasificados/usados/61548233-4.jpg",
+        "https://crautos.com/clasificados/usados/61548233-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRA PICADO",
+        "teléfono": "8856-6885",
+        "whatsapp": "8856-6885"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,724 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado motor .L con sistema dual gasolina gas. Doble cabina listo para traspaso.",
+        "kilometraje_number": 130724,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 20
+}

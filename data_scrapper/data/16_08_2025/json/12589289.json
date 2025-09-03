@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12589289&Isuzu.FSR.2011",
+    "año": 2011,
+    "marca": "ISUZU",
+    "modelo": "FSR",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12589289-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12589289-1.jpg",
+        "https://crautos.com/clasificados/usados/12589289-2.jpg",
+        "https://crautos.com/clasificados/usados/12589289-3.jpg",
+        "https://crautos.com/clasificados/usados/12589289-4.jpg",
+        "https://crautos.com/clasificados/usados/12589289-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTOR VILLALOBOS",
+        "teléfono": "7064-3489 2798-9390",
+        "whatsapp": "7064-3489"
+    },
+    "informacion_general": {
+        "cilindrada": "8200 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "211,595 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "VENTA POR RENOVACIÓN DE FLOTILLA VEHICULAR.",
+        "kilometraje_number": 211595,
+        "cilindrada_number": 8200
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

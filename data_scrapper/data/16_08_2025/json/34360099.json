@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34360099&JMC.JMC.2007",
+    "año": 2007,
+    "marca": "JMC",
+    "modelo": "JMC",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34360099-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34360099-1.jpg",
+        "https://crautos.com/clasificados/usados/34360099-2.jpg",
+        "https://crautos.com/clasificados/usados/34360099-3.jpg",
+        "https://crautos.com/clasificados/usados/34360099-4.jpg",
+        "https://crautos.com/clasificados/usados/34360099-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL CUBERO",
+        "teléfono": "7109-7325 8383-7430",
+        "whatsapp": "7109-7325"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "400,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable Necesita trabajo en el cabezote.",
+        "kilometraje_number": 400000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [],
+    "antiguedad": 18
+}

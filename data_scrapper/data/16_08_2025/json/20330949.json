@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20330949&Kia.RIO.2009",
+    "año": 2009,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20330949-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20330949-1.jpg",
+        "https://crautos.com/clasificados/usados/20330949-2.jpg",
+        "https://crautos.com/clasificados/usados/20330949-3.jpg",
+        "https://crautos.com/clasificados/usados/20330949-4.jpg",
+        "https://crautos.com/clasificados/usados/20330949-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NIXON URBANO",
+        "teléfono": "7122-0689 8355-1307",
+        "whatsapp": "8355-1307"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "232,648 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ANARANJADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "TOTALMENTE AL DIA HOJA DE DEKRA EN BLANCO, SE PUEDE RECIBIR MOTOCICLETA DE ALTA CILINDRADA .",
+        "kilometraje_number": 232648,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

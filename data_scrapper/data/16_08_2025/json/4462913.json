@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4462913&Nissan.KICKS%20.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 17131,
+    "precio_usd": 8600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4462913-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4462913-1.jpg",
+        "https://crautos.com/clasificados/usados/4462913-2.jpg",
+        "https://crautos.com/clasificados/usados/4462913-3.jpg",
+        "https://crautos.com/clasificados/usados/4462913-4.jpg",
+        "https://crautos.com/clasificados/usados/4462913-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "133,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "excelente estado, se ofrece financiamiento.",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

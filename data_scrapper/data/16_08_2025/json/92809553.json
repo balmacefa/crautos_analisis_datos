@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92809553&Geo.METRO.1995",
+    "año": 1995,
+    "marca": "GEO",
+    "modelo": "METRO",
+    "precio_crc": 1992,
+    "precio_usd": 1000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92809553-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92809553-1.jpg",
+        "https://crautos.com/clasificados/usados/92809553-2.jpg",
+        "https://crautos.com/clasificados/usados/92809553-3.jpg",
+        "https://crautos.com/clasificados/usados/92809553-4.jpg",
+        "https://crautos.com/clasificados/usados/92809553-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO FUENTES",
+        "teléfono": "8849-6213 7284-5457",
+        "whatsapp": "8849-6213"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "177,820 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Carro excelente estado.",
+        "kilometraje_number": 177820,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 30
+}

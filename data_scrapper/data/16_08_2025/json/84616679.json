@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84616679&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84616679-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84616679-1.jpg",
+        "https://crautos.com/clasificados/usados/84616679-2.jpg",
+        "https://crautos.com/clasificados/usados/84616679-3.jpg",
+        "https://crautos.com/clasificados/usados/84616679-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSEPH ALEMÁN",
+        "teléfono": "7047-5938",
+        "whatsapp": "7047-5938"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "236,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Se vende muy buen estado mecánico .",
+        "kilometraje_number": 236000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

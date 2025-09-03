@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32112923&Hyundai.GRACE.2001",
+    "año": 2001,
+    "marca": "HYUNDAI",
+    "modelo": "GRACE",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32112923-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32112923-1.jpg",
+        "https://crautos.com/clasificados/usados/32112923-2.jpg",
+        "https://crautos.com/clasificados/usados/32112923-3.jpg",
+        "https://crautos.com/clasificados/usados/32112923-4.jpg",
+        "https://crautos.com/clasificados/usados/32112923-5.jpg",
+        "https://crautos.com/clasificados/usados/32112923-6.jpg",
+        "https://crautos.com/clasificados/usados/32112923-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL VARGAS",
+        "teléfono": "8836-9415",
+        "whatsapp": "8836-9415"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "450,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "05 de Julio del 2025",
+        "comentario_vendedor": "Está EN CIUDAD NEILY ZONA SUR cambio por cuatro X cuatro puedo dar vuelto. Si es de mi interés .",
+        "kilometraje_number": 450000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3632138&Mercedes%20Benz.GLA.2019",
+    "año": 2019,
+    "marca": "MERCEDES BENZ",
+    "modelo": "GLA",
+    "precio_crc": 13001800,
+    "precio_usd": 25900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3632138-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3632138-1.jpg",
+        "https://crautos.com/clasificados/usados/3632138-2.jpg",
+        "https://crautos.com/clasificados/usados/3632138-3.jpg",
+        "https://crautos.com/clasificados/usados/3632138-4.jpg",
+        "https://crautos.com/clasificados/usados/3632138-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "1595 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "50,450 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "comentario_vendedor": "HATCHBACK.",
+        "kilometraje_number": 50450,
+        "cilindrada_number": 1595
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 6
+}

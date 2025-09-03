@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62858041&Hyundai.ACCENT%20BLUE.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62858041-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62858041-1.jpg",
+        "https://crautos.com/clasificados/usados/62858041-2.jpg",
+        "https://crautos.com/clasificados/usados/62858041-3.jpg",
+        "https://crautos.com/clasificados/usados/62858041-4.jpg",
+        "https://crautos.com/clasificados/usados/62858041-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAIKOL VARGAS C.",
+        "teléfono": "8915-9229",
+        "whatsapp": "8915-9229"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "En encuentra en Pz.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

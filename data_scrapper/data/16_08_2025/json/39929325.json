@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39929325&Hyundai.I10%20GLS.2009",
+    "año": 2009,
+    "marca": "HYUNDAI",
+    "modelo": "I10 GLS",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39929325-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39929325-1.jpg",
+        "https://crautos.com/clasificados/usados/39929325-2.jpg",
+        "https://crautos.com/clasificados/usados/39929325-3.jpg",
+        "https://crautos.com/clasificados/usados/39929325-4.jpg",
+        "https://crautos.com/clasificados/usados/39929325-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHNNY SEGURA",
+        "teléfono": "8303-6028",
+        "whatsapp": "8303-6028"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "160,969 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "muy buen estado se vende por espacio en cochera se adquirio otro carro.",
+        "kilometraje_number": 160969,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

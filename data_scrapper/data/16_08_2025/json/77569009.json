@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77569009&Jeep.WRANGLER.1989",
+    "año": 1989,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77569009-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77569009-1.jpg",
+        "https://crautos.com/clasificados/usados/77569009-2.jpg",
+        "https://crautos.com/clasificados/usados/77569009-3.jpg",
+        "https://crautos.com/clasificados/usados/77569009-4.jpg",
+        "https://crautos.com/clasificados/usados/77569009-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIÁN HERRERA",
+        "teléfono": "8843-7849",
+        "whatsapp": "8843-7849"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "NO CAMBIO!!! GAS LP, Accesorios Smittyblit, Radiador Aluminio, Aros Procomp. No metido al barro!.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 36
+}

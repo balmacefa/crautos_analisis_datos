@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30917574&Toyota.TERCEL.1987",
+    "año": 1987,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 2191,
+    "precio_usd": 1100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30917574-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30917574-1.jpg",
+        "https://crautos.com/clasificados/usados/30917574-2.jpg",
+        "https://crautos.com/clasificados/usados/30917574-3.jpg",
+        "https://crautos.com/clasificados/usados/30917574-4.jpg",
+        "https://crautos.com/clasificados/usados/30917574-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELIÉCER JIMÉNEZ",
+        "teléfono": "7100-2107",
+        "whatsapp": "8941-5762"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "OSCURO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "También se acepta hacer un cambio por otro vehículo de transmisión automática y se le da un vuelto..",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 38
+}

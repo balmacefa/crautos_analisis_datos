@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65598108&Renault.CLIO.2008",
+    "año": 2008,
+    "marca": "RENAULT",
+    "modelo": "CLIO",
+    "precio_crc": 3884,
+    "precio_usd": 1950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65598108-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65598108-1.jpg",
+        "https://crautos.com/clasificados/usados/65598108-2.jpg",
+        "https://crautos.com/clasificados/usados/65598108-3.jpg",
+        "https://crautos.com/clasificados/usados/65598108-4.jpg",
+        "https://crautos.com/clasificados/usados/65598108-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GILBERTO",
+        "teléfono": "8308-7025",
+        "whatsapp": "8308-7025"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "20,600 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Muy economico buen estado buen mantenimiento.",
+        "kilometraje_number": 20600,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

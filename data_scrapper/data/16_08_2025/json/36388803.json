@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36388803&Chevrolet.SPARK.2007",
+    "año": 2007,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 3785,
+    "precio_usd": 1900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36388803-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36388803-1.jpg",
+        "https://crautos.com/clasificados/usados/36388803-2.jpg",
+        "https://crautos.com/clasificados/usados/36388803-3.jpg",
+        "https://crautos.com/clasificados/usados/36388803-4.jpg",
+        "https://crautos.com/clasificados/usados/36388803-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCINY HERNANDEZ",
+        "teléfono": "7013-5277",
+        "whatsapp": "7013-5277"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "160,425 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "kilometraje_number": 160425,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [],
+    "antiguedad": 18
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82987192&Kia.OPTIMA%20SE.2002",
+    "año": 2002,
+    "marca": "KIA",
+    "modelo": "OPTIMA SE",
+    "precio_crc": 5179,
+    "precio_usd": 2600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82987192-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82987192-1.jpg",
+        "https://crautos.com/clasificados/usados/82987192-2.jpg",
+        "https://crautos.com/clasificados/usados/82987192-3.jpg",
+        "https://crautos.com/clasificados/usados/82987192-4.jpg",
+        "https://crautos.com/clasificados/usados/82987192-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TATIANA ROSALES SALAS",
+        "teléfono": "8328-1903 8413-5047",
+        "whatsapp": "8328-1903"
+    },
+    "informacion_general": {
+        "cilindrada": "2493 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "169,517 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Se busca carro automático .",
+        "kilometraje_number": 169517,
+        "cilindrada_number": 2493
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

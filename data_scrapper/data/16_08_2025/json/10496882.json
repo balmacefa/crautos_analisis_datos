@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10496882&Nissan.KICKS.2019",
+    "año": 2019,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10496882-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10496882-1.jpg",
+        "https://crautos.com/clasificados/usados/10496882-2.jpg",
+        "https://crautos.com/clasificados/usados/10496882-3.jpg",
+        "https://crautos.com/clasificados/usados/10496882-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH SOJO",
+        "teléfono": "8921-9621",
+        "whatsapp": "8921-9621"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "67,750 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS RATÓN",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Solamente un dueño vehículo en excelentes condiciones. .",
+        "kilometraje_number": 67750,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29702365&Suzuki.AERIO.2003",
+    "año": 2003,
+    "marca": "SUZUKI",
+    "modelo": "AERIO",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO VIQUEZ",
+        "teléfono": "8766-3222 8829-5393 8332-8359",
+        "whatsapp": "8829-5393"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "5 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "NEGRO CHAMPAGNE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Se da con un bumper trasero para repuesto caliper de repuesto extintor al dia.",
+        "kilometraje_number": 5,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 22
+}

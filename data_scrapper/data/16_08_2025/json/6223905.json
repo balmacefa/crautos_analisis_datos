@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6223905&Audi.A3.2023",
+    "año": 2023,
+    "marca": "AUDI",
+    "modelo": "A3",
+    "precio_crc": 17017800,
+    "precio_usd": 33900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6223905-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6223905-1.jpg",
+        "https://crautos.com/clasificados/usados/6223905-2.jpg",
+        "https://crautos.com/clasificados/usados/6223905-3.jpg",
+        "https://crautos.com/clasificados/usados/6223905-4.jpg",
+        "https://crautos.com/clasificados/usados/6223905-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "1390 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "27,077 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "HATCHBACK.",
+        "kilometraje_number": 27077,
+        "cilindrada_number": 1390
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 2
+}

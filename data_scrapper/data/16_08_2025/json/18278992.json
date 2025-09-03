@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18278992&Toyota.HILUX.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 36653,
+    "precio_usd": 18400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18278992-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18278992-1.jpg",
+        "https://crautos.com/clasificados/usados/18278992-2.jpg",
+        "https://crautos.com/clasificados/usados/18278992-3.jpg",
+        "https://crautos.com/clasificados/usados/18278992-4.jpg",
+        "https://crautos.com/clasificados/usados/18278992-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER HERNANDEZ JIRON",
+        "teléfono": "8813-2366",
+        "whatsapp": "8813-2366"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": null,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

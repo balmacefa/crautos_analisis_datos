@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67003609&Nissan.FRONTIER%20.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 26394,
+    "precio_usd": 13250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67003609-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67003609-1.jpg",
+        "https://crautos.com/clasificados/usados/67003609-2.jpg",
+        "https://crautos.com/clasificados/usados/67003609-3.jpg",
+        "https://crautos.com/clasificados/usados/67003609-4.jpg",
+        "https://crautos.com/clasificados/usados/67003609-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS",
+        "teléfono": "8840-4339",
+        "whatsapp": "8840-4339"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado motor carrocería y chasis.",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

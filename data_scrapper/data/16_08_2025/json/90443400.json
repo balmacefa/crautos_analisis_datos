@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90443400&Kia.BONGO%20K2700.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "BONGO K2700",
+    "precio_crc": 15239,
+    "precio_usd": 7650000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATALIA QUESADA",
+        "teléfono": "8876-8135 8913-8636",
+        "whatsapp": "8876-8135"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "133,123 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "kilometraje_number": 133123,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

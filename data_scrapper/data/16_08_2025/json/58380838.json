@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58380838&Audi.Q7%20S-PKG.2013",
+    "año": 2013,
+    "marca": "AUDI",
+    "modelo": "Q7 S-PKG",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58380838-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58380838-1.jpg",
+        "https://crautos.com/clasificados/usados/58380838-2.jpg",
+        "https://crautos.com/clasificados/usados/58380838-3.jpg",
+        "https://crautos.com/clasificados/usados/58380838-4.jpg",
+        "https://crautos.com/clasificados/usados/58380838-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARK DALTON",
+        "teléfono": "8301-1273 2777-9324 8816-1515",
+        "whatsapp": "8887-0547"
+    },
+    "informacion_general": {
+        "cilindrada": "2995 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "13,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": ". km modelo Audi Q S-PKG llantas nuevas discos de freno y mucho más..",
+        "kilometraje_number": 13000,
+        "cilindrada_number": 2995
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Computadora de viaje",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

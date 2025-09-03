@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61906484&Kia.MORNING%20.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "MORNING",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61906484-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61906484-1.jpg",
+        "https://crautos.com/clasificados/usados/61906484-2.jpg",
+        "https://crautos.com/clasificados/usados/61906484-3.jpg",
+        "https://crautos.com/clasificados/usados/61906484-4.jpg",
+        "https://crautos.com/clasificados/usados/61906484-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN GARITA MADRIGAL",
+        "teléfono": "7140-1186 8387-4902"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "66,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Exc estado llantas nuevas airbag calefacción en asientos Gastos incluidos .",
+        "kilometraje_number": 66000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

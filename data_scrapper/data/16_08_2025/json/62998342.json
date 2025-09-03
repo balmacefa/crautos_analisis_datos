@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62998342&Hyundai.GRAND%20I10.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62998342-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62998342-1.jpg",
+        "https://crautos.com/clasificados/usados/62998342-2.jpg",
+        "https://crautos.com/clasificados/usados/62998342-3.jpg",
+        "https://crautos.com/clasificados/usados/62998342-4.jpg",
+        "https://crautos.com/clasificados/usados/62998342-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAOLA CAMPOS SERRANO",
+        "teléfono": "7015-6931",
+        "whatsapp": "7015-6931"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "193,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "OPCION DE DAR UNA PRIMA Y FINANCIAR LA DIFERENCIA.",
+        "kilometraje_number": 193000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

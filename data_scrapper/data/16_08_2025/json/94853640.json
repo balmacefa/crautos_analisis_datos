@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94853640&Toyota.ECHO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6673,
+    "precio_usd": 3350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94853640-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94853640-1.jpg",
+        "https://crautos.com/clasificados/usados/94853640-2.jpg",
+        "https://crautos.com/clasificados/usados/94853640-3.jpg",
+        "https://crautos.com/clasificados/usados/94853640-4.jpg",
+        "https://crautos.com/clasificados/usados/94853640-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DEINER FALLAS MORALES",
+        "teléfono": "8482-5458 8502-2281",
+        "whatsapp": "8482-5458"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "172,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en muy buen estado mecánicamente detalles de pintura y se puede negociar el precio..",
+        "kilometraje_number": 172000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth"
+    ],
+    "antiguedad": 24
+}

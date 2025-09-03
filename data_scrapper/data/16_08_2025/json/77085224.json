@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77085224&JAC.REFINE%20.2014",
+    "año": 2014,
+    "marca": "JAC",
+    "modelo": "REFINE",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77085224-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77085224-1.jpg",
+        "https://crautos.com/clasificados/usados/77085224-2.jpg",
+        "https://crautos.com/clasificados/usados/77085224-3.jpg",
+        "https://crautos.com/clasificados/usados/77085224-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELIAN ARTAVIA BENAVIDES",
+        "teléfono": "8324-9835",
+        "whatsapp": "8324-9835"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

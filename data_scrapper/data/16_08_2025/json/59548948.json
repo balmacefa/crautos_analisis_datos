@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59548948&Daihatsu.TERIOS.2012",
+    "año": 2012,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59548948-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59548948-1.jpg",
+        "https://crautos.com/clasificados/usados/59548948-2.jpg",
+        "https://crautos.com/clasificados/usados/59548948-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAULA SANCHEZ",
+        "teléfono": "8368-4728",
+        "whatsapp": "8368-4728"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "181,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Muy cuidado y económico. .",
+        "kilometraje_number": 181000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

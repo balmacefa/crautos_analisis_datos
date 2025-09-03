@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72328472&Toyota.LAND%20CRUISER.1991",
+    "año": 1991,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 28884,
+    "precio_usd": 14500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72328472-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72328472-1.jpg",
+        "https://crautos.com/clasificados/usados/72328472-2.jpg",
+        "https://crautos.com/clasificados/usados/72328472-3.jpg",
+        "https://crautos.com/clasificados/usados/72328472-4.jpg",
+        "https://crautos.com/clasificados/usados/72328472-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD RODRIGUEZ",
+        "teléfono": "8742-0084 8967-0946",
+        "whatsapp": "8742-0084"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Vehiculo en excelentes condiciones..",
+        "kilometraje_number": null,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 34
+}

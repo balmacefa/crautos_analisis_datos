@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4525321&Dodge/RAM.2500%20LARAMIE.2021",
+    "año": 2021,
+    "marca": "DODGE/RAM",
+    "modelo": "2500 LARAMIE",
+    "precio_crc": 47690000,
+    "precio_usd": 95000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4525321-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4525321-1.jpg",
+        "https://crautos.com/clasificados/usados/4525321-2.jpg",
+        "https://crautos.com/clasificados/usados/4525321-3.jpg",
+        "https://crautos.com/clasificados/usados/4525321-4.jpg",
+        "https://crautos.com/clasificados/usados/4525321-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "6700 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "66,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Marzo del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 66000,
+        "cilindrada_number": 6700
+    },
+    "equipamiento": [],
+    "antiguedad": 4
+}

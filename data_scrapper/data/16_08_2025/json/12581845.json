@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12581845&Suzuki.SAMURAI%20.1988",
+    "año": 1988,
+    "marca": "SUZUKI",
+    "modelo": "SAMURAI",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12581845-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12581845-1.jpg",
+        "https://crautos.com/clasificados/usados/12581845-2.jpg",
+        "https://crautos.com/clasificados/usados/12581845-3.jpg",
+        "https://crautos.com/clasificados/usados/12581845-4.jpg",
+        "https://crautos.com/clasificados/usados/12581845-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE MOYA",
+        "teléfono": "8498-4452",
+        "whatsapp": "8498-4452"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "534,715 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE/NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Dekra al dia .",
+        "kilometraje_number": 534715,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [],
+    "antiguedad": 37
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89589995",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 13745,
+    "precio_usd": 6900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89589995-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89589995-1.jpg",
+        "https://crautos.com/clasificados/usados/89589995-2.jpg",
+        "https://crautos.com/clasificados/usados/89589995-3.jpg",
+        "https://crautos.com/clasificados/usados/89589995-4.jpg",
+        "https://crautos.com/clasificados/usados/89589995-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANFRED COTO AGUILAR",
+        "teléfono": "8889-3443",
+        "whatsapp": "8889-3443"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "131,234 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BRONCE",
+        "color_interior": "NEGRO Y BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Junio del 2025",
+        "comentario_vendedor": "Único dueño familiar uso personal no es de plataforma excelente estado .",
+        "kilometraje_number": 131234,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

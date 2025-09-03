@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1251278&BMW.X3.2017",
+    "año": 2017,
+    "marca": "BMW",
+    "modelo": "X3",
+    "precio_crc": 12801000,
+    "precio_usd": 25500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1251278-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1251278-1.jpg",
+        "https://crautos.com/clasificados/usados/1251278-2.jpg",
+        "https://crautos.com/clasificados/usados/1251278-3.jpg",
+        "https://crautos.com/clasificados/usados/1251278-4.jpg",
+        "https://crautos.com/clasificados/usados/1251278-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,154 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "SUV.",
+        "kilometraje_number": 90154,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19559186&Kia.RIO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19559186-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19559186-1.jpg",
+        "https://crautos.com/clasificados/usados/19559186-2.jpg",
+        "https://crautos.com/clasificados/usados/19559186-3.jpg",
+        "https://crautos.com/clasificados/usados/19559186-4.jpg",
+        "https://crautos.com/clasificados/usados/19559186-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YAEL ROJAS SÁNCHEZ",
+        "teléfono": "8761-6886 8511-3598 6233-9870",
+        "whatsapp": "8761-6886"
+    },
+    "informacion_general": {
+        "cilindrada": "1250 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "194,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "carro en buen estado con un precio negociable.",
+        "kilometraje_number": 194000,
+        "cilindrada_number": 1250
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

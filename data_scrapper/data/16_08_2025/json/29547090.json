@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29547090&Toyota.RAV4.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 22510,
+    "precio_usd": 11300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29547090-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29547090-1.jpg",
+        "https://crautos.com/clasificados/usados/29547090-2.jpg",
+        "https://crautos.com/clasificados/usados/29547090-3.jpg",
+        "https://crautos.com/clasificados/usados/29547090-4.jpg",
+        "https://crautos.com/clasificados/usados/29547090-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAREN CRUZ SOLANO",
+        "teléfono": "8393-8588",
+        "whatsapp": "8393-8588"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "27 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

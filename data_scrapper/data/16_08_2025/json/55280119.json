@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55280119&Hyundai.ACCENT%20BLUE%20.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55280119-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55280119-1.jpg",
+        "https://crautos.com/clasificados/usados/55280119-2.jpg",
+        "https://crautos.com/clasificados/usados/55280119-3.jpg",
+        "https://crautos.com/clasificados/usados/55280119-4.jpg",
+        "https://crautos.com/clasificados/usados/55280119-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JESUS JIMENEZ",
+        "teléfono": "7037-7251"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "97,962 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "97962 millas Es automático, tiene pantalla android y cámara de retroceso además de sensores, único.",
+        "kilometraje_number": 97962,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

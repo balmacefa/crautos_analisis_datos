@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11757643&Kia.MORNING.2012",
+    "año": 2012,
+    "marca": "KIA",
+    "modelo": "MORNING",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11757643-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11757643-1.jpg",
+        "https://crautos.com/clasificados/usados/11757643-2.jpg",
+        "https://crautos.com/clasificados/usados/11757643-3.jpg",
+        "https://crautos.com/clasificados/usados/11757643-4.jpg",
+        "https://crautos.com/clasificados/usados/11757643-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAÚL LÓPEZ",
+        "teléfono": "8639-4530",
+        "whatsapp": "8639-4530"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "86,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "!! compacto económico y con estilo moderno!! Sistema de gas GLP!! Tiene Dekra.",
+        "kilometraje_number": 86000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52599358&Mitsubishi.MIRAGE.2018",
+    "año": 2018,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52599358-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52599358-1.jpg",
+        "https://crautos.com/clasificados/usados/52599358-2.jpg",
+        "https://crautos.com/clasificados/usados/52599358-3.jpg",
+        "https://crautos.com/clasificados/usados/52599358-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERT",
+        "teléfono": "7296-6681 7194-8634",
+        "whatsapp": "7296-6681"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Pantalla tactil- TODO AL DIA- DETALLES EN PINTURA - MUY ECONOMICO.",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

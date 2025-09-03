@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14582074&Mitsubishi.L200.2011",
+    "año": 2011,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 22311,
+    "precio_usd": 11200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14582074-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14582074-1.jpg",
+        "https://crautos.com/clasificados/usados/14582074-2.jpg",
+        "https://crautos.com/clasificados/usados/14582074-3.jpg",
+        "https://crautos.com/clasificados/usados/14582074-4.jpg",
+        "https://crautos.com/clasificados/usados/14582074-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN VINDAS",
+        "teléfono": "8515-1711 8506-6956 8516-5246",
+        "whatsapp": "8515-1711"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "238,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "El carro se encuentra en Quepos. .",
+        "kilometraje_number": 238000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

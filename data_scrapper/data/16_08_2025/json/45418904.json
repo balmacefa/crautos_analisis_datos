@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45418904&Chevrolet.AVEO.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45418904-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45418904-1.jpg",
+        "https://crautos.com/clasificados/usados/45418904-2.jpg",
+        "https://crautos.com/clasificados/usados/45418904-3.jpg",
+        "https://crautos.com/clasificados/usados/45418904-4.jpg",
+        "https://crautos.com/clasificados/usados/45418904-5.jpg",
+        "https://crautos.com/clasificados/usados/45418904-6.jpg",
+        "https://crautos.com/clasificados/usados/45418904-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN GOMEZ",
+        "teléfono": "6031-7925",
+        "whatsapp": "6031-7925"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "251,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Puedo financiar un millón Versión LS Llámeme y negociamos sin gravámenes al día .",
+        "kilometraje_number": 251000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

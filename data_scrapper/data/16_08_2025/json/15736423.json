@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15736423&Honda.CIVIC.1989",
+    "año": 1989,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 1653,
+    "precio_usd": 830000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15736423-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15736423-1.jpg",
+        "https://crautos.com/clasificados/usados/15736423-2.jpg",
+        "https://crautos.com/clasificados/usados/15736423-3.jpg",
+        "https://crautos.com/clasificados/usados/15736423-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAFAEL PRADO",
+        "teléfono": "8893-1677",
+        "whatsapp": "8893-1677"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "256,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Motor V-Tec, Traspaso incluido - Anda circulando.",
+        "kilometraje_number": 256000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 36
+}

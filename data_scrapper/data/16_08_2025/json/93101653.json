@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93101653&Land%20Rover.FREELANDER%202%20TD%204%20S.2008",
+    "año": 2008,
+    "marca": "LAND ROVER",
+    "modelo": "FREELANDER 2 TD 4 S",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93101653-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93101653-1.jpg",
+        "https://crautos.com/clasificados/usados/93101653-2.jpg",
+        "https://crautos.com/clasificados/usados/93101653-3.jpg",
+        "https://crautos.com/clasificados/usados/93101653-4.jpg",
+        "https://crautos.com/clasificados/usados/93101653-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IGNACIO BRENES",
+        "teléfono": "4000-0480",
+        "whatsapp": "4000-0480"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

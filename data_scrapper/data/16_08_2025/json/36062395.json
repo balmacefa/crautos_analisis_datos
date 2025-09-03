@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36062395",
+    "año": 2001,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36062395-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36062395-1.jpg",
+        "https://crautos.com/clasificados/usados/36062395-2.jpg",
+        "https://crautos.com/clasificados/usados/36062395-3.jpg",
+        "https://crautos.com/clasificados/usados/36062395-4.jpg",
+        "https://crautos.com/clasificados/usados/36062395-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IGNACIO ESQUIVEL",
+        "teléfono": "8344-6162 6050-7007",
+        "whatsapp": "8344-6162"
+    },
+    "informacion_general": {
+        "cilindrada": "3275 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "214,835 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "kilometraje_number": 214835,
+        "cilindrada_number": 3275
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

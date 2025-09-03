@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73863622&Great%20Wall.SAFE.2009",
+    "año": 2009,
+    "marca": "GREAT WALL",
+    "modelo": "SAFE",
+    "precio_crc": 9954,
+    "precio_usd": 4997000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73863622-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73863622-1.jpg",
+        "https://crautos.com/clasificados/usados/73863622-2.jpg",
+        "https://crautos.com/clasificados/usados/73863622-3.jpg",
+        "https://crautos.com/clasificados/usados/73863622-4.jpg",
+        "https://crautos.com/clasificados/usados/73863622-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUBERTH RODRIGUEZ M",
+        "teléfono": "8831-3232",
+        "whatsapp": "8831-3232"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "167,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Se vende por NO necesitar con orverhaul hace dos años. Motor Toyota. En buen estado..",
+        "kilometraje_number": 167000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

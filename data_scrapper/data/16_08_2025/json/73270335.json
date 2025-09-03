@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73270335&Suzuki.GRAND%20VITARA.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 15438,
+    "precio_usd": 7750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73270335-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73270335-1.jpg",
+        "https://crautos.com/clasificados/usados/73270335-2.jpg",
+        "https://crautos.com/clasificados/usados/73270335-3.jpg",
+        "https://crautos.com/clasificados/usados/73270335-4.jpg",
+        "https://crautos.com/clasificados/usados/73270335-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ÁLVARO SÁENZ CAMPOS.",
+        "teléfono": "8826-5809",
+        "whatsapp": "8826-5809"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "167,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "en excelente estado precio negociable..",
+        "kilometraje_number": 167000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Caja de cambios dual",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94703445&Isuzu.NKR.2008",
+    "año": 2008,
+    "marca": "ISUZU",
+    "modelo": "NKR",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94703445-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94703445-1.jpg",
+        "https://crautos.com/clasificados/usados/94703445-2.jpg",
+        "https://crautos.com/clasificados/usados/94703445-3.jpg",
+        "https://crautos.com/clasificados/usados/94703445-4.jpg",
+        "https://crautos.com/clasificados/usados/94703445-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CABRALES",
+        "teléfono": "8583-3959 7020-3939",
+        "whatsapp": "7020-3939"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "380,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": 380000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

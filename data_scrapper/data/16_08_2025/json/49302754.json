@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49302754&Kia.BONGO%20.2019",
+    "año": 2019,
+    "marca": "KIA",
+    "modelo": "BONGO",
+    "precio_crc": 17430,
+    "precio_usd": 8750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49302754-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49302754-1.jpg",
+        "https://crautos.com/clasificados/usados/49302754-2.jpg",
+        "https://crautos.com/clasificados/usados/49302754-3.jpg",
+        "https://crautos.com/clasificados/usados/49302754-4.jpg",
+        "https://crautos.com/clasificados/usados/49302754-5.jpg",
+        "https://crautos.com/clasificados/usados/49302754-6.jpg",
+        "https://crautos.com/clasificados/usados/49302754-7.jpg",
+        "https://crautos.com/clasificados/usados/49302754-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ABRAHAM CAMACHO",
+        "teléfono": "8832-6548 6066-7336",
+        "whatsapp": "6066-7336"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "35,700 kms",
+        "placa": "Termina en",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Muy lindo .",
+        "kilometraje_number": 35700,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 6
+}

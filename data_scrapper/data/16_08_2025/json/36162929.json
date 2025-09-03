@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36162929&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36162929-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36162929-1.jpg",
+        "https://crautos.com/clasificados/usados/36162929-2.jpg",
+        "https://crautos.com/clasificados/usados/36162929-3.jpg",
+        "https://crautos.com/clasificados/usados/36162929-4.jpg",
+        "https://crautos.com/clasificados/usados/36162929-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO CHACÓN",
+        "teléfono": "8482-1046",
+        "whatsapp": "8482-1046"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "127,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Necesita pintura en algunas partes en la casa recibio sol. Mecánicamente todo perfecto .",
+        "kilometraje_number": 127000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

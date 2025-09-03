@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85510242&Toyota.RAV4.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85510242-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85510242-1.jpg",
+        "https://crautos.com/clasificados/usados/85510242-2.jpg",
+        "https://crautos.com/clasificados/usados/85510242-3.jpg",
+        "https://crautos.com/clasificados/usados/85510242-4.jpg",
+        "https://crautos.com/clasificados/usados/85510242-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAFET MAYORGA",
+        "teléfono": "7293-6919 7261-0253 8884-0730",
+        "whatsapp": "7261-0253"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "242,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "ravmanual llantas nuevas precio negociable pantalla android con carplay auto nacional NEGOCIABLE .",
+        "kilometraje_number": 242000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

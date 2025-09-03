@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67178243&Nissan.TIIDA.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67178243-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67178243-1.jpg",
+        "https://crautos.com/clasificados/usados/67178243-2.jpg",
+        "https://crautos.com/clasificados/usados/67178243-3.jpg",
+        "https://crautos.com/clasificados/usados/67178243-4.jpg",
+        "https://crautos.com/clasificados/usados/67178243-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO ACUÑA",
+        "teléfono": "7269-9596",
+        "whatsapp": "7269-9596"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "134,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado todo al día y a mi nombre. .",
+        "kilometraje_number": 134000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

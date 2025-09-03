@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60200776&Ssang%20Yong.REXTON.2005",
+    "año": 2005,
+    "marca": "SSANG YONG",
+    "modelo": "REXTON",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60200776-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60200776-1.jpg",
+        "https://crautos.com/clasificados/usados/60200776-2.jpg",
+        "https://crautos.com/clasificados/usados/60200776-3.jpg",
+        "https://crautos.com/clasificados/usados/60200776-4.jpg",
+        "https://crautos.com/clasificados/usados/60200776-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE GOMEZ",
+        "teléfono": "8816-9647",
+        "whatsapp": "8816-9647"
+    },
+    "informacion_general": {
+        "cilindrada": "2900 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

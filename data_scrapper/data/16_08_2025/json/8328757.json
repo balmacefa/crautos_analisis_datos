@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8328757&Kia.RIO.2012",
+    "año": 2012,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10906,
+    "precio_usd": 5475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8328757-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8328757-1.jpg",
+        "https://crautos.com/clasificados/usados/8328757-2.jpg",
+        "https://crautos.com/clasificados/usados/8328757-3.jpg",
+        "https://crautos.com/clasificados/usados/8328757-4.jpg",
+        "https://crautos.com/clasificados/usados/8328757-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS BERTHEAU",
+        "teléfono": "8343-1533 8712-5559",
+        "whatsapp": "8343-1533",
+        "dirección": "San José San Sebastián, de la plaza de futbol, 900 metros sur"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "93,432 millas",
+        "placa": "ND",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO-BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "AUTOS BERTHEAU, SAN SEBASTIAN DE LA PLAZA DE DEPORTES NOVECIENTOS SUR.",
+        "kilometraje_number": 93432,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

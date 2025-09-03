@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62642693&Volkswagen.SAVEIRO.2023",
+    "año": 2023,
+    "marca": "VOLKSWAGEN",
+    "modelo": "SAVEIRO",
+    "precio_crc": 16200,
+    "precio_usd": 8132400.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62642693-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62642693-1.jpg",
+        "https://crautos.com/clasificados/usados/62642693-2.jpg",
+        "https://crautos.com/clasificados/usados/62642693-3.jpg",
+        "https://crautos.com/clasificados/usados/62642693-4.jpg",
+        "https://crautos.com/clasificados/usados/62642693-5.jpg",
+        "https://crautos.com/clasificados/usados/62642693-6.jpg",
+        "https://crautos.com/clasificados/usados/62642693-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS SÁNCHEZ",
+        "teléfono": "8309-2537",
+        "whatsapp": "8309-2537"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "4,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Como nuevo precio negociable poco kilómetraje .",
+        "kilometraje_number": 4500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

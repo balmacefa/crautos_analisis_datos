@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73896766&Chevrolet.SPARK%20GO.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK GO",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73896766-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73896766-1.jpg",
+        "https://crautos.com/clasificados/usados/73896766-2.jpg",
+        "https://crautos.com/clasificados/usados/73896766-3.jpg",
+        "https://crautos.com/clasificados/usados/73896766-4.jpg",
+        "https://crautos.com/clasificados/usados/73896766-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO SANCHEZ ALFARO",
+        "teléfono": "8840-6284",
+        "whatsapp": "8840-6284"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "208,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Junio del 2025",
+        "kilometraje_number": 208000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

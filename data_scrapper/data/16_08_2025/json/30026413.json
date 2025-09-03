@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30026413&Suzuki.SWIFT.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30026413-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30026413-1.jpg",
+        "https://crautos.com/clasificados/usados/30026413-2.jpg",
+        "https://crautos.com/clasificados/usados/30026413-3.jpg",
+        "https://crautos.com/clasificados/usados/30026413-4.jpg",
+        "https://crautos.com/clasificados/usados/30026413-5.jpg",
+        "https://crautos.com/clasificados/usados/30026413-6.jpg",
+        "https://crautos.com/clasificados/usados/30026413-7.jpg",
+        "https://crautos.com/clasificados/usados/30026413-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARLON SOLANO GARCIA",
+        "teléfono": "8973-7657 8390-2157",
+        "whatsapp": "8973-7657"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "113,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS METAL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado, motor económico .",
+        "kilometraje_number": 113000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

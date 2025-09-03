@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8700136&Toyota.RUSH.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "RUSH",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8700136-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8700136-1.jpg",
+        "https://crautos.com/clasificados/usados/8700136-2.jpg",
+        "https://crautos.com/clasificados/usados/8700136-3.jpg",
+        "https://crautos.com/clasificados/usados/8700136-4.jpg",
+        "https://crautos.com/clasificados/usados/8700136-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS PRIPA",
+        "teléfono": "6018-1919 2553-0010",
+        "whatsapp": "6018-1919",
+        "dirección": "Costado Sur de la Biblioteca Pública Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en r",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Precio de contado info al WhatsApp .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45010392&Nissan.TIIDA.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45010392-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45010392-1.jpg",
+        "https://crautos.com/clasificados/usados/45010392-2.jpg",
+        "https://crautos.com/clasificados/usados/45010392-3.jpg",
+        "https://crautos.com/clasificados/usados/45010392-4.jpg",
+        "https://crautos.com/clasificados/usados/45010392-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARLEEN ASTUA",
+        "teléfono": "8409-3839 8883-9841",
+        "whatsapp": "8409-3839"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "96,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "kilometraje_number": 96000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

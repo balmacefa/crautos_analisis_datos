@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28528050&Toyota.COROLLA.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28528050-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28528050-1.jpg",
+        "https://crautos.com/clasificados/usados/28528050-2.jpg",
+        "https://crautos.com/clasificados/usados/28528050-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO MONGE",
+        "teléfono": "7200-6579",
+        "whatsapp": "7200-6579"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "160,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "20 de Julio del 2025",
+        "comentario_vendedor": "Llantas batería nuevas pintar en perfecto estado sin rayones ocho bolsas meses garantia.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS"
+    ],
+    "antiguedad": 14
+}

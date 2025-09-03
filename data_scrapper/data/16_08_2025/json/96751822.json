@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96751822&Toyota.LAND%20CRUISER.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96751822-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96751822-1.jpg",
+        "https://crautos.com/clasificados/usados/96751822-2.jpg",
+        "https://crautos.com/clasificados/usados/96751822-3.jpg",
+        "https://crautos.com/clasificados/usados/96751822-4.jpg",
+        "https://crautos.com/clasificados/usados/96751822-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN MELENDEZ",
+        "teléfono": "8968-6145",
+        "whatsapp": "8968-6145"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "El carro esta en perfectas condiciones .",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

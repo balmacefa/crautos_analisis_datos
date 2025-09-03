@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6473553&Dodge/RAM.RAM%201500%20REBEL.2020",
+    "año": 2020,
+    "marca": "DODGE/RAM",
+    "modelo": "RAM 1500 REBEL",
+    "precio_crc": 35089800,
+    "precio_usd": 69900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6473553-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6473553-1.jpg",
+        "https://crautos.com/clasificados/usados/6473553-2.jpg",
+        "https://crautos.com/clasificados/usados/6473553-3.jpg",
+        "https://crautos.com/clasificados/usados/6473553-4.jpg",
+        "https://crautos.com/clasificados/usados/6473553-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "5700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "79,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio venta no incluye gastos de traspaso.",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 5700
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

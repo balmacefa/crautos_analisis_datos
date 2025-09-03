@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22015355&Honda.CIVIC.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22015355-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22015355-1.jpg",
+        "https://crautos.com/clasificados/usados/22015355-2.jpg",
+        "https://crautos.com/clasificados/usados/22015355-3.jpg",
+        "https://crautos.com/clasificados/usados/22015355-4.jpg",
+        "https://crautos.com/clasificados/usados/22015355-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRANDON BALLESTERO",
+        "teléfono": "7112-9561 6058-0031 7194-8607",
+        "whatsapp": "7112-9561"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "151,641 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "AZULADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable motor sin fugas y en excelente estado.",
+        "kilometraje_number": 151641,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

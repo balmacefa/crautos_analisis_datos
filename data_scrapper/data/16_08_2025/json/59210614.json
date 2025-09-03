@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59210614&Toyota.COROLLA.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59210614-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59210614-1.jpg",
+        "https://crautos.com/clasificados/usados/59210614-2.jpg",
+        "https://crautos.com/clasificados/usados/59210614-3.jpg",
+        "https://crautos.com/clasificados/usados/59210614-4.jpg",
+        "https://crautos.com/clasificados/usados/59210614-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTOR ALVARADO",
+        "teléfono": "8686-3400"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "273,200 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Recibo carro automático .",
+        "kilometraje_number": 273200,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

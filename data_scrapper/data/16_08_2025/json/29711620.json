@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29711620&Honda.CIVIC%20LX.1996",
+    "año": 1996,
+    "marca": "HONDA",
+    "modelo": "CIVIC LX",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29711620-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29711620-1.jpg",
+        "https://crautos.com/clasificados/usados/29711620-2.jpg",
+        "https://crautos.com/clasificados/usados/29711620-3.jpg",
+        "https://crautos.com/clasificados/usados/29711620-4.jpg",
+        "https://crautos.com/clasificados/usados/29711620-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID ARGUEDAS",
+        "teléfono": "6400-4643",
+        "whatsapp": "6400-4643"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "234,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Llantas nuevas - Cambio de aceite y de caja recién realizado.",
+        "kilometraje_number": 234000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 29
+}

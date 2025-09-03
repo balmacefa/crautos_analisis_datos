@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89541381&Volkswagen.ESCARABAJO.1968",
+    "año": 1968,
+    "marca": "VOLKSWAGEN",
+    "modelo": "ESCARABAJO",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89541381-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89541381-1.jpg",
+        "https://crautos.com/clasificados/usados/89541381-2.jpg",
+        "https://crautos.com/clasificados/usados/89541381-3.jpg",
+        "https://crautos.com/clasificados/usados/89541381-4.jpg",
+        "https://crautos.com/clasificados/usados/89541381-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS LEIVA",
+        "teléfono": "8912-2487",
+        "whatsapp": "8912-2487"
+    },
+    "informacion_general": {
+        "cilindrada": "1915 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "31,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Restaurado al cien en perfecto estado mecánico y estético muchas extras Precio negociable .",
+        "kilometraje_number": 31000,
+        "cilindrada_number": 1915
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 57
+}

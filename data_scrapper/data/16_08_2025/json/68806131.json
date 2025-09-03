@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68806131&Chevrolet.OPTRA.2007",
+    "año": 2007,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA",
+    "precio_crc": 5179,
+    "precio_usd": 2600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68806131-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68806131-1.jpg",
+        "https://crautos.com/clasificados/usados/68806131-2.jpg",
+        "https://crautos.com/clasificados/usados/68806131-3.jpg",
+        "https://crautos.com/clasificados/usados/68806131-4.jpg",
+        "https://crautos.com/clasificados/usados/68806131-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LESTER MARTÍNEZ",
+        "teléfono": "6025-3728",
+        "whatsapp": "6025-3728"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "233,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "09 de Junio del 2025",
+        "comentario_vendedor": "Precio incluye el traspaso. Cero óxido. Compensadores nuevo. Batería nueva..",
+        "kilometraje_number": 233000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

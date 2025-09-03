@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65143938&Toyota.COROLLA%20.1988",
+    "año": 1988,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 1793,
+    "precio_usd": 900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65143938-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65143938-1.jpg",
+        "https://crautos.com/clasificados/usados/65143938-2.jpg",
+        "https://crautos.com/clasificados/usados/65143938-3.jpg",
+        "https://crautos.com/clasificados/usados/65143938-4.jpg",
+        "https://crautos.com/clasificados/usados/65143938-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARICEL GONZAGA CORTES",
+        "teléfono": "8531-0373",
+        "whatsapp": "8531-0373"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "1 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "AZUL",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Se vende porque no se está usando esta l día dekra hasta el próximo año versión Japón muy económico .",
+        "kilometraje_number": 1,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 37
+}

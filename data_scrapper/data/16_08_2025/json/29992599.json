@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29992599&Chevrolet.SPARK.2010",
+    "año": 2010,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29992599-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29992599-1.jpg",
+        "https://crautos.com/clasificados/usados/29992599-2.jpg",
+        "https://crautos.com/clasificados/usados/29992599-3.jpg",
+        "https://crautos.com/clasificados/usados/29992599-4.jpg",
+        "https://crautos.com/clasificados/usados/29992599-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO",
+        "teléfono": "8522-2828",
+        "whatsapp": "8522-2828"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "162,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS/NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "PENSIONADO VENDE-GANGA REBAJADO- VERSION GRUPO Q-FULL AIRE FULL-DEKRA 2026-UNICO DUEÑO-MANT. AL DIA.",
+        "kilometraje_number": 162000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

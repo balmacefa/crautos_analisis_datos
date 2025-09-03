@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48229248&Hyundai.CRETA%20GL.2022",
+    "año": 2022,
+    "marca": "HYUNDAI",
+    "modelo": "CRETA GL",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48229248-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48229248-1.jpg",
+        "https://crautos.com/clasificados/usados/48229248-2.jpg",
+        "https://crautos.com/clasificados/usados/48229248-3.jpg",
+        "https://crautos.com/clasificados/usados/48229248-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREIVIN SANCHEZ",
+        "teléfono": "8494-2367",
+        "whatsapp": "8494-2367"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO/BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado. Cobertores de asiento extra en cuero sintetico. Luces blancas..",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

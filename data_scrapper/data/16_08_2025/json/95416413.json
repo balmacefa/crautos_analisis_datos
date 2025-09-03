@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95416413&Suzuki.GRAND%20VITARA%20XL7.2003",
+    "año": 2003,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA XL7",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95416413-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95416413-1.jpg",
+        "https://crautos.com/clasificados/usados/95416413-2.jpg",
+        "https://crautos.com/clasificados/usados/95416413-3.jpg",
+        "https://crautos.com/clasificados/usados/95416413-4.jpg",
+        "https://crautos.com/clasificados/usados/95416413-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HELLEN PICADO",
+        "teléfono": "6232-3559",
+        "whatsapp": "6232-3559"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "231,559 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Mecánicamente esta muy bien! poco detalles de pintura.",
+        "kilometraje_number": 231559,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

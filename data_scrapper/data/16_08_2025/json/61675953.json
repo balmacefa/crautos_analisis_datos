@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61675953&Toyota.HILUX.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 19622,
+    "precio_usd": 9850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61675953-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61675953-1.jpg",
+        "https://crautos.com/clasificados/usados/61675953-2.jpg",
+        "https://crautos.com/clasificados/usados/61675953-3.jpg",
+        "https://crautos.com/clasificados/usados/61675953-4.jpg",
+        "https://crautos.com/clasificados/usados/61675953-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WALTER GERARDO SEGURA",
+        "teléfono": "8896-0801 8670-2345",
+        "whatsapp": "8670-2345"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Esta en excelente estado precio negociable se recibe de mi interés y vuelto a mi favor.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [],
+    "antiguedad": 26
+}

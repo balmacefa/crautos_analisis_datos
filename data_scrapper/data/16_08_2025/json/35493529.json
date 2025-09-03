@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35493529&Suzuki.CIAZ.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CIAZ",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35493529-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35493529-1.jpg",
+        "https://crautos.com/clasificados/usados/35493529-2.jpg",
+        "https://crautos.com/clasificados/usados/35493529-3.jpg",
+        "https://crautos.com/clasificados/usados/35493529-4.jpg",
+        "https://crautos.com/clasificados/usados/35493529-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARLEN ANGULO",
+        "teléfono": "8416-0464",
+        "whatsapp": "8416-0464"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "166,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "kilometraje_number": 166000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83877089&Toyota.ECHO%20SPORT%20.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO SPORT",
+    "precio_crc": 6215,
+    "precio_usd": 3120000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83877089-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83877089-1.jpg",
+        "https://crautos.com/clasificados/usados/83877089-2.jpg",
+        "https://crautos.com/clasificados/usados/83877089-3.jpg",
+        "https://crautos.com/clasificados/usados/83877089-4.jpg",
+        "https://crautos.com/clasificados/usados/83877089-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES QUIROS",
+        "teléfono": "7107-7312",
+        "whatsapp": "7107-7312"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen estado aire muy original solo Interesados .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 24
+}

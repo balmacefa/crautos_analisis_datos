@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56761353&Toyota.HILUX.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 36853,
+    "precio_usd": 18500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56761353-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56761353-1.jpg",
+        "https://crautos.com/clasificados/usados/56761353-2.jpg",
+        "https://crautos.com/clasificados/usados/56761353-3.jpg",
+        "https://crautos.com/clasificados/usados/56761353-4.jpg",
+        "https://crautos.com/clasificados/usados/56761353-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO CARVAJAL",
+        "teléfono": "6083-1422 8862-1212",
+        "whatsapp": "6083-1422"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "199,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Kit de levante llantas nuevas cubre asientos nuevos halogenos y Pegadero. .",
+        "kilometraje_number": 199000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

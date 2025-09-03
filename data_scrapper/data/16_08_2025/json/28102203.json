@@ -1,0 +1,38 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28102203&Hyundai.TUCSON.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 15339,
+    "precio_usd": 7700000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ASLYN MONTOYA",
+        "teléfono": "7161-7326"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "2,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "kilometraje_number": 2000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 15
+}

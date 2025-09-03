@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59045202&Toyota.COROLLA%20LE.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA LE",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59045202-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59045202-1.jpg",
+        "https://crautos.com/clasificados/usados/59045202-2.jpg",
+        "https://crautos.com/clasificados/usados/59045202-3.jpg",
+        "https://crautos.com/clasificados/usados/59045202-4.jpg",
+        "https://crautos.com/clasificados/usados/59045202-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM ZUÑIGA",
+        "teléfono": "8866-4419 8483-3592",
+        "whatsapp": "8866-4419"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "189,650 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "VEHICULO CUENTA CON TODO AL DIA Y DAÑOS A TERCEROS.",
+        "kilometraje_number": 189650,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80817276&Chevrolet.CRUZE.2014",
+    "año": 2014,
+    "marca": "CHEVROLET",
+    "modelo": "CRUZE",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80817276-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80817276-1.jpg",
+        "https://crautos.com/clasificados/usados/80817276-2.jpg",
+        "https://crautos.com/clasificados/usados/80817276-3.jpg",
+        "https://crautos.com/clasificados/usados/80817276-4.jpg",
+        "https://crautos.com/clasificados/usados/80817276-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TATIANA BUSTAMANTE",
+        "teléfono": "8707-1600 8895-7394",
+        "whatsapp": "8707-1600"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "67,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Abril del 2025",
+        "comentario_vendedor": "Excelente estado mecánico - Full extras.",
+        "kilometraje_number": 67000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

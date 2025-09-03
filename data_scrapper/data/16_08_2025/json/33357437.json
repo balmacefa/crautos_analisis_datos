@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33357437",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER PRO-4X",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33357437-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33357437-1.jpg",
+        "https://crautos.com/clasificados/usados/33357437-2.jpg",
+        "https://crautos.com/clasificados/usados/33357437-3.jpg",
+        "https://crautos.com/clasificados/usados/33357437-4.jpg",
+        "https://crautos.com/clasificados/usados/33357437-5.jpg",
+        "https://crautos.com/clasificados/usados/33357437-6.jpg",
+        "https://crautos.com/clasificados/usados/33357437-7.jpg",
+        "https://crautos.com/clasificados/usados/33357437-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR ABARCA GARRO",
+        "teléfono": "8318-5075",
+        "whatsapp": "8318-5075"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "129,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Julio del 2025",
+        "comentario_vendedor": "Carro en perfecto estado. Se da con mataburros y con el juego de aros original extra.",
+        "kilometraje_number": 129000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

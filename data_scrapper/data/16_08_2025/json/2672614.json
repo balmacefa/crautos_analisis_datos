@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2672614&Honda.CIVIC%20LX%20.2001",
+    "año": 2001,
+    "marca": "HONDA",
+    "modelo": "CIVIC LX",
+    "precio_crc": 5279,
+    "precio_usd": 2650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2672614-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2672614-1.jpg",
+        "https://crautos.com/clasificados/usados/2672614-2.jpg",
+        "https://crautos.com/clasificados/usados/2672614-3.jpg",
+        "https://crautos.com/clasificados/usados/2672614-4.jpg",
+        "https://crautos.com/clasificados/usados/2672614-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE HERRERA",
+        "teléfono": "8527-5487 7123-7468",
+        "whatsapp": "8527-5487",
+        "dirección": "Desamparados centro"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "287,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA VEINTI SEIS , TODO AL DÍA FIRMA INMEDIATA ,ACEPTAMOS TARJETAS DE CRÉDITO COMO METODO DE PAGO .",
+        "kilometraje_number": 287000,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

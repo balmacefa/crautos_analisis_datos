@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82753540&Nissan.SENTRA%20SV.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "SENTRA SV",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82753540-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82753540-1.jpg",
+        "https://crautos.com/clasificados/usados/82753540-2.jpg",
+        "https://crautos.com/clasificados/usados/82753540-3.jpg",
+        "https://crautos.com/clasificados/usados/82753540-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS BARRANTES CASTRO",
+        "teléfono": "8935-3815 8603-9031",
+        "whatsapp": "8935-3815"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "123,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "No dejes pasar esta oportunidad .",
+        "kilometraje_number": 123000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

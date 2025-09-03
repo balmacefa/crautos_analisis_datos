@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5367071&Nissan.FRONTIER%20.2015",
+    "año": 2015,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 7931600,
+    "precio_usd": 15800.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5367071-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5367071-1.jpg",
+        "https://crautos.com/clasificados/usados/5367071-2.jpg",
+        "https://crautos.com/clasificados/usados/5367071-3.jpg",
+        "https://crautos.com/clasificados/usados/5367071-4.jpg",
+        "https://crautos.com/clasificados/usados/5367071-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOTOR CITY",
+        "teléfono": "8844-1919 8364-5234 2100-0808",
+        "whatsapp": "8844-1919",
+        "dirección": "San Rafael de Escazú, 75 Mtrs sur del Centro Comercial Paco"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "162,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, TAPICERIA EN BUEN ESTADO, MEJOR PRECIO DEL MERCADO.",
+        "kilometraje_number": 162500,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

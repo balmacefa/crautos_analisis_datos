@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50110949&Daihatsu.TERIOS%20BEGO.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 9263,
+    "precio_usd": 4650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50110949-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50110949-1.jpg",
+        "https://crautos.com/clasificados/usados/50110949-2.jpg",
+        "https://crautos.com/clasificados/usados/50110949-3.jpg",
+        "https://crautos.com/clasificados/usados/50110949-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAIRO ALFARO",
+        "teléfono": "8879-2274 8401-4703",
+        "whatsapp": "8879-2274"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "276,055 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "kilometraje_number": 276055,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

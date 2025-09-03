@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68576850&Toyota.COROLLA.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68576850-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68576850-1.jpg",
+        "https://crautos.com/clasificados/usados/68576850-2.jpg",
+        "https://crautos.com/clasificados/usados/68576850-3.jpg",
+        "https://crautos.com/clasificados/usados/68576850-4.jpg",
+        "https://crautos.com/clasificados/usados/68576850-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN MORA",
+        "teléfono": "6016-3659 7006-8420",
+        "whatsapp": "6016-3659"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Al día dekra extras alarma AC firma de una traspaso urge vender x viajar.puede usarse como taxi.",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

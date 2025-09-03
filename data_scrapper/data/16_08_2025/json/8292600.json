@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8292600&Dodge/RAM.RAM%20700.2024",
+    "año": 2024,
+    "marca": "DODGE/RAM",
+    "modelo": "RAM 700",
+    "precio_crc": 11044000,
+    "precio_usd": 22000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8292600-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8292600-1.jpg",
+        "https://crautos.com/clasificados/usados/8292600-2.jpg",
+        "https://crautos.com/clasificados/usados/8292600-3.jpg",
+        "https://crautos.com/clasificados/usados/8292600-4.jpg",
+        "https://crautos.com/clasificados/usados/8292600-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "14,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 14000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

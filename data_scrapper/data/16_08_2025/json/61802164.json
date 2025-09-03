@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61802164&Suzuki.ALTO%20.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "ALTO",
+    "precio_crc": 7271,
+    "precio_usd": 3650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61802164-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61802164-1.jpg",
+        "https://crautos.com/clasificados/usados/61802164-2.jpg",
+        "https://crautos.com/clasificados/usados/61802164-3.jpg",
+        "https://crautos.com/clasificados/usados/61802164-4.jpg",
+        "https://crautos.com/clasificados/usados/61802164-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIXIANA SÁNCHEZ",
+        "teléfono": "8613-8490"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Única dueña .",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

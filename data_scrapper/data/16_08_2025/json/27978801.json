@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27978801&Volkswagen.GOLF.1990",
+    "año": 1990,
+    "marca": "VOLKSWAGEN",
+    "modelo": "GOLF",
+    "precio_crc": 1793,
+    "precio_usd": 900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27978801-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27978801-1.jpg",
+        "https://crautos.com/clasificados/usados/27978801-2.jpg",
+        "https://crautos.com/clasificados/usados/27978801-3.jpg",
+        "https://crautos.com/clasificados/usados/27978801-4.jpg",
+        "https://crautos.com/clasificados/usados/27978801-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TAYRO OBANDO",
+        "teléfono": "8468-4985",
+        "whatsapp": "8468-4985"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "350 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Tiene detalles de tapicería. Precio negociable batería nueva. Aros originales VW.",
+        "kilometraje_number": 350,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 35
+}

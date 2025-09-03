@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89006924&Fiat.PANDA%20.2005",
+    "año": 2005,
+    "marca": "FIAT",
+    "modelo": "PANDA",
+    "precio_crc": 1992,
+    "precio_usd": 1000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89006924-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89006924-1.jpg",
+        "https://crautos.com/clasificados/usados/89006924-2.jpg",
+        "https://crautos.com/clasificados/usados/89006924-3.jpg",
+        "https://crautos.com/clasificados/usados/89006924-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO ENRÍQUEZ",
+        "teléfono": "6398-2363",
+        "whatsapp": "6398-2363"
+    },
+    "informacion_general": {
+        "cilindrada": "1290 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "157,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Debe Dekra Marchamo al día detalles de pintura ventana quebrada tengo repuesto .",
+        "kilometraje_number": 157000,
+        "cilindrada_number": 1290
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

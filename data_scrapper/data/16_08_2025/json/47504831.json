@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47504831",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "YARIS CROSS",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47504831-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47504831-1.jpg",
+        "https://crautos.com/clasificados/usados/47504831-2.jpg",
+        "https://crautos.com/clasificados/usados/47504831-3.jpg",
+        "https://crautos.com/clasificados/usados/47504831-4.jpg",
+        "https://crautos.com/clasificados/usados/47504831-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "XINIA SOLÍS",
+        "teléfono": "8573-6866",
+        "whatsapp": "8573-6866"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "16,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDI MUSGO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Radio car play con planta record de agencia .",
+        "kilometraje_number": 16000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 1
+}

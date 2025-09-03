@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94694082&Geely.GEOMETRY%20C.2025",
+    "año": 2025,
+    "marca": "GEELY",
+    "modelo": "GEOMETRY C",
+    "precio_crc": 23506,
+    "precio_usd": 11800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94694082-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94694082-1.jpg",
+        "https://crautos.com/clasificados/usados/94694082-2.jpg",
+        "https://crautos.com/clasificados/usados/94694082-3.jpg",
+        "https://crautos.com/clasificados/usados/94694082-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREA HIDALGO CORONADO",
+        "teléfono": "7103-7870 8762-3077 8392-6063",
+        "whatsapp": "7103-7870"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "301 kms",
+        "batería": "150.0 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "1,813 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "El vehículo se encuentra en excelente estado y el precio es negociable..",
+        "kilometraje_number": 1813
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 0
+}

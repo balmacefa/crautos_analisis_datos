@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61085714&Honda.CRV.2012",
+    "año": 2012,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61085714-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61085714-1.jpg",
+        "https://crautos.com/clasificados/usados/61085714-2.jpg",
+        "https://crautos.com/clasificados/usados/61085714-3.jpg",
+        "https://crautos.com/clasificados/usados/61085714-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS SEQUEIRA",
+        "teléfono": "7123-7184",
+        "whatsapp": "7123-7184"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "132,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "kilometraje_number": 132000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

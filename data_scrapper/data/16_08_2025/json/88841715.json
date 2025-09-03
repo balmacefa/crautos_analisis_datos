@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88841715&Nissan.ALMERA%20.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "ALMERA",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88841715-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88841715-1.jpg",
+        "https://crautos.com/clasificados/usados/88841715-2.jpg",
+        "https://crautos.com/clasificados/usados/88841715-3.jpg",
+        "https://crautos.com/clasificados/usados/88841715-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS ALVARADO",
+        "teléfono": "6002-8889",
+        "whatsapp": "6002-8889"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "AZUL REY",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Carro de cochera solo un dueño con RTV.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

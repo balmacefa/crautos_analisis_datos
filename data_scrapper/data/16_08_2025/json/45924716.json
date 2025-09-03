@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45924716&Renault.KWID.2019",
+    "año": 2019,
+    "marca": "RENAULT",
+    "modelo": "KWID",
+    "precio_crc": 7869,
+    "precio_usd": 3950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45924716-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45924716-1.jpg",
+        "https://crautos.com/clasificados/usados/45924716-2.jpg",
+        "https://crautos.com/clasificados/usados/45924716-3.jpg",
+        "https://crautos.com/clasificados/usados/45924716-4.jpg",
+        "https://crautos.com/clasificados/usados/45924716-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROY OCAMPO",
+        "teléfono": "7015-8472",
+        "whatsapp": "7015-8472"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "67,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Junio del 2025",
+        "comentario_vendedor": "Precio incluye traspaso. Excelente estado y mantenimiento. Económico. .",
+        "kilometraje_number": 67000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

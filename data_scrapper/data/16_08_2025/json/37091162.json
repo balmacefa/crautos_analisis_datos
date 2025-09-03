@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37091162&Suzuki.GRAND%20VITARA.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37091162-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37091162-1.jpg",
+        "https://crautos.com/clasificados/usados/37091162-2.jpg",
+        "https://crautos.com/clasificados/usados/37091162-3.jpg",
+        "https://crautos.com/clasificados/usados/37091162-4.jpg",
+        "https://crautos.com/clasificados/usados/37091162-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEREMY GARITA",
+        "teléfono": "8377-0684 8561-6241"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "189,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BEIGE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "llantas nuevas pantalla digital alarma estribos canasta halogenos internados bateria nueva.",
+        "kilometraje_number": 189000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

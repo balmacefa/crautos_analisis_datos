@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78607404&Toyota.RAIZE%20.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "RAIZE",
+    "precio_crc": 20100,
+    "precio_usd": 10090000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78607404-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78607404-1.jpg",
+        "https://crautos.com/clasificados/usados/78607404-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATALIA",
+        "teléfono": "8329-2309",
+        "whatsapp": "8329-2309"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "20,300 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO PERLADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "Impecable. Un solo dueño. Récord de agencia..",
+        "kilometraje_number": 20300,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

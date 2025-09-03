@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20304715&Fiat.LINEA.2012",
+    "año": 2012,
+    "marca": "FIAT",
+    "modelo": "LINEA",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20304715-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20304715-1.jpg",
+        "https://crautos.com/clasificados/usados/20304715-2.jpg",
+        "https://crautos.com/clasificados/usados/20304715-3.jpg",
+        "https://crautos.com/clasificados/usados/20304715-4.jpg",
+        "https://crautos.com/clasificados/usados/20304715-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL CUBERO",
+        "teléfono": "7109-7325"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable Necesita trabajo en el cabezote.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

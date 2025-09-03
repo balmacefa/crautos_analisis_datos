@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84254004&Kia.SPORTAGE.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 19024,
+    "precio_usd": 9550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84254004-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84254004-1.jpg",
+        "https://crautos.com/clasificados/usados/84254004-2.jpg",
+        "https://crautos.com/clasificados/usados/84254004-3.jpg",
+        "https://crautos.com/clasificados/usados/84254004-4.jpg",
+        "https://crautos.com/clasificados/usados/84254004-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARTURO RAMÍREZ CASTRO",
+        "teléfono": "8565-8860",
+        "whatsapp": "8565-8860"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "107,500 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Perfectas condiciones .",
+        "kilometraje_number": 107500,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

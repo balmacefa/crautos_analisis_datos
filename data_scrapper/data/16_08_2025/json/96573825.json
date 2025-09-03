@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96573825&JMC.N601.2015",
+    "año": 2015,
+    "marca": "JMC",
+    "modelo": "N601",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96573825-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96573825-1.jpg",
+        "https://crautos.com/clasificados/usados/96573825-2.jpg",
+        "https://crautos.com/clasificados/usados/96573825-3.jpg",
+        "https://crautos.com/clasificados/usados/96573825-4.jpg",
+        "https://crautos.com/clasificados/usados/96573825-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS RODRIGUEZ",
+        "teléfono": "8318-1763",
+        "whatsapp": "8318-1763"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Tiene póliza total. Golfito Puntarenas. .",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

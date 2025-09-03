@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17794496&Toyota.DYNA.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "DYNA",
+    "precio_crc": 6564,
+    "precio_usd": 3295000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17794496-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17794496-1.jpg",
+        "https://crautos.com/clasificados/usados/17794496-2.jpg",
+        "https://crautos.com/clasificados/usados/17794496-3.jpg",
+        "https://crautos.com/clasificados/usados/17794496-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO MIRANDA SANCHEZ",
+        "teléfono": "8815-4555",
+        "whatsapp": "8815-4555"
+    },
+    "informacion_general": {
+        "cilindrada": "3660 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Mayo del 2025",
+        "comentario_vendedor": "Doble Piña . Recibo Carro . Traspaso Incl..",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 3660
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 26
+}

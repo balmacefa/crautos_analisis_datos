@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27692638&Toyota.TERCEL.1995",
+    "año": 1995,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27692638-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27692638-1.jpg",
+        "https://crautos.com/clasificados/usados/27692638-2.jpg",
+        "https://crautos.com/clasificados/usados/27692638-3.jpg",
+        "https://crautos.com/clasificados/usados/27692638-4.jpg",
+        "https://crautos.com/clasificados/usados/27692638-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL RODRIGUEZ",
+        "teléfono": "8656-8206 8850-2061",
+        "whatsapp": "8656-8206"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "180,300 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable coordinar con antelación cita para visita.",
+        "kilometraje_number": 180300,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 30
+}

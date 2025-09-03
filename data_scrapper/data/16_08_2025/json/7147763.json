@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7147763",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "PATROL",
+    "precio_crc": 10040000,
+    "precio_usd": 20000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7147763-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7147763-1.jpg",
+        "https://crautos.com/clasificados/usados/7147763-2.jpg",
+        "https://crautos.com/clasificados/usados/7147763-3.jpg",
+        "https://crautos.com/clasificados/usados/7147763-4.jpg",
+        "https://crautos.com/clasificados/usados/7147763-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELITE MOTORS",
+        "teléfono": "2228-2226 8842-9581 8825-8911",
+        "whatsapp": "8358-8333",
+        "dirección": "Guachipelin de Escazú, frente al Gimnasio de la escuela pública San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "292,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "MUY BUEN ESTADO, PRECIO EN DOLARES!.",
+        "kilometraje_number": 292000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

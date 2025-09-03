@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49654350&Hyundai.SANTA%20FE.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49654350-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49654350-1.jpg",
+        "https://crautos.com/clasificados/usados/49654350-2.jpg",
+        "https://crautos.com/clasificados/usados/49654350-3.jpg",
+        "https://crautos.com/clasificados/usados/49654350-4.jpg",
+        "https://crautos.com/clasificados/usados/49654350-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO LANG",
+        "teléfono": "8884-3333 8380-4075",
+        "whatsapp": "8884-3333"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado poco uso.",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 17
+}

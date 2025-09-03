@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85246569",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "HD50S",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85246569-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85246569-1.jpg",
+        "https://crautos.com/clasificados/usados/85246569-2.jpg",
+        "https://crautos.com/clasificados/usados/85246569-3.jpg",
+        "https://crautos.com/clasificados/usados/85246569-4.jpg",
+        "https://crautos.com/clasificados/usados/85246569-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL OBREGON STOYANOVA",
+        "teléfono": "8711-2485",
+        "whatsapp": "8711-2485"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "75,100 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 75100,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 9
+}

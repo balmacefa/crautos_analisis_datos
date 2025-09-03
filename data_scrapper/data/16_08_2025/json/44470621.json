@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44470621&Geo.METRO.1997",
+    "año": 1997,
+    "marca": "GEO",
+    "modelo": "METRO",
+    "precio_crc": 2590,
+    "precio_usd": 1300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44470621-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44470621-1.jpg",
+        "https://crautos.com/clasificados/usados/44470621-2.jpg",
+        "https://crautos.com/clasificados/usados/44470621-3.jpg",
+        "https://crautos.com/clasificados/usados/44470621-4.jpg",
+        "https://crautos.com/clasificados/usados/44470621-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA FERNANDA RODRÍGUEZ QUIRÓ",
+        "teléfono": "8348-9163"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Negociable Deckra dosmilveintiseis.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire"
+    ],
+    "antiguedad": 28
+}

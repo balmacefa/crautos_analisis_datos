@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66511034&Hyundai.TUCSON%20ELEGANT.2022",
+    "año": 2022,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON ELEGANT",
+    "precio_crc": 30269,
+    "precio_usd": 15195000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66511034-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66511034-1.jpg",
+        "https://crautos.com/clasificados/usados/66511034-2.jpg",
+        "https://crautos.com/clasificados/usados/66511034-3.jpg",
+        "https://crautos.com/clasificados/usados/66511034-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA MASIS",
+        "teléfono": "7019-7889"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "23,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 23000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 3
+}

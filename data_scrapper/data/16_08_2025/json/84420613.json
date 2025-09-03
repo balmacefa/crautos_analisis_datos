@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84420613&Hyundai.H1.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84420613-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84420613-1.jpg",
+        "https://crautos.com/clasificados/usados/84420613-2.jpg",
+        "https://crautos.com/clasificados/usados/84420613-3.jpg",
+        "https://crautos.com/clasificados/usados/84420613-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO UMAÑA VALLES",
+        "teléfono": "8407-4574",
+        "whatsapp": "8407-4574"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "390,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "DE FABRICA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Bomba de inyección mala debe un marchamo.",
+        "kilometraje_number": 390000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

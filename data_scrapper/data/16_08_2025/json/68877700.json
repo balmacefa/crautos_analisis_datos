@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68877700",
+    "año": 2001,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO IO",
+    "precio_crc": 7869,
+    "precio_usd": 3950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68877700-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68877700-1.jpg",
+        "https://crautos.com/clasificados/usados/68877700-2.jpg",
+        "https://crautos.com/clasificados/usados/68877700-3.jpg",
+        "https://crautos.com/clasificados/usados/68877700-4.jpg",
+        "https://crautos.com/clasificados/usados/68877700-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMILIO RODRÍGUEZ HERNÁNDEZ",
+        "teléfono": "8721-4661 7083-6457 8305-4361",
+        "whatsapp": "8721-4661"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "221,645 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "kilometraje_number": 221645,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

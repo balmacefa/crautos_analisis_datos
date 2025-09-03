@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62218863&Toyota.YARIS.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62218863-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62218863-1.jpg",
+        "https://crautos.com/clasificados/usados/62218863-2.jpg",
+        "https://crautos.com/clasificados/usados/62218863-3.jpg",
+        "https://crautos.com/clasificados/usados/62218863-4.jpg",
+        "https://crautos.com/clasificados/usados/62218863-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VANESSA MOLINA",
+        "teléfono": "6135-2762 7299-6462"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "134,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Negociable. Llámeme y negociamos .",
+        "kilometraje_number": 134000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

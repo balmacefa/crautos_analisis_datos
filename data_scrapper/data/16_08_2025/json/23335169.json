@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23335169&Suzuki.APV.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "APV",
+    "precio_crc": 10060,
+    "precio_usd": 5050000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23335169-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23335169-1.jpg",
+        "https://crautos.com/clasificados/usados/23335169-2.jpg",
+        "https://crautos.com/clasificados/usados/23335169-3.jpg",
+        "https://crautos.com/clasificados/usados/23335169-4.jpg",
+        "https://crautos.com/clasificados/usados/23335169-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL VILLALOBOS",
+        "teléfono": "8993-3469 8889-5006",
+        "whatsapp": "8993-3469"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "8",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "805,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Caja y motor Excelentes.",
+        "kilometraje_number": 805000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33782440&Hyundai.ACCENT%20.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33782440-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33782440-1.jpg",
+        "https://crautos.com/clasificados/usados/33782440-2.jpg",
+        "https://crautos.com/clasificados/usados/33782440-3.jpg",
+        "https://crautos.com/clasificados/usados/33782440-4.jpg",
+        "https://crautos.com/clasificados/usados/33782440-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAIANA ARAYA ARDÓN",
+        "teléfono": "8546-2433",
+        "whatsapp": "8563-8580"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "159,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Tiene GPS precio negociable .",
+        "kilometraje_number": 159000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8317704&Toyota.FORTUNER.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 45020,
+    "precio_usd": 22600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8317704-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8317704-1.jpg",
+        "https://crautos.com/clasificados/usados/8317704-2.jpg",
+        "https://crautos.com/clasificados/usados/8317704-3.jpg",
+        "https://crautos.com/clasificados/usados/8317704-4.jpg",
+        "https://crautos.com/clasificados/usados/8317704-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARS BELÉN",
+        "teléfono": "6290-9073 8412-3434 2102-8111",
+        "whatsapp": "8827-2568",
+        "dirección": "San Joaquín de Flores, Llorente, de la Ferretería El Lagar 75 mts oeste contiguo a Cevichera San Joaquín Nº2"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "78,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "SE RECIBE VEHICULO COMO PARTE DE PAGO TODO AL DIA .",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

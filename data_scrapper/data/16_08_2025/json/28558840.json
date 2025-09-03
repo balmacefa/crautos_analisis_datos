@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28558840&Hyundai.ELANTRA.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28558840-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28558840-1.jpg",
+        "https://crautos.com/clasificados/usados/28558840-2.jpg",
+        "https://crautos.com/clasificados/usados/28558840-3.jpg",
+        "https://crautos.com/clasificados/usados/28558840-4.jpg",
+        "https://crautos.com/clasificados/usados/28558840-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAULA DURAN",
+        "teléfono": "7110-1137 7290-0173"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Radio original -Cámara de reversa -Bolsa de aire. -Aros pulgadas. -Luces LED . -Sistema de ala.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

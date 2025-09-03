@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10318423&Fiat.STRADA%20WORKING.2014",
+    "año": 2014,
+    "marca": "FIAT",
+    "modelo": "STRADA WORKING",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10318423-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10318423-1.jpg",
+        "https://crautos.com/clasificados/usados/10318423-2.jpg",
+        "https://crautos.com/clasificados/usados/10318423-3.jpg",
+        "https://crautos.com/clasificados/usados/10318423-4.jpg",
+        "https://crautos.com/clasificados/usados/10318423-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONIO QUIROS",
+        "teléfono": "6428-7446",
+        "whatsapp": "6428-7446"
+    },
+    "informacion_general": {
+        "cilindrada": "1350 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Abril del 2025",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 1350
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

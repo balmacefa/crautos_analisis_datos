@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66430433&Hyundai.ACCENT%20.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66430433-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66430433-1.jpg",
+        "https://crautos.com/clasificados/usados/66430433-2.jpg",
+        "https://crautos.com/clasificados/usados/66430433-3.jpg",
+        "https://crautos.com/clasificados/usados/66430433-4.jpg",
+        "https://crautos.com/clasificados/usados/66430433-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN LEITON ZÚÑIGA",
+        "teléfono": "6298-8908",
+        "whatsapp": "6298-8908"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "153,300 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en muy buenas condiciones .",
+        "kilometraje_number": 153300,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

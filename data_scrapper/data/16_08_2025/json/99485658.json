@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99485658&Nissan.VERSA.2023",
+    "año": 2023,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99485658-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99485658-1.jpg",
+        "https://crautos.com/clasificados/usados/99485658-2.jpg",
+        "https://crautos.com/clasificados/usados/99485658-3.jpg",
+        "https://crautos.com/clasificados/usados/99485658-4.jpg",
+        "https://crautos.com/clasificados/usados/99485658-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LAURA ESPINOZA",
+        "teléfono": "8701-5433",
+        "whatsapp": "8432-4995"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "46,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 46000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12735918&Renault.SANDERO%20.2010",
+    "año": 2010,
+    "marca": "RENAULT",
+    "modelo": "SANDERO",
+    "precio_crc": 996,
+    "precio_usd": 500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12735918-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12735918-1.jpg",
+        "https://crautos.com/clasificados/usados/12735918-2.jpg",
+        "https://crautos.com/clasificados/usados/12735918-3.jpg",
+        "https://crautos.com/clasificados/usados/12735918-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON MELENDEZ",
+        "teléfono": "8331-5877",
+        "whatsapp": "8331-5877"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "206,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "Carro a la venta para arreglar o para repuestos favor dejar mensaje por whats app.",
+        "kilometraje_number": 206000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 15
+}

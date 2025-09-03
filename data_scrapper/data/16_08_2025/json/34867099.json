@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34867099&Jeep.CHEROKEE.2002",
+    "año": 2002,
+    "marca": "JEEP",
+    "modelo": "CHEROKEE",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34867099-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34867099-1.jpg",
+        "https://crautos.com/clasificados/usados/34867099-2.jpg",
+        "https://crautos.com/clasificados/usados/34867099-3.jpg",
+        "https://crautos.com/clasificados/usados/34867099-4.jpg",
+        "https://crautos.com/clasificados/usados/34867099-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VIVIANA RODRIGUEZ",
+        "teléfono": "6186-1963",
+        "whatsapp": "6186-1963"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Detalles en pintura! Mecanica excelente estado!.",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

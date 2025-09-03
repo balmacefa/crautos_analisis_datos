@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1581183&Chery.TIGGO%207%20PRO%20LUX.2024",
+    "año": 2024,
+    "marca": "CHERY",
+    "modelo": "TIGGO 7 PRO LUX",
+    "precio_crc": 24882,
+    "precio_usd": 12491000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1581183-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1581183-1.jpg",
+        "https://crautos.com/clasificados/usados/1581183-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "35,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Febrero del 2025",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 35000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 1
+}

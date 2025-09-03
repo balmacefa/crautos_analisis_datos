@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20466511&Chevrolet.SPARK.2011",
+    "año": 2011,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20466511-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20466511-1.jpg",
+        "https://crautos.com/clasificados/usados/20466511-2.jpg",
+        "https://crautos.com/clasificados/usados/20466511-3.jpg",
+        "https://crautos.com/clasificados/usados/20466511-4.jpg",
+        "https://crautos.com/clasificados/usados/20466511-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERSON NAVARRETE SALAZAR",
+        "teléfono": "8811-6325 8815-0588",
+        "whatsapp": "8811-6325"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "162,600 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Excelente oportunidad super económico. No ha sido Uber.",
+        "kilometraje_number": 162600,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

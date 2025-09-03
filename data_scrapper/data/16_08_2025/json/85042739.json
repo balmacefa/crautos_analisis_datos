@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85042739&Hyundai.H1.2020",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 25000,
+    "precio_usd": 12550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85042739-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85042739-1.jpg",
+        "https://crautos.com/clasificados/usados/85042739-2.jpg",
+        "https://crautos.com/clasificados/usados/85042739-3.jpg",
+        "https://crautos.com/clasificados/usados/85042739-4.jpg",
+        "https://crautos.com/clasificados/usados/85042739-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TONY LIANG",
+        "teléfono": "8889-9988",
+        "whatsapp": "8889-9988"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "59,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Buen estado y doce pasajeros .",
+        "kilometraje_number": 59000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

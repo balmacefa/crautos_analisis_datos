@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53556656&Mitsubishi.LANCER.2009",
+    "año": 2009,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53556656-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53556656-1.jpg",
+        "https://crautos.com/clasificados/usados/53556656-2.jpg",
+        "https://crautos.com/clasificados/usados/53556656-3.jpg",
+        "https://crautos.com/clasificados/usados/53556656-4.jpg",
+        "https://crautos.com/clasificados/usados/53556656-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELEAZAR AMADOR",
+        "teléfono": "6186-5626",
+        "whatsapp": "6186-5626"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "245,465 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS CON CAFÉ",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable extras.",
+        "kilometraje_number": 245465,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

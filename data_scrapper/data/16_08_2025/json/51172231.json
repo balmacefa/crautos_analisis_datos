@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51172231&Nissan.FRONTIER.2001",
+    "año": 2001,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51172231-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51172231-1.jpg",
+        "https://crautos.com/clasificados/usados/51172231-2.jpg",
+        "https://crautos.com/clasificados/usados/51172231-3.jpg",
+        "https://crautos.com/clasificados/usados/51172231-4.jpg",
+        "https://crautos.com/clasificados/usados/51172231-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL MORALES VALVERDE",
+        "teléfono": "8335-1260",
+        "whatsapp": "8335-1260"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "183,238 millas",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "kilometraje_number": 183238,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

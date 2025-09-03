@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31844718&Hyundai.ACCENT.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31844718-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31844718-1.jpg",
+        "https://crautos.com/clasificados/usados/31844718-2.jpg",
+        "https://crautos.com/clasificados/usados/31844718-3.jpg",
+        "https://crautos.com/clasificados/usados/31844718-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD PEREZ",
+        "teléfono": "8560-4669",
+        "whatsapp": "8560-4669"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "131,230 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Ya tiene Dekra.",
+        "kilometraje_number": 131230,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

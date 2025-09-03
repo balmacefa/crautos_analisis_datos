@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81197124&Toyota.TERCEL.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81197124-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81197124-1.jpg",
+        "https://crautos.com/clasificados/usados/81197124-2.jpg",
+        "https://crautos.com/clasificados/usados/81197124-3.jpg",
+        "https://crautos.com/clasificados/usados/81197124-4.jpg",
+        "https://crautos.com/clasificados/usados/81197124-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ABRAHAM SEGURA",
+        "teléfono": "8715-5944",
+        "whatsapp": "8715-5944"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "133,517 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Caja cuarta mecanico aros BBS radio con pantalla y camara de reversa tapiceria nueva.",
+        "kilometraje_number": 133517,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 31
+}

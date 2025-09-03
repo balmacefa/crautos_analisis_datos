@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25539981&Volkswagen.AMAROK.2015",
+    "año": 2015,
+    "marca": "VOLKSWAGEN",
+    "modelo": "AMAROK",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25539981-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25539981-1.jpg",
+        "https://crautos.com/clasificados/usados/25539981-2.jpg",
+        "https://crautos.com/clasificados/usados/25539981-3.jpg",
+        "https://crautos.com/clasificados/usados/25539981-4.jpg",
+        "https://crautos.com/clasificados/usados/25539981-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE ALFREDO AGUILAR SALAS",
+        "teléfono": "6269-1010 8309-1535",
+        "whatsapp": "6269-1010"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "ESCUCHO OFERTAS NO RECIBO.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

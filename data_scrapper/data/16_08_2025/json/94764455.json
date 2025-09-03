@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94764455",
+    "año": 2022,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 15339,
+    "precio_usd": 7700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94764455-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94764455-1.jpg",
+        "https://crautos.com/clasificados/usados/94764455-2.jpg",
+        "https://crautos.com/clasificados/usados/94764455-3.jpg",
+        "https://crautos.com/clasificados/usados/94764455-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE CARLOS FALLAS CALDERÓN",
+        "teléfono": "8583-4451 8889-8645",
+        "whatsapp": "8583-4451"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "85,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "Negociable! En perfecto estado.",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

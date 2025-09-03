@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16995202&Chevrolet.TRACKER.2002",
+    "año": 2002,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER",
+    "precio_crc": 4880,
+    "precio_usd": 2450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16995202-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16995202-1.jpg",
+        "https://crautos.com/clasificados/usados/16995202-2.jpg",
+        "https://crautos.com/clasificados/usados/16995202-3.jpg",
+        "https://crautos.com/clasificados/usados/16995202-4.jpg",
+        "https://crautos.com/clasificados/usados/16995202-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ LUIS ALFARO ZAPATA",
+        "teléfono": "8983-6191",
+        "whatsapp": "8983-6191"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "134,092 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Esta en Ciudad Neily.",
+        "kilometraje_number": 134092,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

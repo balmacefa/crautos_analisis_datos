@@ -1,0 +1,38 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81043539&Toyota.PRADO%20.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO JIMENEZ",
+        "teléfono": "8588-4055"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [],
+    "antiguedad": 12
+}

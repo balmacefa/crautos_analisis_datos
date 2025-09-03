@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56292923&Mitsubishi.EXPO%20TURBO%20%20.1992",
+    "año": 1992,
+    "marca": "MITSUBISHI",
+    "modelo": "EXPO TURBO",
+    "precio_crc": 4681,
+    "precio_usd": 2350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56292923-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56292923-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO MURILLO",
+        "teléfono": "8356-0364",
+        "whatsapp": "8356-0364"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "230 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Mitsubishi Expo Excelente condiciones Motor turbo diesel muy económico Año Caja manual .",
+        "kilometraje_number": 230,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 33
+}

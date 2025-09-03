@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33773897&Jeep.GLADIATOR%20RUBICON.2020",
+    "año": 2020,
+    "marca": "JEEP",
+    "modelo": "GLADIATOR RUBICON",
+    "precio_crc": 65737,
+    "precio_usd": 33000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33773897-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33773897-1.jpg",
+        "https://crautos.com/clasificados/usados/33773897-2.jpg",
+        "https://crautos.com/clasificados/usados/33773897-3.jpg",
+        "https://crautos.com/clasificados/usados/33773897-4.jpg",
+        "https://crautos.com/clasificados/usados/33773897-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAREN FERNANDEZ",
+        "teléfono": "8819-0382 8559-5353",
+        "whatsapp": "8819-0382"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "93,149 millas",
+        "placa": "ND",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Mayo del 2025",
+        "comentario_vendedor": "-PARA INSCRIBIR-.",
+        "kilometraje_number": 93149,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Halógenos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}

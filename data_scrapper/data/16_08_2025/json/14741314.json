@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14741314&Toyota.HILUX%20.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14741314-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14741314-1.jpg",
+        "https://crautos.com/clasificados/usados/14741314-2.jpg",
+        "https://crautos.com/clasificados/usados/14741314-3.jpg",
+        "https://crautos.com/clasificados/usados/14741314-4.jpg",
+        "https://crautos.com/clasificados/usados/14741314-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YESENIA MORA ELIZONDO",
+        "teléfono": "2444-7985",
+        "whatsapp": "8620-7139"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Negociable .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

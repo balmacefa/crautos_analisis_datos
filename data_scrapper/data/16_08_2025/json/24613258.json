@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24613258&Changan.STAR%20LIGHT.2015",
+    "año": 2015,
+    "marca": "CHANGAN",
+    "modelo": "STAR LIGHT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAROLINA ARIAS SANDÍ",
+        "teléfono": "7189-1875",
+        "whatsapp": "7189-1875"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "113,800 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO ROTULADO",
+        "color_interior": "NEGRO GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 113800,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Dirección Hidráulica/Electroasistida",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 10
+}

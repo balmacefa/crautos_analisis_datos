@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31531904&Toyota.RAV4.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31531904-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31531904-1.jpg",
+        "https://crautos.com/clasificados/usados/31531904-2.jpg",
+        "https://crautos.com/clasificados/usados/31531904-3.jpg",
+        "https://crautos.com/clasificados/usados/31531904-4.jpg",
+        "https://crautos.com/clasificados/usados/31531904-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA RODRIGUEZ",
+        "teléfono": "8871-9348",
+        "whatsapp": "8871-9348"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "327,400 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "En buen estado solo ha tenido un solo dueño.",
+        "kilometraje_number": 327400,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

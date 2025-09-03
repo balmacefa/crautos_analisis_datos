@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54848156&Nissan.SUNNY.1993",
+    "año": 1993,
+    "marca": "NISSAN",
+    "modelo": "SUNNY",
+    "precio_crc": 2590,
+    "precio_usd": 1300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54848156-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54848156-1.jpg",
+        "https://crautos.com/clasificados/usados/54848156-2.jpg",
+        "https://crautos.com/clasificados/usados/54848156-3.jpg",
+        "https://crautos.com/clasificados/usados/54848156-4.jpg",
+        "https://crautos.com/clasificados/usados/54848156-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAN CASTRO",
+        "teléfono": "8823-5255",
+        "whatsapp": "8823-5255"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "287,100 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "Gris",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Junio del 2025",
+        "comentario_vendedor": "Muy buenas condiciones .",
+        "kilometraje_number": 287100,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Volante ajustable"
+    ],
+    "antiguedad": 32
+}

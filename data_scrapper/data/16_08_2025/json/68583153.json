@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68583153&Honda.ACCORD%20EX.1995",
+    "año": 1995,
+    "marca": "HONDA",
+    "modelo": "ACCORD EX",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68583153-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68583153-1.jpg",
+        "https://crautos.com/clasificados/usados/68583153-2.jpg",
+        "https://crautos.com/clasificados/usados/68583153-3.jpg",
+        "https://crautos.com/clasificados/usados/68583153-4.jpg",
+        "https://crautos.com/clasificados/usados/68583153-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONNY VARGAS",
+        "teléfono": "6015-2111 6014-7346",
+        "whatsapp": "6015-2111"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "235,522 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 235522,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 30
+}

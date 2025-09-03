@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96857763&Volvo.GW.1998",
+    "año": 1998,
+    "marca": "VOLVO",
+    "modelo": "GW",
+    "precio_crc": 75697,
+    "precio_usd": 38000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96857763-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96857763-1.jpg",
+        "https://crautos.com/clasificados/usados/96857763-2.jpg",
+        "https://crautos.com/clasificados/usados/96857763-3.jpg",
+        "https://crautos.com/clasificados/usados/96857763-4.jpg",
+        "https://crautos.com/clasificados/usados/96857763-5.jpg",
+        "https://crautos.com/clasificados/usados/96857763-6.jpg",
+        "https://crautos.com/clasificados/usados/96857763-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OMAR",
+        "teléfono": "8998-3738",
+        "whatsapp": "8998-3738"
+    },
+    "informacion_general": {
+        "cilindrada": "8300 cc",
+        "estilo": "Camión 10.0 ton. o más",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "20,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "20 de Julio del 2025",
+        "comentario_vendedor": "Totalmente al día y en excelente estado de funcionamiento..",
+        "kilometraje_number": 20000,
+        "cilindrada_number": 8300
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 27
+}

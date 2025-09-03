@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14942112&Honda.CIVIC.2006",
+    "año": 2006,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14942112-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14942112-1.jpg",
+        "https://crautos.com/clasificados/usados/14942112-2.jpg",
+        "https://crautos.com/clasificados/usados/14942112-3.jpg",
+        "https://crautos.com/clasificados/usados/14942112-4.jpg",
+        "https://crautos.com/clasificados/usados/14942112-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL ANTONIO DUARTE FERNÁNDE",
+        "teléfono": "6107-6611",
+        "whatsapp": "6107-6611"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "206,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "-Honda CiviC EX -Motor . VTEC -Año: -Transmisión: Automática -Combustible: Gasolina -.",
+        "kilometraje_number": 206000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

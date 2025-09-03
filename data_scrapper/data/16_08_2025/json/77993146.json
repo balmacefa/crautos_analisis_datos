@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77993146&Suzuki.CELERIO.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77993146-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77993146-1.jpg",
+        "https://crautos.com/clasificados/usados/77993146-2.jpg",
+        "https://crautos.com/clasificados/usados/77993146-3.jpg",
+        "https://crautos.com/clasificados/usados/77993146-4.jpg",
+        "https://crautos.com/clasificados/usados/77993146-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEOVANNY MORA CERDAS",
+        "teléfono": "8312-6262",
+        "whatsapp": "8312-6262"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "92,400 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO POCO KILOMETRAJE SE DA EL TRASPASO TODO AL DIA EXTRAS SOLO UN DUEÑO.",
+        "kilometraje_number": 92400,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

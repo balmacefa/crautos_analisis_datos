@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19380683&Toyota.COROLLA%20CE%20.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA CE",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19380683-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19380683-1.jpg",
+        "https://crautos.com/clasificados/usados/19380683-2.jpg",
+        "https://crautos.com/clasificados/usados/19380683-3.jpg",
+        "https://crautos.com/clasificados/usados/19380683-4.jpg",
+        "https://crautos.com/clasificados/usados/19380683-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN JIMÉNEZ",
+        "teléfono": "6296-1924 8413-3131",
+        "whatsapp": "6296-1924"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "163,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Impecable muy cuidada tiene batería nueva y dekra reciente no recibo .",
+        "kilometraje_number": 163000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8626248&Mercedes%20Benz.GLC200%20COUPE.2023",
+    "año": 2023,
+    "marca": "MERCEDES BENZ",
+    "modelo": "GLC200 COUPE",
+    "precio_crc": 29567800,
+    "precio_usd": 58900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8626248-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8626248-1.jpg",
+        "https://crautos.com/clasificados/usados/8626248-2.jpg",
+        "https://crautos.com/clasificados/usados/8626248-3.jpg",
+        "https://crautos.com/clasificados/usados/8626248-4.jpg",
+        "https://crautos.com/clasificados/usados/8626248-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUXURY GARAGE CR",
+        "teléfono": "8619-4260 8847-1826",
+        "whatsapp": "8619-4260",
+        "dirección": "La Uruca, 25 mtrs norte del Taller Romero Fournier"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "59,000 kms",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Julio del 2025",
+        "comentario_vendedor": "IMPECABLE, UNICO DUEÑO.",
+        "kilometraje_number": 59000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 2
+}

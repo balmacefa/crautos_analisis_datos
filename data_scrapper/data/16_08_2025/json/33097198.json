@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33097198&Nissan.200SX.1997",
+    "año": 1997,
+    "marca": "NISSAN",
+    "modelo": "200SX",
+    "precio_crc": 4582,
+    "precio_usd": 2300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33097198-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33097198-1.jpg",
+        "https://crautos.com/clasificados/usados/33097198-2.jpg",
+        "https://crautos.com/clasificados/usados/33097198-3.jpg",
+        "https://crautos.com/clasificados/usados/33097198-4.jpg",
+        "https://crautos.com/clasificados/usados/33097198-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO TOBAR CALDERÓN",
+        "teléfono": "8386-7997",
+        "whatsapp": "8386-7997"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "230,550 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable .",
+        "kilometraje_number": 230550,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

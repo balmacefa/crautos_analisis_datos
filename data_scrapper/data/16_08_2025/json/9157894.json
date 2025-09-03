@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9157894&Jeep.CHEROKEE.2017",
+    "año": 2017,
+    "marca": "JEEP",
+    "modelo": "CHEROKEE",
+    "precio_crc": 12499800,
+    "precio_usd": 24900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9157894-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9157894-1.jpg",
+        "https://crautos.com/clasificados/usados/9157894-2.jpg",
+        "https://crautos.com/clasificados/usados/9157894-3.jpg",
+        "https://crautos.com/clasificados/usados/9157894-4.jpg",
+        "https://crautos.com/clasificados/usados/9157894-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "137,536 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "TODO TERRENO.",
+        "kilometraje_number": 137536,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 8
+}

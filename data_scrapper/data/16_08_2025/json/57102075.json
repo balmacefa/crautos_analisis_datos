@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57102075&Mitsubishi.MONTERO%20.1992",
+    "año": 1992,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57102075-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57102075-1.jpg",
+        "https://crautos.com/clasificados/usados/57102075-2.jpg",
+        "https://crautos.com/clasificados/usados/57102075-3.jpg",
+        "https://crautos.com/clasificados/usados/57102075-4.jpg",
+        "https://crautos.com/clasificados/usados/57102075-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERMAN JIMÉNEZ",
+        "teléfono": "8399-1981",
+        "whatsapp": "8399-1981"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura - Llantas nuevas .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 33
+}

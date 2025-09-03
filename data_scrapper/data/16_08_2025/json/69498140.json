@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69498140&Nissan.MARCH.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "MARCH",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69498140-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69498140-1.jpg",
+        "https://crautos.com/clasificados/usados/69498140-2.jpg",
+        "https://crautos.com/clasificados/usados/69498140-3.jpg",
+        "https://crautos.com/clasificados/usados/69498140-4.jpg",
+        "https://crautos.com/clasificados/usados/69498140-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCELA",
+        "teléfono": "8827-7928",
+        "whatsapp": "8827-7928"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "161,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Unico dueño vidrio polarizado seguridad agencia.",
+        "kilometraje_number": 161000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

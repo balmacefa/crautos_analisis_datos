@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98034558&Volkswagen.TIGUAN.2014",
+    "año": 2014,
+    "marca": "VOLKSWAGEN",
+    "modelo": "TIGUAN",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98034558-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98034558-1.jpg",
+        "https://crautos.com/clasificados/usados/98034558-2.jpg",
+        "https://crautos.com/clasificados/usados/98034558-3.jpg",
+        "https://crautos.com/clasificados/usados/98034558-4.jpg",
+        "https://crautos.com/clasificados/usados/98034558-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EUGENIA MOLINA RODRÍGUEZ",
+        "teléfono": "7242-3234 8333-2774",
+        "whatsapp": "7242-3234"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Control de radio en el volante",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

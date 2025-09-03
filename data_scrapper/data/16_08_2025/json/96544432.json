@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96544432&Isuzu.NPR.2019",
+    "año": 2019,
+    "marca": "ISUZU",
+    "modelo": "NPR",
+    "precio_crc": 29382,
+    "precio_usd": 14750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96544432-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96544432-1.jpg",
+        "https://crautos.com/clasificados/usados/96544432-2.jpg",
+        "https://crautos.com/clasificados/usados/96544432-3.jpg",
+        "https://crautos.com/clasificados/usados/96544432-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUISELLE MONTERO",
+        "teléfono": "8331-9694 8356-0947",
+        "whatsapp": "8331-9694"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "335 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Impecable version reforzada Japones.",
+        "kilometraje_number": 335,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76083284&Toyota.COROLLA.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 4880,
+    "precio_usd": 2450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76083284-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76083284-1.jpg",
+        "https://crautos.com/clasificados/usados/76083284-2.jpg",
+        "https://crautos.com/clasificados/usados/76083284-3.jpg",
+        "https://crautos.com/clasificados/usados/76083284-4.jpg",
+        "https://crautos.com/clasificados/usados/76083284-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARINA MONTENEGRO",
+        "teléfono": "8402-8816",
+        "whatsapp": "8402-8816"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "220,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado extras mantenimiento al día super económico .",
+        "kilometraje_number": 220000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 29
+}

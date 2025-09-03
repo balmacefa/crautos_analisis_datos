@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53049355&Suzuki.GRAND%20VITARA.2009",
+    "año": 2009,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53049355-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53049355-1.jpg",
+        "https://crautos.com/clasificados/usados/53049355-2.jpg",
+        "https://crautos.com/clasificados/usados/53049355-3.jpg",
+        "https://crautos.com/clasificados/usados/53049355-4.jpg",
+        "https://crautos.com/clasificados/usados/53049355-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO LEIVA SEGURA",
+        "teléfono": "8946-6265",
+        "whatsapp": "8946-6265"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "LLantas nuevas Sunroof electrico muy cuidado alarma precio negociable .",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 16
+}

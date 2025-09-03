@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97352368&Toyota.TACOMA.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL OSES QUESADA",
+        "teléfono": "8888-1974",
+        "whatsapp": "8888-1974"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "145,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente .",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 27
+}

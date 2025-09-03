@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88008854&Chevrolet.CORVETTE.2016",
+    "año": 2016,
+    "marca": "CHEVROLET",
+    "modelo": "CORVETTE",
+    "precio_crc": 71713,
+    "precio_usd": 36000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88008854-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88008854-1.jpg",
+        "https://crautos.com/clasificados/usados/88008854-2.jpg",
+        "https://crautos.com/clasificados/usados/88008854-3.jpg",
+        "https://crautos.com/clasificados/usados/88008854-4.jpg",
+        "https://crautos.com/clasificados/usados/88008854-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDERICK",
+        "teléfono": "6428-9133",
+        "whatsapp": "6428-9133"
+    },
+    "informacion_general": {
+        "cilindrada": "6200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "29,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 29000,
+        "cilindrada_number": 6200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Retrovisores auto-retractibles",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

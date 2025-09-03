@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12236903&Toyota.RAV4.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12236903-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12236903-1.jpg",
+        "https://crautos.com/clasificados/usados/12236903-2.jpg",
+        "https://crautos.com/clasificados/usados/12236903-3.jpg",
+        "https://crautos.com/clasificados/usados/12236903-4.jpg",
+        "https://crautos.com/clasificados/usados/12236903-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIAN ARIAS",
+        "teléfono": "8723-3928",
+        "whatsapp": "8723-3928"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "San Rafael Alajuela - Bien Cuidado.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 22
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23732045&Suzuki.JIMNY.2011",
+    "año": 2011,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23732045-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23732045-1.jpg",
+        "https://crautos.com/clasificados/usados/23732045-2.jpg",
+        "https://crautos.com/clasificados/usados/23732045-3.jpg",
+        "https://crautos.com/clasificados/usados/23732045-4.jpg",
+        "https://crautos.com/clasificados/usados/23732045-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO GONZALEZ",
+        "teléfono": "8313-0245",
+        "whatsapp": "8313-0245"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "178,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado estético y mecánico..",
+        "kilometraje_number": 178000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74984908&Toyota.HILUX.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 34661,
+    "precio_usd": 17400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74984908-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74984908-1.jpg",
+        "https://crautos.com/clasificados/usados/74984908-2.jpg",
+        "https://crautos.com/clasificados/usados/74984908-3.jpg",
+        "https://crautos.com/clasificados/usados/74984908-4.jpg",
+        "https://crautos.com/clasificados/usados/74984908-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROLANDO ALVARADO CHAVARRIA",
+        "teléfono": "8375-6671",
+        "whatsapp": "8375-6671"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "81,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Se puede recibir vehículo de cinco millones .",
+        "kilometraje_number": 81000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

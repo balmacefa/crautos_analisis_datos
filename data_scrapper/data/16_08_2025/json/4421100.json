@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4421100&BMW.X1.2019",
+    "año": 2019,
+    "marca": "BMW",
+    "modelo": "X1",
+    "precio_crc": 12499800,
+    "precio_usd": 24900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4421100-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4421100-1.jpg",
+        "https://crautos.com/clasificados/usados/4421100-2.jpg",
+        "https://crautos.com/clasificados/usados/4421100-3.jpg",
+        "https://crautos.com/clasificados/usados/4421100-4.jpg",
+        "https://crautos.com/clasificados/usados/4421100-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "61,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Julio del 2025",
+        "comentario_vendedor": "SUV.",
+        "kilometraje_number": 61500,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32780995&Mitsubishi.MONTERO.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 17430,
+    "precio_usd": 8750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32780995-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32780995-1.jpg",
+        "https://crautos.com/clasificados/usados/32780995-2.jpg",
+        "https://crautos.com/clasificados/usados/32780995-3.jpg",
+        "https://crautos.com/clasificados/usados/32780995-4.jpg",
+        "https://crautos.com/clasificados/usados/32780995-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY NAVARRO",
+        "teléfono": "8884-0026 8816-0004"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "280,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": 280000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

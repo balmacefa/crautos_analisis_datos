@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34302820&Isuzu.DMAX.2007",
+    "año": 2007,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34302820-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34302820-1.jpg",
+        "https://crautos.com/clasificados/usados/34302820-2.jpg",
+        "https://crautos.com/clasificados/usados/34302820-3.jpg",
+        "https://crautos.com/clasificados/usados/34302820-4.jpg",
+        "https://crautos.com/clasificados/usados/34302820-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR",
+        "teléfono": "8383-0767",
+        "whatsapp": "8383-0767"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "247,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "excellente condicion mecanica - detalles en la pintura - escucho ofertas.",
+        "kilometraje_number": 247000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61137809&Nissan.SENTRA.1988",
+    "año": 1988,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 1759,
+    "precio_usd": 883000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61137809-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61137809-1.jpg",
+        "https://crautos.com/clasificados/usados/61137809-2.jpg",
+        "https://crautos.com/clasificados/usados/61137809-3.jpg",
+        "https://crautos.com/clasificados/usados/61137809-4.jpg",
+        "https://crautos.com/clasificados/usados/61137809-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VÍCTOR JIMÉNEZ",
+        "teléfono": "8649-9471 2442-2814",
+        "whatsapp": "8649-9471"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "221,471 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Se vende por falta de uso. Exclente mecanicamente LLANTAS NUEVAS precio incluye un radio bose.",
+        "kilometraje_number": 221471,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 37
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16193371&Nissan.XTRAIL.2003",
+    "año": 2003,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16193371-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16193371-1.jpg",
+        "https://crautos.com/clasificados/usados/16193371-2.jpg",
+        "https://crautos.com/clasificados/usados/16193371-3.jpg",
+        "https://crautos.com/clasificados/usados/16193371-4.jpg",
+        "https://crautos.com/clasificados/usados/16193371-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER ALVARES",
+        "teléfono": "8671-6932",
+        "whatsapp": "8671-6932"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "63,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS / BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 63000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo"
+    ],
+    "antiguedad": 22
+}

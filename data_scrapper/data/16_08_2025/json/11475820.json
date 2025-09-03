@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11475820&Mazda.MPV%20.2005",
+    "año": 2005,
+    "marca": "MAZDA",
+    "modelo": "MPV",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11475820-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11475820-1.jpg",
+        "https://crautos.com/clasificados/usados/11475820-2.jpg",
+        "https://crautos.com/clasificados/usados/11475820-3.jpg",
+        "https://crautos.com/clasificados/usados/11475820-4.jpg",
+        "https://crautos.com/clasificados/usados/11475820-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM BOLAÑOS VENEGAS",
+        "teléfono": "8968-1851 7222-4280",
+        "whatsapp": "8968-1851"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "147,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Exc estado .",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

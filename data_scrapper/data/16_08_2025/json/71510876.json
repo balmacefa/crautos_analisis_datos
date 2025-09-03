@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71510876&Honda.CIVIC.2007",
+    "año": 2007,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71510876-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71510876-1.jpg",
+        "https://crautos.com/clasificados/usados/71510876-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRIAN SERRANO",
+        "teléfono": "6461-8843",
+        "whatsapp": "6461-8843"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "198,986 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "El carro ahí q pintarlo.",
+        "kilometraje_number": 198986,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

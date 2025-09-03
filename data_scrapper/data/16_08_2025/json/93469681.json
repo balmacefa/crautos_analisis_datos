@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93469681&Honda.ODYSSEY.2008",
+    "año": 2008,
+    "marca": "HONDA",
+    "modelo": "ODYSSEY",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAOLA MORALES",
+        "teléfono": "8486-2883",
+        "whatsapp": "8486-2883"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "376,381 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 376381,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [],
+    "antiguedad": 17
+}

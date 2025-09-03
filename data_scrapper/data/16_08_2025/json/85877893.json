@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85877893&Mitsubishi.L200.2015",
+    "año": 2015,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85877893-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85877893-1.jpg",
+        "https://crautos.com/clasificados/usados/85877893-2.jpg",
+        "https://crautos.com/clasificados/usados/85877893-3.jpg",
+        "https://crautos.com/clasificados/usados/85877893-4.jpg",
+        "https://crautos.com/clasificados/usados/85877893-5.jpg",
+        "https://crautos.com/clasificados/usados/85877893-6.jpg",
+        "https://crautos.com/clasificados/usados/85877893-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO CHAVES ARROYO",
+        "teléfono": "8804-7416 2450-1216 8800-8666",
+        "whatsapp": "8804-7416"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "222,177 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS, BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Urge vender - Turbo Diesel.",
+        "kilometraje_number": 222177,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

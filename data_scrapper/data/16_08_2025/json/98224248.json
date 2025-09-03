@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98224248",
+    "año": 1985,
+    "marca": "VOLKSWAGEN",
+    "modelo": "VANAGON",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98224248-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98224248-1.jpg",
+        "https://crautos.com/clasificados/usados/98224248-2.jpg",
+        "https://crautos.com/clasificados/usados/98224248-3.jpg",
+        "https://crautos.com/clasificados/usados/98224248-4.jpg",
+        "https://crautos.com/clasificados/usados/98224248-5.jpg",
+        "https://crautos.com/clasificados/usados/98224248-6.jpg",
+        "https://crautos.com/clasificados/usados/98224248-7.jpg",
+        "https://crautos.com/clasificados/usados/98224248-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID CHAMBERLAIN",
+        "teléfono": "8908-4799 8380-7622",
+        "whatsapp": "8908-4799"
+    },
+    "informacion_general": {
+        "cilindrada": "1913 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "8,167 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "CAFE",
+        "color_interior": "GRIS/ROJO/CAFE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "totalmente reconstruido pintura nueva interior nuevo partes extra stereo pioneer dekra al dia.",
+        "kilometraje_number": 8167,
+        "cilindrada_number": 1913
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 40
+}

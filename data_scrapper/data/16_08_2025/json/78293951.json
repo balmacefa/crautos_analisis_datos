@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78293951&Hyundai.SANTA%20FE%20GLS.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE GLS",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78293951-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78293951-1.jpg",
+        "https://crautos.com/clasificados/usados/78293951-2.jpg",
+        "https://crautos.com/clasificados/usados/78293951-3.jpg",
+        "https://crautos.com/clasificados/usados/78293951-4.jpg",
+        "https://crautos.com/clasificados/usados/78293951-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WALTER ROJAS",
+        "teléfono": "8526-8391",
+        "whatsapp": "8526-8391"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "114,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "GAS LP Excelente carro muy economico un dueño en el pais cero oxydo llantas nuevas.",
+        "kilometraje_number": 114500,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 18
+}

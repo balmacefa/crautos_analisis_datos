@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9399441&Hyundai.H1.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 8534000,
+    "precio_usd": 17000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9399441-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9399441-1.jpg",
+        "https://crautos.com/clasificados/usados/9399441-2.jpg",
+        "https://crautos.com/clasificados/usados/9399441-3.jpg",
+        "https://crautos.com/clasificados/usados/9399441-4.jpg",
+        "https://crautos.com/clasificados/usados/9399441-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "G CARS",
+        "teléfono": "8904-3636 8323-4430",
+        "whatsapp": "8904-3636",
+        "dirección": "Tibás, detrás del Más x Menos, calle sin salida. 8904-3636"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "254,050 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Enero del 2025",
+        "comentario_vendedor": "Vehículo súper cuidado, motor diésel en perfecto estado, estética súper bien! Recibo y financio!! .",
+        "kilometraje_number": 254050,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

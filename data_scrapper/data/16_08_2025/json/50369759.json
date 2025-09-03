@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50369759&Toyota.HILUX.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 28875,
+    "precio_usd": 14495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50369759-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50369759-1.jpg",
+        "https://crautos.com/clasificados/usados/50369759-2.jpg",
+        "https://crautos.com/clasificados/usados/50369759-3.jpg",
+        "https://crautos.com/clasificados/usados/50369759-4.jpg",
+        "https://crautos.com/clasificados/usados/50369759-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS QUESADA",
+        "teléfono": "7291-1079 2430-1884 8333-5279",
+        "whatsapp": "7291-1079"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "277,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Impecable - llantas- Km original .",
+        "kilometraje_number": 277000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

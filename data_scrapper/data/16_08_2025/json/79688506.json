@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79688506&Toyota.LAND%20CRUISER%20PRADO%20TXL.2021",
+    "año": 2021,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER PRADO TXL",
+    "precio_crc": 49976,
+    "precio_usd": 25088000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79688506-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79688506-1.jpg",
+        "https://crautos.com/clasificados/usados/79688506-2.jpg",
+        "https://crautos.com/clasificados/usados/79688506-3.jpg",
+        "https://crautos.com/clasificados/usados/79688506-4.jpg",
+        "https://crautos.com/clasificados/usados/79688506-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE RODRIGUEZ M",
+        "teléfono": "7198-3794",
+        "whatsapp": "7198-3794"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "100,800 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Linda Land Cruiser Prado TX-L excelente estado. Esta En la Uruca. .",
+        "kilometraje_number": 100800,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 4
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6566782&Nissan.KICKS.2023",
+    "año": 2023,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 10793000,
+    "precio_usd": 21500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6566782-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6566782-1.jpg",
+        "https://crautos.com/clasificados/usados/6566782-2.jpg",
+        "https://crautos.com/clasificados/usados/6566782-3.jpg",
+        "https://crautos.com/clasificados/usados/6566782-4.jpg",
+        "https://crautos.com/clasificados/usados/6566782-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "91,420 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "SUV.",
+        "kilometraje_number": 91420,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 2
+}

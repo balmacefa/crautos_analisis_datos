@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79939156&Isuzu.NQR.2007",
+    "año": 2007,
+    "marca": "ISUZU",
+    "modelo": "NQR",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79939156-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79939156-1.jpg",
+        "https://crautos.com/clasificados/usados/79939156-2.jpg",
+        "https://crautos.com/clasificados/usados/79939156-3.jpg",
+        "https://crautos.com/clasificados/usados/79939156-4.jpg",
+        "https://crautos.com/clasificados/usados/79939156-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO ARRIETA",
+        "teléfono": "8990-9078",
+        "whatsapp": "8990-9078"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "113,203 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "¡Camión en buen estado! Segunda vuelta al velocímetro. .",
+        "kilometraje_number": 113203,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

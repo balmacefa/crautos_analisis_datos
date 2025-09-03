@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77872324&Isuzu.NPR.2021",
+    "año": 2021,
+    "marca": "ISUZU",
+    "modelo": "NPR",
+    "precio_crc": 35259,
+    "precio_usd": 17700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77872324-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77872324-1.jpg",
+        "https://crautos.com/clasificados/usados/77872324-2.jpg",
+        "https://crautos.com/clasificados/usados/77872324-3.jpg",
+        "https://crautos.com/clasificados/usados/77872324-4.jpg",
+        "https://crautos.com/clasificados/usados/77872324-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAIKEL OVIEDO",
+        "teléfono": "8860-3904",
+        "whatsapp": "8860-3904"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "ESTA COMO NUEVO PARA INSCRIBIR .",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 4
+}

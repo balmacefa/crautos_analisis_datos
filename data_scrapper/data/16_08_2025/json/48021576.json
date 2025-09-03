@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48021576&Suzuki.VITARA.2000",
+    "año": 2000,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48021576-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48021576-1.jpg",
+        "https://crautos.com/clasificados/usados/48021576-2.jpg",
+        "https://crautos.com/clasificados/usados/48021576-3.jpg",
+        "https://crautos.com/clasificados/usados/48021576-4.jpg",
+        "https://crautos.com/clasificados/usados/48021576-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCOS MORALES",
+        "teléfono": "8978-8716",
+        "whatsapp": "8978-8716"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "111,111 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Pérez Zeledón .",
+        "kilometraje_number": 111111,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

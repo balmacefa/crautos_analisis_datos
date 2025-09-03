@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1404082&Toyota.COROLLA%20CE.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA CE",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1404082-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1404082-1.jpg",
+        "https://crautos.com/clasificados/usados/1404082-2.jpg",
+        "https://crautos.com/clasificados/usados/1404082-3.jpg",
+        "https://crautos.com/clasificados/usados/1404082-4.jpg",
+        "https://crautos.com/clasificados/usados/1404082-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MULTIAUTOS",
+        "teléfono": "8829-1323 8844-1269 2225-0622",
+        "whatsapp": "8829-1323",
+        "dirección": "75 metros Norte de Novacentro Guadalupe San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Automático alarma aros de lujo alogenos vidrios eléctricos cierre central .",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

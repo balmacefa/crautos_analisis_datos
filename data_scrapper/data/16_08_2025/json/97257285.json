@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97257285&Suzuki.SWIFT%20DZIRE%20.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT DZIRE",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97257285-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97257285-1.jpg",
+        "https://crautos.com/clasificados/usados/97257285-2.jpg",
+        "https://crautos.com/clasificados/usados/97257285-3.jpg",
+        "https://crautos.com/clasificados/usados/97257285-4.jpg",
+        "https://crautos.com/clasificados/usados/97257285-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO ESTEBAN FLORES NAVARRO",
+        "teléfono": "8618-5965 7204-8926",
+        "whatsapp": "8618-5965"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "158,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Se da vuelto por creta o vitara.",
+        "kilometraje_number": 158000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

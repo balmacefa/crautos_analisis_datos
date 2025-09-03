@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45913898&Toyota.PRADO.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 16135,
+    "precio_usd": 8100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45913898-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45913898-1.jpg",
+        "https://crautos.com/clasificados/usados/45913898-2.jpg",
+        "https://crautos.com/clasificados/usados/45913898-3.jpg",
+        "https://crautos.com/clasificados/usados/45913898-4.jpg",
+        "https://crautos.com/clasificados/usados/45913898-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO SEQUEIRA",
+        "teléfono": "8380-9037",
+        "whatsapp": "8380-9037"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "198,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "CHAMPAÑA",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "kilometraje_number": 198000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

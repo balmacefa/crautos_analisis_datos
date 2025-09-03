@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9434408&Toyota.ETIOS.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "ETIOS",
+    "precio_crc": 9175,
+    "precio_usd": 4606000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9434408-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9434408-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "218,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Abril del 2025",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 218000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 7
+}

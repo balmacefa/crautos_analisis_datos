@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26762912&Hyundai.ACCENT%20BLUE%20.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26762912-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26762912-1.jpg",
+        "https://crautos.com/clasificados/usados/26762912-2.jpg",
+        "https://crautos.com/clasificados/usados/26762912-3.jpg",
+        "https://crautos.com/clasificados/usados/26762912-4.jpg",
+        "https://crautos.com/clasificados/usados/26762912-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARNOLD MORA NUÑEZ",
+        "teléfono": "8362-6497",
+        "whatsapp": "8362-6497"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "115,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "En excelente estado tanto en carrocería interior y mecánicamente .",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

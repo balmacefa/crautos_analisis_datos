@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96322134&Renault.DUSTER.2018",
+    "año": 2018,
+    "marca": "RENAULT",
+    "modelo": "DUSTER",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96322134-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96322134-1.jpg",
+        "https://crautos.com/clasificados/usados/96322134-2.jpg",
+        "https://crautos.com/clasificados/usados/96322134-3.jpg",
+        "https://crautos.com/clasificados/usados/96322134-4.jpg",
+        "https://crautos.com/clasificados/usados/96322134-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCO FUMERO",
+        "teléfono": "8449-6448 8845-8224",
+        "whatsapp": "8449-6448"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "79,864 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Unico dueño record de agencia.",
+        "kilometraje_number": 79864,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

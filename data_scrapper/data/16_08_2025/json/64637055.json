@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64637055&Hyundai.TUCSON.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64637055-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64637055-1.jpg",
+        "https://crautos.com/clasificados/usados/64637055-2.jpg",
+        "https://crautos.com/clasificados/usados/64637055-3.jpg",
+        "https://crautos.com/clasificados/usados/64637055-4.jpg",
+        "https://crautos.com/clasificados/usados/64637055-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA SALAZAR",
+        "teléfono": "8991-6565 6085-6230",
+        "whatsapp": "8991-6565"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "278,085 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Está convertido a gas. EXTREMADAMENTE ECONÓMICO.",
+        "kilometraje_number": 278085,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso"
+    ],
+    "antiguedad": 15
+}

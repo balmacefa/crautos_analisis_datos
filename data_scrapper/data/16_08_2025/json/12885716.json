@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12885716&Jeep.WRANGLER%20RUBICON%20UNLIMITED.2008",
+    "año": 2008,
+    "marca": "JEEP",
+    "modelo": "WRANGLER RUBICON UNLIMITED",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12885716-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12885716-1.jpg",
+        "https://crautos.com/clasificados/usados/12885716-2.jpg",
+        "https://crautos.com/clasificados/usados/12885716-3.jpg",
+        "https://crautos.com/clasificados/usados/12885716-4.jpg",
+        "https://crautos.com/clasificados/usados/12885716-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRE CRUZ",
+        "teléfono": "7202-7387 8911-2424 2221-8972",
+        "whatsapp": "7202-7387"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

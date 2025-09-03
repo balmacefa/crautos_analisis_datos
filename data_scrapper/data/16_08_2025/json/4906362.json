@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4906362&Mitsubishi.MONTERO%20.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 22809,
+    "precio_usd": 11450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4906362-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4906362-1.jpg",
+        "https://crautos.com/clasificados/usados/4906362-2.jpg",
+        "https://crautos.com/clasificados/usados/4906362-3.jpg",
+        "https://crautos.com/clasificados/usados/4906362-4.jpg",
+        "https://crautos.com/clasificados/usados/4906362-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "COSTA AMERICAN AUTO",
+        "teléfono": "7114-2178 4018-1478",
+        "whatsapp": "7114-2178",
+        "dirección": "Guadalupe, San Francisco, Barrio Tournon Centro Comercial Tournon Local 2"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "246,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BRONCE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "SUV ideal para familias, con fuerza y comodidad.",
+        "kilometraje_number": 246000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [],
+    "antiguedad": 12
+}

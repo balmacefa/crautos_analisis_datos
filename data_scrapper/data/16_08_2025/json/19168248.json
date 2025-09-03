@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19168248&Isuzu.DMAX.2013",
+    "año": 2013,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19168248-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19168248-1.jpg",
+        "https://crautos.com/clasificados/usados/19168248-2.jpg",
+        "https://crautos.com/clasificados/usados/19168248-3.jpg",
+        "https://crautos.com/clasificados/usados/19168248-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID SOLANO",
+        "teléfono": "6228-7153",
+        "whatsapp": "6228-7153"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "350,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "kilometraje_number": 350000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 12
+}

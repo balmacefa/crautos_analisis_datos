@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21446684&Kia.K2500.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "K2500",
+    "precio_crc": 18675,
+    "precio_usd": 9375000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21446684-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21446684-1.jpg",
+        "https://crautos.com/clasificados/usados/21446684-2.jpg",
+        "https://crautos.com/clasificados/usados/21446684-3.jpg",
+        "https://crautos.com/clasificados/usados/21446684-4.jpg",
+        "https://crautos.com/clasificados/usados/21446684-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAQUEL VARGAS",
+        "teléfono": "8460-2674"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "21,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Versión Nacional. Kilometraje real. Perfecto estado..",
+        "kilometraje_number": 21000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

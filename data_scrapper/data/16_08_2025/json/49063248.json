@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49063248&Toyota.FORTUNER.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49063248-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49063248-1.jpg",
+        "https://crautos.com/clasificados/usados/49063248-2.jpg",
+        "https://crautos.com/clasificados/usados/49063248-3.jpg",
+        "https://crautos.com/clasificados/usados/49063248-4.jpg",
+        "https://crautos.com/clasificados/usados/49063248-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VÍCTOR CAMPOS",
+        "teléfono": "8457-3224 8489-1944",
+        "whatsapp": "8457-3224"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "27,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Exelente estado mecánicamente está perfecta .",
+        "kilometraje_number": 27000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

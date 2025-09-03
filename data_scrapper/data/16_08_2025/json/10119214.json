@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10119214&Honda.CRV.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 18526,
+    "precio_usd": 9300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10119214-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10119214-1.jpg",
+        "https://crautos.com/clasificados/usados/10119214-2.jpg",
+        "https://crautos.com/clasificados/usados/10119214-3.jpg",
+        "https://crautos.com/clasificados/usados/10119214-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIELA SANCHEZ",
+        "teléfono": "8310-5567 8824-3798",
+        "whatsapp": "8310-5567"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "129,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "kilometraje_number": 129000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

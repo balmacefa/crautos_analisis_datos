@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71009268&Toyota.TUNDRA.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "TUNDRA",
+    "precio_crc": 31474,
+    "precio_usd": 15800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71009268-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71009268-1.jpg",
+        "https://crautos.com/clasificados/usados/71009268-2.jpg",
+        "https://crautos.com/clasificados/usados/71009268-3.jpg",
+        "https://crautos.com/clasificados/usados/71009268-4.jpg",
+        "https://crautos.com/clasificados/usados/71009268-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YURAN SEGURA CHAVARRIA",
+        "teléfono": "8861-2323",
+        "whatsapp": "8861-2323"
+    },
+    "informacion_general": {
+        "cilindrada": "5700 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "141,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Agosto del 2025",
+        "kilometraje_number": 141000,
+        "cilindrada_number": 5700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

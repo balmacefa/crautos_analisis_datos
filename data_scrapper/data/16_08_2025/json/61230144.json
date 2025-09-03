@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61230144&Toyota.YARIS.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61230144-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61230144-1.jpg",
+        "https://crautos.com/clasificados/usados/61230144-2.jpg",
+        "https://crautos.com/clasificados/usados/61230144-3.jpg",
+        "https://crautos.com/clasificados/usados/61230144-4.jpg",
+        "https://crautos.com/clasificados/usados/61230144-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS PANIAGUA",
+        "teléfono": "8869-3094 8467-2929",
+        "whatsapp": "8467-2929"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "143,999 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Muy bueno.",
+        "kilometraje_number": 143999,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

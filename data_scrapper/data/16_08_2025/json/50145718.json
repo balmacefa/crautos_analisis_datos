@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50145718&Chevrolet.CAVALIER.1999",
+    "año": 1999,
+    "marca": "CHEVROLET",
+    "modelo": "CAVALIER",
+    "precio_crc": 996,
+    "precio_usd": 500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50145718-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50145718-1.jpg",
+        "https://crautos.com/clasificados/usados/50145718-2.jpg",
+        "https://crautos.com/clasificados/usados/50145718-3.jpg",
+        "https://crautos.com/clasificados/usados/50145718-4.jpg",
+        "https://crautos.com/clasificados/usados/50145718-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO PACHECO",
+        "teléfono": "7072-4124 8829-6985 8425-8203",
+        "whatsapp": "7072-4124"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "ND",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Overhauleado. Dash roto. Problema con hidro clutch y empaque de cabezote. Sin dekra. Sin tacometro.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

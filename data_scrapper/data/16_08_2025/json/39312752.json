@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39312752&Peugeot.206%20BERLINA.2006",
+    "año": 2006,
+    "marca": "PEUGEOT",
+    "modelo": "206 BERLINA",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39312752-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39312752-1.jpg",
+        "https://crautos.com/clasificados/usados/39312752-2.jpg",
+        "https://crautos.com/clasificados/usados/39312752-3.jpg",
+        "https://crautos.com/clasificados/usados/39312752-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VÍCTOR GUILLÉN",
+        "teléfono": "7253-6568 7190-9242",
+        "whatsapp": "7253-6568"
+    },
+    "informacion_general": {
+        "cilindrada": "1900 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Negociable a comprar de terreno.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 1900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

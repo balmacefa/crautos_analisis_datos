@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63132738&Isuzu.DMAX.2009",
+    "año": 2009,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 21514,
+    "precio_usd": 10800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63132738-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63132738-1.jpg",
+        "https://crautos.com/clasificados/usados/63132738-2.jpg",
+        "https://crautos.com/clasificados/usados/63132738-3.jpg",
+        "https://crautos.com/clasificados/usados/63132738-4.jpg",
+        "https://crautos.com/clasificados/usados/63132738-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ BRENES",
+        "teléfono": "8871-4178"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "229,639 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado Turbo Diesel.",
+        "kilometraje_number": 229639,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

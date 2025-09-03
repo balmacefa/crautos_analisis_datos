@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31087445&Toyota.YARIS.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 19422,
+    "precio_usd": 9750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31087445-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31087445-1.jpg",
+        "https://crautos.com/clasificados/usados/31087445-2.jpg",
+        "https://crautos.com/clasificados/usados/31087445-3.jpg",
+        "https://crautos.com/clasificados/usados/31087445-4.jpg",
+        "https://crautos.com/clasificados/usados/31087445-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BERNAL MARTÍNEZ",
+        "teléfono": "8717-4425",
+        "whatsapp": "8717-4425"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "En perfectas condiciones .",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

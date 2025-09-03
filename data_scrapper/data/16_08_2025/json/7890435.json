@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7890435&Toyota.YARIS%20E.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS E",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7890435-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7890435-1.jpg",
+        "https://crautos.com/clasificados/usados/7890435-2.jpg",
+        "https://crautos.com/clasificados/usados/7890435-3.jpg",
+        "https://crautos.com/clasificados/usados/7890435-4.jpg",
+        "https://crautos.com/clasificados/usados/7890435-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAR SWAP",
+        "teléfono": "7104-6984 7273-9291 7071-9915",
+        "whatsapp": "7104-6984",
+        "dirección": "Centro comercial Santa Verde. La Aurora. Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "209,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado! Mantenimiento al dia! Precio Negociable!.",
+        "kilometraje_number": 209000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

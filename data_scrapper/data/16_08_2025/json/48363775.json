@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48363775&Nissan.SENTRA.1998",
+    "año": 1998,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48363775-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48363775-1.jpg",
+        "https://crautos.com/clasificados/usados/48363775-2.jpg",
+        "https://crautos.com/clasificados/usados/48363775-3.jpg",
+        "https://crautos.com/clasificados/usados/48363775-4.jpg",
+        "https://crautos.com/clasificados/usados/48363775-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE MARÍN",
+        "teléfono": "6054-3234",
+        "whatsapp": "6054-3234"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Se cambio hace seis meses la distribución refrig compu y arnes.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 27
+}

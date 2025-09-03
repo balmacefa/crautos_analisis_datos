@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68925469&Toyota.PRADO%20GX.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "PRADO GX",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68925469-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68925469-1.jpg",
+        "https://crautos.com/clasificados/usados/68925469-2.jpg",
+        "https://crautos.com/clasificados/usados/68925469-3.jpg",
+        "https://crautos.com/clasificados/usados/68925469-4.jpg",
+        "https://crautos.com/clasificados/usados/68925469-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMMANUEL MURILLO",
+        "teléfono": "8712-4568 8378-2974",
+        "whatsapp": "8712-4568"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "225,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BEIGE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "26 de Mayo del 2025",
+        "comentario_vendedor": "Récord de agencia .",
+        "kilometraje_number": 225000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

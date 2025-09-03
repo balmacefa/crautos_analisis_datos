@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67795989&Nissan.PATHFINDER.2004",
+    "año": 2004,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67795989-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67795989-1.jpg",
+        "https://crautos.com/clasificados/usados/67795989-2.jpg",
+        "https://crautos.com/clasificados/usados/67795989-3.jpg",
+        "https://crautos.com/clasificados/usados/67795989-4.jpg",
+        "https://crautos.com/clasificados/usados/67795989-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO ACUÑA DUARTE",
+        "teléfono": "8997-0156 8574-9704"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "218,700 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BEIGE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 218700,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

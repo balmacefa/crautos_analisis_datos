@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28830362&JAC.SUNRAY.2020",
+    "año": 2020,
+    "marca": "JAC",
+    "modelo": "SUNRAY",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28830362-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28830362-1.jpg",
+        "https://crautos.com/clasificados/usados/28830362-2.jpg",
+        "https://crautos.com/clasificados/usados/28830362-3.jpg",
+        "https://crautos.com/clasificados/usados/28830362-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE",
+        "teléfono": "7048-8927",
+        "whatsapp": "7048-8927"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Micro bus JAC en excelentes condiciones Motor al cien y varias extras.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}

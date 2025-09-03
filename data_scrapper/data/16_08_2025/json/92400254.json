@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92400254&Suzuki.SWIFT.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR CUBERO VASQUEZ",
+        "teléfono": "8533-9755",
+        "whatsapp": "8533-9755"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "1 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "CHAMPAN",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Perez Zeledon .",
+        "kilometraje_number": 1,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 10
+}

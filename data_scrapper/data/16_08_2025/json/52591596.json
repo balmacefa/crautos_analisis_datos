@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52591596&Nissan.FRONTIER.2000",
+    "año": 2000,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52591596-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52591596-1.jpg",
+        "https://crautos.com/clasificados/usados/52591596-2.jpg",
+        "https://crautos.com/clasificados/usados/52591596-3.jpg",
+        "https://crautos.com/clasificados/usados/52591596-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLGER CASTRO N",
+        "teléfono": "8870-2161",
+        "whatsapp": "8870-2161"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "VERDE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Abril del 2025",
+        "comentario_vendedor": "Nissan en muy buen estado general al día libre de gravámenes .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

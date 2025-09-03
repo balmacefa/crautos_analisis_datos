@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30177156&Ford.FIGO.2019",
+    "año": 2019,
+    "marca": "FORD",
+    "modelo": "FIGO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30177156-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30177156-1.jpg",
+        "https://crautos.com/clasificados/usados/30177156-2.jpg",
+        "https://crautos.com/clasificados/usados/30177156-3.jpg",
+        "https://crautos.com/clasificados/usados/30177156-4.jpg",
+        "https://crautos.com/clasificados/usados/30177156-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WESLY MURILLO",
+        "teléfono": "8719-9002",
+        "whatsapp": "8719-9002"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "98,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Hibrido porque funciona tanque de gas LP instalado y con tanque de gasolina. .",
+        "kilometraje_number": 98000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 6
+}

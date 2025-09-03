@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95087238&Toyota.COASTER.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "COASTER",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95087238-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95087238-1.jpg",
+        "https://crautos.com/clasificados/usados/95087238-2.jpg",
+        "https://crautos.com/clasificados/usados/95087238-3.jpg",
+        "https://crautos.com/clasificados/usados/95087238-4.jpg",
+        "https://crautos.com/clasificados/usados/95087238-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO ARIAS LEON",
+        "teléfono": "8695-4693"
+    },
+    "informacion_general": {
+        "cilindrada": "4100 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Muy cuidada nada que hacerle .",
+        "kilometraje_number": null,
+        "cilindrada_number": 4100
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

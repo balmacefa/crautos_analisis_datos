@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54185549&Kia.RIO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54185549-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54185549-1.jpg",
+        "https://crautos.com/clasificados/usados/54185549-2.jpg",
+        "https://crautos.com/clasificados/usados/54185549-3.jpg",
+        "https://crautos.com/clasificados/usados/54185549-4.jpg",
+        "https://crautos.com/clasificados/usados/54185549-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA RAMÍREZ",
+        "teléfono": "8580-6011",
+        "whatsapp": "8580-6011"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "10 de Junio del 2025",
+        "comentario_vendedor": "muy económico, solo venta, precio negociable .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14076906&Toyota.COROLLA%20.1991",
+    "año": 1991,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14076906-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14076906-1.jpg",
+        "https://crautos.com/clasificados/usados/14076906-2.jpg",
+        "https://crautos.com/clasificados/usados/14076906-3.jpg",
+        "https://crautos.com/clasificados/usados/14076906-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUGO RAMIREZ",
+        "teléfono": "8846-9839"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Excelente vehículo .",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 34
+}

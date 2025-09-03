@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72667340&Toyota.YARIS.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72667340-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72667340-1.jpg",
+        "https://crautos.com/clasificados/usados/72667340-2.jpg",
+        "https://crautos.com/clasificados/usados/72667340-3.jpg",
+        "https://crautos.com/clasificados/usados/72667340-4.jpg",
+        "https://crautos.com/clasificados/usados/72667340-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONULFO PRENDAS CAMPOS",
+        "teléfono": "8520-3055 8521-6601"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "137,909 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado con Dekra al día. .",
+        "kilometraje_number": 137909,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77870433&Suzuki.JIMNY.2021",
+    "año": 2021,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77870433-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77870433-1.jpg",
+        "https://crautos.com/clasificados/usados/77870433-2.jpg",
+        "https://crautos.com/clasificados/usados/77870433-3.jpg",
+        "https://crautos.com/clasificados/usados/77870433-4.jpg",
+        "https://crautos.com/clasificados/usados/77870433-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA FERNANDA BARQUERO",
+        "teléfono": "7041-3369 8890-7384"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "65,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "kilometraje_number": 65500,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 4
+}

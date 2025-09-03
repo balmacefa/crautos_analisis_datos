@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75209869&Mitsubishi.MONTERO%20GLS.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 18327,
+    "precio_usd": 9200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75209869-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75209869-1.jpg",
+        "https://crautos.com/clasificados/usados/75209869-2.jpg",
+        "https://crautos.com/clasificados/usados/75209869-3.jpg",
+        "https://crautos.com/clasificados/usados/75209869-4.jpg",
+        "https://crautos.com/clasificados/usados/75209869-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ARTURO SILVA LUCAS",
+        "teléfono": "8845-4463",
+        "whatsapp": "8845-4463"
+    },
+    "informacion_general": {
+        "cilindrada": "2835 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "204,189 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "kilometraje_number": 204189,
+        "cilindrada_number": 2835
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

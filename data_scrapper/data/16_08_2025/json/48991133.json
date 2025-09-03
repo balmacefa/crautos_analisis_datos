@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48991133&Chevrolet.BOLT%20EV%20LT.2018",
+    "año": 2018,
+    "marca": "CHEVROLET",
+    "modelo": "BOLT EV LT",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48991133-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48991133-1.jpg",
+        "https://crautos.com/clasificados/usados/48991133-2.jpg",
+        "https://crautos.com/clasificados/usados/48991133-3.jpg",
+        "https://crautos.com/clasificados/usados/48991133-4.jpg",
+        "https://crautos.com/clasificados/usados/48991133-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO MONTERO",
+        "teléfono": "7197-2558",
+        "whatsapp": "7197-2558"
+    },
+    "informacion_general": {
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "520 kms",
+        "batería": "58.0 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "73,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "SUMMIT WHITE",
+        "color_interior": "GREY",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Se recibe Jimny o Dmax - Perfecto estado - Alfombras weathertech - Hitch original - Garantia aún .",
+        "kilometraje_number": 73000
+    },
+    "equipamiento": [],
+    "antiguedad": 7
+}

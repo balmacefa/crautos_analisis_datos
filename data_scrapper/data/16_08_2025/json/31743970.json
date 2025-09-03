@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31743970&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8665,
+    "precio_usd": 4350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31743970-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31743970-1.jpg",
+        "https://crautos.com/clasificados/usados/31743970-2.jpg",
+        "https://crautos.com/clasificados/usados/31743970-3.jpg",
+        "https://crautos.com/clasificados/usados/31743970-4.jpg",
+        "https://crautos.com/clasificados/usados/31743970-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH GUILLEN AMADOR",
+        "teléfono": "6363-2545",
+        "whatsapp": "6363-2545"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "91,200 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Recién importado carro de cochera detalles de pintura.",
+        "kilometraje_number": 91200,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 18
+}

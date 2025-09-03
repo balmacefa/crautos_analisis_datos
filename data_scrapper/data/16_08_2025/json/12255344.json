@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12255344&Nissan.VERSA.2015",
+    "año": 2015,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12255344-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12255344-1.jpg",
+        "https://crautos.com/clasificados/usados/12255344-2.jpg",
+        "https://crautos.com/clasificados/usados/12255344-3.jpg",
+        "https://crautos.com/clasificados/usados/12255344-4.jpg",
+        "https://crautos.com/clasificados/usados/12255344-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAIRO SALMERON ORTIZ",
+        "teléfono": "7156-8577 8396-6777",
+        "whatsapp": "7156-8577"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "154,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "PLATA",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "24 de Marzo del 2025",
+        "comentario_vendedor": "Manual .",
+        "kilometraje_number": 154000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

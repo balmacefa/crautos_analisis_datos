@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92139855&Nissan.XTERRA.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 7968,
+    "precio_usd": 3999999.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92139855-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92139855-1.jpg",
+        "https://crautos.com/clasificados/usados/92139855-2.jpg",
+        "https://crautos.com/clasificados/usados/92139855-3.jpg",
+        "https://crautos.com/clasificados/usados/92139855-4.jpg",
+        "https://crautos.com/clasificados/usados/92139855-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRANDON NARANJO",
+        "teléfono": "7220-4234 6150-3203 6320-5127",
+        "whatsapp": "7220-4234"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Excelente condiciones como nuevo.",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

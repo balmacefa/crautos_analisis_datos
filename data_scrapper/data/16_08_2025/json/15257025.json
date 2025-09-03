@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15257025&Isuzu.RODEO%20S.1996",
+    "año": 1996,
+    "marca": "ISUZU",
+    "modelo": "RODEO S",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15257025-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15257025-1.jpg",
+        "https://crautos.com/clasificados/usados/15257025-2.jpg",
+        "https://crautos.com/clasificados/usados/15257025-3.jpg",
+        "https://crautos.com/clasificados/usados/15257025-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDEN TOBELEM",
+        "teléfono": "7266-3734",
+        "whatsapp": "7266-3734"
+    },
+    "informacion_general": {
+        "cilindrada": "2600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Excelente mecánica y carrocería. llantas de agarre casi nuevas.",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 2600
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Llave inteligente/botón de arranque",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 29
+}

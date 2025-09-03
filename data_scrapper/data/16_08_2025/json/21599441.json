@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21599441&Mazda.2.2011",
+    "año": 2011,
+    "marca": "MAZDA",
+    "modelo": "2",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21599441-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21599441-1.jpg",
+        "https://crautos.com/clasificados/usados/21599441-2.jpg",
+        "https://crautos.com/clasificados/usados/21599441-3.jpg",
+        "https://crautos.com/clasificados/usados/21599441-4.jpg",
+        "https://crautos.com/clasificados/usados/21599441-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHAF VALERIO GUEVARA",
+        "teléfono": "8917-9797",
+        "whatsapp": "8917-9797"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "156,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "extras.",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 14
+}

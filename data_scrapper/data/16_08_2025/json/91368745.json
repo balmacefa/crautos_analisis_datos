@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91368745&Toyota.RAV4.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 21514,
+    "precio_usd": 10800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91368745-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91368745-1.jpg",
+        "https://crautos.com/clasificados/usados/91368745-2.jpg",
+        "https://crautos.com/clasificados/usados/91368745-3.jpg",
+        "https://crautos.com/clasificados/usados/91368745-4.jpg",
+        "https://crautos.com/clasificados/usados/91368745-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON BENAVIDES",
+        "teléfono": "8802-7084",
+        "whatsapp": "8802-7084"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "137,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Único dueño. Comprado en Purdy.",
+        "kilometraje_number": 137000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

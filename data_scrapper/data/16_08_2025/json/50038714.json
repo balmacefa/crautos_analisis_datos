@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50038714&Chevrolet.SPARK.2009",
+    "año": 2009,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50038714-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50038714-1.jpg",
+        "https://crautos.com/clasificados/usados/50038714-2.jpg",
+        "https://crautos.com/clasificados/usados/50038714-3.jpg",
+        "https://crautos.com/clasificados/usados/50038714-4.jpg",
+        "https://crautos.com/clasificados/usados/50038714-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS CAMPOS SALÓN",
+        "teléfono": "8411-1218",
+        "whatsapp": "8411-1218"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Mantenimiento reciente .",
+        "kilometraje_number": null,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

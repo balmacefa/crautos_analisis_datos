@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18720224&Volkswagen.GOLF%20CL.1984",
+    "año": 1984,
+    "marca": "VOLKSWAGEN",
+    "modelo": "GOLF CL",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18720224-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18720224-1.jpg",
+        "https://crautos.com/clasificados/usados/18720224-2.jpg",
+        "https://crautos.com/clasificados/usados/18720224-3.jpg",
+        "https://crautos.com/clasificados/usados/18720224-4.jpg",
+        "https://crautos.com/clasificados/usados/18720224-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS GAMBOA MONTES",
+        "teléfono": "8824-9334",
+        "whatsapp": "8824-9334"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "98,659 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Pintura origina Llantas silbines y batería nuevas tapizado reciente. .",
+        "kilometraje_number": 98659,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 41
+}

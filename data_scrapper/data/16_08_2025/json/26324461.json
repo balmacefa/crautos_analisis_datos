@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26324461&Kia.BONGO%20III.2008",
+    "año": 2008,
+    "marca": "KIA",
+    "modelo": "BONGO III",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26324461-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26324461-1.jpg",
+        "https://crautos.com/clasificados/usados/26324461-2.jpg",
+        "https://crautos.com/clasificados/usados/26324461-3.jpg",
+        "https://crautos.com/clasificados/usados/26324461-4.jpg",
+        "https://crautos.com/clasificados/usados/26324461-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONIO OVIEDO",
+        "teléfono": "8387-0727"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "165,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Noviembre del 2024",
+        "comentario_vendedor": "TODO EL MANTENIENTO HECHO, NEGOCIABLE.RECIBO .",
+        "kilometraje_number": 165500,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

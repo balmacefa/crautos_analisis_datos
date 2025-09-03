@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28999374&BMW.323I.2000",
+    "año": 2000,
+    "marca": "BMW",
+    "modelo": "323I",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28999374-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28999374-1.jpg",
+        "https://crautos.com/clasificados/usados/28999374-2.jpg",
+        "https://crautos.com/clasificados/usados/28999374-3.jpg",
+        "https://crautos.com/clasificados/usados/28999374-4.jpg",
+        "https://crautos.com/clasificados/usados/28999374-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS GUERRERO",
+        "teléfono": "7297-0810"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen estado, ojos de Ángel alógenos BMW .",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 25
+}

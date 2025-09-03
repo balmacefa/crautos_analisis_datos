@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58245647&Suzuki.SX4.2007",
+    "año": 2007,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58245647-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58245647-1.jpg",
+        "https://crautos.com/clasificados/usados/58245647-2.jpg",
+        "https://crautos.com/clasificados/usados/58245647-3.jpg",
+        "https://crautos.com/clasificados/usados/58245647-4.jpg",
+        "https://crautos.com/clasificados/usados/58245647-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER BRENES REDONDO",
+        "teléfono": "7013-2185 8493-9307",
+        "whatsapp": "8493-9307"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "190,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Urge vender - Se escuchan ofertas.",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

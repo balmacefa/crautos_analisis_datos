@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22897937&Citroen.C3.2012",
+    "año": 2012,
+    "marca": "CITROEN",
+    "modelo": "C3",
+    "precio_crc": 6821,
+    "precio_usd": 3424000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22897937-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22897937-1.jpg",
+        "https://crautos.com/clasificados/usados/22897937-2.jpg",
+        "https://crautos.com/clasificados/usados/22897937-3.jpg",
+        "https://crautos.com/clasificados/usados/22897937-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELKY ARIAS GONZÁLEZ",
+        "teléfono": "8319-8998 7268-5022",
+        "whatsapp": "8319-8998"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "165,118 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "kilometraje_number": 165118,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

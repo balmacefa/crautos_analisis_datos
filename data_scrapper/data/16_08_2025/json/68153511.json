@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68153511&Toyota.LAND%20CRUISER%20GX.1995",
+    "año": 1995,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER GX",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68153511-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68153511-1.jpg",
+        "https://crautos.com/clasificados/usados/68153511-2.jpg",
+        "https://crautos.com/clasificados/usados/68153511-3.jpg",
+        "https://crautos.com/clasificados/usados/68153511-4.jpg",
+        "https://crautos.com/clasificados/usados/68153511-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JASON CHAVES",
+        "teléfono": "7140-7632",
+        "whatsapp": "7140-7632"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "417,400 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Doble tanque-Llantas MT-Luces led-Subwoofer-doble amplificador-forros tacticos-DaschCam- NEGOCIABLE.",
+        "kilometraje_number": 417400,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

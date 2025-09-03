@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38353238",
+    "año": 2024,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 30876,
+    "precio_usd": 15500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38353238-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38353238-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR BARRIOS",
+        "teléfono": "6333-3522 8708-8991",
+        "whatsapp": "6333-3522"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "5,700 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 5700,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 1
+}

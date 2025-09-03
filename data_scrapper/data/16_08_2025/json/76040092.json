@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76040092&Toyota.COROLLA%20.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 5080,
+    "precio_usd": 2550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76040092-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76040092-1.jpg",
+        "https://crautos.com/clasificados/usados/76040092-2.jpg",
+        "https://crautos.com/clasificados/usados/76040092-3.jpg",
+        "https://crautos.com/clasificados/usados/76040092-4.jpg",
+        "https://crautos.com/clasificados/usados/76040092-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATHERINE CALDERON",
+        "teléfono": "8494-8384",
+        "whatsapp": "8494-8384"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "252,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "El carro esta en perfecto estado mecánico y estetico.",
+        "kilometraje_number": 252000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

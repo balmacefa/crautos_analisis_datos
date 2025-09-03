@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91837036&Suzuki.VITARA%20GL%20PLUS%20A.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "VITARA GL PLUS A",
+    "precio_crc": 16733,
+    "precio_usd": 8400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91837036-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91837036-1.jpg",
+        "https://crautos.com/clasificados/usados/91837036-2.jpg",
+        "https://crautos.com/clasificados/usados/91837036-3.jpg",
+        "https://crautos.com/clasificados/usados/91837036-4.jpg",
+        "https://crautos.com/clasificados/usados/91837036-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIELA SOTO",
+        "teléfono": "7012-9397",
+        "whatsapp": "7012-9397"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "89,200 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BEIGE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Único dueño bajo kilometraje .",
+        "kilometraje_number": 89200,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

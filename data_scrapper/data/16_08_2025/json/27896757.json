@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27896757&Kia.SORENTO.2004",
+    "año": 2004,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27896757-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27896757-1.jpg",
+        "https://crautos.com/clasificados/usados/27896757-2.jpg",
+        "https://crautos.com/clasificados/usados/27896757-3.jpg",
+        "https://crautos.com/clasificados/usados/27896757-4.jpg",
+        "https://crautos.com/clasificados/usados/27896757-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO SOTO",
+        "teléfono": "8587-1111 2213-0243 8863-8391",
+        "whatsapp": "8587-1111"
+    },
+    "informacion_general": {
+        "cilindrada": "3400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Se vende por poco uso.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 3400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

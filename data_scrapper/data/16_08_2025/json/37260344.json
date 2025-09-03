@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37260344&Land%20Rover.SERIE%203.1973",
+    "año": 1973,
+    "marca": "LAND ROVER",
+    "modelo": "SERIE 3",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37260344-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37260344-1.jpg",
+        "https://crautos.com/clasificados/usados/37260344-2.jpg",
+        "https://crautos.com/clasificados/usados/37260344-3.jpg",
+        "https://crautos.com/clasificados/usados/37260344-4.jpg",
+        "https://crautos.com/clasificados/usados/37260344-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO SOTELA",
+        "teléfono": "7102-3036",
+        "whatsapp": "7102-3036"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "1,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Chassis y motor perfectos.",
+        "kilometraje_number": 1000,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 52
+}

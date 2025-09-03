@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31285274&Mitsubishi.ASX.2019",
+    "año": 2019,
+    "marca": "MITSUBISHI",
+    "modelo": "ASX",
+    "precio_crc": 16733,
+    "precio_usd": 8400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31285274-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31285274-1.jpg",
+        "https://crautos.com/clasificados/usados/31285274-2.jpg",
+        "https://crautos.com/clasificados/usados/31285274-3.jpg",
+        "https://crautos.com/clasificados/usados/31285274-4.jpg",
+        "https://crautos.com/clasificados/usados/31285274-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD MARTINEZ",
+        "teléfono": "8301-1525",
+        "whatsapp": "8301-1525"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado. Muy cómodo y fuerte..",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 6
+}

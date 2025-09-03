@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25788324&Toyota.FORTUNER.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25788324-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25788324-1.jpg",
+        "https://crautos.com/clasificados/usados/25788324-2.jpg",
+        "https://crautos.com/clasificados/usados/25788324-3.jpg",
+        "https://crautos.com/clasificados/usados/25788324-4.jpg",
+        "https://crautos.com/clasificados/usados/25788324-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN JIMÉNEZ",
+        "teléfono": "8821-5693 8605-5538",
+        "whatsapp": "8821-5693"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "399,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE SE ESCUCHAN OFERTAS .",
+        "kilometraje_number": 399500,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

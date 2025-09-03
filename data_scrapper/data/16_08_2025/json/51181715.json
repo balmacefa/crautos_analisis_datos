@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51181715&Chevrolet.AVEO%20LS.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO LS",
+    "precio_crc": 7072,
+    "precio_usd": 3550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51181715-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51181715-1.jpg",
+        "https://crautos.com/clasificados/usados/51181715-2.jpg",
+        "https://crautos.com/clasificados/usados/51181715-3.jpg",
+        "https://crautos.com/clasificados/usados/51181715-4.jpg",
+        "https://crautos.com/clasificados/usados/51181715-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUIDO VARGAS",
+        "teléfono": "7111-4165",
+        "whatsapp": "7111-4165"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "92,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Carro en muy buen estado compensadores delanteros nuevos bomba principal de clutch nueva faja de acc.",
+        "kilometraje_number": 92500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

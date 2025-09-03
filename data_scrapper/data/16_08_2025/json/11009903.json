@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11009903",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "IGNIS",
+    "precio_crc": 11753,
+    "precio_usd": 5900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11009903-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11009903-1.jpg",
+        "https://crautos.com/clasificados/usados/11009903-2.jpg",
+        "https://crautos.com/clasificados/usados/11009903-3.jpg",
+        "https://crautos.com/clasificados/usados/11009903-4.jpg",
+        "https://crautos.com/clasificados/usados/11009903-5.jpg",
+        "https://crautos.com/clasificados/usados/11009903-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARGERIE SÁNCHEZ",
+        "teléfono": "8603-6357",
+        "whatsapp": "8603-6357"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "92,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Se escuchan ofertas.",
+        "kilometraje_number": 92000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

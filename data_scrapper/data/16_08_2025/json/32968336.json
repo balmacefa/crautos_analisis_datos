@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32968336&Nissan.XRAIL.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "XRAIL",
+    "precio_crc": 10857,
+    "precio_usd": 5450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32968336-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32968336-1.jpg",
+        "https://crautos.com/clasificados/usados/32968336-2.jpg",
+        "https://crautos.com/clasificados/usados/32968336-3.jpg",
+        "https://crautos.com/clasificados/usados/32968336-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARTUR MITINIAN T",
+        "teléfono": "8778-0000 8881-8304 8413-9706",
+        "whatsapp": "8778-0000"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "97,940 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "kilometraje_number": 97940,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

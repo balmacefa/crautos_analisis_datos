@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64311970&Kia.SOUL.2012",
+    "año": 2012,
+    "marca": "KIA",
+    "modelo": "SOUL",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64311970-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64311970-1.jpg",
+        "https://crautos.com/clasificados/usados/64311970-2.jpg",
+        "https://crautos.com/clasificados/usados/64311970-3.jpg",
+        "https://crautos.com/clasificados/usados/64311970-4.jpg",
+        "https://crautos.com/clasificados/usados/64311970-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARIANA RAMÍREZ AGUILAR",
+        "teléfono": "7207-6453 7076-0193",
+        "whatsapp": "7207-6453"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "143,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS PERLADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

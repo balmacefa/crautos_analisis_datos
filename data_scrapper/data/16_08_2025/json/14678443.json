@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14678443&Hino.DUTRO.2018",
+    "año": 2018,
+    "marca": "HINO",
+    "modelo": "DUTRO",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEO MIRANDA",
+        "teléfono": "8708-8708",
+        "whatsapp": "8830-5969"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "FINANCIO RECIBO SU VEHICULO Y ESCUCHO OFERTAS.",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 7
+}

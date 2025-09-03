@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98591523&Land%20Rover.DEFENDER.1988",
+    "año": 1988,
+    "marca": "LAND ROVER",
+    "modelo": "DEFENDER",
+    "precio_crc": 28884,
+    "precio_usd": 14500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98591523-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98591523-1.jpg",
+        "https://crautos.com/clasificados/usados/98591523-2.jpg",
+        "https://crautos.com/clasificados/usados/98591523-3.jpg",
+        "https://crautos.com/clasificados/usados/98591523-4.jpg",
+        "https://crautos.com/clasificados/usados/98591523-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCOS PICADO",
+        "teléfono": "8817-3301",
+        "whatsapp": "8817-3301"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "9",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "34,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Noviembre del 2024",
+        "comentario_vendedor": "Precio NEGOCIABLE!!!. Hablemos! .",
+        "kilometraje_number": 34000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 37
+}

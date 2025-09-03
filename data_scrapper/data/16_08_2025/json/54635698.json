@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54635698&Honda.CRV.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54635698-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54635698-1.jpg",
+        "https://crautos.com/clasificados/usados/54635698-2.jpg",
+        "https://crautos.com/clasificados/usados/54635698-3.jpg",
+        "https://crautos.com/clasificados/usados/54635698-4.jpg",
+        "https://crautos.com/clasificados/usados/54635698-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS DIEGO RAMOS",
+        "teléfono": "8889-2004",
+        "whatsapp": "8889-2004"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Listo para inscribir precio incluye inscripción excelente estado .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

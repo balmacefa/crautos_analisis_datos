@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62374135&Nissan.FRONTIER.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 15438,
+    "precio_usd": 7750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62374135-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62374135-1.jpg",
+        "https://crautos.com/clasificados/usados/62374135-2.jpg",
+        "https://crautos.com/clasificados/usados/62374135-3.jpg",
+        "https://crautos.com/clasificados/usados/62374135-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ARCE",
+        "teléfono": "7060-9032 8991-2319",
+        "whatsapp": "7060-9032"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "320,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Turbo diesel muy buen estado nada que hacerle.",
+        "kilometraje_number": 320000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98684789&Hyundai.GRAND%20I10.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98684789-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98684789-1.jpg",
+        "https://crautos.com/clasificados/usados/98684789-2.jpg",
+        "https://crautos.com/clasificados/usados/98684789-3.jpg",
+        "https://crautos.com/clasificados/usados/98684789-4.jpg",
+        "https://crautos.com/clasificados/usados/98684789-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTIAN RAMÍREZ NÚÑEZ",
+        "teléfono": "8309-5657 8749-3918",
+        "whatsapp": "8309-5657"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "179,696 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEVRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Tiene llantas nuevas.",
+        "kilometraje_number": 179696,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

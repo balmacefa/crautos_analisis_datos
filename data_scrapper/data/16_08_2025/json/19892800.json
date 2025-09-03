@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19892800&Datsun.120Y.1975",
+    "año": 1975,
+    "marca": "DATSUN",
+    "modelo": "120Y",
+    "precio_crc": 5876,
+    "precio_usd": 2950000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO SILVIO ERLER",
+        "teléfono": "6330-4204 6190-4578",
+        "whatsapp": "6190-4578"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "96,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "un carro exelente si maneja con dos dedos. Internos nuevos. Dekra y marchamos al dia.",
+        "kilometraje_number": 96000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 50
+}

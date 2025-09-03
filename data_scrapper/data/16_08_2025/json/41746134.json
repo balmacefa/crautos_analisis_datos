@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41746134&Toyota.RAV4.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41746134-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41746134-1.jpg",
+        "https://crautos.com/clasificados/usados/41746134-2.jpg",
+        "https://crautos.com/clasificados/usados/41746134-3.jpg",
+        "https://crautos.com/clasificados/usados/41746134-4.jpg",
+        "https://crautos.com/clasificados/usados/41746134-5.jpg",
+        "https://crautos.com/clasificados/usados/41746134-6.jpg",
+        "https://crautos.com/clasificados/usados/41746134-7.jpg",
+        "https://crautos.com/clasificados/usados/41746134-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR MADRIGAL",
+        "teléfono": "7159-3684",
+        "whatsapp": "7159-3684"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "199,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Carro en excelente estado..",
+        "kilometraje_number": 199000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 24
+}

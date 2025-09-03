@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31239399&Toyota.4RUNNER.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31239399-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31239399-1.jpg",
+        "https://crautos.com/clasificados/usados/31239399-2.jpg",
+        "https://crautos.com/clasificados/usados/31239399-3.jpg",
+        "https://crautos.com/clasificados/usados/31239399-4.jpg",
+        "https://crautos.com/clasificados/usados/31239399-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ADRIEL MONTENEGRO",
+        "teléfono": "8840-3205 6185-8333",
+        "whatsapp": "8840-3205"
+    },
+    "informacion_general": {
+        "cilindrada": "4500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "101,300 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado de pintura mecánica y llantas.",
+        "kilometraje_number": 101300,
+        "cilindrada_number": 4500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87729258&Chevrolet.SPARK.2016",
+    "año": 2016,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87729258-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87729258-1.jpg",
+        "https://crautos.com/clasificados/usados/87729258-2.jpg",
+        "https://crautos.com/clasificados/usados/87729258-3.jpg",
+        "https://crautos.com/clasificados/usados/87729258-4.jpg",
+        "https://crautos.com/clasificados/usados/87729258-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA RODRIGUEZ R",
+        "teléfono": "8697-8337 8341-9633",
+        "whatsapp": "8697-8337"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Escucho ofertas me urge venderlo..",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74475284&Honda.CIVIC%20LX.2014",
+    "año": 2014,
+    "marca": "HONDA",
+    "modelo": "CIVIC LX",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74475284-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74475284-1.jpg",
+        "https://crautos.com/clasificados/usados/74475284-2.jpg",
+        "https://crautos.com/clasificados/usados/74475284-3.jpg",
+        "https://crautos.com/clasificados/usados/74475284-4.jpg",
+        "https://crautos.com/clasificados/usados/74475284-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO MARTÍN",
+        "teléfono": "6058-8686",
+        "whatsapp": "6058-8686"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "46,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VINO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Único dueño, de agencia. Carro como nuevo impecable tanto mecánicamente como estético.",
+        "kilometraje_number": 46000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11676370&Nissan.SENTRA.1993",
+    "año": 1993,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11676370-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11676370-1.jpg",
+        "https://crautos.com/clasificados/usados/11676370-2.jpg",
+        "https://crautos.com/clasificados/usados/11676370-3.jpg",
+        "https://crautos.com/clasificados/usados/11676370-4.jpg",
+        "https://crautos.com/clasificados/usados/11676370-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL VEGA",
+        "teléfono": "8903-0330 8743-8558",
+        "whatsapp": "8903-0330"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "SE ESCUCHAN OFERTAS. TODO A EL DIA..",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 32
+}

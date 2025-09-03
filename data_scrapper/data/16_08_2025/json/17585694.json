@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17585694&Faw.OLEY.2017",
+    "año": 2017,
+    "marca": "FAW",
+    "modelo": "OLEY",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17585694-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17585694-1.jpg",
+        "https://crautos.com/clasificados/usados/17585694-2.jpg",
+        "https://crautos.com/clasificados/usados/17585694-3.jpg",
+        "https://crautos.com/clasificados/usados/17585694-4.jpg",
+        "https://crautos.com/clasificados/usados/17585694-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS DAVID ABARCA",
+        "teléfono": "8630-1512 8450-7835",
+        "whatsapp": "8630-1512"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "83,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Con Gas de fabrica, muy económico. No usado en plataformas. Pérez Zeledón.",
+        "kilometraje_number": 83000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

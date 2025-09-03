@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14466818&Hyundai.ACCENT.2000",
+    "año": 2000,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14466818-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14466818-1.jpg",
+        "https://crautos.com/clasificados/usados/14466818-2.jpg",
+        "https://crautos.com/clasificados/usados/14466818-3.jpg",
+        "https://crautos.com/clasificados/usados/14466818-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JESUS CAMPOS",
+        "teléfono": "6049-0649",
+        "whatsapp": "6049-0649"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "274,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "En muy buen estado se le acaba de dar mantenimiento motor y caja en excelente estadovéalo y compare .",
+        "kilometraje_number": 274000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76375817&Toyota.RAV4%20ADVENTURE.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "RAV4 ADVENTURE",
+    "precio_crc": 35060,
+    "precio_usd": 17600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76375817-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76375817-1.jpg",
+        "https://crautos.com/clasificados/usados/76375817-2.jpg",
+        "https://crautos.com/clasificados/usados/76375817-3.jpg",
+        "https://crautos.com/clasificados/usados/76375817-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUE VARGAS",
+        "teléfono": "7141-4000",
+        "whatsapp": "7141-4000"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "67,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "LUNAR ROCK",
+        "color_interior": "NETRO / NARANJA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Edicion Adventure FULL EXTRAS .",
+        "kilometraje_number": 67000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

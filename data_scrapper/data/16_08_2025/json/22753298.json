@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22753298&Nissan.TIIDA.2011",
+    "año": 2011,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22753298-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22753298-1.jpg",
+        "https://crautos.com/clasificados/usados/22753298-2.jpg",
+        "https://crautos.com/clasificados/usados/22753298-3.jpg",
+        "https://crautos.com/clasificados/usados/22753298-4.jpg",
+        "https://crautos.com/clasificados/usados/22753298-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARNALDO ODIO",
+        "teléfono": "8616-1105 6172-5285",
+        "whatsapp": "6172-5285"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Carro con sistema de gas muy economico.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

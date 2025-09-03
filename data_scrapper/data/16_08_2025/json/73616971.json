@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73616971&Great%20Wall.VOOLEX%20C20R.2014",
+    "año": 2014,
+    "marca": "GREAT WALL",
+    "modelo": "VOOLEX C20R",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73616971-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73616971-1.jpg",
+        "https://crautos.com/clasificados/usados/73616971-2.jpg",
+        "https://crautos.com/clasificados/usados/73616971-3.jpg",
+        "https://crautos.com/clasificados/usados/73616971-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS RUIZ B",
+        "teléfono": "8691-5614 6016-3024",
+        "whatsapp": "8691-5614"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "53,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Excelente se vende por compra de otro auto poco uso escuchamos ofertas..",
+        "kilometraje_number": 53500,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

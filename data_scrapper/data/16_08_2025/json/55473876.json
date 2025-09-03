@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55473876&Hyundai.ELANTRA%20SE.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA SE",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55473876-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55473876-1.jpg",
+        "https://crautos.com/clasificados/usados/55473876-2.jpg",
+        "https://crautos.com/clasificados/usados/55473876-3.jpg",
+        "https://crautos.com/clasificados/usados/55473876-4.jpg",
+        "https://crautos.com/clasificados/usados/55473876-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID VICTOR",
+        "teléfono": "8950-9396",
+        "whatsapp": "8950-9396"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "77,800 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS-NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable puedo recibir vehículo de menor valor y vuelto a mi favor.",
+        "kilometraje_number": 77800,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

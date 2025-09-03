@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2028067&Hyundai.HD50%20S.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "HD50 S",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2028067-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2028067-1.jpg",
+        "https://crautos.com/clasificados/usados/2028067-2.jpg",
+        "https://crautos.com/clasificados/usados/2028067-3.jpg",
+        "https://crautos.com/clasificados/usados/2028067-4.jpg",
+        "https://crautos.com/clasificados/usados/2028067-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VEHÍCULOS TODO TERRENO",
+        "teléfono": "8334-0109 8822-9797 2239-4611",
+        "dirección": "San Antonio de Belén, 100 mtrs oeste de la entrada principal a Pedregal, frente MXM"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "199,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Financiamiento Disponible, Excelente Estado, Garantía por Escrito..",
+        "kilometraje_number": 199000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 8
+}

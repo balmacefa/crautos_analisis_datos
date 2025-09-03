@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49028461&Honda.CRV.2004",
+    "año": 2004,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49028461-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49028461-1.jpg",
+        "https://crautos.com/clasificados/usados/49028461-2.jpg",
+        "https://crautos.com/clasificados/usados/49028461-3.jpg",
+        "https://crautos.com/clasificados/usados/49028461-4.jpg",
+        "https://crautos.com/clasificados/usados/49028461-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA TORRES MARÍN",
+        "teléfono": "6196-0471"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 8",
+        "color_exterior": "CAFE",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

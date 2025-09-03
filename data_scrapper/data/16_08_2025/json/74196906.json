@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74196906&Toyota.YARIS.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74196906-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74196906-1.jpg",
+        "https://crautos.com/clasificados/usados/74196906-2.jpg",
+        "https://crautos.com/clasificados/usados/74196906-3.jpg",
+        "https://crautos.com/clasificados/usados/74196906-4.jpg",
+        "https://crautos.com/clasificados/usados/74196906-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH CAMPOS VALVERDE",
+        "teléfono": "8318-9110",
+        "whatsapp": "8318-9110"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS/NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

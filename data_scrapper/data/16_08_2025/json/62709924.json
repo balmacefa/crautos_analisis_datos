@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62709924&Isuzu.DMAX%20LS.2015",
+    "año": 2015,
+    "marca": "ISUZU",
+    "modelo": "DMAX LS",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62709924-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62709924-1.jpg",
+        "https://crautos.com/clasificados/usados/62709924-2.jpg",
+        "https://crautos.com/clasificados/usados/62709924-3.jpg",
+        "https://crautos.com/clasificados/usados/62709924-4.jpg",
+        "https://crautos.com/clasificados/usados/62709924-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRÉS MUÑOZ",
+        "teléfono": "6401-5119",
+        "whatsapp": "6401-5119"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "220,930 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Es un vehículo de empresa escriba y negociamos. .",
+        "kilometraje_number": 220930,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

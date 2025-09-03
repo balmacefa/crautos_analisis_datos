@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83345605",
+    "año": 2017,
+    "marca": "HONDA",
+    "modelo": "HRV",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83345605-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83345605-1.jpg",
+        "https://crautos.com/clasificados/usados/83345605-2.jpg",
+        "https://crautos.com/clasificados/usados/83345605-3.jpg",
+        "https://crautos.com/clasificados/usados/83345605-4.jpg",
+        "https://crautos.com/clasificados/usados/83345605-5.jpg",
+        "https://crautos.com/clasificados/usados/83345605-6.jpg",
+        "https://crautos.com/clasificados/usados/83345605-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LAURA",
+        "teléfono": "8869-9463 7276-0291",
+        "whatsapp": "8869-9463"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "86,300 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Comprado en agencia solo dos dueños misma familia.",
+        "kilometraje_number": 86300,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

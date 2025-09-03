@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84228807&Nissan.URVAN.2011",
+    "año": 2011,
+    "marca": "NISSAN",
+    "modelo": "URVAN",
+    "precio_crc": 17430,
+    "precio_usd": 8750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84228807-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84228807-1.jpg",
+        "https://crautos.com/clasificados/usados/84228807-2.jpg",
+        "https://crautos.com/clasificados/usados/84228807-3.jpg",
+        "https://crautos.com/clasificados/usados/84228807-4.jpg",
+        "https://crautos.com/clasificados/usados/84228807-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR JIMENEZ RETANA",
+        "teléfono": "8627-8998",
+        "whatsapp": "8627-8998"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "76,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Excelente para estudiantes .",
+        "kilometraje_number": 76000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 14
+}

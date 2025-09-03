@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59562755&Nissan.SENTRA.1998",
+    "año": 1998,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59562755-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59562755-1.jpg",
+        "https://crautos.com/clasificados/usados/59562755-2.jpg",
+        "https://crautos.com/clasificados/usados/59562755-3.jpg",
+        "https://crautos.com/clasificados/usados/59562755-4.jpg",
+        "https://crautos.com/clasificados/usados/59562755-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO MOLINA",
+        "teléfono": "8659-6679",
+        "whatsapp": "8659-6679"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "166,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Al dia precio negociable solo hay que meterle compensadores traseros y tiene un juego en dirección.",
+        "kilometraje_number": 166000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

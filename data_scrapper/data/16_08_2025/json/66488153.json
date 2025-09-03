@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66488153&Toyota.HILUX.2021",
+    "año": 2021,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 41833,
+    "precio_usd": 21000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66488153-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66488153-1.jpg",
+        "https://crautos.com/clasificados/usados/66488153-2.jpg",
+        "https://crautos.com/clasificados/usados/66488153-3.jpg",
+        "https://crautos.com/clasificados/usados/66488153-4.jpg",
+        "https://crautos.com/clasificados/usados/66488153-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAYRA CASTRO",
+        "teléfono": "8503-3380",
+        "whatsapp": "8503-3380"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "85,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 4
+}

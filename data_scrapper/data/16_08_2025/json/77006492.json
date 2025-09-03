@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77006492&Toyota.COROLLA.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 7869,
+    "precio_usd": 3950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77006492-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77006492-1.jpg",
+        "https://crautos.com/clasificados/usados/77006492-2.jpg",
+        "https://crautos.com/clasificados/usados/77006492-3.jpg",
+        "https://crautos.com/clasificados/usados/77006492-4.jpg",
+        "https://crautos.com/clasificados/usados/77006492-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN MORA",
+        "teléfono": "8301-2494",
+        "whatsapp": "8301-2494"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "267,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "¡EXCELENTE ESTADO! Confiabilidad, economía y la legendaria durabilidad de Toyota ¡Negociable!.",
+        "kilometraje_number": 267000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

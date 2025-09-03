@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96318296&Mitsubishi.OUTLANDER.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96318296-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96318296-1.jpg",
+        "https://crautos.com/clasificados/usados/96318296-2.jpg",
+        "https://crautos.com/clasificados/usados/96318296-3.jpg",
+        "https://crautos.com/clasificados/usados/96318296-4.jpg",
+        "https://crautos.com/clasificados/usados/96318296-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREY LEAL",
+        "teléfono": "8945-9405",
+        "whatsapp": "8945-9405"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "-Interior cómodo y amplio - Polarizado de seguridad -AC -Cámara de reserva.",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

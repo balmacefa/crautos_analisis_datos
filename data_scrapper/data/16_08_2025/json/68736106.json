@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68736106&Nissan.VERSA%20.2020",
+    "año": 2020,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68736106-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68736106-1.jpg",
+        "https://crautos.com/clasificados/usados/68736106-2.jpg",
+        "https://crautos.com/clasificados/usados/68736106-3.jpg",
+        "https://crautos.com/clasificados/usados/68736106-4.jpg",
+        "https://crautos.com/clasificados/usados/68736106-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVEIRO JARAMILLO",
+        "teléfono": "8858-0412 8363-8887",
+        "whatsapp": "8363-8887"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "43,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Está en excelente estado .",
+        "kilometraje_number": 43000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}
