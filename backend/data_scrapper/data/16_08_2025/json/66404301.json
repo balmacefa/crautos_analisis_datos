@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66404301&Nissan.FRONTIER.2000",
+    "año": 2000,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEFANÍA LOAIZA",
+        "teléfono": "8536-8730 8320-7213",
+        "whatsapp": "8536-8730"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Se vende Frontier 2000, motor KA24DE 2400cc, transmisión manual. Mecánicamente muy bien, algunos det.",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 25
+}

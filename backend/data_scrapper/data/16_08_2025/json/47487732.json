@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47487732&Hyundai.GRAND%20I10.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47487732-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47487732-1.jpg",
+        "https://crautos.com/clasificados/usados/47487732-2.jpg",
+        "https://crautos.com/clasificados/usados/47487732-3.jpg",
+        "https://crautos.com/clasificados/usados/47487732-4.jpg",
+        "https://crautos.com/clasificados/usados/47487732-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHAN SANCHEZ",
+        "teléfono": "8582-7131",
+        "whatsapp": "8582-7131"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "86,200 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Se vende porque no se usa.",
+        "kilometraje_number": 86200,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

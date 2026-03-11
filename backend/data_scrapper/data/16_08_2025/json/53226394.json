@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53226394&Toyota.TERCEL.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANNIA MUÑOZ",
+        "teléfono": "8654-8195 2265-7202 8669-7980",
+        "whatsapp": "8654-8195"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "122,545 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado muy cuidado los asientos están perfectos único dueño Dekra al día.",
+        "kilometraje_number": 122545,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 31
+}

@@ -1,0 +1,41 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58963977&JAC.J2.2015",
+    "año": 2015,
+    "marca": "JAC",
+    "modelo": "J2",
+    "precio_crc": 5080,
+    "precio_usd": 2550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58963977-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58963977-1.jpg",
+        "https://crautos.com/clasificados/usados/58963977-2.jpg",
+        "https://crautos.com/clasificados/usados/58963977-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO HERNANDEZ",
+        "teléfono": "8342-3667",
+        "whatsapp": "8342-3667"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [],
+    "antiguedad": 10
+}

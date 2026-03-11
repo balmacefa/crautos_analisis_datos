@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72310538&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72310538-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72310538-1.jpg",
+        "https://crautos.com/clasificados/usados/72310538-2.jpg",
+        "https://crautos.com/clasificados/usados/72310538-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALAN VARGAS",
+        "teléfono": "6015-6612",
+        "whatsapp": "6015-6612"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "CELESTE",
+        "color_interior": "AZUL",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

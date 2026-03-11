@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95941472&Toyota.COROLLA%20DX.1993",
+    "año": 1993,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA DX",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95941472-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95941472-1.jpg",
+        "https://crautos.com/clasificados/usados/95941472-2.jpg",
+        "https://crautos.com/clasificados/usados/95941472-3.jpg",
+        "https://crautos.com/clasificados/usados/95941472-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WALTER WEBB",
+        "teléfono": "8817-0288",
+        "whatsapp": "8817-0288"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Llantas-anillos-pistones-bomba aceite-bomba agua-clutch- totalmente reacondicionado hace tres-mil KM.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 32
+}

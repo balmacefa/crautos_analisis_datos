@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30097387&Toyota.COROLLA.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30097387-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30097387-1.jpg",
+        "https://crautos.com/clasificados/usados/30097387-2.jpg",
+        "https://crautos.com/clasificados/usados/30097387-3.jpg",
+        "https://crautos.com/clasificados/usados/30097387-4.jpg",
+        "https://crautos.com/clasificados/usados/30097387-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICK NARANJO",
+        "teléfono": "8470-5158",
+        "whatsapp": "8470-5158"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "171,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Mayo del 2025",
+        "comentario_vendedor": "Recién pasado Dekra se puede cambiar por uno más moderno o alto doy vuelto radiador nuevo de cobre.",
+        "kilometraje_number": 171000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

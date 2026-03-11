@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63565173&Toyota.RAV4.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 19522,
+    "precio_usd": 9800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARIANA ESPINOZA ROMÁN",
+        "teléfono": "8921-4970 7242-7648 7046-4696",
+        "whatsapp": "7242-7648"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "96,152 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BRONCE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Récord de agencia. Único dueño.",
+        "kilometraje_number": 96152,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

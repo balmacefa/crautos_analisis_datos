@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67855511&Hyundai.ACCENT.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67855511-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67855511-1.jpg",
+        "https://crautos.com/clasificados/usados/67855511-2.jpg",
+        "https://crautos.com/clasificados/usados/67855511-3.jpg",
+        "https://crautos.com/clasificados/usados/67855511-4.jpg",
+        "https://crautos.com/clasificados/usados/67855511-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VINICIO VARGAS BONILLA",
+        "teléfono": "8707-6885",
+        "whatsapp": "8707-6885"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "136,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "se vendo por poco uso.",
+        "kilometraje_number": 136000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

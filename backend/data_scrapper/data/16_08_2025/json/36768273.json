@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36768273&Chevrolet.TRACKER%20PREMIER.2023",
+    "año": 2023,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER PREMIER",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36768273-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36768273-1.jpg",
+        "https://crautos.com/clasificados/usados/36768273-2.jpg",
+        "https://crautos.com/clasificados/usados/36768273-3.jpg",
+        "https://crautos.com/clasificados/usados/36768273-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LLANCEL SIBAJA SIBAJA",
+        "teléfono": "7220-6500",
+        "whatsapp": "7220-6500"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "20,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Vehiculo extras unico propietario record de agencia con Garantía.",
+        "kilometraje_number": 20000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

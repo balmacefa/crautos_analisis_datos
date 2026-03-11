@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43907218&Citroen.BERLINGO.2017",
+    "año": 2017,
+    "marca": "CITROEN",
+    "modelo": "BERLINGO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43907218-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43907218-1.jpg",
+        "https://crautos.com/clasificados/usados/43907218-2.jpg",
+        "https://crautos.com/clasificados/usados/43907218-3.jpg",
+        "https://crautos.com/clasificados/usados/43907218-4.jpg",
+        "https://crautos.com/clasificados/usados/43907218-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROYNER ABARCA",
+        "teléfono": "8868-4438",
+        "whatsapp": "8868-4438"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "159,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en excelente estado Pantalla táctil Apple CarPlay inhalámbrico .",
+        "kilometraje_number": 159000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

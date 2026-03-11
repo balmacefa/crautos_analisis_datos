@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39871017&Suzuki.ALTO.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "ALTO",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39871017-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39871017-1.jpg",
+        "https://crautos.com/clasificados/usados/39871017-2.jpg",
+        "https://crautos.com/clasificados/usados/39871017-3.jpg",
+        "https://crautos.com/clasificados/usados/39871017-4.jpg",
+        "https://crautos.com/clasificados/usados/39871017-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL ARAYA QUIROS",
+        "teléfono": "6296-9548",
+        "whatsapp": "6296-9548"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "206,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NARANJA",
+        "color_interior": "GRIS,NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "El esta muy bien de todo no hay q hacerle nada tiene compensadores nuevos clutch nuevo .",
+        "kilometraje_number": 206000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 13
+}

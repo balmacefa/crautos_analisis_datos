@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41443963&Mini.COOPER%20S.2006",
+    "año": 2006,
+    "marca": "MINI",
+    "modelo": "COOPER S",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41443963-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41443963-1.jpg",
+        "https://crautos.com/clasificados/usados/41443963-2.jpg",
+        "https://crautos.com/clasificados/usados/41443963-3.jpg",
+        "https://crautos.com/clasificados/usados/41443963-4.jpg",
+        "https://crautos.com/clasificados/usados/41443963-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO CASTRO",
+        "teléfono": "7175-4878",
+        "whatsapp": "7175-4878"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "113,862 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Junio del 2025",
+        "comentario_vendedor": "Se vende por poco uso. Tiene unos detalles de pintura..",
+        "kilometraje_number": 113862,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

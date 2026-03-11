@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23794097&Chevrolet.COLORADO%20LT.2020",
+    "año": 2020,
+    "marca": "CHEVROLET",
+    "modelo": "COLORADO LT",
+    "precio_crc": 36853,
+    "precio_usd": 18500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23794097-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23794097-1.jpg",
+        "https://crautos.com/clasificados/usados/23794097-2.jpg",
+        "https://crautos.com/clasificados/usados/23794097-3.jpg",
+        "https://crautos.com/clasificados/usados/23794097-4.jpg",
+        "https://crautos.com/clasificados/usados/23794097-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD GONZALEZ",
+        "teléfono": "8386-1100",
+        "whatsapp": "7275-7626"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "12,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Junio del 2025",
+        "comentario_vendedor": "DE AGENCIA. USO FAMILIAR. UNICO DUEÑO. FULL EXTRAS. COMO NUEVO..",
+        "kilometraje_number": 12000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

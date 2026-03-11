@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4737867&Land%20Rover.DISCOVERY%20HSE%20.2018",
+    "año": 2018,
+    "marca": "LAND ROVER",
+    "modelo": "DISCOVERY HSE",
+    "precio_crc": 32630000,
+    "precio_usd": 65000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4737867-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4737867-1.jpg",
+        "https://crautos.com/clasificados/usados/4737867-2.jpg",
+        "https://crautos.com/clasificados/usados/4737867-3.jpg",
+        "https://crautos.com/clasificados/usados/4737867-4.jpg",
+        "https://crautos.com/clasificados/usados/4737867-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "USADOS MOTORES BRITÁNICOS",
+        "teléfono": "4037-5720",
+        "whatsapp": "4037-5720",
+        "dirección": "Avenida Land Rover, La Uruca"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "69,408 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Mayo del 2025",
+        "kilometraje_number": 69408,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [],
+    "antiguedad": 7
+}

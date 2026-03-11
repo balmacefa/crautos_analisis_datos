@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29377823&Toyota.COROLLA.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JIMMY ROBLES",
+        "teléfono": "8811-4162",
+        "whatsapp": "8811-4162"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Excelente toyota corolla sistema de Gas LP en garantía .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

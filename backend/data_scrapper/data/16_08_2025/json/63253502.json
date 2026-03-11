@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63253502&Nissan.TIIDA.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63253502-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63253502-1.jpg",
+        "https://crautos.com/clasificados/usados/63253502-2.jpg",
+        "https://crautos.com/clasificados/usados/63253502-3.jpg",
+        "https://crautos.com/clasificados/usados/63253502-4.jpg",
+        "https://crautos.com/clasificados/usados/63253502-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO MORA",
+        "teléfono": "8400-4323",
+        "whatsapp": "8400-4323"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "367,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Mecanicamente exelenteDetalles de pintura Limpio firma de una vez.",
+        "kilometraje_number": 367000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

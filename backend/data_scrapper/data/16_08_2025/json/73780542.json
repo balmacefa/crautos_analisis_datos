@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73780542&Nissan.FRONTIER.2020",
+    "año": 2020,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 33665,
+    "precio_usd": 16900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73780542-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73780542-1.jpg",
+        "https://crautos.com/clasificados/usados/73780542-2.jpg",
+        "https://crautos.com/clasificados/usados/73780542-3.jpg",
+        "https://crautos.com/clasificados/usados/73780542-4.jpg",
+        "https://crautos.com/clasificados/usados/73780542-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FAUSI GUADAMUZ CONTRERAS",
+        "teléfono": "7204-1954",
+        "whatsapp": "7204-1954"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de descenso",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

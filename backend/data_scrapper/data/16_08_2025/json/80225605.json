@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80225605&Fiat.UNO.2017",
+    "año": 2017,
+    "marca": "FIAT",
+    "modelo": "UNO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80225605-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80225605-1.jpg",
+        "https://crautos.com/clasificados/usados/80225605-2.jpg",
+        "https://crautos.com/clasificados/usados/80225605-3.jpg",
+        "https://crautos.com/clasificados/usados/80225605-4.jpg",
+        "https://crautos.com/clasificados/usados/80225605-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAIRO AZOFEIFA",
+        "teléfono": "6111-1116 6045-2040",
+        "whatsapp": "6111-1116"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "112,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "ESTA EN EXELENTE ESTADO SUPER ECONÓMICO SUPER SEGURO.",
+        "kilometraje_number": 112000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

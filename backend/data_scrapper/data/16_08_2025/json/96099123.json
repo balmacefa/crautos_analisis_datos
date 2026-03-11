@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96099123&Daihatsu.CUORE.2003",
+    "año": 2003,
+    "marca": "DAIHATSU",
+    "modelo": "CUORE",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96099123-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96099123-1.jpg",
+        "https://crautos.com/clasificados/usados/96099123-2.jpg",
+        "https://crautos.com/clasificados/usados/96099123-3.jpg",
+        "https://crautos.com/clasificados/usados/96099123-4.jpg",
+        "https://crautos.com/clasificados/usados/96099123-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS PAULINO CAMACHO",
+        "teléfono": "8664-8240",
+        "whatsapp": "8664-8240"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "239,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable se recibe vehículo ddebe Dekra en buen estado y a mi nombre.",
+        "kilometraje_number": 239000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Desempañador Trasero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

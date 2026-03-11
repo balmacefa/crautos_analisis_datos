@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6609723&Nissan.URVAN%20NV350.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "URVAN NV350",
+    "precio_crc": 27092,
+    "precio_usd": 13600000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "116,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 116000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 9
+}

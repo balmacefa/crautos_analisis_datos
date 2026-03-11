@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98818283&Kia.PICANTO.2011",
+    "año": 2011,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98818283-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98818283-1.jpg",
+        "https://crautos.com/clasificados/usados/98818283-2.jpg",
+        "https://crautos.com/clasificados/usados/98818283-3.jpg",
+        "https://crautos.com/clasificados/usados/98818283-4.jpg",
+        "https://crautos.com/clasificados/usados/98818283-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HENRY CASTRO ELIZONDO",
+        "teléfono": "8671-6663 6046-8169 8490-6220",
+        "whatsapp": "8671-6663"
+    },
+    "informacion_general": {
+        "cilindrada": "1100 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "81,245 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Mayo del 2025",
+        "comentario_vendedor": "Excelente estado kilometraje muy bajo Dekra julio-veintiseis Traído por Agencia solo dos dueños.",
+        "kilometraje_number": 81245,
+        "cilindrada_number": 1100
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

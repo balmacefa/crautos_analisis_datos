@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62119796&Chevrolet.AVEO.2011",
+    "año": 2011,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 6474,
+    "precio_usd": 3250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62119796-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62119796-1.jpg",
+        "https://crautos.com/clasificados/usados/62119796-2.jpg",
+        "https://crautos.com/clasificados/usados/62119796-3.jpg",
+        "https://crautos.com/clasificados/usados/62119796-4.jpg",
+        "https://crautos.com/clasificados/usados/62119796-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAGDIEL VINDAS",
+        "teléfono": "8557-2777"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "176,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Chevrolet Aveo ¢ cc Manual Vidrios eléctricos C.",
+        "kilometraje_number": 176000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

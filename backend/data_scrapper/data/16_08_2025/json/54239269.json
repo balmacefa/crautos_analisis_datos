@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54239269&Mitsubishi.MIRAGE.2015",
+    "año": 2015,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL ZUÑIGA",
+        "teléfono": "8785-4000",
+        "whatsapp": "8785-4000"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "120,000 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "VEHICULO IMPORTADO PARA INSCRIBIR.",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 10
+}

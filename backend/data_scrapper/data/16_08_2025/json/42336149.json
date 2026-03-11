@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42336149&Toyota.HILUX%20.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 41833,
+    "precio_usd": 21000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42336149-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42336149-1.jpg",
+        "https://crautos.com/clasificados/usados/42336149-2.jpg",
+        "https://crautos.com/clasificados/usados/42336149-3.jpg",
+        "https://crautos.com/clasificados/usados/42336149-4.jpg",
+        "https://crautos.com/clasificados/usados/42336149-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD SEGURA BARRANTES",
+        "teléfono": "8705-7905",
+        "whatsapp": "8705-7905"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "117,500 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable.",
+        "kilometraje_number": 117500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

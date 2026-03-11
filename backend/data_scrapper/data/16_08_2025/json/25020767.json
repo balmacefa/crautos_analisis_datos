@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25020767&Nissan.SENTRA.2022",
+    "año": 2022,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 19890,
+    "precio_usd": 9985000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25020767-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25020767-1.jpg",
+        "https://crautos.com/clasificados/usados/25020767-2.jpg",
+        "https://crautos.com/clasificados/usados/25020767-3.jpg",
+        "https://crautos.com/clasificados/usados/25020767-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VALERIE GARCIA",
+        "teléfono": "6434-9370",
+        "whatsapp": "6434-9370"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "68,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 68000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 3
+}

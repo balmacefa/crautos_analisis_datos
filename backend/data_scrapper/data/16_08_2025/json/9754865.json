@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9754865&BYD.YUAN%20EV%20300.2021",
+    "año": 2021,
+    "marca": "BYD",
+    "modelo": "YUAN EV 300",
+    "precio_crc": 9538000,
+    "precio_usd": 19000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9754865-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9754865-1.jpg",
+        "https://crautos.com/clasificados/usados/9754865-2.jpg",
+        "https://crautos.com/clasificados/usados/9754865-3.jpg",
+        "https://crautos.com/clasificados/usados/9754865-4.jpg",
+        "https://crautos.com/clasificados/usados/9754865-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "41,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "Precio venta no incluye gastos de traspaso.",
+        "kilometraje_number": 41000
+    },
+    "equipamiento": [],
+    "antiguedad": 4
+}

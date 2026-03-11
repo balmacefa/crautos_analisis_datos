@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2092953&Kia.NEW%20BONGO%20III%20DC.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "NEW BONGO III DC",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2092953-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2092953-1.jpg",
+        "https://crautos.com/clasificados/usados/2092953-2.jpg",
+        "https://crautos.com/clasificados/usados/2092953-3.jpg",
+        "https://crautos.com/clasificados/usados/2092953-4.jpg",
+        "https://crautos.com/clasificados/usados/2092953-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VÍA KOREA",
+        "teléfono": "7295-5100 6267-5166 8845-5271",
+        "whatsapp": "7295-5100",
+        "dirección": "De la bomba Villa Bonita, 700 mtrs este sobre autopista Bernardo Soto"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "75,438 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Junio del 2025",
+        "comentario_vendedor": "Recibo Carros o Financiamos propio CINCUENTA por cientos del valor total.",
+        "kilometraje_number": 75438,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 10
+}

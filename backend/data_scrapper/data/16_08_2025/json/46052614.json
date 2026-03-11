@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46052614&Chevrolet.SPARK.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46052614-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46052614-1.jpg",
+        "https://crautos.com/clasificados/usados/46052614-2.jpg",
+        "https://crautos.com/clasificados/usados/46052614-3.jpg",
+        "https://crautos.com/clasificados/usados/46052614-4.jpg",
+        "https://crautos.com/clasificados/usados/46052614-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO ESPINOZA RODRIGUEZ",
+        "teléfono": "8920-2879",
+        "whatsapp": "8920-2879"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS PLOMO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "En Esparza negociable es nacional en kilómetros excelente estado.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

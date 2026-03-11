@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43741613&Toyota.HILUX.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 37847,
+    "precio_usd": 18999000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43741613-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43741613-1.jpg",
+        "https://crautos.com/clasificados/usados/43741613-2.jpg",
+        "https://crautos.com/clasificados/usados/43741613-3.jpg",
+        "https://crautos.com/clasificados/usados/43741613-4.jpg",
+        "https://crautos.com/clasificados/usados/43741613-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH CHAVERRI",
+        "teléfono": "6327-1729",
+        "whatsapp": "6327-1729"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "225,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Extras: Suspensión BP-Bumper frotal AFN-Snorkel-Asientos de cuero-Pantalla y cámara rettroceso .",
+        "kilometraje_number": 225000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

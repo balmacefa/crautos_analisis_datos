@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1189925&Jeep.COMPASS%20SPORT.2019",
+    "año": 2019,
+    "marca": "JEEP",
+    "modelo": "COMPASS SPORT",
+    "precio_crc": 10291000,
+    "precio_usd": 20500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1189925-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1189925-1.jpg",
+        "https://crautos.com/clasificados/usados/1189925-2.jpg",
+        "https://crautos.com/clasificados/usados/1189925-3.jpg",
+        "https://crautos.com/clasificados/usados/1189925-4.jpg",
+        "https://crautos.com/clasificados/usados/1189925-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "21,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Abril del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 21000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 6
+}

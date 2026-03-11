@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30535712&Nissan.VERSA.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30535712-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30535712-1.jpg",
+        "https://crautos.com/clasificados/usados/30535712-2.jpg",
+        "https://crautos.com/clasificados/usados/30535712-3.jpg",
+        "https://crautos.com/clasificados/usados/30535712-4.jpg",
+        "https://crautos.com/clasificados/usados/30535712-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILSON ARGUELLO",
+        "teléfono": "8814-1878",
+        "whatsapp": "8814-1878"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "61,200 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL TURQUESA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Muy entero motor chasis y pintura en muy buen estado.",
+        "kilometraje_number": 61200,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

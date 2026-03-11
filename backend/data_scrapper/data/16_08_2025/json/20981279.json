@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20981279&Hyundai.ELANTRA.2000",
+    "año": 2000,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20981279-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20981279-1.jpg",
+        "https://crautos.com/clasificados/usados/20981279-2.jpg",
+        "https://crautos.com/clasificados/usados/20981279-3.jpg",
+        "https://crautos.com/clasificados/usados/20981279-4.jpg",
+        "https://crautos.com/clasificados/usados/20981279-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VILMA CHAVES",
+        "teléfono": "8626-9596 2416-2168 8722-1158",
+        "whatsapp": "8626-9596"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "2,222 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Debe revisión Dekra de este año .",
+        "kilometraje_number": 2222,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 25
+}

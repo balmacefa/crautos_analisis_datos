@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87295494&Nissan.PATHFINDER.1999",
+    "año": 1999,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87295494-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87295494-1.jpg",
+        "https://crautos.com/clasificados/usados/87295494-2.jpg",
+        "https://crautos.com/clasificados/usados/87295494-3.jpg",
+        "https://crautos.com/clasificados/usados/87295494-4.jpg",
+        "https://crautos.com/clasificados/usados/87295494-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAKESH",
+        "teléfono": "8661-0011",
+        "whatsapp": "8661-0011"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "319,300 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Solo WhatsApp! DEKRA hasta Marzo! Aire Acondicionado! pantalla táctil! cámara marcha atras.",
+        "kilometraje_number": 319300,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

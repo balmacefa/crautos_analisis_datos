@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20208618&Toyota.YARIS.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20208618-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20208618-1.jpg",
+        "https://crautos.com/clasificados/usados/20208618-2.jpg",
+        "https://crautos.com/clasificados/usados/20208618-3.jpg",
+        "https://crautos.com/clasificados/usados/20208618-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTOR CASTELLANOS",
+        "teléfono": "8705-4478",
+        "whatsapp": "8705-4478"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "224,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "SUPER ECONÓMICO. Mantenimiento en autopits. escribir al WhatsApp .",
+        "kilometraje_number": 224500,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

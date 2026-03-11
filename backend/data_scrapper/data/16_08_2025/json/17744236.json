@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17744236&Toyota.TERCEL.1993",
+    "año": 1993,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAROLINA GÓMEZ",
+        "teléfono": "8415-6254",
+        "whatsapp": "8415-6254"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "244,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "CELESTE",
+        "color_interior": "CELESTE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "kilometraje_number": 244000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 32
+}

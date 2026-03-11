@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23620862&Chevrolet.COLORADO.2010",
+    "año": 2010,
+    "marca": "CHEVROLET",
+    "modelo": "COLORADO",
+    "precio_crc": 16135,
+    "precio_usd": 8100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23620862-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23620862-1.jpg",
+        "https://crautos.com/clasificados/usados/23620862-2.jpg",
+        "https://crautos.com/clasificados/usados/23620862-3.jpg",
+        "https://crautos.com/clasificados/usados/23620862-4.jpg",
+        "https://crautos.com/clasificados/usados/23620862-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO JIMENEZ PUJOL",
+        "teléfono": "6135-1482",
+        "whatsapp": "6135-1482"
+    },
+    "informacion_general": {
+        "cilindrada": "3700 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "943,387 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Junio del 2025",
+        "comentario_vendedor": "En excelente estado super cuidado detrá hasta el otro año hoja en blanco .",
+        "kilometraje_number": 943387,
+        "cilindrada_number": 3700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

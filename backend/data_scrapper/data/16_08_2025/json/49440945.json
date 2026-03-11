@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49440945&Mitsubishi.ZINGER.2012",
+    "año": 2012,
+    "marca": "MITSUBISHI",
+    "modelo": "ZINGER",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49440945-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49440945-1.jpg",
+        "https://crautos.com/clasificados/usados/49440945-2.jpg",
+        "https://crautos.com/clasificados/usados/49440945-3.jpg",
+        "https://crautos.com/clasificados/usados/49440945-4.jpg",
+        "https://crautos.com/clasificados/usados/49440945-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANRIQUE BARQUERO",
+        "teléfono": "8729-5449 8380-0591",
+        "whatsapp": "8729-5449"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

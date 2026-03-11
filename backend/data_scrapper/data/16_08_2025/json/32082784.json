@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32082784&Nissan.SENTRA.1998",
+    "año": 1998,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32082784-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32082784-1.jpg",
+        "https://crautos.com/clasificados/usados/32082784-2.jpg",
+        "https://crautos.com/clasificados/usados/32082784-3.jpg",
+        "https://crautos.com/clasificados/usados/32082784-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DDNNIS BROWN",
+        "teléfono": "8823-5440 8672-9090"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "210,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "Buen estado.",
+        "kilometraje_number": 210000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Alarma",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 27
+}

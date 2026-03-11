@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27282818&Suzuki.GRAND%20VITARA%20XL7.2003",
+    "año": 2003,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA XL7",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27282818-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27282818-1.jpg",
+        "https://crautos.com/clasificados/usados/27282818-2.jpg",
+        "https://crautos.com/clasificados/usados/27282818-3.jpg",
+        "https://crautos.com/clasificados/usados/27282818-4.jpg",
+        "https://crautos.com/clasificados/usados/27282818-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE PEÑA CALDERON",
+        "teléfono": "8807-6789 8355-4791 6176-1211",
+        "whatsapp": "8807-6789"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "269,122 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Perfectas condiciones mecánicas detalles de pintura llantas nuevas caja nueva radiador nuevo.",
+        "kilometraje_number": 269122,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

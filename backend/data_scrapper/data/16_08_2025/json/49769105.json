@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49769105&Geely.LC%20PANDA.2013",
+    "año": 2013,
+    "marca": "GEELY",
+    "modelo": "LC PANDA",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49769105-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49769105-1.jpg",
+        "https://crautos.com/clasificados/usados/49769105-2.jpg",
+        "https://crautos.com/clasificados/usados/49769105-3.jpg",
+        "https://crautos.com/clasificados/usados/49769105-4.jpg",
+        "https://crautos.com/clasificados/usados/49769105-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN VARGAS",
+        "teléfono": "8608-8395 6462-3078",
+        "whatsapp": "8608-8395"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "204,700 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Al día aros y llantas nuevos radio cd mp usb.",
+        "kilometraje_number": 204700,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

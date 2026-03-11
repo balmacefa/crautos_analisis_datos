@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5863774&JAC.HFC1035%20K.2017",
+    "año": 2017,
+    "marca": "JAC",
+    "modelo": "HFC1035 K",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5863774-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5863774-1.jpg",
+        "https://crautos.com/clasificados/usados/5863774-2.jpg",
+        "https://crautos.com/clasificados/usados/5863774-3.jpg",
+        "https://crautos.com/clasificados/usados/5863774-4.jpg",
+        "https://crautos.com/clasificados/usados/5863774-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "buen estado se puede financiar una parte .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

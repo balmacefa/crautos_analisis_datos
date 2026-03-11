@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91757678&JAC.T6.2019",
+    "año": 2019,
+    "marca": "JAC",
+    "modelo": "T6",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91757678-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91757678-1.jpg",
+        "https://crautos.com/clasificados/usados/91757678-2.jpg",
+        "https://crautos.com/clasificados/usados/91757678-3.jpg",
+        "https://crautos.com/clasificados/usados/91757678-4.jpg",
+        "https://crautos.com/clasificados/usados/91757678-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONULFO PRENDAS CAMPOS",
+        "teléfono": "8308-2163",
+        "whatsapp": "8308-2163"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Bien cuidado y todo al día. Seguro total INS hasta diciembre. Precio NEGOCIABLE..",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89026183",
+    "año": 2020,
+    "marca": "ISUZU",
+    "modelo": "NLR",
+    "precio_crc": 26295,
+    "precio_usd": 13200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89026183-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89026183-1.jpg",
+        "https://crautos.com/clasificados/usados/89026183-2.jpg",
+        "https://crautos.com/clasificados/usados/89026183-3.jpg",
+        "https://crautos.com/clasificados/usados/89026183-4.jpg",
+        "https://crautos.com/clasificados/usados/89026183-5.jpg",
+        "https://crautos.com/clasificados/usados/89026183-6.jpg",
+        "https://crautos.com/clasificados/usados/89026183-7.jpg",
+        "https://crautos.com/clasificados/usados/89026183-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR CHINCHILLA",
+        "teléfono": "8327-3802 8829-7983",
+        "whatsapp": "8327-3802"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "124,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "AIRE ACONDICIONADO DE FABRICA MUY BUEN ESTADO GENERAL SE PUEDE NEGOCIAR EN CHASIS.",
+        "kilometraje_number": 124000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

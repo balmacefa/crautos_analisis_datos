@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4797539&Mitsubishi.ASX.2020",
+    "año": 2020,
+    "marca": "MITSUBISHI",
+    "modelo": "ASX",
+    "precio_crc": 8483800,
+    "precio_usd": 16900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4797539-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4797539-1.jpg",
+        "https://crautos.com/clasificados/usados/4797539-2.jpg",
+        "https://crautos.com/clasificados/usados/4797539-3.jpg",
+        "https://crautos.com/clasificados/usados/4797539-4.jpg",
+        "https://crautos.com/clasificados/usados/4797539-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARSOT URUCA",
+        "teléfono": "8708-4863 4030-2130",
+        "whatsapp": "6244-4400",
+        "dirección": "De la rotonda juan pablo segundo 50 mts al este a mano derecha frente a Mega Super"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "51,840 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, COMO NUEVO, GARANTIA POR ESCRITO.",
+        "kilometraje_number": 51840,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

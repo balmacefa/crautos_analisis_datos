@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65499570&Nissan.FRONTIER.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65499570-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65499570-1.jpg",
+        "https://crautos.com/clasificados/usados/65499570-2.jpg",
+        "https://crautos.com/clasificados/usados/65499570-3.jpg",
+        "https://crautos.com/clasificados/usados/65499570-4.jpg",
+        "https://crautos.com/clasificados/usados/65499570-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTIAN MORA CALDERON",
+        "teléfono": "7286-6777",
+        "whatsapp": "7286-6777"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "245,388 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "El vehículo se encuentra en Nosara Guanacaste. Podemos coordinar para trarelo a San José..",
+        "kilometraje_number": 245388,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70089956&BMW.X4.2020",
+    "año": 2020,
+    "marca": "BMW",
+    "modelo": "X4",
+    "precio_crc": 49781,
+    "precio_usd": 24990000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70089956-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70089956-1.jpg",
+        "https://crautos.com/clasificados/usados/70089956-2.jpg",
+        "https://crautos.com/clasificados/usados/70089956-3.jpg",
+        "https://crautos.com/clasificados/usados/70089956-4.jpg",
+        "https://crautos.com/clasificados/usados/70089956-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN COLE",
+        "teléfono": "8649-8337",
+        "whatsapp": "8649-8337"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "44,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Récord de agencia- se recibe- se financia- todavía en garantía por la agencia .",
+        "kilometraje_number": 44000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

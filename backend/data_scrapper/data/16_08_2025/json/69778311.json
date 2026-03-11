@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69778311&Mitsubishi.MONTERO.2000",
+    "año": 2000,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69778311-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69778311-1.jpg",
+        "https://crautos.com/clasificados/usados/69778311-2.jpg",
+        "https://crautos.com/clasificados/usados/69778311-3.jpg",
+        "https://crautos.com/clasificados/usados/69778311-4.jpg",
+        "https://crautos.com/clasificados/usados/69778311-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREIVIN VEGA",
+        "teléfono": "8986-6022",
+        "whatsapp": "8986-6022"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "179,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Pregunté sin compromiso. Muy amarrado y buen estado en general .",
+        "kilometraje_number": 179000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

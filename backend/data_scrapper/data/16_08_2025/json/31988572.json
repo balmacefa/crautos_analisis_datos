@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31988572&Chevrolet.TRACKER.2000",
+    "año": 2000,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31988572-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31988572-1.jpg",
+        "https://crautos.com/clasificados/usados/31988572-2.jpg",
+        "https://crautos.com/clasificados/usados/31988572-3.jpg",
+        "https://crautos.com/clasificados/usados/31988572-4.jpg",
+        "https://crautos.com/clasificados/usados/31988572-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIAN ROMERO AGUILAR",
+        "teléfono": "8954-1973 8664-4041",
+        "whatsapp": "8954-1973"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "164,551 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Batería nueva. Libre de gravamen. Detalles estéticos. No se reciben vehículos.",
+        "kilometraje_number": 164551,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

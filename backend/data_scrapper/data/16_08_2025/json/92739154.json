@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92739154&Toyota.MATRIX.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "MATRIX",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92739154-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92739154-1.jpg",
+        "https://crautos.com/clasificados/usados/92739154-2.jpg",
+        "https://crautos.com/clasificados/usados/92739154-3.jpg",
+        "https://crautos.com/clasificados/usados/92739154-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERARDO ALPIZAR",
+        "teléfono": "8825-7741",
+        "whatsapp": "8825-7741"
+    },
+    "informacion_general": {
+        "cilindrada": "17000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "1",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Junio del 2025",
+        "comentario_vendedor": "Negociable .",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 17000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

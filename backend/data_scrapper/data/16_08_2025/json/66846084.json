@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66846084&Mitsubishi.L200.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 28884,
+    "precio_usd": 14500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66846084-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66846084-1.jpg",
+        "https://crautos.com/clasificados/usados/66846084-2.jpg",
+        "https://crautos.com/clasificados/usados/66846084-3.jpg",
+        "https://crautos.com/clasificados/usados/66846084-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELVIN PICADO NARANJO",
+        "teléfono": "8790-0300",
+        "whatsapp": "8790-0300"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Excelente por dentro y por fuera.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

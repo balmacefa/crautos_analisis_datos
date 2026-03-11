@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5466479&Audi.E-TRON.2021",
+    "año": 2021,
+    "marca": "AUDI",
+    "modelo": "E-TRON",
+    "precio_crc": 19327000,
+    "precio_usd": 38500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5466479-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5466479-1.jpg",
+        "https://crautos.com/clasificados/usados/5466479-2.jpg",
+        "https://crautos.com/clasificados/usados/5466479-3.jpg",
+        "https://crautos.com/clasificados/usados/5466479-4.jpg",
+        "https://crautos.com/clasificados/usados/5466479-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "88,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATEADO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "TODO TERRENO.",
+        "kilometraje_number": 88500
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 4
+}

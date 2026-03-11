@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95448659&Honda.CIVIC.2009",
+    "año": 2009,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95448659-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95448659-1.jpg",
+        "https://crautos.com/clasificados/usados/95448659-2.jpg",
+        "https://crautos.com/clasificados/usados/95448659-3.jpg",
+        "https://crautos.com/clasificados/usados/95448659-4.jpg",
+        "https://crautos.com/clasificados/usados/95448659-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS SALAZAR",
+        "teléfono": "8869-3255",
+        "whatsapp": "8869-3255"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado mecánico y estético versión EX.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

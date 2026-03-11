@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5786401&Mercedes%20Benz.450%20SLC.1980",
+    "año": 1980,
+    "marca": "MERCEDES BENZ",
+    "modelo": "450 SLC",
+    "precio_crc": 11546000,
+    "precio_usd": 23000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5786401-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5786401-1.jpg",
+        "https://crautos.com/clasificados/usados/5786401-2.jpg",
+        "https://crautos.com/clasificados/usados/5786401-3.jpg",
+        "https://crautos.com/clasificados/usados/5786401-4.jpg",
+        "https://crautos.com/clasificados/usados/5786401-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN AZOFEIFA",
+        "teléfono": "8513-3864",
+        "whatsapp": "8513-3864",
+        "dirección": "Alajuela, Ciruelas"
+    },
+    "informacion_general": {
+        "cilindrada": "4500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "CAFÉ",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Agosto del 2024",
+        "comentario_vendedor": "EXCELENTE ESTADO. TAPICERÍA ORIGINAL. VERSIÓN AMERICANA .",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 4500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 45
+}

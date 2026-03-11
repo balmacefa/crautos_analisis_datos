@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8019942&Land%20Rover.RANGE%20ROVER%20VOGUE%20.2015",
+    "año": 2015,
+    "marca": "LAND ROVER",
+    "modelo": "RANGE ROVER VOGUE",
+    "precio_crc": 29116000,
+    "precio_usd": 58000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8019942-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8019942-1.jpg",
+        "https://crautos.com/clasificados/usados/8019942-2.jpg",
+        "https://crautos.com/clasificados/usados/8019942-3.jpg",
+        "https://crautos.com/clasificados/usados/8019942-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "USADOS MOTORES BRITÁNICOS",
+        "teléfono": "4037-5720",
+        "whatsapp": "4037-5720",
+        "dirección": "Avenida Land Rover, La Uruca"
+    },
+    "informacion_general": {
+        "cilindrada": "5000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "110,054 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Mayo del 2025",
+        "kilometraje_number": 110054,
+        "cilindrada_number": 5000
+    },
+    "equipamiento": [],
+    "antiguedad": 10
+}

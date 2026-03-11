@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56271714&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56271714-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56271714-1.jpg",
+        "https://crautos.com/clasificados/usados/56271714-2.jpg",
+        "https://crautos.com/clasificados/usados/56271714-3.jpg",
+        "https://crautos.com/clasificados/usados/56271714-4.jpg",
+        "https://crautos.com/clasificados/usados/56271714-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL RAMÍREZ",
+        "teléfono": "8360-8712 8963-3291",
+        "whatsapp": "8360-8712"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "186,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Excelentes condiciones. Excelente pintura. Sistema Anti-secuestro y Alarma.",
+        "kilometraje_number": 186000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

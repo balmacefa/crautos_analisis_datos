@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61913153&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61913153-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61913153-1.jpg",
+        "https://crautos.com/clasificados/usados/61913153-2.jpg",
+        "https://crautos.com/clasificados/usados/61913153-3.jpg",
+        "https://crautos.com/clasificados/usados/61913153-4.jpg",
+        "https://crautos.com/clasificados/usados/61913153-5.jpg",
+        "https://crautos.com/clasificados/usados/61913153-6.jpg",
+        "https://crautos.com/clasificados/usados/61913153-7.jpg",
+        "https://crautos.com/clasificados/usados/61913153-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUILLERMO JIMÉNEZ",
+        "teléfono": "8680-2522",
+        "whatsapp": "8680-2522"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "100,000 millas",
+        "placa": "Termina en e",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "20 de Julio del 2025",
+        "comentario_vendedor": "En perfecto estado nada que hacerle Deckra limpio para inscribir extras.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

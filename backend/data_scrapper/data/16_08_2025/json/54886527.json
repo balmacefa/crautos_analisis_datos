@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54886527&Volkswagen.GOL.2002",
+    "año": 2002,
+    "marca": "VOLKSWAGEN",
+    "modelo": "GOL",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54886527-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54886527-1.jpg",
+        "https://crautos.com/clasificados/usados/54886527-2.jpg",
+        "https://crautos.com/clasificados/usados/54886527-3.jpg",
+        "https://crautos.com/clasificados/usados/54886527-4.jpg",
+        "https://crautos.com/clasificados/usados/54886527-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MIGUEL PARRALES",
+        "teléfono": "6255-8800",
+        "whatsapp": "6255-8800"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Urge vender.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 23
+}

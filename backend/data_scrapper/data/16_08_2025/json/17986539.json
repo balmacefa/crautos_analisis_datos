@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17986539&Nissan.KICKS%20ADVANCE.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "KICKS ADVANCE",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17986539-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17986539-1.jpg",
+        "https://crautos.com/clasificados/usados/17986539-2.jpg",
+        "https://crautos.com/clasificados/usados/17986539-3.jpg",
+        "https://crautos.com/clasificados/usados/17986539-4.jpg",
+        "https://crautos.com/clasificados/usados/17986539-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO CORDERO MONTERO",
+        "teléfono": "8313-6030",
+        "whatsapp": "8313-6030"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "85,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Precio incluye traspaso y es negociable de contado.",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

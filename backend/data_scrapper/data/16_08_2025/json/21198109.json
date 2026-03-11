@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21198109&Jeep.COMPASS.2014",
+    "año": 2014,
+    "marca": "JEEP",
+    "modelo": "COMPASS",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21198109-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21198109-1.jpg",
+        "https://crautos.com/clasificados/usados/21198109-2.jpg",
+        "https://crautos.com/clasificados/usados/21198109-3.jpg",
+        "https://crautos.com/clasificados/usados/21198109-4.jpg",
+        "https://crautos.com/clasificados/usados/21198109-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIAN ALVARADO",
+        "teléfono": "8347-0798"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "81,076 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Revsion tecnica al dia unico dueño frenado inteligente para salidas .",
+        "kilometraje_number": 81076,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73988741&Mitsubishi.ROSA.2015",
+    "año": 2015,
+    "marca": "MITSUBISHI",
+    "modelo": "ROSA",
+    "precio_crc": 54781,
+    "precio_usd": 27500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73988741-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73988741-1.jpg",
+        "https://crautos.com/clasificados/usados/73988741-2.jpg",
+        "https://crautos.com/clasificados/usados/73988741-3.jpg",
+        "https://crautos.com/clasificados/usados/73988741-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO MIRANDA",
+        "teléfono": "8811-0921",
+        "whatsapp": "8811-0921"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "240,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "AZUL/beige",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "Extras un solo dueño.",
+        "kilometraje_number": 240000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

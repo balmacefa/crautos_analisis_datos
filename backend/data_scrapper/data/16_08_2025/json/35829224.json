@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35829224&Land%20Rover.DEFENDER%20130.2008",
+    "año": 2008,
+    "marca": "LAND ROVER",
+    "modelo": "DEFENDER 130",
+    "precio_crc": 69721,
+    "precio_usd": 35000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35829224-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35829224-1.jpg",
+        "https://crautos.com/clasificados/usados/35829224-2.jpg",
+        "https://crautos.com/clasificados/usados/35829224-3.jpg",
+        "https://crautos.com/clasificados/usados/35829224-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN CRUZ",
+        "teléfono": "6019-0610",
+        "whatsapp": "6019-0610"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "245,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "PLATEADO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Junio del 2025",
+        "kilometraje_number": 245000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 17
+}

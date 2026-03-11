@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79629400&Toyota.YARIS.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9940,
+    "precio_usd": 4990000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79629400-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79629400-1.jpg",
+        "https://crautos.com/clasificados/usados/79629400-2.jpg",
+        "https://crautos.com/clasificados/usados/79629400-3.jpg",
+        "https://crautos.com/clasificados/usados/79629400-4.jpg",
+        "https://crautos.com/clasificados/usados/79629400-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS",
+        "teléfono": "7157-9730",
+        "whatsapp": "7157-9730"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "167,084 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Version Americana.",
+        "kilometraje_number": 167084,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

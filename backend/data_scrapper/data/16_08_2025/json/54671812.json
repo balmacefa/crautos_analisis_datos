@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54671812&Volkswagen.JETTA%20MK6%20.2012",
+    "año": 2012,
+    "marca": "VOLKSWAGEN",
+    "modelo": "JETTA MK6",
+    "precio_crc": 10857,
+    "precio_usd": 5450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54671812-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54671812-1.jpg",
+        "https://crautos.com/clasificados/usados/54671812-2.jpg",
+        "https://crautos.com/clasificados/usados/54671812-3.jpg",
+        "https://crautos.com/clasificados/usados/54671812-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEO CASTILLO",
+        "teléfono": "8584-5398",
+        "whatsapp": "8584-5398"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "98,000 kms",
+        "placa": "ND",
+        "color_exterior": "NEGRO PERLADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Mayo del 2025",
+        "comentario_vendedor": "!!!!!RECIBO!!!!!Muy pocos km motor más eficiente y económico Recibo .",
+        "kilometraje_number": 98000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

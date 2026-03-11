@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91450851&Jeep.RUBICON%20GLADIATOR.2020",
+    "año": 2020,
+    "marca": "JEEP",
+    "modelo": "RUBICON GLADIATOR",
+    "precio_crc": 69721,
+    "precio_usd": 35000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JIMMY MAROTHA",
+        "teléfono": "6240-7996",
+        "whatsapp": "6240-7996"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS GRAFITO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR.",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 5
+}

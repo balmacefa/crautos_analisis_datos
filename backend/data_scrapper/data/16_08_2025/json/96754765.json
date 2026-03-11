@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96754765&Suzuki.SIDEKICK%20SPORT.1997",
+    "año": 1997,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK SPORT",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ABRAHAM OLIVAS QUIROS",
+        "teléfono": "7103-7820",
+        "whatsapp": "7103-7820"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "222,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable marchamo y Dekra al día .",
+        "kilometraje_number": 222000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 28
+}

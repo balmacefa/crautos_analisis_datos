@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62089642&Hyundai.ACCENT%20BLUE.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE DAVID HERRERA",
+        "teléfono": "8444-8655 8445-3520",
+        "whatsapp": "8444-8655"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "84,527 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño. Excelente estado. Muy económico y confortable..",
+        "kilometraje_number": 84527,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

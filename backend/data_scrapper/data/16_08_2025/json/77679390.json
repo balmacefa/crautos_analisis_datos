@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77679390&Kia.RIO.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77679390-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77679390-1.jpg",
+        "https://crautos.com/clasificados/usados/77679390-2.jpg",
+        "https://crautos.com/clasificados/usados/77679390-3.jpg",
+        "https://crautos.com/clasificados/usados/77679390-4.jpg",
+        "https://crautos.com/clasificados/usados/77679390-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN ROJAS LIZANO",
+        "teléfono": "8931-8928 7011-2430",
+        "whatsapp": "7011-2430"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado general mecánicamente tapicería y pintura .",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

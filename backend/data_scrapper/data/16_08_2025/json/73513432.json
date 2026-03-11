@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73513432&Toyota.YARIS.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73513432-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73513432-1.jpg",
+        "https://crautos.com/clasificados/usados/73513432-2.jpg",
+        "https://crautos.com/clasificados/usados/73513432-3.jpg",
+        "https://crautos.com/clasificados/usados/73513432-4.jpg",
+        "https://crautos.com/clasificados/usados/73513432-5.jpg",
+        "https://crautos.com/clasificados/usados/73513432-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA FERNANDA MATAMOROS SANCH",
+        "teléfono": "8987-1844 6370-6789 8851-5949",
+        "whatsapp": "8987-1844"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "257,400 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Se vende Toyota YARIS en muy buen estado. Año : Manual Dekra al día Mantenimientos genera.",
+        "kilometraje_number": 257400,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 22
+}

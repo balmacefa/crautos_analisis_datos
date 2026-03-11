@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8493347&Jeep.GRAND%20CHEROKEE%20LIMITED.2021",
+    "año": 2021,
+    "marca": "JEEP",
+    "modelo": "GRAND CHEROKEE LIMITED",
+    "precio_crc": 27610000,
+    "precio_usd": 55000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8493347-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8493347-1.jpg",
+        "https://crautos.com/clasificados/usados/8493347-2.jpg",
+        "https://crautos.com/clasificados/usados/8493347-3.jpg",
+        "https://crautos.com/clasificados/usados/8493347-4.jpg",
+        "https://crautos.com/clasificados/usados/8493347-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Mayo del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio de venta no incluye el traspaso.",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [],
+    "antiguedad": 4
+}

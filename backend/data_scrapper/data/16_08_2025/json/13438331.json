@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13438331",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 13944,
+    "precio_usd": 7000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13438331-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13438331-1.jpg",
+        "https://crautos.com/clasificados/usados/13438331-2.jpg",
+        "https://crautos.com/clasificados/usados/13438331-3.jpg",
+        "https://crautos.com/clasificados/usados/13438331-4.jpg",
+        "https://crautos.com/clasificados/usados/13438331-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ANDRÉS VIQUEZ",
+        "teléfono": "6345-5652",
+        "whatsapp": "6345-5652"
+    },
+    "informacion_general": {
+        "cilindrada": "2362 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Llantas nuevas y con todos sus accesorios .",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2362
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

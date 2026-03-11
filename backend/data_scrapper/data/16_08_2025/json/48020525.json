@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48020525&Toyota.RAV4%20L.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "RAV4 L",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN JIMENEZ",
+        "teléfono": "8583-5383 8309-6969",
+        "whatsapp": "8583-5383"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ sunroof controles al volante garantia por escrito precio a su nombre.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

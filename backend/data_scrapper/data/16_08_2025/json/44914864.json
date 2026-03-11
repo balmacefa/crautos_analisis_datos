@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44914864&Kia.PICANTO%20.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44914864-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44914864-1.jpg",
+        "https://crautos.com/clasificados/usados/44914864-2.jpg",
+        "https://crautos.com/clasificados/usados/44914864-3.jpg",
+        "https://crautos.com/clasificados/usados/44914864-4.jpg",
+        "https://crautos.com/clasificados/usados/44914864-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN AGÜERO FERNÁNDEZ",
+        "teléfono": "8893-0900",
+        "whatsapp": "8893-0900"
+    },
+    "informacion_general": {
+        "cilindrada": "1250 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "185,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen estado .",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 1250
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

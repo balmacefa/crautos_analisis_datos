@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50037330&BYD.F0.2018",
+    "año": 2018,
+    "marca": "BYD",
+    "modelo": "F0",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50037330-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50037330-1.jpg",
+        "https://crautos.com/clasificados/usados/50037330-2.jpg",
+        "https://crautos.com/clasificados/usados/50037330-3.jpg",
+        "https://crautos.com/clasificados/usados/50037330-4.jpg",
+        "https://crautos.com/clasificados/usados/50037330-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DODANI GRANADOS",
+        "teléfono": "8846-0652",
+        "whatsapp": "8846-0652"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "79,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Todo al día. Hoja de Dekra en blanco. .",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

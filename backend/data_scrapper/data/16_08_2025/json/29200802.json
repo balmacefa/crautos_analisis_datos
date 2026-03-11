@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29200802&Chevrolet.SPARK.2001",
+    "año": 2001,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 1992,
+    "precio_usd": 1000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29200802-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29200802-1.jpg",
+        "https://crautos.com/clasificados/usados/29200802-2.jpg",
+        "https://crautos.com/clasificados/usados/29200802-3.jpg",
+        "https://crautos.com/clasificados/usados/29200802-4.jpg",
+        "https://crautos.com/clasificados/usados/29200802-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATHALIA GONZÁLEZ",
+        "teléfono": "8941-6481",
+        "whatsapp": "8941-6481"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "288,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "El carro funciona pero necesita reparaciones. Escucho ofertas, consultas por whatsapp.",
+        "kilometraje_number": 288000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

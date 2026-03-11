@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84025567&Ford.F150%20RAPTOR%20BI-TURBO.2018",
+    "año": 2018,
+    "marca": "FORD",
+    "modelo": "F150 RAPTOR BI-TURBO",
+    "precio_crc": 71713,
+    "precio_usd": 36000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JIMMY MAROTHA",
+        "teléfono": "6240-7996",
+        "whatsapp": "6240-7996"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "70,200 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO Y NARANJA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR.",
+        "kilometraje_number": 70200,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Control crucero",
+        "Control de descenso",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 7
+}

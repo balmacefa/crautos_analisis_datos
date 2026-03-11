@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18756958&Daihatsu.TERIOS.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18756958-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18756958-1.jpg",
+        "https://crautos.com/clasificados/usados/18756958-2.jpg",
+        "https://crautos.com/clasificados/usados/18756958-3.jpg",
+        "https://crautos.com/clasificados/usados/18756958-4.jpg",
+        "https://crautos.com/clasificados/usados/18756958-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR SALAS",
+        "teléfono": "8969-3198 6016-5363"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "233,900 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Execelente estado.",
+        "kilometraje_number": 233900,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

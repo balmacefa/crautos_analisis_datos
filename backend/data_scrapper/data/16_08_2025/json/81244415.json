@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81244415&Toyota.HILUX.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81244415-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81244415-1.jpg",
+        "https://crautos.com/clasificados/usados/81244415-2.jpg",
+        "https://crautos.com/clasificados/usados/81244415-3.jpg",
+        "https://crautos.com/clasificados/usados/81244415-4.jpg",
+        "https://crautos.com/clasificados/usados/81244415-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON VARELA ARAYA",
+        "teléfono": "8375-7313",
+        "whatsapp": "8404-8585"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado muy cuidado. Bloqueo trasero. Único dueño.",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

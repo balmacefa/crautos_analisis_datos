@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54439234&Suzuki.SAMURAI.1988",
+    "año": 1988,
+    "marca": "SUZUKI",
+    "modelo": "SAMURAI",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54439234-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54439234-1.jpg",
+        "https://crautos.com/clasificados/usados/54439234-2.jpg",
+        "https://crautos.com/clasificados/usados/54439234-3.jpg",
+        "https://crautos.com/clasificados/usados/54439234-4.jpg",
+        "https://crautos.com/clasificados/usados/54439234-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ MANUEL BRENES",
+        "teléfono": "8380-5229"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "CELESTE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Modelo 88 Motor más reciente de Sidekick 1600 con 8 válvulas, carburado Caja de 5ta de sideckick Rel.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 37
+}

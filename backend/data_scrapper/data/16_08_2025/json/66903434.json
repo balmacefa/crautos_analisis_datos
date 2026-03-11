@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66903434&Honda.PILOT%20LX.2016",
+    "año": 2016,
+    "marca": "HONDA",
+    "modelo": "PILOT LX",
+    "precio_crc": 18426,
+    "precio_usd": 9250000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES ROJAS",
+        "teléfono": "8510-7441",
+        "whatsapp": "8510-7441"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "289,041 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "kilometraje_number": 289041,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

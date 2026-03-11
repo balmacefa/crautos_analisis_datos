@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3361040&Mitsubishi.MONTERO.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 11797000,
+    "precio_usd": 23500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3361040-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3361040-1.jpg",
+        "https://crautos.com/clasificados/usados/3361040-2.jpg",
+        "https://crautos.com/clasificados/usados/3361040-3.jpg",
+        "https://crautos.com/clasificados/usados/3361040-4.jpg",
+        "https://crautos.com/clasificados/usados/3361040-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "2477 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "86,368 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "SUV.",
+        "kilometraje_number": 86368,
+        "cilindrada_number": 2477
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 9
+}

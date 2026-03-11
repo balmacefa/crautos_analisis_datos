@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2421076&Fiat.SIENA.2016",
+    "año": 2016,
+    "marca": "FIAT",
+    "modelo": "SIENA",
+    "precio_crc": 3957885,
+    "precio_usd": 7884.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2421076-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2421076-1.jpg",
+        "https://crautos.com/clasificados/usados/2421076-2.jpg",
+        "https://crautos.com/clasificados/usados/2421076-3.jpg",
+        "https://crautos.com/clasificados/usados/2421076-4.jpg",
+        "https://crautos.com/clasificados/usados/2421076-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "G CARS",
+        "teléfono": "8904-3636 8323-4430",
+        "whatsapp": "8904-3636",
+        "dirección": "Tibás, detrás del Más x Menos, calle sin salida. 8904-3636"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "106,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Vehículo súper cuidado, opción de financiamiento CERO Prima disponible para asalariados.",
+        "kilometraje_number": 106000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88880360",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88880360-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88880360-1.jpg",
+        "https://crautos.com/clasificados/usados/88880360-2.jpg",
+        "https://crautos.com/clasificados/usados/88880360-3.jpg",
+        "https://crautos.com/clasificados/usados/88880360-4.jpg",
+        "https://crautos.com/clasificados/usados/88880360-5.jpg",
+        "https://crautos.com/clasificados/usados/88880360-6.jpg",
+        "https://crautos.com/clasificados/usados/88880360-7.jpg",
+        "https://crautos.com/clasificados/usados/88880360-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSHUA",
+        "teléfono": "8419-4252",
+        "whatsapp": "8419-4252"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "144,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 144000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

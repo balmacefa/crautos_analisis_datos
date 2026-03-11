@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94120118&Ford.RANGER.2007",
+    "año": 2007,
+    "marca": "FORD",
+    "modelo": "RANGER",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94120118-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94120118-1.jpg",
+        "https://crautos.com/clasificados/usados/94120118-2.jpg",
+        "https://crautos.com/clasificados/usados/94120118-3.jpg",
+        "https://crautos.com/clasificados/usados/94120118-4.jpg",
+        "https://crautos.com/clasificados/usados/94120118-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUE BUSTOS",
+        "teléfono": "6260-4164",
+        "whatsapp": "6260-4164"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Muy buen estado recibo de mi interes.",
+        "kilometraje_number": 200,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

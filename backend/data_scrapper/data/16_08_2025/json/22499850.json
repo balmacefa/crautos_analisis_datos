@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22499850&Hyundai.HD36L.2022",
+    "año": 2022,
+    "marca": "HYUNDAI",
+    "modelo": "HD36L",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22499850-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22499850-1.jpg",
+        "https://crautos.com/clasificados/usados/22499850-2.jpg",
+        "https://crautos.com/clasificados/usados/22499850-3.jpg",
+        "https://crautos.com/clasificados/usados/22499850-4.jpg",
+        "https://crautos.com/clasificados/usados/22499850-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAUL SANCHEZ MATA",
+        "teléfono": "7034-1348 8992-1439",
+        "whatsapp": "7034-1348"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "115,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "Se maneja con B1 caja arenero listo para trabajar .",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 3
+}

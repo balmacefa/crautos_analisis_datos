@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48008529&Kia.PICANTO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48008529-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48008529-1.jpg",
+        "https://crautos.com/clasificados/usados/48008529-2.jpg",
+        "https://crautos.com/clasificados/usados/48008529-3.jpg",
+        "https://crautos.com/clasificados/usados/48008529-4.jpg",
+        "https://crautos.com/clasificados/usados/48008529-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELSA LEÓN",
+        "teléfono": "8830-7894",
+        "whatsapp": "8830-7894"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "86,130 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLACO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. .",
+        "kilometraje_number": 86130,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

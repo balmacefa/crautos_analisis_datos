@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6042971&Nissan.TIIDA%20LUXURY%20.2010",
+    "año": 2010,
+    "marca": "NISSAN",
+    "modelo": "TIIDA LUXURY",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6042971-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6042971-1.jpg",
+        "https://crautos.com/clasificados/usados/6042971-2.jpg",
+        "https://crautos.com/clasificados/usados/6042971-3.jpg",
+        "https://crautos.com/clasificados/usados/6042971-4.jpg",
+        "https://crautos.com/clasificados/usados/6042971-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO XIRI TIBÁS",
+        "teléfono": "2236-9966 8785-6553 6009-9978",
+        "whatsapp": "6009-9978",
+        "dirección": "San Juan de Tibas , 150 mts oeste del Maxipali, edificio Auto Xiri"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "133,267 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS PLOMO",
+        "color_interior": "NEGRO - MADERA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Nítido,de agencia , un solo dueño,garantía y respaldo , recibimos , AUTO XIRI TIBAS .",
+        "kilometraje_number": 133267,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

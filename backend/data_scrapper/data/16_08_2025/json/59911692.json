@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59911692&Suzuki.CELERIO%20GLX.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO GLX",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59911692-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59911692-1.jpg",
+        "https://crautos.com/clasificados/usados/59911692-2.jpg",
+        "https://crautos.com/clasificados/usados/59911692-3.jpg",
+        "https://crautos.com/clasificados/usados/59911692-4.jpg",
+        "https://crautos.com/clasificados/usados/59911692-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CINTHYA ARAYA",
+        "teléfono": "8686-6582 8427-3726",
+        "whatsapp": "8686-6582"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "37,643 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS CLARO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Perfecto estado .",
+        "kilometraje_number": 37643,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

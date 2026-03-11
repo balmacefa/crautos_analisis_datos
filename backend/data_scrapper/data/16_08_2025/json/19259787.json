@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19259787",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 23307,
+    "precio_usd": 11700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19259787-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19259787-1.jpg",
+        "https://crautos.com/clasificados/usados/19259787-2.jpg",
+        "https://crautos.com/clasificados/usados/19259787-3.jpg",
+        "https://crautos.com/clasificados/usados/19259787-4.jpg",
+        "https://crautos.com/clasificados/usados/19259787-5.jpg",
+        "https://crautos.com/clasificados/usados/19259787-6.jpg",
+        "https://crautos.com/clasificados/usados/19259787-7.jpg",
+        "https://crautos.com/clasificados/usados/19259787-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRACE MARÍN SOLÍS",
+        "teléfono": "8959-9448 6044-1465",
+        "whatsapp": "8959-9448"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "73,713 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Recién pintado. Batería nueva. Muy bajo kilometraje. Se vende por falta de uso. .",
+        "kilometraje_number": 73713,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

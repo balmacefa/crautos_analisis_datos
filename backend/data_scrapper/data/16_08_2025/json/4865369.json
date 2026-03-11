@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4865369&Jeep.WRANGLER%20UNLIMITED%20SPORT.2015",
+    "año": 2015,
+    "marca": "JEEP",
+    "modelo": "WRANGLER UNLIMITED SPORT",
+    "precio_crc": 37649,
+    "precio_usd": 18900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4865369-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4865369-1.jpg",
+        "https://crautos.com/clasificados/usados/4865369-2.jpg",
+        "https://crautos.com/clasificados/usados/4865369-3.jpg",
+        "https://crautos.com/clasificados/usados/4865369-4.jpg",
+        "https://crautos.com/clasificados/usados/4865369-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "109,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Octubre del 2024",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95008835&Toyota.COROLLA%20SPORT%20.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA SPORT",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95008835-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95008835-1.jpg",
+        "https://crautos.com/clasificados/usados/95008835-2.jpg",
+        "https://crautos.com/clasificados/usados/95008835-3.jpg",
+        "https://crautos.com/clasificados/usados/95008835-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS LEON",
+        "teléfono": "7109-1395 7109-6441",
+        "whatsapp": "7109-1395"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "87,525 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Historial de mantenimiento en Purdy Motor..",
+        "kilometraje_number": 87525,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

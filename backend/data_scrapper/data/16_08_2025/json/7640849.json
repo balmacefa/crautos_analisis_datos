@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7640849&Hyundai.COUNTY.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "COUNTY",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7640849-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7640849-1.jpg",
+        "https://crautos.com/clasificados/usados/7640849-2.jpg",
+        "https://crautos.com/clasificados/usados/7640849-3.jpg",
+        "https://crautos.com/clasificados/usados/7640849-4.jpg",
+        "https://crautos.com/clasificados/usados/7640849-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VÍA KOREA",
+        "teléfono": "7295-5100 6267-5166 8845-5271",
+        "whatsapp": "7295-5100",
+        "dirección": "De la bomba Villa Bonita, 700 mtrs este sobre autopista Bernardo Soto"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "79,770 kms",
+        "placa": "ND",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "FINANCIAMIENTO PROPIO Y FINANCIAMIENTO CON BANCOS RECIBIMOS CARRO COMO PARTE DE PAGO.",
+        "kilometraje_number": 79770,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

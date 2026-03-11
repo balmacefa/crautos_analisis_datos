@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61196203&BMW.SERIE%205%20E34.1988",
+    "año": 1988,
+    "marca": "BMW",
+    "modelo": "SERIE 5 E34",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN ANDRES VARGAS QUESAD",
+        "teléfono": "8566-6305",
+        "whatsapp": "8566-6305"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "147,733 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "El carro tiene sus cosas de carro viejo por eso el precio bajo y negociable esta en muy buen estado.",
+        "kilometraje_number": 147733,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [],
+    "antiguedad": 37
+}

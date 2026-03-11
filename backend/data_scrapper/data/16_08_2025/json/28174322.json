@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28174322&Toyota.LAND%20CRUISER%20PRADO.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER PRADO",
+    "precio_crc": 19721,
+    "precio_usd": 9900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28174322-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28174322-1.jpg",
+        "https://crautos.com/clasificados/usados/28174322-2.jpg",
+        "https://crautos.com/clasificados/usados/28174322-3.jpg",
+        "https://crautos.com/clasificados/usados/28174322-4.jpg",
+        "https://crautos.com/clasificados/usados/28174322-5.jpg",
+        "https://crautos.com/clasificados/usados/28174322-6.jpg",
+        "https://crautos.com/clasificados/usados/28174322-7.jpg",
+        "https://crautos.com/clasificados/usados/28174322-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO RIOS",
+        "teléfono": "7003-3312"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "8",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "279,099 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado mantenimientos al día .",
+        "kilometraje_number": 279099,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

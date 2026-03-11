@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11564416&Toyota.TACOMA.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11564416-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11564416-1.jpg",
+        "https://crautos.com/clasificados/usados/11564416-2.jpg",
+        "https://crautos.com/clasificados/usados/11564416-3.jpg",
+        "https://crautos.com/clasificados/usados/11564416-4.jpg",
+        "https://crautos.com/clasificados/usados/11564416-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE PABLO GONZÁLEZ CAMPOS",
+        "teléfono": "8839-5191",
+        "whatsapp": "8839-5191"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Excelente mantenimiento .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 22
+}

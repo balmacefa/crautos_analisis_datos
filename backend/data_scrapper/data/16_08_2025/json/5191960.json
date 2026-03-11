@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5191960&Hyundai.ACCENT.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9940,
+    "precio_usd": 4990000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5191960-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5191960-1.jpg",
+        "https://crautos.com/clasificados/usados/5191960-2.jpg",
+        "https://crautos.com/clasificados/usados/5191960-3.jpg",
+        "https://crautos.com/clasificados/usados/5191960-4.jpg",
+        "https://crautos.com/clasificados/usados/5191960-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DREAM CARS CR",
+        "teléfono": "8719-0505",
+        "whatsapp": "8719-0505",
+        "dirección": "Guacima, de la gasolinera de San Antonio 500 al sur en Calle Monge"
+    },
+    "informacion_general": {
+        "cilindrada": "14000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "99,950 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "PRECIO FINAL SOLO POR ESTA SEMANA. FINANCIAMOS RECIBIMOS Y DAMOS GARANTÍA .",
+        "kilometraje_number": 99950,
+        "cilindrada_number": 14000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

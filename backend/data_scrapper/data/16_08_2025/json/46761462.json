@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46761462&Suzuki.JIMNY.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46761462-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46761462-1.jpg",
+        "https://crautos.com/clasificados/usados/46761462-2.jpg",
+        "https://crautos.com/clasificados/usados/46761462-3.jpg",
+        "https://crautos.com/clasificados/usados/46761462-4.jpg",
+        "https://crautos.com/clasificados/usados/46761462-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO RUIZ",
+        "teléfono": "7098-2683 8815-2650 8964-9289",
+        "whatsapp": "7098-2683"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "385,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRI",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Doble de botón. Llantas nuevas. Aire acondicionado .",
+        "kilometraje_number": 385000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36475597&Toyota.YARIS%20.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36475597-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36475597-1.jpg",
+        "https://crautos.com/clasificados/usados/36475597-2.jpg",
+        "https://crautos.com/clasificados/usados/36475597-3.jpg",
+        "https://crautos.com/clasificados/usados/36475597-4.jpg",
+        "https://crautos.com/clasificados/usados/36475597-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATHALY MILTON",
+        "teléfono": "8376-6084",
+        "whatsapp": "8376-6084"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Carro super cuidado en excelente estado cero oxido detalles mínimos de pintura.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 18
+}

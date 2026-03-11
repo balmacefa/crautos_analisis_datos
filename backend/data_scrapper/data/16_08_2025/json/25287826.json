@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25287826&Suzuki.SWIFT.2011",
+    "año": 2011,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEAN CARLOS CALDERON",
+        "teléfono": "7011-2468",
+        "whatsapp": "7011-2468"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "184,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Vendo o cambio por carro más moderno y doy vuelta.",
+        "kilometraje_number": 184000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

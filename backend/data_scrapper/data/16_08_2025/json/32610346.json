@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32610346&Great%20Wall.HAVAL%20H5.2013",
+    "año": 2013,
+    "marca": "GREAT WALL",
+    "modelo": "HAVAL H5",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32610346-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32610346-1.jpg",
+        "https://crautos.com/clasificados/usados/32610346-2.jpg",
+        "https://crautos.com/clasificados/usados/32610346-3.jpg",
+        "https://crautos.com/clasificados/usados/32610346-4.jpg",
+        "https://crautos.com/clasificados/usados/32610346-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAUL DURAN MARTÍNEZ",
+        "teléfono": "8470-6399",
+        "whatsapp": "8470-6399"
+    },
+    "informacion_general": {
+        "cilindrada": "2600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "197,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATA",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Auto en excelente estado. Robusto fuerte y todo terreno..",
+        "kilometraje_number": 197000,
+        "cilindrada_number": 2600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96661591&Donfeng%20(ZNA).RICH.2011",
+    "año": 2011,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) RICH",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96661591-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96661591-1.jpg",
+        "https://crautos.com/clasificados/usados/96661591-2.jpg",
+        "https://crautos.com/clasificados/usados/96661591-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLMAN MADRIGAL",
+        "teléfono": "8982-9385"
+    },
+    "informacion_general": {
+        "cilindrada": "3100 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS/NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 3100
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 14
+}

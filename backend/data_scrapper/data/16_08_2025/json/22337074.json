@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22337074&Toyota.SUPRA%20MK3.1987",
+    "año": 1987,
+    "marca": "TOYOTA",
+    "modelo": "SUPRA MK3",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22337074-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22337074-1.jpg",
+        "https://crautos.com/clasificados/usados/22337074-2.jpg",
+        "https://crautos.com/clasificados/usados/22337074-3.jpg",
+        "https://crautos.com/clasificados/usados/22337074-4.jpg",
+        "https://crautos.com/clasificados/usados/22337074-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR GONZALEZ",
+        "teléfono": "8996-8055",
+        "whatsapp": "8996-8055"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Tiene todos los aros de Lexus-Turbo Timer-Super AFC Apexi-muchas mejoras.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 38
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32221387&Honda.CRV.2004",
+    "año": 2004,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32221387-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32221387-1.jpg",
+        "https://crautos.com/clasificados/usados/32221387-2.jpg",
+        "https://crautos.com/clasificados/usados/32221387-3.jpg",
+        "https://crautos.com/clasificados/usados/32221387-4.jpg",
+        "https://crautos.com/clasificados/usados/32221387-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROYBIN OBREGON",
+        "teléfono": "8388-2359 8991-5506",
+        "whatsapp": "8388-2359"
+    },
+    "informacion_general": {
+        "cilindrada": "24000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "102,200 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Muy económico. Precio negociable. .",
+        "kilometraje_number": 102200,
+        "cilindrada_number": 24000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

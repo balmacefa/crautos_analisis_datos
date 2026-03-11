@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29116352&Toyota.RAV4.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29116352-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29116352-1.jpg",
+        "https://crautos.com/clasificados/usados/29116352-2.jpg",
+        "https://crautos.com/clasificados/usados/29116352-3.jpg",
+        "https://crautos.com/clasificados/usados/29116352-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUE CASTRO",
+        "teléfono": "6117-6047",
+        "whatsapp": "7297-9555"
+    },
+    "informacion_general": {
+        "cilindrada": "2362 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "301,394 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "CAFE CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Detalles en la pintura y carroceria del carro mecanicamente muy bien cuidado..",
+        "kilometraje_number": 301394,
+        "cilindrada_number": 2362
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

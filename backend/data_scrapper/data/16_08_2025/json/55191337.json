@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55191337&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55191337-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55191337-1.jpg",
+        "https://crautos.com/clasificados/usados/55191337-2.jpg",
+        "https://crautos.com/clasificados/usados/55191337-3.jpg",
+        "https://crautos.com/clasificados/usados/55191337-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HERSON CANO DUARTES",
+        "teléfono": "8434-0886 8863-3554",
+        "whatsapp": "8434-0886"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "179,572 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Urge vender.",
+        "kilometraje_number": 179572,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

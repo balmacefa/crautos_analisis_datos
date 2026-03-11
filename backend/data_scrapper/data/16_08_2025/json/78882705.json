@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78882705&Nissan.TIIDA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78882705-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78882705-1.jpg",
+        "https://crautos.com/clasificados/usados/78882705-2.jpg",
+        "https://crautos.com/clasificados/usados/78882705-3.jpg",
+        "https://crautos.com/clasificados/usados/78882705-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS PORTUGUEZ",
+        "teléfono": "7225-6335 8539-4348",
+        "whatsapp": "7225-6335"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "187,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "Motor y caja excelente estado, totalmente al día y sin gravámenes!.",
+        "kilometraje_number": 187000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

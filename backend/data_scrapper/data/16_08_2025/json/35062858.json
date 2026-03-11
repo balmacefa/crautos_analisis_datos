@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35062858&Hyundai.ACCENT.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35062858-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35062858-1.jpg",
+        "https://crautos.com/clasificados/usados/35062858-2.jpg",
+        "https://crautos.com/clasificados/usados/35062858-3.jpg",
+        "https://crautos.com/clasificados/usados/35062858-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS LOPEZ",
+        "teléfono": "8438-2907",
+        "whatsapp": "8438-2907"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "117,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "Excelentes condiciones llantas y clutch nuevos. PRECIO NEGOCIABLE !!.",
+        "kilometraje_number": 117000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

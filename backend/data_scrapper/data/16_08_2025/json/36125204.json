@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36125204&Isuzu.NQR.2019",
+    "año": 2019,
+    "marca": "ISUZU",
+    "modelo": "NQR",
+    "precio_crc": 36853,
+    "precio_usd": 18500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36125204-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36125204-1.jpg",
+        "https://crautos.com/clasificados/usados/36125204-2.jpg",
+        "https://crautos.com/clasificados/usados/36125204-3.jpg",
+        "https://crautos.com/clasificados/usados/36125204-4.jpg",
+        "https://crautos.com/clasificados/usados/36125204-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID VARGAS",
+        "teléfono": "8517-2221",
+        "whatsapp": "8517-2221"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 8.0-9.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "219,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Para inscribir se recibe en EFECTIVO el precio es negociable se puede vender en chasis.",
+        "kilometraje_number": 219000,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19576120&Hyundai.H1.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 19522,
+    "precio_usd": 9800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19576120-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19576120-1.jpg",
+        "https://crautos.com/clasificados/usados/19576120-2.jpg",
+        "https://crautos.com/clasificados/usados/19576120-3.jpg",
+        "https://crautos.com/clasificados/usados/19576120-4.jpg",
+        "https://crautos.com/clasificados/usados/19576120-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ORLANDO BRENES",
+        "teléfono": "8887-4887 7122-5139 8634-2155",
+        "whatsapp": "8887-4887"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "41,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño no se ha usado para turismo ni escuela solouso familiar. Motor CDRi. FINANCIO.",
+        "kilometraje_number": 41000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92950990&Mercedes%20Benz.SL500.2004",
+    "año": 2004,
+    "marca": "MERCEDES BENZ",
+    "modelo": "SL500",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92950990-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92950990-1.jpg",
+        "https://crautos.com/clasificados/usados/92950990-2.jpg",
+        "https://crautos.com/clasificados/usados/92950990-3.jpg",
+        "https://crautos.com/clasificados/usados/92950990-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN DIAZ",
+        "teléfono": "8843-8106",
+        "whatsapp": "8843-8106"
+    },
+    "informacion_general": {
+        "cilindrada": "5000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 millas",
+        "placa": "ND",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Junio del 2025",
+        "comentario_vendedor": "Impecable. Dekra hasta oct puedo recibir auto o financiar .",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 5000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

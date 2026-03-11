@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4945623&Hummer.H3%20LUXURY.2007",
+    "año": 2007,
+    "marca": "HUMMER",
+    "modelo": "H3 LUXURY",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4945623-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4945623-1.jpg",
+        "https://crautos.com/clasificados/usados/4945623-2.jpg",
+        "https://crautos.com/clasificados/usados/4945623-3.jpg",
+        "https://crautos.com/clasificados/usados/4945623-4.jpg",
+        "https://crautos.com/clasificados/usados/4945623-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIO GAMBOA",
+        "teléfono": "8830-5576",
+        "dirección": "Belén"
+    },
+    "informacion_general": {
+        "cilindrada": "3700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "132,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "CUERO BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Poco millaje y excelente cuido. Todo al dìa..",
+        "kilometraje_number": 132000,
+        "cilindrada_number": 3700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

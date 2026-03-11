@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22248645&Mitsubishi.L200.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22248645-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22248645-1.jpg",
+        "https://crautos.com/clasificados/usados/22248645-2.jpg",
+        "https://crautos.com/clasificados/usados/22248645-3.jpg",
+        "https://crautos.com/clasificados/usados/22248645-4.jpg",
+        "https://crautos.com/clasificados/usados/22248645-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSVALDO",
+        "teléfono": "8379-3846 8827-3269",
+        "whatsapp": "8379-3846"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "280,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Mantenimiento preventivo.",
+        "kilometraje_number": 280000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

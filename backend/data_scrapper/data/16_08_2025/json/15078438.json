@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15078438&Toyota.HILUX%20.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANGELICA AGUILUZ MORALES",
+        "teléfono": "8480-7710"
+    },
+    "informacion_general": {
+        "cilindrada": "2982 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "326,314 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 326314,
+        "cilindrada_number": 2982
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

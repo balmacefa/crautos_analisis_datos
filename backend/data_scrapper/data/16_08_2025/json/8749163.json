@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8749163&Toyota.PRADO%20VX.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "PRADO VX",
+    "precio_crc": 8000000,
+    "precio_usd": 15936.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8749163-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8749163-1.jpg",
+        "https://crautos.com/clasificados/usados/8749163-2.jpg",
+        "https://crautos.com/clasificados/usados/8749163-3.jpg",
+        "https://crautos.com/clasificados/usados/8749163-4.jpg",
+        "https://crautos.com/clasificados/usados/8749163-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAR SWAP",
+        "teléfono": "7104-6984 7273-9291 7071-9915",
+        "whatsapp": "7104-6984",
+        "dirección": "Centro comercial Santa Verde. La Aurora. Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "365,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Comprado en agencia! Impecable! Precio Negociable!.",
+        "kilometraje_number": 365000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22500164&Toyota.COROLLA.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22500164-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22500164-1.jpg",
+        "https://crautos.com/clasificados/usados/22500164-2.jpg",
+        "https://crautos.com/clasificados/usados/22500164-3.jpg",
+        "https://crautos.com/clasificados/usados/22500164-4.jpg",
+        "https://crautos.com/clasificados/usados/22500164-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANNY SOLANO",
+        "teléfono": "8877-1182",
+        "whatsapp": "8877-1182"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "204,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "kilometraje_number": 204000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

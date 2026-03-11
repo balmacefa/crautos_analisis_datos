@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1642092&Hyundai.TUCSON%20.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8602823,
+    "precio_usd": 17137.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1642092-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1642092-1.jpg",
+        "https://crautos.com/clasificados/usados/1642092-2.jpg",
+        "https://crautos.com/clasificados/usados/1642092-3.jpg",
+        "https://crautos.com/clasificados/usados/1642092-4.jpg",
+        "https://crautos.com/clasificados/usados/1642092-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAR SWAP",
+        "teléfono": "7104-6984 7273-9291 7071-9915",
+        "whatsapp": "7104-6984",
+        "dirección": "Centro comercial Santa Verde. La Aurora. Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "189,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Marzo del 2025",
+        "comentario_vendedor": "Impecable! .",
+        "kilometraje_number": 189000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

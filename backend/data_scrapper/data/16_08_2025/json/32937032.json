@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32937032&Nissan.ALMERA%20SG.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "ALMERA SG",
+    "precio_crc": 7072,
+    "precio_usd": 3550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32937032-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32937032-1.jpg",
+        "https://crautos.com/clasificados/usados/32937032-2.jpg",
+        "https://crautos.com/clasificados/usados/32937032-3.jpg",
+        "https://crautos.com/clasificados/usados/32937032-4.jpg",
+        "https://crautos.com/clasificados/usados/32937032-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MÓNICA MONGE",
+        "teléfono": "8413-8802 8398-8336 8818-4288",
+        "whatsapp": "8413-8802"
+    },
+    "informacion_general": {
+        "cilindrada": "1597 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "210,929 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 210929,
+        "cilindrada_number": 1597
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

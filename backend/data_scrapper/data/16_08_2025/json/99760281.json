@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99760281&Mitsubishi.L200%20TD%20.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "L200 TD",
+    "precio_crc": 24502,
+    "precio_usd": 12300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99760281-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99760281-1.jpg",
+        "https://crautos.com/clasificados/usados/99760281-2.jpg",
+        "https://crautos.com/clasificados/usados/99760281-3.jpg",
+        "https://crautos.com/clasificados/usados/99760281-4.jpg",
+        "https://crautos.com/clasificados/usados/99760281-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN LAKE MIRANDA",
+        "teléfono": "8854-2769 8967-8987",
+        "whatsapp": "8854-2769"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "249,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "Alarma antisecuestro, Bluetooth, Radio con pantalla Bluetooth, CarPlay. Dekra pasado. Polarizado de.",
+        "kilometraje_number": 249000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

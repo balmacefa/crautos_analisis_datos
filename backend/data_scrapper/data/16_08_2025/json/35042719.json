@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35042719&Mitsubishi.MONTERO%20GLS.2012",
+    "año": 2012,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 22510,
+    "precio_usd": 11300000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAUREEN ROJAS",
+        "teléfono": "8817-2032"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "137,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "kilometraje_number": 137000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

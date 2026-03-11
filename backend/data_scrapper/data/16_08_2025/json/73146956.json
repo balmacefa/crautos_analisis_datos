@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73146956&Suzuki.SX4.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 6275,
+    "precio_usd": 3150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73146956-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73146956-1.jpg",
+        "https://crautos.com/clasificados/usados/73146956-2.jpg",
+        "https://crautos.com/clasificados/usados/73146956-3.jpg",
+        "https://crautos.com/clasificados/usados/73146956-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ AGUILAR",
+        "teléfono": "8958-2204",
+        "whatsapp": "8958-2204"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Muy económico juego de llantas nuevas .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 17
+}

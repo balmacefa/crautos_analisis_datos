@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47208703&Nissan.TIIDA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47208703-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47208703-1.jpg",
+        "https://crautos.com/clasificados/usados/47208703-2.jpg",
+        "https://crautos.com/clasificados/usados/47208703-3.jpg",
+        "https://crautos.com/clasificados/usados/47208703-4.jpg",
+        "https://crautos.com/clasificados/usados/47208703-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO FONSECA VARGAS",
+        "teléfono": "8799-6469 8588-7091",
+        "whatsapp": "8799-6469"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "139,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "SOLO DOS DUEÑOS - DETALLES DE PINTURA - FIRMA INMEDIATA - UBICADO EN GUAPILES .",
+        "kilometraje_number": 139000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

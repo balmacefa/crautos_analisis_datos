@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29578664&Suzuki.ERTIGA%20GLX.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "ERTIGA GLX",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29578664-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29578664-1.jpg",
+        "https://crautos.com/clasificados/usados/29578664-2.jpg",
+        "https://crautos.com/clasificados/usados/29578664-3.jpg",
+        "https://crautos.com/clasificados/usados/29578664-4.jpg",
+        "https://crautos.com/clasificados/usados/29578664-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABRICIO NAVARRO",
+        "teléfono": "8393-2537",
+        "whatsapp": "8393-2537"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "223,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Precio Rebajado por detalles. Se deben unas cuotas a la agencia que se rebajan del precio.",
+        "kilometraje_number": 223000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

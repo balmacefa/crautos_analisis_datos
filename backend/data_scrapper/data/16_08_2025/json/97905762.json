@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97905762&Toyota.TERCEL%20DX.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL DX",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97905762-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97905762-1.jpg",
+        "https://crautos.com/clasificados/usados/97905762-2.jpg",
+        "https://crautos.com/clasificados/usados/97905762-3.jpg",
+        "https://crautos.com/clasificados/usados/97905762-4.jpg",
+        "https://crautos.com/clasificados/usados/97905762-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERALD SERRANO GARITA",
+        "teléfono": "6238-9904",
+        "whatsapp": "6238-9904"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "159 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Precio Negociable .",
+        "kilometraje_number": 159,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 31
+}

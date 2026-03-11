@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96853375&Mitsubishi.OUTLANDER.2015",
+    "año": 2015,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 15289,
+    "precio_usd": 7675000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96853375-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96853375-1.jpg",
+        "https://crautos.com/clasificados/usados/96853375-2.jpg",
+        "https://crautos.com/clasificados/usados/96853375-3.jpg",
+        "https://crautos.com/clasificados/usados/96853375-4.jpg",
+        "https://crautos.com/clasificados/usados/96853375-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIELA SOTO",
+        "teléfono": "8865-5555 8937-5559",
+        "whatsapp": "8865-5555"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "95,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Junio del 2025",
+        "comentario_vendedor": "UN SOLO DUEÑO - MANTENIMIENTOS DE AGENCIA.",
+        "kilometraje_number": 95500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

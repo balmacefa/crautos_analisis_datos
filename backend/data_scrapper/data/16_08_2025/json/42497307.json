@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42497307&Peugeot.206%20BELINA.2000",
+    "año": 2000,
+    "marca": "PEUGEOT",
+    "modelo": "206 BELINA",
+    "precio_crc": 2390,
+    "precio_usd": 1200000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO CHACON",
+        "teléfono": "8454-4749"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Todo al día de pintura .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35733401&Toyota.HILUX.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 38347,
+    "precio_usd": 19250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35733401-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35733401-1.jpg",
+        "https://crautos.com/clasificados/usados/35733401-2.jpg",
+        "https://crautos.com/clasificados/usados/35733401-3.jpg",
+        "https://crautos.com/clasificados/usados/35733401-4.jpg",
+        "https://crautos.com/clasificados/usados/35733401-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CÉSAR ANDRÉY BLANCO ALVARADO",
+        "teléfono": "8516-0215 8400-2823",
+        "whatsapp": "8516-0215"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "145,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Manual en excelente estado .",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 6
+}

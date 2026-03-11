@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30613325&Hyundai.ACCENT.2003",
+    "año": 2003,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30613325-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30613325-1.jpg",
+        "https://crautos.com/clasificados/usados/30613325-2.jpg",
+        "https://crautos.com/clasificados/usados/30613325-3.jpg",
+        "https://crautos.com/clasificados/usados/30613325-4.jpg",
+        "https://crautos.com/clasificados/usados/30613325-5.jpg",
+        "https://crautos.com/clasificados/usados/30613325-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN MADRIGAL",
+        "teléfono": "7296-9636",
+        "whatsapp": "7296-9636"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA AL DIA-PERFECTO ESTADO-RADIO CARPLAY NUEVO.",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

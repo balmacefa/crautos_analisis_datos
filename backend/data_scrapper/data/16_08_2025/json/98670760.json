@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98670760&Mitsubishi.L200.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98670760-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98670760-1.jpg",
+        "https://crautos.com/clasificados/usados/98670760-2.jpg",
+        "https://crautos.com/clasificados/usados/98670760-3.jpg",
+        "https://crautos.com/clasificados/usados/98670760-4.jpg",
+        "https://crautos.com/clasificados/usados/98670760-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIE HERRERA BANDEK",
+        "teléfono": "7204-9214",
+        "whatsapp": "7204-9214"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "360,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Confiable y económico-llantas nuevas-libro d mantenimiento completo-motor nuevo original!!.",
+        "kilometraje_number": 360000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

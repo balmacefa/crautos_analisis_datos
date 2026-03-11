@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3502025&Daewoo.MATIZ.2001",
+    "año": 2001,
+    "marca": "DAEWOO",
+    "modelo": "MATIZ",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3502025-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3502025-1.jpg",
+        "https://crautos.com/clasificados/usados/3502025-2.jpg",
+        "https://crautos.com/clasificados/usados/3502025-3.jpg",
+        "https://crautos.com/clasificados/usados/3502025-4.jpg",
+        "https://crautos.com/clasificados/usados/3502025-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VÍA KOREA",
+        "teléfono": "7295-5100 6267-5166 8845-5271",
+        "whatsapp": "7295-5100",
+        "dirección": "De la bomba Villa Bonita, 700 mtrs este sobre autopista Bernardo Soto"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "224,249 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "FINANCIAMIENTO PROPIO CINCUENTA PORCIENTO DE PRIMA, RECIBIMOS AUTO..",
+        "kilometraje_number": 224249,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45550693&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45550693-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45550693-1.jpg",
+        "https://crautos.com/clasificados/usados/45550693-2.jpg",
+        "https://crautos.com/clasificados/usados/45550693-3.jpg",
+        "https://crautos.com/clasificados/usados/45550693-4.jpg",
+        "https://crautos.com/clasificados/usados/45550693-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN MARTÍNEZ CORDERO",
+        "teléfono": "8637-2680 8695-5641",
+        "whatsapp": "8637-2680"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "86,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Esta en excelentes condiciones - bajo millaje - muy cuidado..",
+        "kilometraje_number": 86000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

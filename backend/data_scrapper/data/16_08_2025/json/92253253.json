@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92253253&Suzuki.CELERIO%20GLX.2018",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO GLX",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92253253-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92253253-1.jpg",
+        "https://crautos.com/clasificados/usados/92253253-2.jpg",
+        "https://crautos.com/clasificados/usados/92253253-3.jpg",
+        "https://crautos.com/clasificados/usados/92253253-4.jpg",
+        "https://crautos.com/clasificados/usados/92253253-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO MORALES",
+        "teléfono": "8846-2186",
+        "whatsapp": "8846-2186"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "187,494 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Febrero del 2025",
+        "comentario_vendedor": "El automóvil está en excelente estado. Batería nueva..",
+        "kilometraje_number": 187494,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

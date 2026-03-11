@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34155577&Jeep.WRANGLER.2014",
+    "año": 2014,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 33865,
+    "precio_usd": 17000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34155577-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34155577-1.jpg",
+        "https://crautos.com/clasificados/usados/34155577-2.jpg",
+        "https://crautos.com/clasificados/usados/34155577-3.jpg",
+        "https://crautos.com/clasificados/usados/34155577-4.jpg",
+        "https://crautos.com/clasificados/usados/34155577-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA FABIOLA MIRANDA",
+        "teléfono": "8764-3510",
+        "whatsapp": "8764-3510"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "92,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "kilometraje_number": 92000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control crucero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

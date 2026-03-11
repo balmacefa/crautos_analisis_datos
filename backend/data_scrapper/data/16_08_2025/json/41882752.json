@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41882752&Toyota.RAIZE.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "RAIZE",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41882752-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41882752-1.jpg",
+        "https://crautos.com/clasificados/usados/41882752-2.jpg",
+        "https://crautos.com/clasificados/usados/41882752-3.jpg",
+        "https://crautos.com/clasificados/usados/41882752-4.jpg",
+        "https://crautos.com/clasificados/usados/41882752-5.jpg",
+        "https://crautos.com/clasificados/usados/41882752-6.jpg",
+        "https://crautos.com/clasificados/usados/41882752-7.jpg",
+        "https://crautos.com/clasificados/usados/41882752-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMILIANO MIRANDA MORA",
+        "teléfono": "7092-8986 6436-3212"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS RATON",
+        "color_interior": "NEGRO Y ROJO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "El carro esta como nuevo .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

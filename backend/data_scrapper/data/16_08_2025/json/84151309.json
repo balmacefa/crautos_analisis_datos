@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84151309&Mitsubishi.MONTERO.1985",
+    "año": 1985,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84151309-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84151309-1.jpg",
+        "https://crautos.com/clasificados/usados/84151309-2.jpg",
+        "https://crautos.com/clasificados/usados/84151309-3.jpg",
+        "https://crautos.com/clasificados/usados/84151309-4.jpg",
+        "https://crautos.com/clasificados/usados/84151309-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO POSLA",
+        "teléfono": "8507-3192",
+        "whatsapp": "8507-3192"
+    },
+    "informacion_general": {
+        "cilindrada": "2555 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "123,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Llantas nuevas muy económico tiene turbo.",
+        "kilometraje_number": 123000,
+        "cilindrada_number": 2555
+    },
+    "equipamiento": [
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 40
+}

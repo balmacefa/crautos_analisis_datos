@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61038846&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61038846-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61038846-1.jpg",
+        "https://crautos.com/clasificados/usados/61038846-2.jpg",
+        "https://crautos.com/clasificados/usados/61038846-3.jpg",
+        "https://crautos.com/clasificados/usados/61038846-4.jpg",
+        "https://crautos.com/clasificados/usados/61038846-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIO SALAS",
+        "teléfono": "6002-2952",
+        "whatsapp": "6002-2952"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "103,243 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura.",
+        "kilometraje_number": 103243,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 13
+}

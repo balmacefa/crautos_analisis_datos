@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21456878&Kia.SORENTO.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 15339,
+    "precio_usd": 7700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21456878-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21456878-1.jpg",
+        "https://crautos.com/clasificados/usados/21456878-2.jpg",
+        "https://crautos.com/clasificados/usados/21456878-3.jpg",
+        "https://crautos.com/clasificados/usados/21456878-4.jpg",
+        "https://crautos.com/clasificados/usados/21456878-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN C.",
+        "teléfono": "7291-9113 7059-5219",
+        "whatsapp": "7291-9113"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "113,000 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO PERLADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "P INSCRIBIR/ Versión Americana/No choques/Cero óxido/Un dueño en EEUU/Precio incluye inscripción.",
+        "kilometraje_number": 113000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

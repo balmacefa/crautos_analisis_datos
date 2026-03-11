@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89992877&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89992877-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89992877-1.jpg",
+        "https://crautos.com/clasificados/usados/89992877-2.jpg",
+        "https://crautos.com/clasificados/usados/89992877-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO HERNANDEZ ARAYA",
+        "teléfono": "8883-4950",
+        "whatsapp": "8883-4950"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "93,261 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 93261,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22108019&Toyota.YARIS.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 17131,
+    "precio_usd": 8600000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEANDRO ARAYA RODRIGUEZ",
+        "teléfono": "7031-1642",
+        "whatsapp": "7031-1642"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "95,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "YARIS AUTOMATICO MOTOR VVTi SUPER ECONOMICO Y CON SISTEMA DE GAS LP MUY CUIDADO .",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

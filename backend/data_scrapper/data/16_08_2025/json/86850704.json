@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86850704&Isuzu.NQR.2012",
+    "año": 2012,
+    "marca": "ISUZU",
+    "modelo": "NQR",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86850704-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86850704-1.jpg",
+        "https://crautos.com/clasificados/usados/86850704-2.jpg",
+        "https://crautos.com/clasificados/usados/86850704-3.jpg",
+        "https://crautos.com/clasificados/usados/86850704-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ BRENES",
+        "teléfono": "8390-6364 2574-8585",
+        "whatsapp": "8390-6364"
+    },
+    "informacion_general": {
+        "cilindrada": "4600 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "404,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLACO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño excelente estado muy original puede revisar lo que guste. Todo al dia.",
+        "kilometraje_number": 404000,
+        "cilindrada_number": 4600
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 13
+}

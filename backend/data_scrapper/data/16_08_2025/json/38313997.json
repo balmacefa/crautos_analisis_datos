@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38313997&Kia.CERATO.2005",
+    "año": 2005,
+    "marca": "KIA",
+    "modelo": "CERATO",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38313997-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38313997-1.jpg",
+        "https://crautos.com/clasificados/usados/38313997-2.jpg",
+        "https://crautos.com/clasificados/usados/38313997-3.jpg",
+        "https://crautos.com/clasificados/usados/38313997-4.jpg",
+        "https://crautos.com/clasificados/usados/38313997-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN SOTO",
+        "teléfono": "6191-0476",
+        "whatsapp": "6191-0476"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "287 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Radiador de aluminio bomba de agua nueva roles nuevos termostato nuevo está .",
+        "kilometraje_number": 287,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

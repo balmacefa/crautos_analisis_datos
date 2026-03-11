@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41646841&Suzuki.JIMNY%20GL.2023",
+    "año": 2023,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY GL",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO QUESADA",
+        "teléfono": "6210-1026",
+        "whatsapp": "6210-1026"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "64,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "TIENE DEUDA .",
+        "kilometraje_number": 64000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

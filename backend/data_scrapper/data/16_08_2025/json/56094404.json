@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56094404&Changan.CS35.2017",
+    "año": 2017,
+    "marca": "CHANGAN",
+    "modelo": "CS35",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56094404-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56094404-1.jpg",
+        "https://crautos.com/clasificados/usados/56094404-2.jpg",
+        "https://crautos.com/clasificados/usados/56094404-3.jpg",
+        "https://crautos.com/clasificados/usados/56094404-4.jpg",
+        "https://crautos.com/clasificados/usados/56094404-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO SOLANO",
+        "teléfono": "7064-9416 8360-5413",
+        "whatsapp": "8360-5413"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "57,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Aros .",
+        "kilometraje_number": 57000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89690525&Nissan.VERSA.2009",
+    "año": 2009,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89690525-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89690525-1.jpg",
+        "https://crautos.com/clasificados/usados/89690525-2.jpg",
+        "https://crautos.com/clasificados/usados/89690525-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PATRICIA CUBERO ARGUEDAS",
+        "teléfono": "8874-5380"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "173 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Vehículo en excelentes condiciones todo funciona bien.",
+        "kilometraje_number": 173,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 16
+}

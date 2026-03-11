@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84291748&Nissan.VERSA.2014",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84291748-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84291748-1.jpg",
+        "https://crautos.com/clasificados/usados/84291748-2.jpg",
+        "https://crautos.com/clasificados/usados/84291748-3.jpg",
+        "https://crautos.com/clasificados/usados/84291748-4.jpg",
+        "https://crautos.com/clasificados/usados/84291748-5.jpg",
+        "https://crautos.com/clasificados/usados/84291748-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LISETH MATA GONZALEZ",
+        "teléfono": "8887-2481 8304-7649"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "99,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": 99500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

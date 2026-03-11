@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81259823&Toyota.RAV4.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81259823-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81259823-1.jpg",
+        "https://crautos.com/clasificados/usados/81259823-2.jpg",
+        "https://crautos.com/clasificados/usados/81259823-3.jpg",
+        "https://crautos.com/clasificados/usados/81259823-4.jpg",
+        "https://crautos.com/clasificados/usados/81259823-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEYLOR CHAVES",
+        "teléfono": "8487-1881 8349-8673 8821-1157",
+        "whatsapp": "8487-1881"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,759 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "CAFÉ OSCURO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 135759,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

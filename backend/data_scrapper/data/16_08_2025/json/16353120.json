@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16353120&Toyota.YARIS.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16353120-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16353120-1.jpg",
+        "https://crautos.com/clasificados/usados/16353120-2.jpg",
+        "https://crautos.com/clasificados/usados/16353120-3.jpg",
+        "https://crautos.com/clasificados/usados/16353120-4.jpg",
+        "https://crautos.com/clasificados/usados/16353120-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEX AGUILAR NAVARRO",
+        "teléfono": "8585-0570 2590-0591",
+        "whatsapp": "8585-0570"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "159,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "CHAMPAN",
+        "color_interior": "BEISH",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "vehículo en muy buen estado.",
+        "kilometraje_number": 159000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

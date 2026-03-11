@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67714335&Toyota.4RUNNER%20.1995",
+    "año": 1995,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICK CAMACHO HIDALGO",
+        "teléfono": "8817-9628 8560-0605"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "249,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Sistema de gas muy económico quinta generación inyectado.",
+        "kilometraje_number": 249000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

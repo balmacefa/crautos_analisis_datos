@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92263070&Toyota.HIACE.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 17729,
+    "precio_usd": 8900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92263070-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92263070-1.jpg",
+        "https://crautos.com/clasificados/usados/92263070-2.jpg",
+        "https://crautos.com/clasificados/usados/92263070-3.jpg",
+        "https://crautos.com/clasificados/usados/92263070-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN ALVARADO",
+        "teléfono": "7205-7683",
+        "whatsapp": "7205-7683"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "371,400 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "HIACE AUTOMATICA EN BUENESTADO.",
+        "kilometraje_number": 371400,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo"
+    ],
+    "antiguedad": 19
+}

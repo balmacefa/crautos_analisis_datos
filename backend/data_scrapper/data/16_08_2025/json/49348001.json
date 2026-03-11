@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49348001&Kia.BONGO.2020",
+    "año": 2020,
+    "marca": "KIA",
+    "modelo": "BONGO",
+    "precio_crc": 23705,
+    "precio_usd": 11900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49348001-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49348001-1.jpg",
+        "https://crautos.com/clasificados/usados/49348001-2.jpg",
+        "https://crautos.com/clasificados/usados/49348001-3.jpg",
+        "https://crautos.com/clasificados/usados/49348001-4.jpg",
+        "https://crautos.com/clasificados/usados/49348001-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO BAINS",
+        "teléfono": "6088-4208",
+        "whatsapp": "6088-4208"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "34,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "LPG original de fábrica-super económico./ PARA INSCRIBIR.",
+        "kilometraje_number": 34000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

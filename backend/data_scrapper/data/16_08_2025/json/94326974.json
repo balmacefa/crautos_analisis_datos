@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94326974&Hyundai.ACCENT%20BLUE.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94326974-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94326974-1.jpg",
+        "https://crautos.com/clasificados/usados/94326974-2.jpg",
+        "https://crautos.com/clasificados/usados/94326974-3.jpg",
+        "https://crautos.com/clasificados/usados/94326974-4.jpg",
+        "https://crautos.com/clasificados/usados/94326974-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO JARA",
+        "teléfono": "8705-0503",
+        "whatsapp": "8705-0503"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "100,010 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "DECKRA AL DIA MARCHAMO AL DIA EXCELENTE ESTADO, SI NECESITA SE FIANANCIA.",
+        "kilometraje_number": 100010,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

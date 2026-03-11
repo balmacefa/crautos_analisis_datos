@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60217721&Nissan.PATROL%20SGL.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "PATROL SGL",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60217721-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60217721-1.jpg",
+        "https://crautos.com/clasificados/usados/60217721-2.jpg",
+        "https://crautos.com/clasificados/usados/60217721-3.jpg",
+        "https://crautos.com/clasificados/usados/60217721-4.jpg",
+        "https://crautos.com/clasificados/usados/60217721-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BIBIANA ROJAS",
+        "teléfono": "8337-2459",
+        "whatsapp": "8337-2459"
+    },
+    "informacion_general": {
+        "cilindrada": "2953 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "22,455 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Turbo diésel intercooler toldo lateral snorkel llantas MT NEGOCIABLE.",
+        "kilometraje_number": 22455,
+        "cilindrada_number": 2953
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

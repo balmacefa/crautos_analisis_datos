@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89731702&Honda.CIVIC%20EX.2007",
+    "año": 2007,
+    "marca": "HONDA",
+    "modelo": "CIVIC EX",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89731702-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89731702-1.jpg",
+        "https://crautos.com/clasificados/usados/89731702-2.jpg",
+        "https://crautos.com/clasificados/usados/89731702-3.jpg",
+        "https://crautos.com/clasificados/usados/89731702-4.jpg",
+        "https://crautos.com/clasificados/usados/89731702-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAFETH CASTELLON GOMEZ",
+        "teléfono": "8935-4332 8802-1887",
+        "whatsapp": "8935-4332"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "238,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "SE VENDE - Honda Civic EX Motor R .L VTEC muy económico Excelente mecanicamente .",
+        "kilometraje_number": 238000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

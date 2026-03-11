@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29925208&Mitsubishi.MONTERO%20GLS.1999",
+    "año": 1999,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROGER CHAVES",
+        "teléfono": "8859-5775",
+        "whatsapp": "8859-5775"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "3 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "10 de Junio del 2025",
+        "comentario_vendedor": "Carro con mucho mantenimiento general. muy economico y espacioso..",
+        "kilometraje_number": 3,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5856975&Suzuki.VITARA%20GL%20PLUS.2020",
+    "año": 2020,
+    "marca": "SUZUKI",
+    "modelo": "VITARA GL PLUS",
+    "precio_crc": 19223,
+    "precio_usd": 9650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5856975-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5856975-1.jpg",
+        "https://crautos.com/clasificados/usados/5856975-2.jpg",
+        "https://crautos.com/clasificados/usados/5856975-3.jpg",
+        "https://crautos.com/clasificados/usados/5856975-4.jpg",
+        "https://crautos.com/clasificados/usados/5856975-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS EL MOLINO",
+        "teléfono": "7295-9095",
+        "whatsapp": "7295-9095",
+        "dirección": "El Molino, Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "73,700 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Tenemos distintos tipos de entidades externas para financiamiento, se recibe vehiculo.",
+        "kilometraje_number": 73700,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16255806&Nissan.QASHQAI.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IVANNIA MADRIGAL MUÑOZ",
+        "teléfono": "8812-6027",
+        "whatsapp": "8812-6027"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "158,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "kilometraje_number": 158000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

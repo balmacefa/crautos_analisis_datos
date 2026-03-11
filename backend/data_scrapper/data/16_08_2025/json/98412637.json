@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98412637&Isuzu.NPR.2011",
+    "año": 2011,
+    "marca": "ISUZU",
+    "modelo": "NPR",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98412637-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98412637-1.jpg",
+        "https://crautos.com/clasificados/usados/98412637-2.jpg",
+        "https://crautos.com/clasificados/usados/98412637-3.jpg",
+        "https://crautos.com/clasificados/usados/98412637-4.jpg",
+        "https://crautos.com/clasificados/usados/98412637-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO ZUÑIGA",
+        "teléfono": "8743-6345 2551-4000",
+        "whatsapp": "8743-6345"
+    },
+    "informacion_general": {
+        "cilindrada": "4800 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "435,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "ISUZU JAPONES COMPRADO EN GRUPOQ UNICO DUEÑO IDEAL PARA TRABAJAR TODO AL DIA.",
+        "kilometraje_number": 435000,
+        "cilindrada_number": 4800
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30756377&Toyota.RAV4.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 18725,
+    "precio_usd": 9400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30756377-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30756377-1.jpg",
+        "https://crautos.com/clasificados/usados/30756377-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAROLYN LOBO",
+        "teléfono": "6239-9772 8302-0863",
+        "whatsapp": "6239-9772"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "216,924 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Excelentes Condiciones .",
+        "kilometraje_number": 216924,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

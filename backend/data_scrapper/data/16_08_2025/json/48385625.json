@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48385625&Kia.SPORTAGE.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48385625-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48385625-1.jpg",
+        "https://crautos.com/clasificados/usados/48385625-2.jpg",
+        "https://crautos.com/clasificados/usados/48385625-3.jpg",
+        "https://crautos.com/clasificados/usados/48385625-4.jpg",
+        "https://crautos.com/clasificados/usados/48385625-5.jpg",
+        "https://crautos.com/clasificados/usados/48385625-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHELLE",
+        "teléfono": "6094-9477",
+        "whatsapp": "6094-9477"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "CAFÉ",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "No ha tenido ni un choque ni infracción. Cuidada como nueva!.",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

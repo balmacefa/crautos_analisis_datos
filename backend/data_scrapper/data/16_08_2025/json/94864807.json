@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94864807&Isuzu.KB.1989",
+    "año": 1989,
+    "marca": "ISUZU",
+    "modelo": "KB",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94864807-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94864807-1.jpg",
+        "https://crautos.com/clasificados/usados/94864807-2.jpg",
+        "https://crautos.com/clasificados/usados/94864807-3.jpg",
+        "https://crautos.com/clasificados/usados/94864807-4.jpg",
+        "https://crautos.com/clasificados/usados/94864807-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO VARGAS ALFARO",
+        "teléfono": "8564-9963",
+        "whatsapp": "8564-9963"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "400,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Junio del 2025",
+        "comentario_vendedor": "se vende Isuzu xtracab nacional, x direccion hidrahulica aros de lujo , motor cc carburad.",
+        "kilometraje_number": 400000,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 36
+}

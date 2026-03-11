@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44323139&Toyota.COROLLA%20SPORT.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA SPORT",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44323139-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44323139-1.jpg",
+        "https://crautos.com/clasificados/usados/44323139-2.jpg",
+        "https://crautos.com/clasificados/usados/44323139-3.jpg",
+        "https://crautos.com/clasificados/usados/44323139-4.jpg",
+        "https://crautos.com/clasificados/usados/44323139-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS GUTIERREZ",
+        "teléfono": "8866-9195 8425-1821"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "206,900 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Rack thule pantalla alarma .",
+        "kilometraje_number": 206900,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79634743&Toyota.HILUX.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79634743-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79634743-1.jpg",
+        "https://crautos.com/clasificados/usados/79634743-2.jpg",
+        "https://crautos.com/clasificados/usados/79634743-3.jpg",
+        "https://crautos.com/clasificados/usados/79634743-4.jpg",
+        "https://crautos.com/clasificados/usados/79634743-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSSIE VEGA",
+        "teléfono": "2662-1190",
+        "whatsapp": "8384-0183"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "40 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Overhaul hace meses.",
+        "kilometraje_number": 40,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 31
+}

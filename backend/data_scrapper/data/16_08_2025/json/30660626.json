@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30660626&Hyundai.ACCENT.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 7072,
+    "precio_usd": 3550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30660626-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30660626-1.jpg",
+        "https://crautos.com/clasificados/usados/30660626-2.jpg",
+        "https://crautos.com/clasificados/usados/30660626-3.jpg",
+        "https://crautos.com/clasificados/usados/30660626-4.jpg",
+        "https://crautos.com/clasificados/usados/30660626-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SHIRLEY DUARTE",
+        "teléfono": "8594-2563",
+        "whatsapp": "8594-2563"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "118,315 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 118315,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

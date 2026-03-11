@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23459235&Kia.K2700%20.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "K2700",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS GONZÁLEZ MERCADO",
+        "teléfono": "8602-3120 6050-4843 7139-1314",
+        "whatsapp": "6050-4843"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Se puede entregar en San José .",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS"
+    ],
+    "antiguedad": 10
+}

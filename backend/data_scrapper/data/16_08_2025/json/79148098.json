@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79148098&Kia.SPORTAGE.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79148098-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79148098-1.jpg",
+        "https://crautos.com/clasificados/usados/79148098-2.jpg",
+        "https://crautos.com/clasificados/usados/79148098-3.jpg",
+        "https://crautos.com/clasificados/usados/79148098-4.jpg",
+        "https://crautos.com/clasificados/usados/79148098-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN SÁNCHEZ ARTAVIA",
+        "teléfono": "8825-4655",
+        "whatsapp": "8825-4655"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "79,000 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Tres ríos PARA INSCRIBIR.",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

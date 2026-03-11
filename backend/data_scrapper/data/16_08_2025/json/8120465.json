@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8120465&Audi.A6.2017",
+    "año": 2017,
+    "marca": "AUDI",
+    "modelo": "A6",
+    "precio_crc": 23871,
+    "precio_usd": 11983000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8120465-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8120465-1.jpg",
+        "https://crautos.com/clasificados/usados/8120465-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "105,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Setiembre del 2024",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 8
+}

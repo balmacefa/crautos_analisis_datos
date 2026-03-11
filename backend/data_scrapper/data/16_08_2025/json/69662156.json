@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69662156&Isuzu.QKR.2021",
+    "año": 2021,
+    "marca": "ISUZU",
+    "modelo": "QKR",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69662156-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69662156-1.jpg",
+        "https://crautos.com/clasificados/usados/69662156-2.jpg",
+        "https://crautos.com/clasificados/usados/69662156-3.jpg",
+        "https://crautos.com/clasificados/usados/69662156-4.jpg",
+        "https://crautos.com/clasificados/usados/69662156-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAMÓN LARA",
+        "teléfono": "6015-1411 7261-0723",
+        "whatsapp": "6015-1411"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "64,239 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 64239,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 4
+}

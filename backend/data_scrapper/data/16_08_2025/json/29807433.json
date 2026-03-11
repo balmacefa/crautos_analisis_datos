@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29807433&Chevrolet.BEAT.2018",
+    "año": 2018,
+    "marca": "CHEVROLET",
+    "modelo": "BEAT",
+    "precio_crc": 9064,
+    "precio_usd": 4550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29807433-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29807433-1.jpg",
+        "https://crautos.com/clasificados/usados/29807433-2.jpg",
+        "https://crautos.com/clasificados/usados/29807433-3.jpg",
+        "https://crautos.com/clasificados/usados/29807433-4.jpg",
+        "https://crautos.com/clasificados/usados/29807433-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANGILY MOLINA",
+        "teléfono": "8864-9972",
+        "whatsapp": "8864-9972"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "93,800 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Abril del 2025",
+        "comentario_vendedor": "Un solo dueño mantenimiento reciente Marchamo y Dekra al día.",
+        "kilometraje_number": 93800,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

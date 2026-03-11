@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44585983&Donfeng%20(ZNA).FL02.2007",
+    "año": 2007,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) FL02",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44585983-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44585983-1.jpg",
+        "https://crautos.com/clasificados/usados/44585983-2.jpg",
+        "https://crautos.com/clasificados/usados/44585983-3.jpg",
+        "https://crautos.com/clasificados/usados/44585983-4.jpg",
+        "https://crautos.com/clasificados/usados/44585983-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FACUNDO GIL",
+        "teléfono": "7050-5508",
+        "whatsapp": "7050-5508"
+    },
+    "informacion_general": {
+        "cilindrada": "1051 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "176,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "funcionamiento optimo / MINI STAR .",
+        "kilometraje_number": 176000,
+        "cilindrada_number": 1051
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73107918&Chevrolet.SONIC%20LT.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SONIC LT",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73107918-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73107918-1.jpg",
+        "https://crautos.com/clasificados/usados/73107918-2.jpg",
+        "https://crautos.com/clasificados/usados/73107918-3.jpg",
+        "https://crautos.com/clasificados/usados/73107918-4.jpg",
+        "https://crautos.com/clasificados/usados/73107918-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIAN RAMÍREZ TREJOS",
+        "teléfono": "7207-9297"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "153,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Auto en excelentes condiciones firma inmediata .",
+        "kilometraje_number": 153000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

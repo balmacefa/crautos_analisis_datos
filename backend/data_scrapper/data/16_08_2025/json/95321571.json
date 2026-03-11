@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95321571&Peugeot.206.2008",
+    "año": 2008,
+    "marca": "PEUGEOT",
+    "modelo": "206",
+    "precio_crc": 1992,
+    "precio_usd": 1000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95321571-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95321571-1.jpg",
+        "https://crautos.com/clasificados/usados/95321571-2.jpg",
+        "https://crautos.com/clasificados/usados/95321571-3.jpg",
+        "https://crautos.com/clasificados/usados/95321571-4.jpg",
+        "https://crautos.com/clasificados/usados/95321571-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YAMIL CALDERON",
+        "teléfono": "6123-1067",
+        "whatsapp": "6123-1067"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "320,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "No tiene RTV ni Marchamo.",
+        "kilometraje_number": 320000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

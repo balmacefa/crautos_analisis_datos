@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89052138&Nissan.PATHFINDER.1997",
+    "año": 1997,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89052138-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89052138-1.jpg",
+        "https://crautos.com/clasificados/usados/89052138-2.jpg",
+        "https://crautos.com/clasificados/usados/89052138-3.jpg",
+        "https://crautos.com/clasificados/usados/89052138-4.jpg",
+        "https://crautos.com/clasificados/usados/89052138-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISAAC MIRANDA",
+        "teléfono": "6411-5332",
+        "whatsapp": "8314-3202"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Traspaso incluido recien pintado.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

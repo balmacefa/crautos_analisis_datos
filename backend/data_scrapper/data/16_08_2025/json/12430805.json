@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12430805&Hyundai.ACCENT%20BLUE.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12430805-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12430805-1.jpg",
+        "https://crautos.com/clasificados/usados/12430805-2.jpg",
+        "https://crautos.com/clasificados/usados/12430805-3.jpg",
+        "https://crautos.com/clasificados/usados/12430805-4.jpg",
+        "https://crautos.com/clasificados/usados/12430805-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER MADRIZ GONZÁLEZ",
+        "teléfono": "8376-1754 8820-3655",
+        "whatsapp": "8376-1754"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "124,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Cinco aros de lujo.",
+        "kilometraje_number": 124000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

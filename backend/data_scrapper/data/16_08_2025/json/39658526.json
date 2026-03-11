@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39658526&Toyota.HIACE.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO GRANADOS",
+        "teléfono": "7107-8808 8707-1891"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

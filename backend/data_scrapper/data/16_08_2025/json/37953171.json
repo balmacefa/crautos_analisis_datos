@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37953171&Peugeot.301%20ACTIVE.2015",
+    "año": 2015,
+    "marca": "PEUGEOT",
+    "modelo": "301 ACTIVE",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37953171-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37953171-1.jpg",
+        "https://crautos.com/clasificados/usados/37953171-2.jpg",
+        "https://crautos.com/clasificados/usados/37953171-3.jpg",
+        "https://crautos.com/clasificados/usados/37953171-4.jpg",
+        "https://crautos.com/clasificados/usados/37953171-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSELINE ORTEGA AMPIE",
+        "teléfono": "8363-7310",
+        "whatsapp": "8363-7310"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "105,400 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 105400,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

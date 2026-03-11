@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70094738&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70094738-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70094738-1.jpg",
+        "https://crautos.com/clasificados/usados/70094738-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSEPH SPENCE",
+        "teléfono": "8965-8169",
+        "whatsapp": "8965-8169"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "188,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado precio NO negociable completamente al día traspaso no incluido.",
+        "kilometraje_number": 188000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

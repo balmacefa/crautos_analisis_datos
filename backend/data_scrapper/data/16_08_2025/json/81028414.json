@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81028414&Toyota.1000.1979",
+    "año": 1979,
+    "marca": "TOYOTA",
+    "modelo": "1000",
+    "precio_crc": 697,
+    "precio_usd": 350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81028414-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81028414-1.jpg",
+        "https://crautos.com/clasificados/usados/81028414-2.jpg",
+        "https://crautos.com/clasificados/usados/81028414-3.jpg",
+        "https://crautos.com/clasificados/usados/81028414-4.jpg",
+        "https://crautos.com/clasificados/usados/81028414-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO THOMPSON",
+        "teléfono": "7092-8628",
+        "whatsapp": "7092-8628"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Carro esta sin bateria y parqueado en patio por varios años.PARA PONER AL DIA.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [],
+    "antiguedad": 46
+}

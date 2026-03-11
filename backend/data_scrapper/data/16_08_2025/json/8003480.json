@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8003480&Chevrolet.COLORADO.2022",
+    "año": 2022,
+    "marca": "CHEVROLET",
+    "modelo": "COLORADO",
+    "precio_crc": 19025800,
+    "precio_usd": 37900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8003480-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8003480-1.jpg",
+        "https://crautos.com/clasificados/usados/8003480-2.jpg",
+        "https://crautos.com/clasificados/usados/8003480-3.jpg",
+        "https://crautos.com/clasificados/usados/8003480-4.jpg",
+        "https://crautos.com/clasificados/usados/8003480-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "66,430 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "CAMION.",
+        "kilometraje_number": 66430,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 3
+}

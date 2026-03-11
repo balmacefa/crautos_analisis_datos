@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1969182&Mercedes%20Benz.GLK300.2011",
+    "año": 2011,
+    "marca": "MERCEDES BENZ",
+    "modelo": "GLK300",
+    "precio_crc": 7981800,
+    "precio_usd": 15900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1969182-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1969182-1.jpg",
+        "https://crautos.com/clasificados/usados/1969182-2.jpg",
+        "https://crautos.com/clasificados/usados/1969182-3.jpg",
+        "https://crautos.com/clasificados/usados/1969182-4.jpg",
+        "https://crautos.com/clasificados/usados/1969182-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARSOT URUCA",
+        "teléfono": "8708-4863 4030-2130",
+        "whatsapp": "6244-4400",
+        "dirección": "De la rotonda juan pablo segundo 50 mts al este a mano derecha frente a Mega Super"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "133,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "CREMA CUERO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, CUERO, CUATRO X CUATRO.",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

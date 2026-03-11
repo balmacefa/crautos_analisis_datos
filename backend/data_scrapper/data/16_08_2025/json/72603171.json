@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72603171&Toyota.YARIS.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS LEIVA",
+        "teléfono": "8706-7838",
+        "whatsapp": "8706-7838"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "310,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable urge vender.",
+        "kilometraje_number": 310000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42654654&Ssang%20Yong.MUSSO.2001",
+    "año": 2001,
+    "marca": "SSANG YONG",
+    "modelo": "MUSSO",
+    "precio_crc": 1892,
+    "precio_usd": 950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42654654-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42654654-1.jpg",
+        "https://crautos.com/clasificados/usados/42654654-2.jpg",
+        "https://crautos.com/clasificados/usados/42654654-3.jpg",
+        "https://crautos.com/clasificados/usados/42654654-4.jpg",
+        "https://crautos.com/clasificados/usados/42654654-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SAMUEL LIN",
+        "teléfono": "8480-4224",
+        "whatsapp": "8535-2030"
+    },
+    "informacion_general": {
+        "cilindrada": "2900 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "276,720 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "El carro es de uso diario tiene detallitos Lo que necesita es un poco más de amor y espacio. .",
+        "kilometraje_number": 276720,
+        "cilindrada_number": 2900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56396181&Hyundai.I10.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56396181-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56396181-1.jpg",
+        "https://crautos.com/clasificados/usados/56396181-2.jpg",
+        "https://crautos.com/clasificados/usados/56396181-3.jpg",
+        "https://crautos.com/clasificados/usados/56396181-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA LUCIA PÉREZ FALLAS",
+        "teléfono": "7011-1918 8320-9989",
+        "whatsapp": "7011-1918"
+    },
+    "informacion_general": {
+        "cilindrada": "1250 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "176,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "El carrito esta en excelentes condiciones llantas nuevas bateria LTH aun con garantía radio nuevo k.",
+        "kilometraje_number": 176000,
+        "cilindrada_number": 1250
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40422195&Honda.PILOT.2017",
+    "año": 2017,
+    "marca": "HONDA",
+    "modelo": "PILOT",
+    "precio_crc": 22709,
+    "precio_usd": 11400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40422195-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40422195-1.jpg",
+        "https://crautos.com/clasificados/usados/40422195-2.jpg",
+        "https://crautos.com/clasificados/usados/40422195-3.jpg",
+        "https://crautos.com/clasificados/usados/40422195-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH SANABRIA",
+        "teléfono": "8352-7852",
+        "whatsapp": "8352-7852"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

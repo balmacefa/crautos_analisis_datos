@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48174033&Mitsubishi.MONTERO.2004",
+    "año": 2004,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48174033-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48174033-1.jpg",
+        "https://crautos.com/clasificados/usados/48174033-2.jpg",
+        "https://crautos.com/clasificados/usados/48174033-3.jpg",
+        "https://crautos.com/clasificados/usados/48174033-4.jpg",
+        "https://crautos.com/clasificados/usados/48174033-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARLEY SANCHEZ SOLIS",
+        "teléfono": "8316-8406"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "92,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Llantas MT pintura tricapa recién pintado toda led aceites nuevos.",
+        "kilometraje_number": 92000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

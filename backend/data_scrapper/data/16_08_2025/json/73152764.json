@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73152764&Honda.CIVIC.2002",
+    "año": 2002,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73152764-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73152764-1.jpg",
+        "https://crautos.com/clasificados/usados/73152764-2.jpg",
+        "https://crautos.com/clasificados/usados/73152764-3.jpg",
+        "https://crautos.com/clasificados/usados/73152764-4.jpg",
+        "https://crautos.com/clasificados/usados/73152764-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIELA",
+        "teléfono": "8847-9901 8802-0072",
+        "whatsapp": "8847-9901"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo completamente al día.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

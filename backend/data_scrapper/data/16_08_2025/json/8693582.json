@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8693582&Hyundai.ACCENT%20.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8693582-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8693582-1.jpg",
+        "https://crautos.com/clasificados/usados/8693582-2.jpg",
+        "https://crautos.com/clasificados/usados/8693582-3.jpg",
+        "https://crautos.com/clasificados/usados/8693582-4.jpg",
+        "https://crautos.com/clasificados/usados/8693582-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS KALEB",
+        "teléfono": "8829-0243 8830-8672 8831-6585",
+        "whatsapp": "8829-0243",
+        "dirección": "San Juan de Santa Bárbara, Heredia 200 metros oeste del colegio New Hope"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "79,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Pantalla táctil .",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

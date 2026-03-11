@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91666815&Toyota.HILUX%20.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 41833,
+    "precio_usd": 21000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91666815-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91666815-1.jpg",
+        "https://crautos.com/clasificados/usados/91666815-2.jpg",
+        "https://crautos.com/clasificados/usados/91666815-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HENRY MENDEZ",
+        "teléfono": "8409-1594",
+        "whatsapp": "8515-2130"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "24,500 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado nacional un solo dueño.",
+        "kilometraje_number": 24500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

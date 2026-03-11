@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5434397&Audi.Q7.2016",
+    "año": 2016,
+    "marca": "AUDI",
+    "modelo": "Q7",
+    "precio_crc": 14005800,
+    "precio_usd": 27900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5434397-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5434397-1.jpg",
+        "https://crautos.com/clasificados/usados/5434397-2.jpg",
+        "https://crautos.com/clasificados/usados/5434397-3.jpg",
+        "https://crautos.com/clasificados/usados/5434397-4.jpg",
+        "https://crautos.com/clasificados/usados/5434397-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "96,200 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "CAFE",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "TODO TERRENO.",
+        "kilometraje_number": 96200,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 9
+}

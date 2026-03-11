@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62675006&Honda.CIVIC.2006",
+    "año": 2006,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62675006-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62675006-1.jpg",
+        "https://crautos.com/clasificados/usados/62675006-2.jpg",
+        "https://crautos.com/clasificados/usados/62675006-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROY ROJAS",
+        "teléfono": "8605-8106",
+        "whatsapp": "8605-8106"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Muchas extras .",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 19
+}

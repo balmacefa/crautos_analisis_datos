@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37311457&Kia.SPORTAGE.2005",
+    "año": 2005,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37311457-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37311457-1.jpg",
+        "https://crautos.com/clasificados/usados/37311457-2.jpg",
+        "https://crautos.com/clasificados/usados/37311457-3.jpg",
+        "https://crautos.com/clasificados/usados/37311457-4.jpg",
+        "https://crautos.com/clasificados/usados/37311457-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VALESKA GONZALEZ",
+        "teléfono": "6102-0786"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "107,124 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 107124,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

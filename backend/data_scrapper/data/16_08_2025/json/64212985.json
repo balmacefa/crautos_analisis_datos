@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64212985&Hyundai.H1%20.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64212985-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64212985-1.jpg",
+        "https://crautos.com/clasificados/usados/64212985-2.jpg",
+        "https://crautos.com/clasificados/usados/64212985-3.jpg",
+        "https://crautos.com/clasificados/usados/64212985-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTINA HERMANN",
+        "teléfono": "7018-4478"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "309,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Nuevo: batería llantas. Arrancador. Bomba de agua y distribución. Hay que liquidar financiamiento .",
+        "kilometraje_number": 309000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

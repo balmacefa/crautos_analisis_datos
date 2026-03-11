@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37877443&Nissan.NAVARA%20LE.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "NAVARA LE",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37877443-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37877443-1.jpg",
+        "https://crautos.com/clasificados/usados/37877443-2.jpg",
+        "https://crautos.com/clasificados/usados/37877443-3.jpg",
+        "https://crautos.com/clasificados/usados/37877443-4.jpg",
+        "https://crautos.com/clasificados/usados/37877443-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTHONY SOTO",
+        "teléfono": "6259-4545",
+        "whatsapp": "6259-4545"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "143,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Ganga muchas extras excelente estado dekra en blanco.",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

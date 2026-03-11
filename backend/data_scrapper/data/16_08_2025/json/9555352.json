@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9555352&Suzuki.GRAND%20VITARA.2019",
+    "año": 2019,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 12284825,
+    "precio_usd": 24472.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9555352-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9555352-1.jpg",
+        "https://crautos.com/clasificados/usados/9555352-2.jpg",
+        "https://crautos.com/clasificados/usados/9555352-3.jpg",
+        "https://crautos.com/clasificados/usados/9555352-4.jpg",
+        "https://crautos.com/clasificados/usados/9555352-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STARCARS LA URUCA",
+        "teléfono": "4105-6654 8860-9090 8713-6343",
+        "whatsapp": "8860-9090",
+        "dirección": "La Uruca Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Octubre del 2024",
+        "comentario_vendedor": "FINANCIAMIENTO DISPONIBLE, CUATRO POR CUATRO, PRIMA BAJAS.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

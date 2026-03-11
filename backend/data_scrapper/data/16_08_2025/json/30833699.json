@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30833699&BYD.F3%20.2017",
+    "año": 2017,
+    "marca": "BYD",
+    "modelo": "F3",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30833699-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30833699-1.jpg",
+        "https://crautos.com/clasificados/usados/30833699-2.jpg",
+        "https://crautos.com/clasificados/usados/30833699-3.jpg",
+        "https://crautos.com/clasificados/usados/30833699-4.jpg",
+        "https://crautos.com/clasificados/usados/30833699-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSHUA SÁNCHEZ",
+        "teléfono": "8304-6697 8967-6987 8888-9929",
+        "whatsapp": "8304-6697"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "121,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Vendo-Cambio-Recibo-Financio.",
+        "kilometraje_number": 121000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27597564&Suzuki.SIDEKICK%20SPORT.1997",
+    "año": 1997,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK SPORT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27597564-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27597564-1.jpg",
+        "https://crautos.com/clasificados/usados/27597564-2.jpg",
+        "https://crautos.com/clasificados/usados/27597564-3.jpg",
+        "https://crautos.com/clasificados/usados/27597564-4.jpg",
+        "https://crautos.com/clasificados/usados/27597564-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE RUÍZ",
+        "teléfono": "6090-2527",
+        "whatsapp": "6150-6581"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "213,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Bastantes extras .",
+        "kilometraje_number": 213000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

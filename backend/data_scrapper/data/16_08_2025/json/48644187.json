@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48644187&Toyota.RAV4.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48644187-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48644187-1.jpg",
+        "https://crautos.com/clasificados/usados/48644187-2.jpg",
+        "https://crautos.com/clasificados/usados/48644187-3.jpg",
+        "https://crautos.com/clasificados/usados/48644187-4.jpg",
+        "https://crautos.com/clasificados/usados/48644187-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLMAN FALLAS",
+        "teléfono": "8488-9222 6284-7032"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Recibo vehículo no mayor de millones .",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

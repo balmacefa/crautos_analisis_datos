@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89194114&Honda.CIVIC%20.1992",
+    "año": 1992,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 3685,
+    "precio_usd": 1850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89194114-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89194114-1.jpg",
+        "https://crautos.com/clasificados/usados/89194114-2.jpg",
+        "https://crautos.com/clasificados/usados/89194114-3.jpg",
+        "https://crautos.com/clasificados/usados/89194114-4.jpg",
+        "https://crautos.com/clasificados/usados/89194114-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAQUEL ORTIZ LÓPEZ",
+        "teléfono": "8924-3715 8819-3913",
+        "whatsapp": "8924-3715"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "133,205 millas",
+        "placa": "Termina en",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Se vende Honda C Se vende Honda Cívic Año 92 Motor D16 Y5 Vitec Marchamo Recién Sacado DEKRA (m.",
+        "kilometraje_number": 133205,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 33
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85868855&Nissan.SUNNY.1990",
+    "año": 1990,
+    "marca": "NISSAN",
+    "modelo": "SUNNY",
+    "precio_crc": 1992,
+    "precio_usd": 1000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85868855-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85868855-1.jpg",
+        "https://crautos.com/clasificados/usados/85868855-2.jpg",
+        "https://crautos.com/clasificados/usados/85868855-3.jpg",
+        "https://crautos.com/clasificados/usados/85868855-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY GERARDO MUÑOZ",
+        "teléfono": "6461-2022",
+        "whatsapp": "6461-2022"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "999,999 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "Totalmente al día ffirma de una con Felipe .",
+        "kilometraje_number": 999999,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 35
+}

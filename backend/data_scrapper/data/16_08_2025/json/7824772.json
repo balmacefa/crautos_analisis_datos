@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7824772&Nissan.KICKS.2021",
+    "año": 2021,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 8785000,
+    "precio_usd": 17500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7824772-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7824772-1.jpg",
+        "https://crautos.com/clasificados/usados/7824772-2.jpg",
+        "https://crautos.com/clasificados/usados/7824772-3.jpg",
+        "https://crautos.com/clasificados/usados/7824772-4.jpg",
+        "https://crautos.com/clasificados/usados/7824772-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CORI MOTORS S.A.",
+        "teléfono": "8739-1770 7144-1180",
+        "whatsapp": "8739-1770",
+        "dirección": "La Uruca, contiguo a Banco Davivienda, Edifico Cori Motors. San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "77,450 kms",
+        "placa": "ND",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO FINANCIO NO RECIBO .",
+        "kilometraje_number": 77450,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 4
+}

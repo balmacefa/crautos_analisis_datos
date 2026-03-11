@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81394610&JAC.HFC1042%20KN.2021",
+    "año": 2021,
+    "marca": "JAC",
+    "modelo": "HFC1042 KN",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81394610-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81394610-1.jpg",
+        "https://crautos.com/clasificados/usados/81394610-2.jpg",
+        "https://crautos.com/clasificados/usados/81394610-3.jpg",
+        "https://crautos.com/clasificados/usados/81394610-4.jpg",
+        "https://crautos.com/clasificados/usados/81394610-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE CASTRO",
+        "teléfono": "8389-5860",
+        "whatsapp": "8389-5860"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE CONDICIÓN AC DH Turbo freno motor doble llanta atrás llame véalo y negociamos .",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 4
+}

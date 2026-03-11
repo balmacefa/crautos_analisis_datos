@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88706096&Lexus.RX450HF.2020",
+    "año": 2020,
+    "marca": "LEXUS",
+    "modelo": "RX450HF",
+    "precio_crc": 65500,
+    "precio_usd": 32881000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88706096-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88706096-1.jpg",
+        "https://crautos.com/clasificados/usados/88706096-2.jpg",
+        "https://crautos.com/clasificados/usados/88706096-3.jpg",
+        "https://crautos.com/clasificados/usados/88706096-4.jpg",
+        "https://crautos.com/clasificados/usados/88706096-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "THOMAS GATGENS",
+        "teléfono": "8761-6481",
+        "whatsapp": "8761-6481"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "56,500 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "ROJO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "SE VENDE EN $65.500.",
+        "kilometraje_number": 56500,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

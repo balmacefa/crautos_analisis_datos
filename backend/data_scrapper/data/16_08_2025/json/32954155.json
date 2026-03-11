@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32954155&Ssang%20Yong.STAVIC.2014",
+    "año": 2014,
+    "marca": "SSANG YONG",
+    "modelo": "STAVIC",
+    "precio_crc": 10060,
+    "precio_usd": 5050000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32954155-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32954155-1.jpg",
+        "https://crautos.com/clasificados/usados/32954155-2.jpg",
+        "https://crautos.com/clasificados/usados/32954155-3.jpg",
+        "https://crautos.com/clasificados/usados/32954155-4.jpg",
+        "https://crautos.com/clasificados/usados/32954155-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDDIE MENDEZ U.",
+        "teléfono": "8993-5259 8826-7937",
+        "whatsapp": "8993-5259"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "9",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "87,620 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "kilometraje_number": 87620,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

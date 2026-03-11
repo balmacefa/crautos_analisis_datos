@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68501207&BMW.325CI.2004",
+    "año": 2004,
+    "marca": "BMW",
+    "modelo": "325CI",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68501207-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68501207-1.jpg",
+        "https://crautos.com/clasificados/usados/68501207-2.jpg",
+        "https://crautos.com/clasificados/usados/68501207-3.jpg",
+        "https://crautos.com/clasificados/usados/68501207-4.jpg",
+        "https://crautos.com/clasificados/usados/68501207-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE CAMPOS",
+        "teléfono": "7043-4000"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "135,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

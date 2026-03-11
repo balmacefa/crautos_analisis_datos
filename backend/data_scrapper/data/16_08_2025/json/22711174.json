@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22711174&Suzuki.SX4.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22711174-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22711174-1.jpg",
+        "https://crautos.com/clasificados/usados/22711174-2.jpg",
+        "https://crautos.com/clasificados/usados/22711174-3.jpg",
+        "https://crautos.com/clasificados/usados/22711174-4.jpg",
+        "https://crautos.com/clasificados/usados/22711174-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LISS ZAMORA",
+        "teléfono": "6252-5859",
+        "whatsapp": "6252-5859"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "201,340 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "El vehículo está en Naranjo de Alajuela.",
+        "kilometraje_number": 201340,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

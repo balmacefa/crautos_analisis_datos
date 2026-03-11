@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64423956&Nissan.XTRAIL.2006",
+    "año": 2006,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64423956-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64423956-1.jpg",
+        "https://crautos.com/clasificados/usados/64423956-2.jpg",
+        "https://crautos.com/clasificados/usados/64423956-3.jpg",
+        "https://crautos.com/clasificados/usados/64423956-4.jpg",
+        "https://crautos.com/clasificados/usados/64423956-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISAAC VILLALOBOS",
+        "teléfono": "8550-3602",
+        "whatsapp": "8550-3602"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "156,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 19
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3274802&Nissan.XTRAIL.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 9287000,
+    "precio_usd": 18500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3274802-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3274802-1.jpg",
+        "https://crautos.com/clasificados/usados/3274802-2.jpg",
+        "https://crautos.com/clasificados/usados/3274802-3.jpg",
+        "https://crautos.com/clasificados/usados/3274802-4.jpg",
+        "https://crautos.com/clasificados/usados/3274802-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARSOT URUCA",
+        "teléfono": "8708-4863 4030-2130",
+        "whatsapp": "6244-4400",
+        "dirección": "De la rotonda juan pablo segundo 50 mts al este a mano derecha frente a Mega Super"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "113,800 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, CUATRO X CUATRO, GARANTIA POR ESCRITO.",
+        "kilometraje_number": 113800,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

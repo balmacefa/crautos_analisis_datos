@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34214866&Nissan.D21.1993",
+    "año": 1993,
+    "marca": "NISSAN",
+    "modelo": "D21",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34214866-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34214866-1.jpg",
+        "https://crautos.com/clasificados/usados/34214866-2.jpg",
+        "https://crautos.com/clasificados/usados/34214866-3.jpg",
+        "https://crautos.com/clasificados/usados/34214866-4.jpg",
+        "https://crautos.com/clasificados/usados/34214866-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE LUIS AGUIRRE",
+        "teléfono": "8972-0356"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Buen estado .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 32
+}

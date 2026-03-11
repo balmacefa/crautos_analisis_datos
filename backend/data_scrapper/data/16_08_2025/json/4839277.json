@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4839277&Toyota.PRADO%20.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4839277-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4839277-1.jpg",
+        "https://crautos.com/clasificados/usados/4839277-2.jpg",
+        "https://crautos.com/clasificados/usados/4839277-3.jpg",
+        "https://crautos.com/clasificados/usados/4839277-4.jpg",
+        "https://crautos.com/clasificados/usados/4839277-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "380,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "buen estado se puede financiar una parte .",
+        "kilometraje_number": 380000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

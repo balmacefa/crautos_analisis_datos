@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31754949&Chevrolet.CAVALIER%20PREMIER.2019",
+    "año": 2019,
+    "marca": "CHEVROLET",
+    "modelo": "CAVALIER PREMIER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31754949-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31754949-1.jpg",
+        "https://crautos.com/clasificados/usados/31754949-2.jpg",
+        "https://crautos.com/clasificados/usados/31754949-3.jpg",
+        "https://crautos.com/clasificados/usados/31754949-4.jpg",
+        "https://crautos.com/clasificados/usados/31754949-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTHONNY GARITA",
+        "teléfono": "8337-7551",
+        "whatsapp": "8337-7551"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "157,850 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Dekra hasta el otro año en blanco. Batería nueva..",
+        "kilometraje_number": 157850,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 6
+}

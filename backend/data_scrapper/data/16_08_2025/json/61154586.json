@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61154586&Toyota.RAV4.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61154586-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61154586-1.jpg",
+        "https://crautos.com/clasificados/usados/61154586-2.jpg",
+        "https://crautos.com/clasificados/usados/61154586-3.jpg",
+        "https://crautos.com/clasificados/usados/61154586-4.jpg",
+        "https://crautos.com/clasificados/usados/61154586-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO BRENES",
+        "teléfono": "8309-4503 8873-7287",
+        "whatsapp": "8309-4503"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "160,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en buen estado. Bateria Nueva, Recién alineado y tramado, Con algunos detalles de pintura..",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

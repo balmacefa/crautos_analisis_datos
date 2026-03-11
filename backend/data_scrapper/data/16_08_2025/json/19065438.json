@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19065438&Chevrolet.AVEO.2011",
+    "año": 2011,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19065438-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19065438-1.jpg",
+        "https://crautos.com/clasificados/usados/19065438-2.jpg",
+        "https://crautos.com/clasificados/usados/19065438-3.jpg",
+        "https://crautos.com/clasificados/usados/19065438-4.jpg",
+        "https://crautos.com/clasificados/usados/19065438-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERNESTO MORALES QUIRÓS",
+        "teléfono": "8810-0855 8884-7405",
+        "whatsapp": "8810-0855"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "111 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VINO",
+        "color_interior": "FOROS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Alajuela el Coyol .",
+        "kilometraje_number": 111,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

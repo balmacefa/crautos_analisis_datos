@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97885554&Kia.SPORTAGE%20.2005",
+    "año": 2005,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97885554-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97885554-1.jpg",
+        "https://crautos.com/clasificados/usados/97885554-2.jpg",
+        "https://crautos.com/clasificados/usados/97885554-3.jpg",
+        "https://crautos.com/clasificados/usados/97885554-4.jpg",
+        "https://crautos.com/clasificados/usados/97885554-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATALIA BRENES HERNÁNDEZ",
+        "teléfono": "8310-5247",
+        "whatsapp": "8310-5247"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "101,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Negociable .",
+        "kilometraje_number": 101000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 20
+}

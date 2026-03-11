@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94790720&Toyota.YARIS%20CROSS.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "YARIS CROSS",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94790720-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94790720-1.jpg",
+        "https://crautos.com/clasificados/usados/94790720-2.jpg",
+        "https://crautos.com/clasificados/usados/94790720-3.jpg",
+        "https://crautos.com/clasificados/usados/94790720-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXIS JOSE SOTO MARTINEZ",
+        "teléfono": "7208-8138"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "5,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Negociable... .",
+        "kilometraje_number": 5000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

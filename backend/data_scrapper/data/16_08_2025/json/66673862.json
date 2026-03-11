@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66673862&Nissan.I30.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "I30",
+    "precio_crc": 4781,
+    "precio_usd": 2400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66673862-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66673862-1.jpg",
+        "https://crautos.com/clasificados/usados/66673862-2.jpg",
+        "https://crautos.com/clasificados/usados/66673862-3.jpg",
+        "https://crautos.com/clasificados/usados/66673862-4.jpg",
+        "https://crautos.com/clasificados/usados/66673862-5.jpg",
+        "https://crautos.com/clasificados/usados/66673862-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER",
+        "teléfono": "8832-6530",
+        "whatsapp": "8832-6530"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "224,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Agosto del 2025",
+        "comentario_vendedor": "Solo móntese y disfrútelo !.",
+        "kilometraje_number": 224000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

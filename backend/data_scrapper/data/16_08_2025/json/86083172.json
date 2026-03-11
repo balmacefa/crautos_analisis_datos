@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86083172&Chevrolet.CRUZE%20.2014",
+    "año": 2014,
+    "marca": "CHEVROLET",
+    "modelo": "CRUZE",
+    "precio_crc": 8865,
+    "precio_usd": 4450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86083172-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86083172-1.jpg",
+        "https://crautos.com/clasificados/usados/86083172-2.jpg",
+        "https://crautos.com/clasificados/usados/86083172-3.jpg",
+        "https://crautos.com/clasificados/usados/86083172-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER CARPIO",
+        "teléfono": "8618-1750",
+        "whatsapp": "8663-2250"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "134,570 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO Y GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Nacional dekra al día junio del otro año contactar por whatsapp .",
+        "kilometraje_number": 134570,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75688731&Hyundai.HD55.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "HD55",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75688731-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75688731-1.jpg",
+        "https://crautos.com/clasificados/usados/75688731-2.jpg",
+        "https://crautos.com/clasificados/usados/75688731-3.jpg",
+        "https://crautos.com/clasificados/usados/75688731-4.jpg",
+        "https://crautos.com/clasificados/usados/75688731-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREY ARGUEDAS",
+        "teléfono": "8612-5101",
+        "whatsapp": "8612-5101"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "136,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "VEHICULO EN BUEN ESTADO AL DIA VENTA POR MOTIVO DE POCO USO .",
+        "kilometraje_number": 136000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

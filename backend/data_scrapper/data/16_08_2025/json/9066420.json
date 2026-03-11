@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9066420&Nissan.TIIDA%20.2010",
+    "año": 2010,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 7918,
+    "precio_usd": 3975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9066420-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9066420-1.jpg",
+        "https://crautos.com/clasificados/usados/9066420-2.jpg",
+        "https://crautos.com/clasificados/usados/9066420-3.jpg",
+        "https://crautos.com/clasificados/usados/9066420-4.jpg",
+        "https://crautos.com/clasificados/usados/9066420-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO XIRI TIBÁS",
+        "teléfono": "2236-9966 8785-6553 6009-9978",
+        "whatsapp": "6009-9978",
+        "dirección": "San Juan de Tibas , 150 mts oeste del Maxipali, edificio Auto Xiri"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "253,987 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL REY",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Julio del 2025",
+        "comentario_vendedor": "Nacional , contáctenos y negociamos AUTO XIRI TIBAS z.",
+        "kilometraje_number": 253987,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50573146&Ford.F250%20SUPER%20DUTY.2004",
+    "año": 2004,
+    "marca": "FORD",
+    "modelo": "F250 SUPER DUTY",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50573146-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50573146-1.jpg",
+        "https://crautos.com/clasificados/usados/50573146-2.jpg",
+        "https://crautos.com/clasificados/usados/50573146-3.jpg",
+        "https://crautos.com/clasificados/usados/50573146-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO CORDERO C",
+        "teléfono": "8871-8760",
+        "whatsapp": "8871-8760"
+    },
+    "informacion_general": {
+        "cilindrada": "7300 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VINO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Abril del 2025",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 7300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21807762&Daihatsu.TERIOS%20BEGO.2014",
+    "año": 2014,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21807762-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21807762-1.jpg",
+        "https://crautos.com/clasificados/usados/21807762-2.jpg",
+        "https://crautos.com/clasificados/usados/21807762-3.jpg",
+        "https://crautos.com/clasificados/usados/21807762-4.jpg",
+        "https://crautos.com/clasificados/usados/21807762-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIELA VILLALTA",
+        "teléfono": "8734-5482",
+        "whatsapp": "8734-5482"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "104,425 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Unico dueño Exelenctes estado Precio de incripcion aproximadamente millon y medio.",
+        "kilometraje_number": 104425,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

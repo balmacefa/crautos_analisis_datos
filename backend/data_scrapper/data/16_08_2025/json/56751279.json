@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56751279&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56751279-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56751279-1.jpg",
+        "https://crautos.com/clasificados/usados/56751279-2.jpg",
+        "https://crautos.com/clasificados/usados/56751279-3.jpg",
+        "https://crautos.com/clasificados/usados/56751279-4.jpg",
+        "https://crautos.com/clasificados/usados/56751279-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES ZARATE",
+        "teléfono": "8952-8538",
+        "whatsapp": "8952-8538"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO RECIBO MENOR VALOR.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

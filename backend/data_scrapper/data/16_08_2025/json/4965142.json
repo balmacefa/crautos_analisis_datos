@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4965142&Nissan.FRONTIER.2020",
+    "año": 2020,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 13554000,
+    "precio_usd": 27000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4965142-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4965142-1.jpg",
+        "https://crautos.com/clasificados/usados/4965142-2.jpg",
+        "https://crautos.com/clasificados/usados/4965142-3.jpg",
+        "https://crautos.com/clasificados/usados/4965142-4.jpg",
+        "https://crautos.com/clasificados/usados/4965142-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARSOT URUCA",
+        "teléfono": "8708-4863 4030-2130",
+        "whatsapp": "6244-4400",
+        "dirección": "De la rotonda juan pablo segundo 50 mts al este a mano derecha frente a Mega Super"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "145,700 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, GARANTIA POR ESCRITO.",
+        "kilometraje_number": 145700,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

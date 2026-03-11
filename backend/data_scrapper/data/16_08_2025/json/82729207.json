@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82729207&Nissan.MARCH.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "MARCH",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82729207-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82729207-1.jpg",
+        "https://crautos.com/clasificados/usados/82729207-2.jpg",
+        "https://crautos.com/clasificados/usados/82729207-3.jpg",
+        "https://crautos.com/clasificados/usados/82729207-4.jpg",
+        "https://crautos.com/clasificados/usados/82729207-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIÁN CHAVARRÍA",
+        "teléfono": "8308-3748",
+        "whatsapp": "8308-3748"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS RATON",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado! Único dueño. Carro de ciudad. Uso familiar..",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

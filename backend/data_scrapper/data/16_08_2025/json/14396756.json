@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14396756&Toyota.YARIS%20E.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "YARIS E",
+    "precio_crc": 17689,
+    "precio_usd": 8880000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14396756-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14396756-1.jpg",
+        "https://crautos.com/clasificados/usados/14396756-2.jpg",
+        "https://crautos.com/clasificados/usados/14396756-3.jpg",
+        "https://crautos.com/clasificados/usados/14396756-4.jpg",
+        "https://crautos.com/clasificados/usados/14396756-5.jpg",
+        "https://crautos.com/clasificados/usados/14396756-6.jpg",
+        "https://crautos.com/clasificados/usados/14396756-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWARD GONZÁLEZ",
+        "teléfono": "8703-9196",
+        "whatsapp": "8703-9196"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "87,259 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Oportunidad! Ganga!!.",
+        "kilometraje_number": 87259,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

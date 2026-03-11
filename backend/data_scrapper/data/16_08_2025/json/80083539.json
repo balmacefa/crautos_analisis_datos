@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80083539&Mitsubishi.L200.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 25498,
+    "precio_usd": 12800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80083539-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80083539-1.jpg",
+        "https://crautos.com/clasificados/usados/80083539-2.jpg",
+        "https://crautos.com/clasificados/usados/80083539-3.jpg",
+        "https://crautos.com/clasificados/usados/80083539-4.jpg",
+        "https://crautos.com/clasificados/usados/80083539-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDY RIVERA RODRÍGUEZ",
+        "teléfono": "7208-7718",
+        "whatsapp": "7208-7718"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Pegadero Roll bar Pantalla Comprado en agencia único dueño regalo día de la madre.",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

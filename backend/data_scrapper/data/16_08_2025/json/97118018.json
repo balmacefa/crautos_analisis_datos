@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97118018&Isuzu.NQR.2023",
+    "año": 2023,
+    "marca": "ISUZU",
+    "modelo": "NQR",
+    "precio_crc": 55777,
+    "precio_usd": 28000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS GUILLERMO CAMACHO",
+        "teléfono": "8763-9612 6272-8694 2571-1415",
+        "whatsapp": "6013-6071"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Camión 8.0-9.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "48,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "VAGONETA EXCELENTE ESTADO SE VENDE POR CIERRE DE NEGOCIO.",
+        "kilometraje_number": 48000,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

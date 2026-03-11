@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37289750&Hyundai.ELANTRA%20SE.2000",
+    "año": 2000,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA SE",
+    "precio_crc": 15438,
+    "precio_usd": 7750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37289750-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37289750-1.jpg",
+        "https://crautos.com/clasificados/usados/37289750-2.jpg",
+        "https://crautos.com/clasificados/usados/37289750-3.jpg",
+        "https://crautos.com/clasificados/usados/37289750-4.jpg",
+        "https://crautos.com/clasificados/usados/37289750-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAYNER GARCIA",
+        "teléfono": "8812-7954",
+        "whatsapp": "8812-7954"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "55,000 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ Impecable llantas nuevas sensor de presión de llantas ELEGANTE.",
+        "kilometraje_number": 55000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 25
+}

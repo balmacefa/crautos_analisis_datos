@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28237247&Toyota.RAV4%20XLE.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "RAV4 XLE",
+    "precio_crc": 26494,
+    "precio_usd": 13300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28237247-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28237247-1.jpg",
+        "https://crautos.com/clasificados/usados/28237247-2.jpg",
+        "https://crautos.com/clasificados/usados/28237247-3.jpg",
+        "https://crautos.com/clasificados/usados/28237247-4.jpg",
+        "https://crautos.com/clasificados/usados/28237247-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CABEZAS",
+        "teléfono": "8383-7030",
+        "whatsapp": "8383-7030"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "62,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. Llantas nuevas - incluye un mantenimiento de agencia y un cambio de aceite.",
+        "kilometraje_number": 62000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

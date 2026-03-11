@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65877450&Toyota.YARIS.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65877450-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65877450-1.jpg",
+        "https://crautos.com/clasificados/usados/65877450-2.jpg",
+        "https://crautos.com/clasificados/usados/65877450-3.jpg",
+        "https://crautos.com/clasificados/usados/65877450-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIELA",
+        "teléfono": "8931-3139"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "61,575 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Carro en excelente estado.",
+        "kilometraje_number": 61575,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

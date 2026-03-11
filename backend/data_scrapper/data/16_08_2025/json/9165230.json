@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9165230&Mitsubishi.L200.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 30578,
+    "precio_usd": 15350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9165230-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9165230-1.jpg",
+        "https://crautos.com/clasificados/usados/9165230-2.jpg",
+        "https://crautos.com/clasificados/usados/9165230-3.jpg",
+        "https://crautos.com/clasificados/usados/9165230-4.jpg",
+        "https://crautos.com/clasificados/usados/9165230-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS KALEB",
+        "teléfono": "8829-0243 8830-8672 8831-6585",
+        "whatsapp": "8829-0243",
+        "dirección": "San Juan de Santa Bárbara, Heredia 200 metros oeste del colegio New Hope"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "97,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "Llave de presencia, lona de cajón, pantalla táctil.",
+        "kilometraje_number": 97000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

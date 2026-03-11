@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63865347&Toyota.RAV4.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63865347-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63865347-1.jpg",
+        "https://crautos.com/clasificados/usados/63865347-2.jpg",
+        "https://crautos.com/clasificados/usados/63865347-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ OVIEDO ÁLVAREZ",
+        "teléfono": "8851-6617 8842-5621"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "174,500 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Se vende por cambio de modelo ya no se usa llantas nuevas.",
+        "kilometraje_number": 174500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

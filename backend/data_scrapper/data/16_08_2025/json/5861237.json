@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5861237&Ford.RANGER%20.2004",
+    "año": 2004,
+    "marca": "FORD",
+    "modelo": "RANGER",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5861237-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5861237-1.jpg",
+        "https://crautos.com/clasificados/usados/5861237-2.jpg",
+        "https://crautos.com/clasificados/usados/5861237-3.jpg",
+        "https://crautos.com/clasificados/usados/5861237-4.jpg",
+        "https://crautos.com/clasificados/usados/5861237-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VILLAMOTORS",
+        "teléfono": "8599-7978 8306-3434 2101-1881",
+        "whatsapp": "8306-3434",
+        "dirección": "San Miguel de Santo Domingo de Heredia 200 sur del Restaurante la casa de Doña Lela"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "muy cuidado , se puede recibir otro auto de menor valor , financio .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

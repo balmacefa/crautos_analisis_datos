@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13400980",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "N300 MOVE",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13400980-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13400980-1.jpg",
+        "https://crautos.com/clasificados/usados/13400980-2.jpg",
+        "https://crautos.com/clasificados/usados/13400980-3.jpg",
+        "https://crautos.com/clasificados/usados/13400980-4.jpg",
+        "https://crautos.com/clasificados/usados/13400980-5.jpg",
+        "https://crautos.com/clasificados/usados/13400980-6.jpg",
+        "https://crautos.com/clasificados/usados/13400980-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHANN LOAICIGA CARDENAS",
+        "teléfono": "7012-8554",
+        "whatsapp": "7012-8554"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "226,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Julio del 2025",
+        "comentario_vendedor": "Muy bien cuidada Llantas casi nuevas.",
+        "kilometraje_number": 226000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

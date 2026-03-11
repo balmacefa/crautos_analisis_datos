@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64489574&Kia.SORENTO%20.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 22809,
+    "precio_usd": 11450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64489574-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64489574-1.jpg",
+        "https://crautos.com/clasificados/usados/64489574-2.jpg",
+        "https://crautos.com/clasificados/usados/64489574-3.jpg",
+        "https://crautos.com/clasificados/usados/64489574-4.jpg",
+        "https://crautos.com/clasificados/usados/64489574-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "THOMAS BARQUERO",
+        "teléfono": "8620-3641",
+        "whatsapp": "8620-3641"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "189,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "kilometraje_number": 189000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

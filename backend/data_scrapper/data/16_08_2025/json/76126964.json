@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76126964&Nissan.XTERRA.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76126964-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76126964-1.jpg",
+        "https://crautos.com/clasificados/usados/76126964-2.jpg",
+        "https://crautos.com/clasificados/usados/76126964-3.jpg",
+        "https://crautos.com/clasificados/usados/76126964-4.jpg",
+        "https://crautos.com/clasificados/usados/76126964-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA MORALES",
+        "teléfono": "8303-7025",
+        "whatsapp": "8303-7025"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "176,631 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 176631,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 23
+}

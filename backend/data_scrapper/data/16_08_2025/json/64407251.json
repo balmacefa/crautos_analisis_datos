@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64407251&Hyundai.ELANTRA.2020",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64407251-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64407251-1.jpg",
+        "https://crautos.com/clasificados/usados/64407251-2.jpg",
+        "https://crautos.com/clasificados/usados/64407251-3.jpg",
+        "https://crautos.com/clasificados/usados/64407251-4.jpg",
+        "https://crautos.com/clasificados/usados/64407251-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN ÁVILA",
+        "teléfono": "8704-1650 6379-8873",
+        "whatsapp": "8704-1650"
+    },
+    "informacion_general": {
+        "cilindrada": "1598 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "46,000 millas",
+        "placa": "ND",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Recién traído de Estados Unidos. Precio incluye registro a nombre del comprador..",
+        "kilometraje_number": 46000,
+        "cilindrada_number": 1598
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5574882&Land%20Rover.RANGE%20ROVER%20EVOQUE.2019",
+    "año": 2019,
+    "marca": "LAND ROVER",
+    "modelo": "RANGE ROVER EVOQUE",
+    "precio_crc": 19076000,
+    "precio_usd": 38000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5574882-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5574882-1.jpg",
+        "https://crautos.com/clasificados/usados/5574882-2.jpg",
+        "https://crautos.com/clasificados/usados/5574882-3.jpg",
+        "https://crautos.com/clasificados/usados/5574882-4.jpg",
+        "https://crautos.com/clasificados/usados/5574882-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "72,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Precio venta no incluye gastos de traspaso.",
+        "kilometraje_number": 72000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 6
+}

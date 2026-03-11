@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74940882&Toyota.RAV4.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74940882-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74940882-1.jpg",
+        "https://crautos.com/clasificados/usados/74940882-2.jpg",
+        "https://crautos.com/clasificados/usados/74940882-3.jpg",
+        "https://crautos.com/clasificados/usados/74940882-4.jpg",
+        "https://crautos.com/clasificados/usados/74940882-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HENRY OBANDO CHINCHILLA",
+        "teléfono": "8393-2090",
+        "whatsapp": "8393-2090"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "excelente estado todo al día.",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

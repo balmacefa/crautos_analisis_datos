@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49979190&Kia.KIA%20RIO.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "KIA RIO",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49979190-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49979190-1.jpg",
+        "https://crautos.com/clasificados/usados/49979190-2.jpg",
+        "https://crautos.com/clasificados/usados/49979190-3.jpg",
+        "https://crautos.com/clasificados/usados/49979190-4.jpg",
+        "https://crautos.com/clasificados/usados/49979190-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELIETH CORTES CAMACHO",
+        "teléfono": "8718-0507 8849-3993",
+        "whatsapp": "8718-0507"
+    },
+    "informacion_general": {
+        "cilindrada": "1380 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "155,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "kilometraje_number": 155000,
+        "cilindrada_number": 1380
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

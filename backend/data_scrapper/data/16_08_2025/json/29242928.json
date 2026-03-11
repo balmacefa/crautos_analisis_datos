@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29242928&Nissan.PATHFINDER.2004",
+    "año": 2004,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29242928-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29242928-1.jpg",
+        "https://crautos.com/clasificados/usados/29242928-2.jpg",
+        "https://crautos.com/clasificados/usados/29242928-3.jpg",
+        "https://crautos.com/clasificados/usados/29242928-4.jpg",
+        "https://crautos.com/clasificados/usados/29242928-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ACUÑA",
+        "teléfono": "8315-5913",
+        "whatsapp": "8315-5913"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "146,438 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Aceite fibras batería nuevos Dekra al dìa Excelente Kilometraje Debe marchamos.",
+        "kilometraje_number": 146438,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

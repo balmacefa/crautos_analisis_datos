@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2887108&Renault.FLUENCE.2016",
+    "año": 2016,
+    "marca": "RENAULT",
+    "modelo": "FLUENCE",
+    "precio_crc": 9562,
+    "precio_usd": 4799950.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2887108-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2887108-1.jpg",
+        "https://crautos.com/clasificados/usados/2887108-2.jpg",
+        "https://crautos.com/clasificados/usados/2887108-3.jpg",
+        "https://crautos.com/clasificados/usados/2887108-4.jpg",
+        "https://crautos.com/clasificados/usados/2887108-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "58,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 58000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

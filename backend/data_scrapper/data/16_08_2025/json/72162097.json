@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72162097&Chevrolet.SPARK%20GO.2014",
+    "año": 2014,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK GO",
+    "precio_crc": 7500,
+    "precio_usd": 3765000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72162097-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72162097-1.jpg",
+        "https://crautos.com/clasificados/usados/72162097-2.jpg",
+        "https://crautos.com/clasificados/usados/72162097-3.jpg",
+        "https://crautos.com/clasificados/usados/72162097-4.jpg",
+        "https://crautos.com/clasificados/usados/72162097-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL BOGARÍN C.",
+        "teléfono": "7200-6163 8871-8778",
+        "whatsapp": "7200-6163"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "61,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Muy poco kilometraje. Excelente estado. Un solo dueño..",
+        "kilometraje_number": 61000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

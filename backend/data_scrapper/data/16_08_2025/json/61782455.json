@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61782455&Chevrolet.SPARK%20GO.2015",
+    "año": 2015,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK GO",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61782455-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61782455-1.jpg",
+        "https://crautos.com/clasificados/usados/61782455-2.jpg",
+        "https://crautos.com/clasificados/usados/61782455-3.jpg",
+        "https://crautos.com/clasificados/usados/61782455-4.jpg",
+        "https://crautos.com/clasificados/usados/61782455-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TRACY MONGE",
+        "teléfono": "6060-2632",
+        "whatsapp": "6060-2632"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "116,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Único dueño.",
+        "kilometraje_number": 116000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

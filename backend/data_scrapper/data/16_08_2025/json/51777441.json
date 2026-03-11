@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51777441&Chevrolet.AVEO%20.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51777441-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51777441-1.jpg",
+        "https://crautos.com/clasificados/usados/51777441-2.jpg",
+        "https://crautos.com/clasificados/usados/51777441-3.jpg",
+        "https://crautos.com/clasificados/usados/51777441-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN VALVERDE LOAIZA",
+        "teléfono": "8969-8344",
+        "whatsapp": "8969-8344"
+    },
+    "informacion_general": {
+        "cilindrada": "16000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Detalles de pintura mínimas pero mecánicamente excelente .",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 16000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

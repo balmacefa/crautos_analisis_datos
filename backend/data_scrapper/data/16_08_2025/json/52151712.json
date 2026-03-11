@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52151712&Jeep.WRANGLER.2017",
+    "año": 2017,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52151712-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52151712-1.jpg",
+        "https://crautos.com/clasificados/usados/52151712-2.jpg",
+        "https://crautos.com/clasificados/usados/52151712-3.jpg",
+        "https://crautos.com/clasificados/usados/52151712-4.jpg",
+        "https://crautos.com/clasificados/usados/52151712-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAREN FERNÁNDEZ",
+        "teléfono": "8819-0382 8559-5353"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "75,000 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR.",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

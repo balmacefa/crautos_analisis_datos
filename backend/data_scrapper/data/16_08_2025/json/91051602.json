@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91051602&Toyota.TACOMA.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CLEVER LEON",
+        "teléfono": "8825-3461 7014-8755",
+        "whatsapp": "8825-3461"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "244,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BRONCE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "sitema de gas toldo y almacenaje de agua.",
+        "kilometraje_number": 244000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS"
+    ],
+    "antiguedad": 13
+}

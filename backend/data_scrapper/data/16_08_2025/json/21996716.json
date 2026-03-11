@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21996716&Chevrolet.CAMARO%20RS.1990",
+    "año": 1990,
+    "marca": "CHEVROLET",
+    "modelo": "CAMARO RS",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21996716-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21996716-1.jpg",
+        "https://crautos.com/clasificados/usados/21996716-2.jpg",
+        "https://crautos.com/clasificados/usados/21996716-3.jpg",
+        "https://crautos.com/clasificados/usados/21996716-4.jpg",
+        "https://crautos.com/clasificados/usados/21996716-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO ULLOA",
+        "teléfono": "8840-1599 8386-2681",
+        "whatsapp": "8840-1599"
+    },
+    "informacion_general": {
+        "cilindrada": "5700 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Camaro tercera generación en perfecto esta recién restaurado todo le funciona perfectamente.",
+        "kilometraje_number": null,
+        "cilindrada_number": 5700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 35
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80370250&Hyundai.H1.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80370250-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80370250-1.jpg",
+        "https://crautos.com/clasificados/usados/80370250-2.jpg",
+        "https://crautos.com/clasificados/usados/80370250-3.jpg",
+        "https://crautos.com/clasificados/usados/80370250-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NÉSTOR MARTINEZ",
+        "teléfono": "8368-8361 8829-1467",
+        "whatsapp": "8829-1467"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Diciembre del 2024",
+        "comentario_vendedor": "dekra al día marchamo pagado un solo dueño y récord de agencia .",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

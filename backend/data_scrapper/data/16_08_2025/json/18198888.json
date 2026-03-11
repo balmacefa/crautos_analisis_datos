@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18198888&Renault.DUSTER.2023",
+    "año": 2023,
+    "marca": "RENAULT",
+    "modelo": "DUSTER",
+    "precio_crc": 20518,
+    "precio_usd": 10300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18198888-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18198888-1.jpg",
+        "https://crautos.com/clasificados/usados/18198888-2.jpg",
+        "https://crautos.com/clasificados/usados/18198888-3.jpg",
+        "https://crautos.com/clasificados/usados/18198888-4.jpg",
+        "https://crautos.com/clasificados/usados/18198888-5.jpg",
+        "https://crautos.com/clasificados/usados/18198888-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YOHANNA ORTIZ",
+        "teléfono": "6218-4511",
+        "whatsapp": "6218-4511"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "23,400 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEHRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "26 de Julio del 2025",
+        "kilometraje_number": 23400,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Cámara de retroceso",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Turbo"
+    ],
+    "antiguedad": 2
+}

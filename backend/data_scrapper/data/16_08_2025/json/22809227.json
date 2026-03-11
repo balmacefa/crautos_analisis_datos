@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22809227&Kia.K2500.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "K2500",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22809227-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22809227-1.jpg",
+        "https://crautos.com/clasificados/usados/22809227-2.jpg",
+        "https://crautos.com/clasificados/usados/22809227-3.jpg",
+        "https://crautos.com/clasificados/usados/22809227-4.jpg",
+        "https://crautos.com/clasificados/usados/22809227-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE UGALDE",
+        "teléfono": "6420-9555"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "247,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 247000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

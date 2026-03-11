@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49729360&Hyundai.ACCENT.1999",
+    "año": 1999,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 3287,
+    "precio_usd": 1650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49729360-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49729360-1.jpg",
+        "https://crautos.com/clasificados/usados/49729360-2.jpg",
+        "https://crautos.com/clasificados/usados/49729360-3.jpg",
+        "https://crautos.com/clasificados/usados/49729360-4.jpg",
+        "https://crautos.com/clasificados/usados/49729360-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EIBI RAMIREZ",
+        "teléfono": "6312-2831",
+        "whatsapp": "6312-2831"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "213,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Linea original, solo le falta pintura ,todo al día..",
+        "kilometraje_number": 213000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

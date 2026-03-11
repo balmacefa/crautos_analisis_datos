@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4310920&Nissan.PATHFINDER.2015",
+    "año": 2015,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 8785000,
+    "precio_usd": 17500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4310920-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4310920-1.jpg",
+        "https://crautos.com/clasificados/usados/4310920-2.jpg",
+        "https://crautos.com/clasificados/usados/4310920-3.jpg",
+        "https://crautos.com/clasificados/usados/4310920-4.jpg",
+        "https://crautos.com/clasificados/usados/4310920-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEMINUEVOS GRUPO DANISSA",
+        "teléfono": "2290-0505 Ext. 6371 7215",
+        "dirección": "De Agencia Datsun 150mts oeste, contiguo a Avis Rent a Car"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "117,800 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "No indica",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "TODO TERRENO.",
+        "kilometraje_number": 117800,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86323731&Nissan.XTERRA.2006",
+    "año": 2006,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86323731-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86323731-1.jpg",
+        "https://crautos.com/clasificados/usados/86323731-2.jpg",
+        "https://crautos.com/clasificados/usados/86323731-3.jpg",
+        "https://crautos.com/clasificados/usados/86323731-4.jpg",
+        "https://crautos.com/clasificados/usados/86323731-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE MARIO CHAVARRÍA CUBERO",
+        "teléfono": "6175-4996",
+        "whatsapp": "6175-4996"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "208,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Versión off Road -Bumper metálico delantero y trasero- Sistema de gas Romano- luz led con halógeno .",
+        "kilometraje_number": 208000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 19
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3159243&BYD.YUAN%20PLUS.2024",
+    "año": 2024,
+    "marca": "BYD",
+    "modelo": "YUAN PLUS",
+    "precio_crc": 31012,
+    "precio_usd": 15568000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3159243-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3159243-1.jpg",
+        "https://crautos.com/clasificados/usados/3159243-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "45,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 45000
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 1
+}

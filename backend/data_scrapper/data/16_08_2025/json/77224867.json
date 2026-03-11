@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77224867&Mitsubishi.L200.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77224867-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77224867-1.jpg",
+        "https://crautos.com/clasificados/usados/77224867-2.jpg",
+        "https://crautos.com/clasificados/usados/77224867-3.jpg",
+        "https://crautos.com/clasificados/usados/77224867-4.jpg",
+        "https://crautos.com/clasificados/usados/77224867-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELIETH JIMÉNEZ RODRÍGUEZ",
+        "teléfono": "8875-6820"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "228,250 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "No tiene extras .",
+        "kilometraje_number": 228250,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

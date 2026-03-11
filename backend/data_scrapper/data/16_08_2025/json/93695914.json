@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93695914&Mitsubishi.MONTERO.2010",
+    "año": 2010,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93695914-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93695914-1.jpg",
+        "https://crautos.com/clasificados/usados/93695914-2.jpg",
+        "https://crautos.com/clasificados/usados/93695914-3.jpg",
+        "https://crautos.com/clasificados/usados/93695914-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OMAR VARGAS",
+        "teléfono": "7160-6016",
+        "whatsapp": "7160-6016"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "284,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATIADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Mayo del 2025",
+        "comentario_vendedor": "Libre de todo en Excelente Estado.",
+        "kilometraje_number": 284000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29922656&Citroen.C3%20TD.2012",
+    "año": 2012,
+    "marca": "CITROEN",
+    "modelo": "C3 TD",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29922656-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29922656-1.jpg",
+        "https://crautos.com/clasificados/usados/29922656-2.jpg",
+        "https://crautos.com/clasificados/usados/29922656-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS CASCANTE",
+        "teléfono": "8825-4005",
+        "whatsapp": "8825-4005"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "132,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Super Economico y motor fuerte y muy rapido.",
+        "kilometraje_number": 132000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

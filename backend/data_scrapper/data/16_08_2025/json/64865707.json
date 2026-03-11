@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64865707&Donfeng%20(ZNA).GLORY%20C35.2023",
+    "año": 2023,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) GLORY C35",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64865707-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64865707-1.jpg",
+        "https://crautos.com/clasificados/usados/64865707-2.jpg",
+        "https://crautos.com/clasificados/usados/64865707-3.jpg",
+        "https://crautos.com/clasificados/usados/64865707-4.jpg",
+        "https://crautos.com/clasificados/usados/64865707-5.jpg",
+        "https://crautos.com/clasificados/usados/64865707-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL QUESADA",
+        "teléfono": "8526-0153 2552-1950",
+        "whatsapp": "8526-0153"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "27,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "poco km uso en Gam mantenimiento en la agencia llantas y frenos nuevos.",
+        "kilometraje_number": 27000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

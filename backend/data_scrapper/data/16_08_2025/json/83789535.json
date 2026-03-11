@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83789535&Toyota.RAV4.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83789535-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83789535-1.jpg",
+        "https://crautos.com/clasificados/usados/83789535-2.jpg",
+        "https://crautos.com/clasificados/usados/83789535-3.jpg",
+        "https://crautos.com/clasificados/usados/83789535-4.jpg",
+        "https://crautos.com/clasificados/usados/83789535-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ ALFREDO SOTO",
+        "teléfono": "8864-4328",
+        "whatsapp": "8864-4328"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "32 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Unico dueño.",
+        "kilometraje_number": 32,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

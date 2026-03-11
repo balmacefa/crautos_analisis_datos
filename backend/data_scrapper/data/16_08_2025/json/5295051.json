@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5295051&Citroen.NEMO.2016",
+    "año": 2016,
+    "marca": "CITROEN",
+    "modelo": "NEMO",
+    "precio_crc": 9960,
+    "precio_usd": 4999950.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5295051-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5295051-1.jpg",
+        "https://crautos.com/clasificados/usados/5295051-2.jpg",
+        "https://crautos.com/clasificados/usados/5295051-3.jpg",
+        "https://crautos.com/clasificados/usados/5295051-4.jpg",
+        "https://crautos.com/clasificados/usados/5295051-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Mayo del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 9
+}

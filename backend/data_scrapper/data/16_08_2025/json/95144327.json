@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95144327&Toyota.HILUX.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 41833,
+    "precio_usd": 21000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95144327-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95144327-1.jpg",
+        "https://crautos.com/clasificados/usados/95144327-2.jpg",
+        "https://crautos.com/clasificados/usados/95144327-3.jpg",
+        "https://crautos.com/clasificados/usados/95144327-4.jpg",
+        "https://crautos.com/clasificados/usados/95144327-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL VALVERDE",
+        "teléfono": "8816-7473",
+        "whatsapp": "8816-7473"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "7,500 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Recibo 10.500.000 y se puede seguir deuda con BAC. Esta practicamente nuevo. Tiene varias extras..",
+        "kilometraje_number": 7500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 1
+}

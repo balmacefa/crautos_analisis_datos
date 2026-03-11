@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75380547&Fiat.LINEA.2012",
+    "año": 2012,
+    "marca": "FIAT",
+    "modelo": "LINEA",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75380547-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75380547-1.jpg",
+        "https://crautos.com/clasificados/usados/75380547-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO HERNANDEZ",
+        "teléfono": "8604-4730",
+        "whatsapp": "8604-4730"
+    },
+    "informacion_general": {
+        "cilindrada": "1368 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "47,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Poco uso km. Turbo inyectado.",
+        "kilometraje_number": 47000,
+        "cilindrada_number": 1368
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

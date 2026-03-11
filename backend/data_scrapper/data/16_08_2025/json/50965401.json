@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50965401&Suzuki.CELERIO.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50965401-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50965401-1.jpg",
+        "https://crautos.com/clasificados/usados/50965401-2.jpg",
+        "https://crautos.com/clasificados/usados/50965401-3.jpg",
+        "https://crautos.com/clasificados/usados/50965401-4.jpg",
+        "https://crautos.com/clasificados/usados/50965401-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR FERNÁNDEZ SÁNCHEZ",
+        "teléfono": "7108-2127",
+        "whatsapp": "7108-2127"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "116,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado negociable - PARA INSCRIBIR -.",
+        "kilometraje_number": 116000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

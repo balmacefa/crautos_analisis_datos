@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2511830&Kia.BONGO%20III.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "BONGO III",
+    "precio_crc": 11044000,
+    "precio_usd": 22000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2511830-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2511830-1.jpg",
+        "https://crautos.com/clasificados/usados/2511830-2.jpg",
+        "https://crautos.com/clasificados/usados/2511830-3.jpg",
+        "https://crautos.com/clasificados/usados/2511830-4.jpg",
+        "https://crautos.com/clasificados/usados/2511830-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VEHÍCULOS Z Y M S.A.",
+        "teléfono": "8818-9142 7274-3207 2537-4545",
+        "whatsapp": "8818-9142",
+        "dirección": "San Nicolás el Alto de Ochomogo frente a Recope"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "63,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Junio del 2025",
+        "comentario_vendedor": "Excelente Estado, llantas nuevas, Financio.",
+        "kilometraje_number": 63000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

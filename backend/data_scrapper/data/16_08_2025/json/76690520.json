@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76690520&BMW.740IL.1995",
+    "año": 1995,
+    "marca": "BMW",
+    "modelo": "740IL",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76690520-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76690520-1.jpg",
+        "https://crautos.com/clasificados/usados/76690520-2.jpg",
+        "https://crautos.com/clasificados/usados/76690520-3.jpg",
+        "https://crautos.com/clasificados/usados/76690520-4.jpg",
+        "https://crautos.com/clasificados/usados/76690520-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMANUEL CASTRO",
+        "teléfono": "8938-9941",
+        "whatsapp": "8938-9941"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "OXF GREEN",
+        "color_interior": "BIEGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Marzo del 2025",
+        "comentario_vendedor": "Urge por falta de espacio y de uso. Ganga.",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

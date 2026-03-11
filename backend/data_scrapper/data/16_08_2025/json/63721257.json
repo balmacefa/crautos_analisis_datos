@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63721257&Toyota.COROLLA.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEX DAVID MORA",
+        "teléfono": "7273-1440",
+        "whatsapp": "7273-1440"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "78,000 millas",
+        "placa": "ND",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Impecable para inscribir.",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

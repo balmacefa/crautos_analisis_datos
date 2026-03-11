@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62575204&Kia.K2700.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "K2700",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62575204-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62575204-1.jpg",
+        "https://crautos.com/clasificados/usados/62575204-2.jpg",
+        "https://crautos.com/clasificados/usados/62575204-3.jpg",
+        "https://crautos.com/clasificados/usados/62575204-4.jpg",
+        "https://crautos.com/clasificados/usados/62575204-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE FANTINI VARELA",
+        "teléfono": "8392-8481",
+        "whatsapp": "8392-8481"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "CUIDAD QUESADA - RECORD DE AGENCIA.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 9
+}

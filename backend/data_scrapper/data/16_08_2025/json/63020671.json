@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63020671&Honda.CRV.1997",
+    "año": 1997,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63020671-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63020671-1.jpg",
+        "https://crautos.com/clasificados/usados/63020671-2.jpg",
+        "https://crautos.com/clasificados/usados/63020671-3.jpg",
+        "https://crautos.com/clasificados/usados/63020671-4.jpg",
+        "https://crautos.com/clasificados/usados/63020671-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ MAURICIO MORÚA CORRALES",
+        "teléfono": "8704-4292",
+        "whatsapp": "8704-4292"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "181,978 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "GLP Ahorro de hasta la mitad en combustible menor desgaste del motor.",
+        "kilometraje_number": 181978,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

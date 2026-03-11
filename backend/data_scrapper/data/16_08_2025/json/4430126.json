@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4430126&Renault.KWID.2021",
+    "año": 2021,
+    "marca": "RENAULT",
+    "modelo": "KWID",
+    "precio_crc": 5471800,
+    "precio_usd": 10900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4430126-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4430126-1.jpg",
+        "https://crautos.com/clasificados/usados/4430126-2.jpg",
+        "https://crautos.com/clasificados/usados/4430126-3.jpg",
+        "https://crautos.com/clasificados/usados/4430126-4.jpg",
+        "https://crautos.com/clasificados/usados/4430126-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AGENCIA RENAULT",
+        "teléfono": "7012-7664",
+        "whatsapp": "7111-4348",
+        "dirección": "Costado oeste de la plaza de fútbol de la Uruca"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "79,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Mayo del 2025",
+        "comentario_vendedor": "EXCELENTES CONDICIONES.",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 4
+}

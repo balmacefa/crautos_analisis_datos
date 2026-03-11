@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56994764&Kia.SPORTAGE.2010",
+    "año": 2010,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56994764-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56994764-1.jpg",
+        "https://crautos.com/clasificados/usados/56994764-2.jpg",
+        "https://crautos.com/clasificados/usados/56994764-3.jpg",
+        "https://crautos.com/clasificados/usados/56994764-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCOS PEREZ",
+        "teléfono": "8736-1481",
+        "whatsapp": "8736-1481"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Sacado de agencia.muy económico.forro en los asientos.corto de corriente.muy espacioso...",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

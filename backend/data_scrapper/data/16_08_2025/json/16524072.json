@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16524072&Isuzu.DMAX.2008",
+    "año": 2008,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 17878,
+    "precio_usd": 8975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16524072-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16524072-1.jpg",
+        "https://crautos.com/clasificados/usados/16524072-2.jpg",
+        "https://crautos.com/clasificados/usados/16524072-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DEIBY BOLAÑOS",
+        "teléfono": "8811-7083",
+        "whatsapp": "8811-7083"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "195,800 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS CLARO",
+        "color_interior": "NEGRO Y GRIS OS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Varias extras.",
+        "kilometraje_number": 195800,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

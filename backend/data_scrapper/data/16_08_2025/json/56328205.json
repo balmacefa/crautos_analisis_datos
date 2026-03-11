@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56328205&Mazda.3.2004",
+    "año": 2004,
+    "marca": "MAZDA",
+    "modelo": "3",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56328205-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56328205-1.jpg",
+        "https://crautos.com/clasificados/usados/56328205-2.jpg",
+        "https://crautos.com/clasificados/usados/56328205-3.jpg",
+        "https://crautos.com/clasificados/usados/56328205-4.jpg",
+        "https://crautos.com/clasificados/usados/56328205-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO BOLAÑOS",
+        "teléfono": "6057-5604"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "200,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

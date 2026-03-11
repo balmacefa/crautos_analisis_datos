@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25817287&Toyota.COROLLA.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25817287-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25817287-1.jpg",
+        "https://crautos.com/clasificados/usados/25817287-2.jpg",
+        "https://crautos.com/clasificados/usados/25817287-3.jpg",
+        "https://crautos.com/clasificados/usados/25817287-4.jpg",
+        "https://crautos.com/clasificados/usados/25817287-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCARLETH GARCÍA",
+        "teléfono": "6082-7680 8842-4225"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,351 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL IMPREZA",
+        "color_interior": "NEGRO, GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Muy buen carro precio negociable tiene algunos detallitos de pintura muy leves.",
+        "kilometraje_number": 170351,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

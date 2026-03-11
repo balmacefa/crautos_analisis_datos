@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31631146&Toyota.RAV4.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 25697,
+    "precio_usd": 12900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31631146-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31631146-1.jpg",
+        "https://crautos.com/clasificados/usados/31631146-2.jpg",
+        "https://crautos.com/clasificados/usados/31631146-3.jpg",
+        "https://crautos.com/clasificados/usados/31631146-4.jpg",
+        "https://crautos.com/clasificados/usados/31631146-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RIGOBERTO LASSO",
+        "teléfono": "8838-3535",
+        "whatsapp": "8838-3535"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "68,489 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Marzo del 2025",
+        "comentario_vendedor": "Vehiculo en excelente estado,mantenimiento al dia,un solo dueño,bajo kilometraje,recibo vehiculo .",
+        "kilometraje_number": 68489,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

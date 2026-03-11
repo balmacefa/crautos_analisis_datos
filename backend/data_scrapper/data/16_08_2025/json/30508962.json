@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30508962&Kia.SPORTAGE.1999",
+    "año": 1999,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 1295,
+    "precio_usd": 650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30508962-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30508962-1.jpg",
+        "https://crautos.com/clasificados/usados/30508962-2.jpg",
+        "https://crautos.com/clasificados/usados/30508962-3.jpg",
+        "https://crautos.com/clasificados/usados/30508962-4.jpg",
+        "https://crautos.com/clasificados/usados/30508962-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOISES GARCIA",
+        "teléfono": "8717-9448 7119-7651",
+        "whatsapp": "8717-9448"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "218,900 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Lleva dos años parado. Pendiente RTV y marchamos. Ideal para proyecto o repuestos.",
+        "kilometraje_number": 218900,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

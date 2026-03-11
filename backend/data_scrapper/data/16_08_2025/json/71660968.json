@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71660968&Suzuki.AERIO.2005",
+    "año": 2005,
+    "marca": "SUZUKI",
+    "modelo": "AERIO",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71660968-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71660968-1.jpg",
+        "https://crautos.com/clasificados/usados/71660968-2.jpg",
+        "https://crautos.com/clasificados/usados/71660968-3.jpg",
+        "https://crautos.com/clasificados/usados/71660968-4.jpg",
+        "https://crautos.com/clasificados/usados/71660968-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WENDY ALFARO ESPINOZA",
+        "teléfono": "8786-3593",
+        "whatsapp": "8786-3593"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Daño en el Block del motor, sin embargo esta en el excelente estado a como se ve en las fotos .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

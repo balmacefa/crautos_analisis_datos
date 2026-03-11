@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46531929&Toyota.RAV4.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 18904,
+    "precio_usd": 9490000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46531929-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46531929-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE SAENZ",
+        "teléfono": "7111-2873",
+        "whatsapp": "7111-2873"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "118,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Mayo del 2025",
+        "comentario_vendedor": "Llame sin compromiso, no se va arrepentir.",
+        "kilometraje_number": 118000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

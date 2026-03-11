@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7435110&Hyundai.ELANTRA%20.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7435110-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7435110-1.jpg",
+        "https://crautos.com/clasificados/usados/7435110-2.jpg",
+        "https://crautos.com/clasificados/usados/7435110-3.jpg",
+        "https://crautos.com/clasificados/usados/7435110-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS KALEB",
+        "teléfono": "8829-0243 8830-8672 8831-6585",
+        "whatsapp": "8829-0243",
+        "dirección": "San Juan de Santa Bárbara, Heredia 200 metros oeste del colegio New Hope"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "111,000 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "versión americano.",
+        "kilometraje_number": 111000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

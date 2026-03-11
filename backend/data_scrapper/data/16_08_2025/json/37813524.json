@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37813524&Nissan.VERSA.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37813524-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37813524-1.jpg",
+        "https://crautos.com/clasificados/usados/37813524-2.jpg",
+        "https://crautos.com/clasificados/usados/37813524-3.jpg",
+        "https://crautos.com/clasificados/usados/37813524-4.jpg",
+        "https://crautos.com/clasificados/usados/37813524-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS MORA",
+        "teléfono": "6033-3333",
+        "whatsapp": "6033-3333"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "85,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Motor Como Nuevo! Tiene golpe pequeño en bumper y Puerta de cajuela. Nada grave. .",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

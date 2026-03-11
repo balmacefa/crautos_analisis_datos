@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89157787&Hyundai.ELANTRA.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RUBEN MONTERO SOLANO",
+        "teléfono": "8445-0600 6243-9152",
+        "whatsapp": "8445-0600"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "109,269 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "carro al dia excelentes condiciones muy cuidado .",
+        "kilometraje_number": 109269,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

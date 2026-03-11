@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41907840&Toyota.ECHO.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41907840-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41907840-1.jpg",
+        "https://crautos.com/clasificados/usados/41907840-2.jpg",
+        "https://crautos.com/clasificados/usados/41907840-3.jpg",
+        "https://crautos.com/clasificados/usados/41907840-4.jpg",
+        "https://crautos.com/clasificados/usados/41907840-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO MARTÍNEZ",
+        "teléfono": "8951-8755",
+        "whatsapp": "8951-8755"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,990 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Recién Tune Up mecánicamente está excelente .",
+        "kilometraje_number": 200990,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 23
+}

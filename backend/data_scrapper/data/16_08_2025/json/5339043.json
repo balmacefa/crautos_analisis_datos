@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5339043&Jeep.WRANGLER%20SAHARA.2012",
+    "año": 2012,
+    "marca": "JEEP",
+    "modelo": "WRANGLER SAHARA",
+    "precio_crc": 21713,
+    "precio_usd": 10900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5339043-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5339043-1.jpg",
+        "https://crautos.com/clasificados/usados/5339043-2.jpg",
+        "https://crautos.com/clasificados/usados/5339043-3.jpg",
+        "https://crautos.com/clasificados/usados/5339043-4.jpg",
+        "https://crautos.com/clasificados/usados/5339043-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PROPIAUTO DEL SUR",
+        "teléfono": "6039-7411 8763-3523 2251-2000",
+        "whatsapp": "6039-7411",
+        "dirección": "Cartago 200 metros al este del Mall Paseo Metrópoli"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "162,000 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Financiamiento sin prima disponible.",
+        "kilometraje_number": 162000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

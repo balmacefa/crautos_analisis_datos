@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33402009&Chevrolet.BEAT.2020",
+    "año": 2020,
+    "marca": "CHEVROLET",
+    "modelo": "BEAT",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33402009-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33402009-1.jpg",
+        "https://crautos.com/clasificados/usados/33402009-2.jpg",
+        "https://crautos.com/clasificados/usados/33402009-3.jpg",
+        "https://crautos.com/clasificados/usados/33402009-4.jpg",
+        "https://crautos.com/clasificados/usados/33402009-5.jpg",
+        "https://crautos.com/clasificados/usados/33402009-6.jpg",
+        "https://crautos.com/clasificados/usados/33402009-7.jpg",
+        "https://crautos.com/clasificados/usados/33402009-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIAN RODRIGUEZ FERNÁNDEZ",
+        "teléfono": "8854-8235",
+        "whatsapp": "8854-8235"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Esta como nuevo super recomendado.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 5
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83513845&Chevrolet.SPARK.2015",
+    "año": 2015,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83513845-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83513845-1.jpg",
+        "https://crautos.com/clasificados/usados/83513845-2.jpg",
+        "https://crautos.com/clasificados/usados/83513845-3.jpg",
+        "https://crautos.com/clasificados/usados/83513845-4.jpg",
+        "https://crautos.com/clasificados/usados/83513845-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOAN LINNER",
+        "teléfono": "8415-0989",
+        "whatsapp": "8415-0989"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "79,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [],
+    "antiguedad": 10
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97331440&Nissan.QASHQAI.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 17829,
+    "precio_usd": 8950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97331440-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97331440-1.jpg",
+        "https://crautos.com/clasificados/usados/97331440-2.jpg",
+        "https://crautos.com/clasificados/usados/97331440-3.jpg",
+        "https://crautos.com/clasificados/usados/97331440-4.jpg",
+        "https://crautos.com/clasificados/usados/97331440-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE ACUÑA",
+        "teléfono": "8542-9054 8667-2798 8875-9872",
+        "whatsapp": "8542-9054"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "64,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Aceptamos Visa MasterCard American Express CR transferencias bancarias transferencias internacio.",
+        "kilometraje_number": 64000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

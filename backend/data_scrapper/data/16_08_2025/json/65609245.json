@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65609245&Toyota.TACOMA.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65609245-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65609245-1.jpg",
+        "https://crautos.com/clasificados/usados/65609245-2.jpg",
+        "https://crautos.com/clasificados/usados/65609245-3.jpg",
+        "https://crautos.com/clasificados/usados/65609245-4.jpg",
+        "https://crautos.com/clasificados/usados/65609245-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS VILLALOBOS GARCÍA",
+        "teléfono": "7113-9763 8701-3318",
+        "whatsapp": "7113-9763"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "2 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Vendo Toyota Tacoma modelo 98 -2.400cc, gasolina -Automático -Llantas nuevas -Aros de lujo de Rav.",
+        "kilometraje_number": 2,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

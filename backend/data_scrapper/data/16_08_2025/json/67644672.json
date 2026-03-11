@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67644672&Volkswagen.AMAROK.2013",
+    "año": 2013,
+    "marca": "VOLKSWAGEN",
+    "modelo": "AMAROK",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIAN BRENES VALVERDE",
+        "teléfono": "8302-9019 8839-0976 7099-2048",
+        "whatsapp": "8302-9019"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "154,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE PERLADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado Turbo Diésel intercooler Radio Pantalla dreka hasta el .",
+        "kilometraje_number": 154000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

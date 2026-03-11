@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47283175&Hyundai.HD78.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "HD78",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47283175-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47283175-1.jpg",
+        "https://crautos.com/clasificados/usados/47283175-2.jpg",
+        "https://crautos.com/clasificados/usados/47283175-3.jpg",
+        "https://crautos.com/clasificados/usados/47283175-4.jpg",
+        "https://crautos.com/clasificados/usados/47283175-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WALTER ORTEGA",
+        "teléfono": "6479-0354",
+        "whatsapp": "6479-0354"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "270,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado recibo cierre central vidrios eléctricos garantía de motor y caja wats up .",
+        "kilometraje_number": 270000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 17
+}

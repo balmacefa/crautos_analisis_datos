@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59983754&Kia.RIO%20.2020",
+    "año": 2020,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59983754-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59983754-1.jpg",
+        "https://crautos.com/clasificados/usados/59983754-2.jpg",
+        "https://crautos.com/clasificados/usados/59983754-3.jpg",
+        "https://crautos.com/clasificados/usados/59983754-4.jpg",
+        "https://crautos.com/clasificados/usados/59983754-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YESSICA VASQUEZ",
+        "teléfono": "8699-9762",
+        "whatsapp": "8699-9762"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "121,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "Récord de agencia un solo dueño. Precio negociable .",
+        "kilometraje_number": 121000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29248058&Mitsubishi.MONTERO.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 27092,
+    "precio_usd": 13600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29248058-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29248058-1.jpg",
+        "https://crautos.com/clasificados/usados/29248058-2.jpg",
+        "https://crautos.com/clasificados/usados/29248058-3.jpg",
+        "https://crautos.com/clasificados/usados/29248058-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN MARTÍNEZ MORA",
+        "teléfono": "8656-8646 8888-4902",
+        "whatsapp": "8656-8646"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "117,384 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Carro de agencia de garage impecable mecánica y pintura.",
+        "kilometraje_number": 117384,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

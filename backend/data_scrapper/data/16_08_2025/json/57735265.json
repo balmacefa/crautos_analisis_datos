@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57735265&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57735265-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57735265-1.jpg",
+        "https://crautos.com/clasificados/usados/57735265-2.jpg",
+        "https://crautos.com/clasificados/usados/57735265-3.jpg",
+        "https://crautos.com/clasificados/usados/57735265-4.jpg",
+        "https://crautos.com/clasificados/usados/57735265-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LARRY ESQUIVEL",
+        "teléfono": "8935-2755",
+        "whatsapp": "8935-2755"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "236,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "comentario_vendedor": "Carro en muy buenas condiciones no se recibe..",
+        "kilometraje_number": 236000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

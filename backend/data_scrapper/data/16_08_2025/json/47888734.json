@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47888734&Great%20Wall.VOLEEX%20C30.2011",
+    "año": 2011,
+    "marca": "GREAT WALL",
+    "modelo": "VOLEEX C30",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47888734-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47888734-1.jpg",
+        "https://crautos.com/clasificados/usados/47888734-2.jpg",
+        "https://crautos.com/clasificados/usados/47888734-3.jpg",
+        "https://crautos.com/clasificados/usados/47888734-4.jpg",
+        "https://crautos.com/clasificados/usados/47888734-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERMAN ROJAS",
+        "teléfono": "6457-8362",
+        "whatsapp": "6457-8362"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "95,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "CON SISTEMA DE GAS LPG-TRASPASO INCLUIDO-VEHICULO COMPATIBLE CON REPUESTOS DEL YARIS. BIEN CUIDADO.",
+        "kilometraje_number": 95500,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

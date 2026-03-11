@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83879201&Hyundai.SANTA%20FE%20.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83879201-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83879201-1.jpg",
+        "https://crautos.com/clasificados/usados/83879201-2.jpg",
+        "https://crautos.com/clasificados/usados/83879201-3.jpg",
+        "https://crautos.com/clasificados/usados/83879201-4.jpg",
+        "https://crautos.com/clasificados/usados/83879201-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREIVIN CASCANTE LÓPEZ",
+        "teléfono": "7152-9634",
+        "whatsapp": "7152-9634"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "169,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Detalles estéticos .",
+        "kilometraje_number": 169000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

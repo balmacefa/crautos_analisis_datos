@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45656700&Hyundai.ELANTRA.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45656700-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45656700-1.jpg",
+        "https://crautos.com/clasificados/usados/45656700-2.jpg",
+        "https://crautos.com/clasificados/usados/45656700-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODOLFO CHAVES",
+        "teléfono": "7224-1809 8403-8511",
+        "whatsapp": "7224-1809"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "150,130 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Una dueña excelente estado solo usado en S.J. Motor perfecto, no gasta aceite .",
+        "kilometraje_number": 150130,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

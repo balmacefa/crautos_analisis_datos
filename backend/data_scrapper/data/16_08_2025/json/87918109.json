@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87918109&Isuzu.AMIGO.1992",
+    "año": 1992,
+    "marca": "ISUZU",
+    "modelo": "AMIGO",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87918109-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87918109-1.jpg",
+        "https://crautos.com/clasificados/usados/87918109-2.jpg",
+        "https://crautos.com/clasificados/usados/87918109-3.jpg",
+        "https://crautos.com/clasificados/usados/87918109-4.jpg",
+        "https://crautos.com/clasificados/usados/87918109-5.jpg",
+        "https://crautos.com/clasificados/usados/87918109-6.jpg",
+        "https://crautos.com/clasificados/usados/87918109-7.jpg",
+        "https://crautos.com/clasificados/usados/87918109-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KRISTEL CORRALES",
+        "teléfono": "8894-0467 8583-2522",
+        "whatsapp": "8894-0467"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "177,304 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "Incluye traspaso. Precio negociable..",
+        "kilometraje_number": 177304,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 33
+}

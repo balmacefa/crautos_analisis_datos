@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86465386&Honda.CRV.1999",
+    "año": 1999,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86465386-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86465386-1.jpg",
+        "https://crautos.com/clasificados/usados/86465386-2.jpg",
+        "https://crautos.com/clasificados/usados/86465386-3.jpg",
+        "https://crautos.com/clasificados/usados/86465386-4.jpg",
+        "https://crautos.com/clasificados/usados/86465386-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFFRY CARMONA SOLANO",
+        "teléfono": "8851-2863 8584-1080"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Carro en Perfecto estado extras llantas nuevas un único dueño.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

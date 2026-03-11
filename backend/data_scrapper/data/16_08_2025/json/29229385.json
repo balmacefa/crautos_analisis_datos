@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29229385&Mitsubishi.OUTLANDER.2018",
+    "año": 2018,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29229385-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29229385-1.jpg",
+        "https://crautos.com/clasificados/usados/29229385-2.jpg",
+        "https://crautos.com/clasificados/usados/29229385-3.jpg",
+        "https://crautos.com/clasificados/usados/29229385-4.jpg",
+        "https://crautos.com/clasificados/usados/29229385-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIÁN GUERRERO",
+        "teléfono": "8746-0175",
+        "whatsapp": "8746-0175"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11697902&Honda.CRV.2002",
+    "año": 2002,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11697902-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11697902-1.jpg",
+        "https://crautos.com/clasificados/usados/11697902-2.jpg",
+        "https://crautos.com/clasificados/usados/11697902-3.jpg",
+        "https://crautos.com/clasificados/usados/11697902-4.jpg",
+        "https://crautos.com/clasificados/usados/11697902-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN GOMEZ",
+        "teléfono": "8940-6011",
+        "whatsapp": "8940-6011"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "197,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "MUY ESPACIOSO Y CONFIABLE.",
+        "kilometraje_number": 197000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

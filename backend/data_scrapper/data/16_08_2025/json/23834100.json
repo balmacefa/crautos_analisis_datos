@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23834100&Suzuki.SX4.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23834100-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23834100-1.jpg",
+        "https://crautos.com/clasificados/usados/23834100-2.jpg",
+        "https://crautos.com/clasificados/usados/23834100-3.jpg",
+        "https://crautos.com/clasificados/usados/23834100-4.jpg",
+        "https://crautos.com/clasificados/usados/23834100-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IRENE CALDERÓN",
+        "teléfono": "8392-7190"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "150,600 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "RTV al día. Batería nueva. Mantenimiento mecánico reciente. Excelente estado mecánico y estético..",
+        "kilometraje_number": 150600,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72686878&Suzuki.JIMNY.2025",
+    "año": 2025,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 37849,
+    "precio_usd": 19000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72686878-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72686878-1.jpg",
+        "https://crautos.com/clasificados/usados/72686878-2.jpg",
+        "https://crautos.com/clasificados/usados/72686878-3.jpg",
+        "https://crautos.com/clasificados/usados/72686878-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSHUA MONGE",
+        "teléfono": "7092-7617 7163-4047",
+        "whatsapp": "7092-7617"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "10,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Accesorios : -Portabicicletas -Luz brillante extra larga en la parte superior para carreteras.",
+        "kilometraje_number": 10000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bolsa de aire",
+        "Control de descenso",
+        "Cámara 360",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Sensor de lluvia",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 0
+}

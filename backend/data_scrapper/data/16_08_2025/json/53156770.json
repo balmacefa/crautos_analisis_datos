@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53156770&Suzuki.MARUTI.2003",
+    "año": 2003,
+    "marca": "SUZUKI",
+    "modelo": "MARUTI",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53156770-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53156770-1.jpg",
+        "https://crautos.com/clasificados/usados/53156770-2.jpg",
+        "https://crautos.com/clasificados/usados/53156770-3.jpg",
+        "https://crautos.com/clasificados/usados/53156770-4.jpg",
+        "https://crautos.com/clasificados/usados/53156770-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERARDO CORDERO",
+        "teléfono": "8886-3454"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "66,251 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Se escuchan ofertas.",
+        "kilometraje_number": 66251,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 22
+}

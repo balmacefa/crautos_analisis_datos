@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63805881",
+    "año": 2019,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 26594,
+    "precio_usd": 13350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63805881-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63805881-1.jpg",
+        "https://crautos.com/clasificados/usados/63805881-2.jpg",
+        "https://crautos.com/clasificados/usados/63805881-3.jpg",
+        "https://crautos.com/clasificados/usados/63805881-4.jpg",
+        "https://crautos.com/clasificados/usados/63805881-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO",
+        "teléfono": "8782-0813",
+        "whatsapp": "8782-0813"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. Puedo valorar recibir vehículo de mi interés y vuelto Firma inmediata .",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74972240&Toyota.RAV4.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 17430,
+    "precio_usd": 8750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74972240-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74972240-1.jpg",
+        "https://crautos.com/clasificados/usados/74972240-2.jpg",
+        "https://crautos.com/clasificados/usados/74972240-3.jpg",
+        "https://crautos.com/clasificados/usados/74972240-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANNY CAMPOS",
+        "teléfono": "8890-1466 7286-8019",
+        "whatsapp": "8890-1466"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "166,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Perfectas condiciones mecanicas.",
+        "kilometraje_number": 166000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

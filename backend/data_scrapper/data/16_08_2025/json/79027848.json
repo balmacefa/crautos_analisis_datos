@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79027848&Toyota.COROLLA.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ ANTONIO RUIZ",
+        "teléfono": "8703-1630",
+        "whatsapp": "8703-1630"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "900,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Overhaul hace cuarenta mil kilómetros. En excelente estado mecánico. .",
+        "kilometraje_number": 900000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

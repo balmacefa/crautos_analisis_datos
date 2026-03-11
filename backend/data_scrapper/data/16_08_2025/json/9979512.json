@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9979512&Kia.SORENTO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 23506,
+    "precio_usd": 11800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9979512-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9979512-1.jpg",
+        "https://crautos.com/clasificados/usados/9979512-2.jpg",
+        "https://crautos.com/clasificados/usados/9979512-3.jpg",
+        "https://crautos.com/clasificados/usados/9979512-4.jpg",
+        "https://crautos.com/clasificados/usados/9979512-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTONORTE S.A.",
+        "teléfono": "8359-3130 8308-3750 2240-5613",
+        "whatsapp": "8308-3750",
+        "dirección": "Diagonal Agencia ICE Florida de Tibás San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "78,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Junio del 2025",
+        "comentario_vendedor": "MARCHAMO DOS MIL VEINTICINCO, FINANCIAMIENTO, SE RECIBE, GARANTÍA.",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

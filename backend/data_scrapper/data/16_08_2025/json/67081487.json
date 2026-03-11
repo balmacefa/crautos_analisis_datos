@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67081487",
+    "año": 2008,
+    "marca": "JEEP",
+    "modelo": "COMPASS",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67081487-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67081487-1.jpg",
+        "https://crautos.com/clasificados/usados/67081487-2.jpg",
+        "https://crautos.com/clasificados/usados/67081487-3.jpg",
+        "https://crautos.com/clasificados/usados/67081487-4.jpg",
+        "https://crautos.com/clasificados/usados/67081487-5.jpg",
+        "https://crautos.com/clasificados/usados/67081487-6.jpg",
+        "https://crautos.com/clasificados/usados/67081487-7.jpg",
+        "https://crautos.com/clasificados/usados/67081487-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CESAR PORRAS MURILLO",
+        "teléfono": "8338-4172 8883-7256",
+        "whatsapp": "8330-4172"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "89,072 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Junio del 2025",
+        "comentario_vendedor": "Se escuchan ofertas urge vender - requiere mantenimiento de rutina.",
+        "kilometraje_number": 89072,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

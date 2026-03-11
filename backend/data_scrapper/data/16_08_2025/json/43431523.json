@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43431523&Kia.RIO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43431523-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43431523-1.jpg",
+        "https://crautos.com/clasificados/usados/43431523-2.jpg",
+        "https://crautos.com/clasificados/usados/43431523-3.jpg",
+        "https://crautos.com/clasificados/usados/43431523-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO HERNANDEZ SIBAJA",
+        "teléfono": "8327-3944 8304-8883",
+        "whatsapp": "8327-3944"
+    },
+    "informacion_general": {
+        "cilindrada": "1490 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "244,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 244000,
+        "cilindrada_number": 1490
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

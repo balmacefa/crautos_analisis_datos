@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59899541&Hyundai.TUCSON%20.2020",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59899541-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59899541-1.jpg",
+        "https://crautos.com/clasificados/usados/59899541-2.jpg",
+        "https://crautos.com/clasificados/usados/59899541-3.jpg",
+        "https://crautos.com/clasificados/usados/59899541-4.jpg",
+        "https://crautos.com/clasificados/usados/59899541-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DYLAN AGUILAR",
+        "teléfono": "8508-5665",
+        "whatsapp": "8508-5665"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "83,089 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "kilometraje_number": 83089,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

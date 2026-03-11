@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77842617&Changan.STAR%202.2014",
+    "año": 2014,
+    "marca": "CHANGAN",
+    "modelo": "STAR 2",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77842617-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77842617-1.jpg",
+        "https://crautos.com/clasificados/usados/77842617-2.jpg",
+        "https://crautos.com/clasificados/usados/77842617-3.jpg",
+        "https://crautos.com/clasificados/usados/77842617-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREY ARGUEDAS",
+        "teléfono": "8612-5101",
+        "whatsapp": "8612-5101"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "126,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "FALLA EN LA VALVULA DE MINIMO ESTA AL DIA DETALLES DE PINTURA Y CARROCERIA .",
+        "kilometraje_number": 126000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 11
+}

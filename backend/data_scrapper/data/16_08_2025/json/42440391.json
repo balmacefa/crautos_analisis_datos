@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42440391&Chevrolet.SONIC%20PREMIER.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SONIC PREMIER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42440391-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42440391-1.jpg",
+        "https://crautos.com/clasificados/usados/42440391-2.jpg",
+        "https://crautos.com/clasificados/usados/42440391-3.jpg",
+        "https://crautos.com/clasificados/usados/42440391-4.jpg",
+        "https://crautos.com/clasificados/usados/42440391-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARELYS RUEDA SOLANO",
+        "teléfono": "8856-4560",
+        "whatsapp": "8856-4560"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "75,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

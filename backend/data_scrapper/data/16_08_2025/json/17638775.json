@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17638775&Mitsubishi.MONTERO%20SPORT.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17638775-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17638775-1.jpg",
+        "https://crautos.com/clasificados/usados/17638775-2.jpg",
+        "https://crautos.com/clasificados/usados/17638775-3.jpg",
+        "https://crautos.com/clasificados/usados/17638775-4.jpg",
+        "https://crautos.com/clasificados/usados/17638775-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CESAR BEJARANO",
+        "teléfono": "8831-2704",
+        "whatsapp": "8831-2704"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "147,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Bien cuidada Radio pioneer cobertores de asientos.",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

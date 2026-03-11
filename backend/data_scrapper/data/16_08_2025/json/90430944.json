@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90430944&Mini.COOPER%20PACEMAN.2014",
+    "año": 2014,
+    "marca": "MINI",
+    "modelo": "COOPER PACEMAN",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90430944-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90430944-1.jpg",
+        "https://crautos.com/clasificados/usados/90430944-2.jpg",
+        "https://crautos.com/clasificados/usados/90430944-3.jpg",
+        "https://crautos.com/clasificados/usados/90430944-4.jpg",
+        "https://crautos.com/clasificados/usados/90430944-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATHALIA QUESADA",
+        "teléfono": "7118-1275",
+        "whatsapp": "7118-1275"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "ESPACIOSO.ASIENTOS DE CUERO.ECONÓMICO.EXCELENTES CONDICIONES.DEKRA AL DÍA..",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Tapicería de cuero",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

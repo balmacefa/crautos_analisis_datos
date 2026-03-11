@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64366578&BMW.325I.2002",
+    "año": 2002,
+    "marca": "BMW",
+    "modelo": "325I",
+    "precio_crc": 6474,
+    "precio_usd": 3250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64366578-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64366578-1.jpg",
+        "https://crautos.com/clasificados/usados/64366578-2.jpg",
+        "https://crautos.com/clasificados/usados/64366578-3.jpg",
+        "https://crautos.com/clasificados/usados/64366578-4.jpg",
+        "https://crautos.com/clasificados/usados/64366578-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFFRY RIVERA ORTIZ",
+        "teléfono": "8746-5147",
+        "whatsapp": "8746-5147"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "133,600 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "NEGRO Y BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Automático, vidrios eléctricos, espejos eléctricos, Asientos de cuero, asiento con ajuste eléctrico .",
+        "kilometraje_number": 133600,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Cierre central",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

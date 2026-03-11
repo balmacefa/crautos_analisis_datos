@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7667650&Kia.SPORTAGE.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7667650-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7667650-1.jpg",
+        "https://crautos.com/clasificados/usados/7667650-2.jpg",
+        "https://crautos.com/clasificados/usados/7667650-3.jpg",
+        "https://crautos.com/clasificados/usados/7667650-4.jpg",
+        "https://crautos.com/clasificados/usados/7667650-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAUTOS GRUPO JDS",
+        "teléfono": "2227-0568",
+        "whatsapp": "7298-8944",
+        "dirección": "San Sebastian 400 mtrs este de la iglesia frente a la circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "127,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 127000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

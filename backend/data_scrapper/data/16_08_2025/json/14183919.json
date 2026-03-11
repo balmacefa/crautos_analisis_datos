@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14183919&Hyundai.SANTA%20FE%20GL.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE GL",
+    "precio_crc": 17729,
+    "precio_usd": 8900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14183919-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14183919-1.jpg",
+        "https://crautos.com/clasificados/usados/14183919-2.jpg",
+        "https://crautos.com/clasificados/usados/14183919-3.jpg",
+        "https://crautos.com/clasificados/usados/14183919-4.jpg",
+        "https://crautos.com/clasificados/usados/14183919-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIA ALVARADO",
+        "teléfono": "8373-4858",
+        "whatsapp": "8373-4858"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "138,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "kilometraje_number": 138000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

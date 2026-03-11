@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78331874&Toyota.RAV4.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 23307,
+    "precio_usd": 11700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78331874-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78331874-1.jpg",
+        "https://crautos.com/clasificados/usados/78331874-2.jpg",
+        "https://crautos.com/clasificados/usados/78331874-3.jpg",
+        "https://crautos.com/clasificados/usados/78331874-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EMMANUEL ALEMAN TORRES",
+        "teléfono": "8428-3202",
+        "whatsapp": "8428-3202"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "73,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "Mantenimiento de agencia - Nacional - Todo al día - Se vende por cambio de año.",
+        "kilometraje_number": 73000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

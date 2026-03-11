@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89645515&Honda.CRV.2005",
+    "año": 2005,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89645515-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89645515-1.jpg",
+        "https://crautos.com/clasificados/usados/89645515-2.jpg",
+        "https://crautos.com/clasificados/usados/89645515-3.jpg",
+        "https://crautos.com/clasificados/usados/89645515-4.jpg",
+        "https://crautos.com/clasificados/usados/89645515-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ALPIZAR SOLANO",
+        "teléfono": "8811-3451",
+        "whatsapp": "8811-3451"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATEADO",
+        "color_interior": "PLATEADO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Mantenimiento de agencia solo dueños versión Faco.",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

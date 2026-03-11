@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79696266&Hino.300.2012",
+    "año": 2012,
+    "marca": "HINO",
+    "modelo": "300",
+    "precio_crc": 19821,
+    "precio_usd": 9950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79696266-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79696266-1.jpg",
+        "https://crautos.com/clasificados/usados/79696266-2.jpg",
+        "https://crautos.com/clasificados/usados/79696266-3.jpg",
+        "https://crautos.com/clasificados/usados/79696266-4.jpg",
+        "https://crautos.com/clasificados/usados/79696266-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO QUESADA ZUÑIGA",
+        "teléfono": "8922-2300 8414-4004",
+        "whatsapp": "8922-2300"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "141,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Junio del 2025",
+        "comentario_vendedor": "Dekra limpio, perfecto estado, POCO KILOMETRAJE, las baterias y llantas nuevas.",
+        "kilometraje_number": 141000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 13
+}

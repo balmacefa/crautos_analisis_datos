@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15602387",
+    "año": 2008,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 5159,
+    "precio_usd": 2590000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15602387-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15602387-1.jpg",
+        "https://crautos.com/clasificados/usados/15602387-2.jpg",
+        "https://crautos.com/clasificados/usados/15602387-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO RAMIREZ",
+        "teléfono": "8619-6611"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "198,890 kms",
+        "placa": "ND",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Muy economico y en excelente estado. Al dia, y sin gravamenes.",
+        "kilometraje_number": 198890,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

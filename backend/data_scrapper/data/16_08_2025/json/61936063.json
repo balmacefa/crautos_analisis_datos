@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61936063&Subaru.FORESTER.1999",
+    "año": 1999,
+    "marca": "SUBARU",
+    "modelo": "FORESTER",
+    "precio_crc": 4781,
+    "precio_usd": 2400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61936063-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61936063-1.jpg",
+        "https://crautos.com/clasificados/usados/61936063-2.jpg",
+        "https://crautos.com/clasificados/usados/61936063-3.jpg",
+        "https://crautos.com/clasificados/usados/61936063-4.jpg",
+        "https://crautos.com/clasificados/usados/61936063-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IVÁN LEIVA",
+        "teléfono": "8376-0971",
+        "whatsapp": "8376-0971"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "153,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Detalles de pintura y stops.",
+        "kilometraje_number": 153000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

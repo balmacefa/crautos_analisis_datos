@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80187951&Suzuki.ALTO.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "ALTO",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80187951-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80187951-1.jpg",
+        "https://crautos.com/clasificados/usados/80187951-2.jpg",
+        "https://crautos.com/clasificados/usados/80187951-3.jpg",
+        "https://crautos.com/clasificados/usados/80187951-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANKLIN CORDERO",
+        "teléfono": "6031-3730",
+        "whatsapp": "6031-3730"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "218,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "Gris",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "MECANICAMENTE EXCELENTE CON DETALLES ESTETICOS PRECIO INCLUYE TRASPASO.",
+        "kilometraje_number": 218000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

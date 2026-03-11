@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95185651",
+    "año": 2001,
+    "marca": "ISUZU",
+    "modelo": "TROOPER",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95185651-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95185651-1.jpg",
+        "https://crautos.com/clasificados/usados/95185651-2.jpg",
+        "https://crautos.com/clasificados/usados/95185651-3.jpg",
+        "https://crautos.com/clasificados/usados/95185651-4.jpg",
+        "https://crautos.com/clasificados/usados/95185651-5.jpg",
+        "https://crautos.com/clasificados/usados/95185651-6.jpg",
+        "https://crautos.com/clasificados/usados/95185651-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO SERRANO",
+        "teléfono": "8899-9832",
+        "whatsapp": "8899-9832"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "267,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado un solo dueño.",
+        "kilometraje_number": 267000,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 24
+}

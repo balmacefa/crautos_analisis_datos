@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80583517&Mazda.CX7.2008",
+    "año": 2008,
+    "marca": "MAZDA",
+    "modelo": "CX7",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS SEGURA",
+        "teléfono": "8881-2421 8644-6261",
+        "whatsapp": "8881-2421"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "288,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado precio totalmente negociable... Solo puedo mostrarlo los fines de semana.",
+        "kilometraje_number": 288000,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 17
+}

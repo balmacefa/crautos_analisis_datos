@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77859610&Peugeot.206.2007",
+    "año": 2007,
+    "marca": "PEUGEOT",
+    "modelo": "206",
+    "precio_crc": 4283,
+    "precio_usd": 2150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77859610-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77859610-1.jpg",
+        "https://crautos.com/clasificados/usados/77859610-2.jpg",
+        "https://crautos.com/clasificados/usados/77859610-3.jpg",
+        "https://crautos.com/clasificados/usados/77859610-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD NAVARRO GRANADOS",
+        "teléfono": "8778-3954",
+        "whatsapp": "8778-3954"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "185,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Al día-uso diario-Cambio por Tracker doble tracción y doy vuelto.",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

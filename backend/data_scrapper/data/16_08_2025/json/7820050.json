@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7820050&Ford.EXPLORER.2017",
+    "año": 2017,
+    "marca": "FORD",
+    "modelo": "EXPLORER",
+    "precio_crc": 12499800,
+    "precio_usd": 24900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7820050-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7820050-1.jpg",
+        "https://crautos.com/clasificados/usados/7820050-2.jpg",
+        "https://crautos.com/clasificados/usados/7820050-3.jpg",
+        "https://crautos.com/clasificados/usados/7820050-4.jpg",
+        "https://crautos.com/clasificados/usados/7820050-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARSOT URUCA",
+        "teléfono": "8708-4863 4030-2130",
+        "whatsapp": "6244-4400",
+        "dirección": "De la rotonda juan pablo segundo 50 mts al este a mano derecha frente a Mega Super"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "82,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO CUERO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, CUERO, CUATRO X CUATRO.",
+        "kilometraje_number": 82000,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

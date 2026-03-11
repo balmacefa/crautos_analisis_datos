@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35788224&Toyota.RAV4.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35788224-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35788224-1.jpg",
+        "https://crautos.com/clasificados/usados/35788224-2.jpg",
+        "https://crautos.com/clasificados/usados/35788224-3.jpg",
+        "https://crautos.com/clasificados/usados/35788224-4.jpg",
+        "https://crautos.com/clasificados/usados/35788224-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE NUÑEZ",
+        "teléfono": "8365-9895",
+        "whatsapp": "8365-9895"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "315,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Recuen reparado mecanicamente.",
+        "kilometraje_number": 315000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

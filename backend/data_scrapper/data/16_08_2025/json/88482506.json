@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88482506&Toyota.COROLLA%20LE.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA LE",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88482506-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88482506-1.jpg",
+        "https://crautos.com/clasificados/usados/88482506-2.jpg",
+        "https://crautos.com/clasificados/usados/88482506-3.jpg",
+        "https://crautos.com/clasificados/usados/88482506-4.jpg",
+        "https://crautos.com/clasificados/usados/88482506-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAINOR SOTO",
+        "teléfono": "6171-2436",
+        "whatsapp": "6171-2436"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "193,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Corolla LE 2004. -Placa termina en 5 -Versión americana. -1800 cc. -Automático. -193 mil millas. -.",
+        "kilometraje_number": 193000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

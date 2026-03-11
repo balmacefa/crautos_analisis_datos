@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84556826&Nissan.XTERRA.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84556826-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84556826-1.jpg",
+        "https://crautos.com/clasificados/usados/84556826-2.jpg",
+        "https://crautos.com/clasificados/usados/84556826-3.jpg",
+        "https://crautos.com/clasificados/usados/84556826-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUISFER",
+        "teléfono": "8339-9221",
+        "whatsapp": "8339-9221"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "154,825 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Perlita no hay que hacerle nada. Listo para disfrutar OffRoad Llantas Cantinflora extras. .",
+        "kilometraje_number": 154825,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Turbo"
+    ],
+    "antiguedad": 23
+}

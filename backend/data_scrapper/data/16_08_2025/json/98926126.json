@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98926126&Jeep.CHEROKEE.1994",
+    "año": 1994,
+    "marca": "JEEP",
+    "modelo": "CHEROKEE",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL VARGAS",
+        "teléfono": "8631-0380 8578-6171",
+        "whatsapp": "8631-0380"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "TURQUESA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Carro de uso diaro muy confiable y preparado para cualquier terreno cuenta con gas lp.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 31
+}

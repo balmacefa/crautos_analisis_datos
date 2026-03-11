@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92284420&Toyota.FORTUNER.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 43625,
+    "precio_usd": 21900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92284420-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92284420-1.jpg",
+        "https://crautos.com/clasificados/usados/92284420-2.jpg",
+        "https://crautos.com/clasificados/usados/92284420-3.jpg",
+        "https://crautos.com/clasificados/usados/92284420-4.jpg",
+        "https://crautos.com/clasificados/usados/92284420-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARIEL GARCÍA",
+        "teléfono": "8419-7696",
+        "whatsapp": "8419-7696"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "97,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "31 de Enero del 2025",
+        "comentario_vendedor": "Racks canasta parrilla TRD Antifaz Alfombras Aros TRD mantenimiento en Purdy.",
+        "kilometraje_number": 97000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

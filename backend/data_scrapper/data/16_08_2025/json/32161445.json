@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32161445&Toyota.RAV4.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 23506,
+    "precio_usd": 11800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32161445-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32161445-1.jpg",
+        "https://crautos.com/clasificados/usados/32161445-2.jpg",
+        "https://crautos.com/clasificados/usados/32161445-3.jpg",
+        "https://crautos.com/clasificados/usados/32161445-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VERONICA QUIROS",
+        "teléfono": "8980-6401 8972-7667",
+        "whatsapp": "8980-6401"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "157,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "FULL EXTRAS. SE RECIBE.",
+        "kilometraje_number": 157000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

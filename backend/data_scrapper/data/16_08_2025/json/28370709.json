@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28370709&Nissan.VERSA.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28370709-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28370709-1.jpg",
+        "https://crautos.com/clasificados/usados/28370709-2.jpg",
+        "https://crautos.com/clasificados/usados/28370709-3.jpg",
+        "https://crautos.com/clasificados/usados/28370709-4.jpg",
+        "https://crautos.com/clasificados/usados/28370709-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROYNER GOMEZ",
+        "teléfono": "8920-1888",
+        "whatsapp": "8920-1888"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "95,473 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "El Carro funciona con GAS Y GASOLINA. Se puede ver sin compromiso. se escuchan ofertas .",
+        "kilometraje_number": 95473,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30827816&Mazda.2.2011",
+    "año": 2011,
+    "marca": "MAZDA",
+    "modelo": "2",
+    "precio_crc": 5179,
+    "precio_usd": 2600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30827816-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30827816-1.jpg",
+        "https://crautos.com/clasificados/usados/30827816-2.jpg",
+        "https://crautos.com/clasificados/usados/30827816-3.jpg",
+        "https://crautos.com/clasificados/usados/30827816-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO VARGAS",
+        "teléfono": "8562-8537",
+        "whatsapp": "8562-8537"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "342,521 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Debe marchamo .",
+        "kilometraje_number": 342521,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

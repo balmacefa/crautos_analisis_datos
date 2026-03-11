@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8215914&Honda.CIVIC.2008",
+    "año": 2008,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 4473267,
+    "precio_usd": 8911.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8215914-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8215914-1.jpg",
+        "https://crautos.com/clasificados/usados/8215914-2.jpg",
+        "https://crautos.com/clasificados/usados/8215914-3.jpg",
+        "https://crautos.com/clasificados/usados/8215914-4.jpg",
+        "https://crautos.com/clasificados/usados/8215914-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IMPORKOR S.A",
+        "teléfono": "6299-5630 8379-6625 7208-6245",
+        "whatsapp": "6299-5630",
+        "dirección": "Santa Ana, Calle margarita, 25 metros Este de Auto Star"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en d",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 17
+}

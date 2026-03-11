@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17335062&Kia.SORENTO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 20518,
+    "precio_usd": 10300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17335062-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17335062-1.jpg",
+        "https://crautos.com/clasificados/usados/17335062-2.jpg",
+        "https://crautos.com/clasificados/usados/17335062-3.jpg",
+        "https://crautos.com/clasificados/usados/17335062-4.jpg",
+        "https://crautos.com/clasificados/usados/17335062-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAXIMILIANO LOPEZ",
+        "teléfono": "7102-1164",
+        "whatsapp": "7102-1164"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "113,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Único dueño. Carro en muy buen estado. Precio incluye el traspaso.",
+        "kilometraje_number": 113500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

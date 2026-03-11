@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31625822&Suzuki.SX4.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 6673,
+    "precio_usd": 3350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31625822-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31625822-1.jpg",
+        "https://crautos.com/clasificados/usados/31625822-2.jpg",
+        "https://crautos.com/clasificados/usados/31625822-3.jpg",
+        "https://crautos.com/clasificados/usados/31625822-4.jpg",
+        "https://crautos.com/clasificados/usados/31625822-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO GARCÍA BERMÚDEZ",
+        "teléfono": "6316-5277",
+        "whatsapp": "6316-5277"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "1,234 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL MARINO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Exelente estado mecánico. versión americana. Precio negociable .",
+        "kilometraje_number": 1234,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

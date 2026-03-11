@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90649511&Hyundai.SANTA%20FE.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90649511-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90649511-1.jpg",
+        "https://crautos.com/clasificados/usados/90649511-2.jpg",
+        "https://crautos.com/clasificados/usados/90649511-3.jpg",
+        "https://crautos.com/clasificados/usados/90649511-4.jpg",
+        "https://crautos.com/clasificados/usados/90649511-5.jpg",
+        "https://crautos.com/clasificados/usados/90649511-6.jpg",
+        "https://crautos.com/clasificados/usados/90649511-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HELLEN FLORES VALVERDE",
+        "teléfono": "8762-2681 8502-4102",
+        "whatsapp": "8762-2681"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "184 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Completamente al Dia .",
+        "kilometraje_number": 184,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

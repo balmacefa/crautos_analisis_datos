@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78677128&Toyota.TACOMA.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78677128-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78677128-1.jpg",
+        "https://crautos.com/clasificados/usados/78677128-2.jpg",
+        "https://crautos.com/clasificados/usados/78677128-3.jpg",
+        "https://crautos.com/clasificados/usados/78677128-4.jpg",
+        "https://crautos.com/clasificados/usados/78677128-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SILVIA GOMEZ",
+        "teléfono": "8968-5696",
+        "whatsapp": "8968-5696"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "175,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "SE USA CON GASOLINA O GAS CUENTA CON UN SISTEMA DE GAS LP ROMANO CERO OXIDO.",
+        "kilometraje_number": 175000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

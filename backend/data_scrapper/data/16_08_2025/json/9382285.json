@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9382285&Honda.CRV%20EX.2002",
+    "año": 2002,
+    "marca": "HONDA",
+    "modelo": "CRV EX",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9382285-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9382285-1.jpg",
+        "https://crautos.com/clasificados/usados/9382285-2.jpg",
+        "https://crautos.com/clasificados/usados/9382285-3.jpg",
+        "https://crautos.com/clasificados/usados/9382285-4.jpg",
+        "https://crautos.com/clasificados/usados/9382285-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GARAJE46",
+        "teléfono": "8881-2909 7270-3910",
+        "whatsapp": "7270-3910",
+        "dirección": "San Miguel, Santo Domingo"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "228,800 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "VINO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "GARANTÍA POR ESCRITO - FINANCIAMOS - RECIBIMOS DE MENOR VALOR .",
+        "kilometraje_number": 228800,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

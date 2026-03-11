@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53842301&Nissan.KICKS.2018",
+    "año": 2018,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53842301-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53842301-1.jpg",
+        "https://crautos.com/clasificados/usados/53842301-2.jpg",
+        "https://crautos.com/clasificados/usados/53842301-3.jpg",
+        "https://crautos.com/clasificados/usados/53842301-4.jpg",
+        "https://crautos.com/clasificados/usados/53842301-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN CASTRO",
+        "teléfono": "8330-5333",
+        "whatsapp": "8330-5333"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "82,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Mayo del 2025",
+        "comentario_vendedor": "Exc Estado,llantas nuevas, todo al dia, Economico bien cuidado uso personal .",
+        "kilometraje_number": 82000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

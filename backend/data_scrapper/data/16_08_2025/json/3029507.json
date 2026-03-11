@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3029507&Datsun.120.1979",
+    "año": 1979,
+    "marca": "DATSUN",
+    "modelo": "120",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3029507-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3029507-1.jpg",
+        "https://crautos.com/clasificados/usados/3029507-2.jpg",
+        "https://crautos.com/clasificados/usados/3029507-3.jpg",
+        "https://crautos.com/clasificados/usados/3029507-4.jpg",
+        "https://crautos.com/clasificados/usados/3029507-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JARCAR",
+        "teléfono": "8350-1851 8312-8488 8607-6336",
+        "whatsapp": "8350-1851",
+        "dirección": "Pavas, 100 metros norte de la Estación de Bomberos."
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "ND",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Enero del 2024",
+        "comentario_vendedor": "motor SER turbo susp geko aire direccion electro asistida butacas roll cage frenos subaru LSD etc .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 46
+}

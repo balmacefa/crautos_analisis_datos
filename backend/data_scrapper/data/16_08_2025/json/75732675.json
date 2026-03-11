@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75732675&Hyundai.COUNTY.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "COUNTY",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75732675-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75732675-1.jpg",
+        "https://crautos.com/clasificados/usados/75732675-2.jpg",
+        "https://crautos.com/clasificados/usados/75732675-3.jpg",
+        "https://crautos.com/clasificados/usados/75732675-4.jpg",
+        "https://crautos.com/clasificados/usados/75732675-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WALDEMAR ROJAS ROJAS",
+        "teléfono": "6107-9866",
+        "whatsapp": "6107-9866"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Aros de aluminio tubulares. Asientos reclinables. .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

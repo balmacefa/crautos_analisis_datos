@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25325444&Mini.COOPER.2005",
+    "año": 2005,
+    "marca": "MINI",
+    "modelo": "COOPER",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25325444-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25325444-1.jpg",
+        "https://crautos.com/clasificados/usados/25325444-2.jpg",
+        "https://crautos.com/clasificados/usados/25325444-3.jpg",
+        "https://crautos.com/clasificados/usados/25325444-4.jpg",
+        "https://crautos.com/clasificados/usados/25325444-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAROLINA ZUMBADO",
+        "teléfono": "7010-6455",
+        "whatsapp": "7010-6455"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "108,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "kilometraje_number": 108000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

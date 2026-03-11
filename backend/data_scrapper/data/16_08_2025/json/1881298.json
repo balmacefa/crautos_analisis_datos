@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1881298&Fiat.LINEA%20DINAMIC.2015",
+    "año": 2015,
+    "marca": "FIAT",
+    "modelo": "LINEA DINAMIC",
+    "precio_crc": 4016000,
+    "precio_usd": 8000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1881298-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1881298-1.jpg",
+        "https://crautos.com/clasificados/usados/1881298-2.jpg",
+        "https://crautos.com/clasificados/usados/1881298-3.jpg",
+        "https://crautos.com/clasificados/usados/1881298-4.jpg",
+        "https://crautos.com/clasificados/usados/1881298-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio venta no incluye gastos de traspaso.",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [],
+    "antiguedad": 10
+}

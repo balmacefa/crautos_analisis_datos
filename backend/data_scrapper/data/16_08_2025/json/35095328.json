@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35095328&Toyota.TACOMA.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "TACOMA",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35095328-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35095328-1.jpg",
+        "https://crautos.com/clasificados/usados/35095328-2.jpg",
+        "https://crautos.com/clasificados/usados/35095328-3.jpg",
+        "https://crautos.com/clasificados/usados/35095328-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO LUNA",
+        "teléfono": "8718-7190",
+        "whatsapp": "8718-7190"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "90,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Se encuentra con el motor dañado el block se quebró se entrega con aros originales.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Sensores de retroceso",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

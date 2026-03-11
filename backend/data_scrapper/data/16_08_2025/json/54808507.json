@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54808507&Toyota.FJ%20CRUISER.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "FJ CRUISER",
+    "precio_crc": 21813,
+    "precio_usd": 10950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54808507-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54808507-1.jpg",
+        "https://crautos.com/clasificados/usados/54808507-2.jpg",
+        "https://crautos.com/clasificados/usados/54808507-3.jpg",
+        "https://crautos.com/clasificados/usados/54808507-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL SANTAMARIA",
+        "teléfono": "8307-6181 7207-8712",
+        "whatsapp": "8307-6181"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "123,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado muy cuidado cero oxido .",
+        "kilometraje_number": 123000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

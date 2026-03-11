@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75354432&Hyundai.ACCENT.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75354432-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75354432-1.jpg",
+        "https://crautos.com/clasificados/usados/75354432-2.jpg",
+        "https://crautos.com/clasificados/usados/75354432-3.jpg",
+        "https://crautos.com/clasificados/usados/75354432-4.jpg",
+        "https://crautos.com/clasificados/usados/75354432-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE RODRIGUEZ",
+        "teléfono": "7250-2536 8347-4924 2556-9084",
+        "whatsapp": "7250-2536"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "se puede recibir y financiar una parte .",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

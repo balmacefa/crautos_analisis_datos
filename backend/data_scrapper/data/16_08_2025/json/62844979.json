@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62844979&Hyundai.PORTER.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "PORTER",
+    "precio_crc": 20319,
+    "precio_usd": 10200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62844979-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62844979-1.jpg",
+        "https://crautos.com/clasificados/usados/62844979-2.jpg",
+        "https://crautos.com/clasificados/usados/62844979-3.jpg",
+        "https://crautos.com/clasificados/usados/62844979-4.jpg",
+        "https://crautos.com/clasificados/usados/62844979-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL ZAMORA",
+        "teléfono": "7262-6594",
+        "whatsapp": "7262-6594"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "57,000 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ APROVECHELO ESTA EN SAN JOSE CORONADO ENTREGA INMEDIATA RECIBO .",
+        "kilometraje_number": 57000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

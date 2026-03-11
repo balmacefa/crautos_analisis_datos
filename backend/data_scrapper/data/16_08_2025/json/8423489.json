@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8423489&Dodge/RAM.DURANGO.2012",
+    "año": 2012,
+    "marca": "DODGE/RAM",
+    "modelo": "DURANGO",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8423489-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8423489-1.jpg",
+        "https://crautos.com/clasificados/usados/8423489-2.jpg",
+        "https://crautos.com/clasificados/usados/8423489-3.jpg",
+        "https://crautos.com/clasificados/usados/8423489-4.jpg",
+        "https://crautos.com/clasificados/usados/8423489-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "5700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "199,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "CUERO NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "excelente estado recibo vehiculo financiamiento disponible .",
+        "kilometraje_number": 199000,
+        "cilindrada_number": 5700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

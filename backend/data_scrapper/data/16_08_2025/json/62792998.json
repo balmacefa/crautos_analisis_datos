@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62792998&Mitsubishi.MIRAGE%20G4.2018",
+    "año": 2018,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE G4",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62792998-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62792998-1.jpg",
+        "https://crautos.com/clasificados/usados/62792998-2.jpg",
+        "https://crautos.com/clasificados/usados/62792998-3.jpg",
+        "https://crautos.com/clasificados/usados/62792998-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ASHLEY CHAVARRIA",
+        "teléfono": "7084-0049",
+        "whatsapp": "7084-0049"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

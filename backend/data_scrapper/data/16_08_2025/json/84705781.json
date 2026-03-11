@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84705781&Daihatsu.TERIOS.2004",
+    "año": 2004,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84705781-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84705781-1.jpg",
+        "https://crautos.com/clasificados/usados/84705781-2.jpg",
+        "https://crautos.com/clasificados/usados/84705781-3.jpg",
+        "https://crautos.com/clasificados/usados/84705781-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONIO",
+        "teléfono": "8828-8206",
+        "whatsapp": "8856-0990"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "225,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "VERDE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Dekra al día .",
+        "kilometraje_number": 225000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

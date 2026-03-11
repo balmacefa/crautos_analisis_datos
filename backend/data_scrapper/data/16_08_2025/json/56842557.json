@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56842557&Chevrolet.EQUINOX.2018",
+    "año": 2018,
+    "marca": "CHEVROLET",
+    "modelo": "EQUINOX",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56842557-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56842557-1.jpg",
+        "https://crautos.com/clasificados/usados/56842557-2.jpg",
+        "https://crautos.com/clasificados/usados/56842557-3.jpg",
+        "https://crautos.com/clasificados/usados/56842557-4.jpg",
+        "https://crautos.com/clasificados/usados/56842557-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLIVAS MORERA CLAUDIA",
+        "teléfono": "8968-2327 8414-3627",
+        "whatsapp": "8968-2327"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "131,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO PLATA",
+        "color_interior": "Negro y Gris",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Chevrolet Equinox en excelente estado mantenimientos al día y muy bien cuidado. .",
+        "kilometraje_number": 131000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4583051&Jeep.WRANGLER.2013",
+    "año": 2013,
+    "marca": "JEEP",
+    "modelo": "WRANGLER",
+    "precio_crc": 17893069,
+    "precio_usd": 35644.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4583051-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4583051-1.jpg",
+        "https://crautos.com/clasificados/usados/4583051-2.jpg",
+        "https://crautos.com/clasificados/usados/4583051-3.jpg",
+        "https://crautos.com/clasificados/usados/4583051-4.jpg",
+        "https://crautos.com/clasificados/usados/4583051-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "COSTA AMERICAN AUTO",
+        "teléfono": "7114-2178 4018-1478",
+        "whatsapp": "7114-2178",
+        "dirección": "Guadalupe, San Francisco, Barrio Tournon Centro Comercial Tournon Local 2"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "80,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado con llantas y suspencion especial, a inscribir .",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 12
+}

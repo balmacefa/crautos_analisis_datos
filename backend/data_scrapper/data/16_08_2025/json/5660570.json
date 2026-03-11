@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5660570&Volkswagen.CROSSFOX.2014",
+    "año": 2014,
+    "marca": "VOLKSWAGEN",
+    "modelo": "CROSSFOX",
+    "precio_crc": 4919600,
+    "precio_usd": 9800.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5660570-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5660570-1.jpg",
+        "https://crautos.com/clasificados/usados/5660570-2.jpg",
+        "https://crautos.com/clasificados/usados/5660570-3.jpg",
+        "https://crautos.com/clasificados/usados/5660570-4.jpg",
+        "https://crautos.com/clasificados/usados/5660570-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO ACCIÓN S.A.",
+        "teléfono": "2232-5841 2232-2247 8683-2890",
+        "whatsapp": "8683-2890",
+        "dirección": "Del centro comercial Plaza Mayor 400 mtrs oeste Rohrmoser, Pavas"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "112,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Enero del 2025",
+        "comentario_vendedor": "LLANTAS NUEVAS, AROS DE LUJO, RACKS.",
+        "kilometraje_number": 112000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

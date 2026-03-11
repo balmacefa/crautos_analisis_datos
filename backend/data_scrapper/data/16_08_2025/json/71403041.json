@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71403041&Land%20Rover.RANGE%20ROVER%20EVOQUE%20SE.2020",
+    "año": 2020,
+    "marca": "LAND ROVER",
+    "modelo": "RANGE ROVER EVOQUE SE",
+    "precio_crc": 41833,
+    "precio_usd": 21000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71403041-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71403041-1.jpg",
+        "https://crautos.com/clasificados/usados/71403041-2.jpg",
+        "https://crautos.com/clasificados/usados/71403041-3.jpg",
+        "https://crautos.com/clasificados/usados/71403041-4.jpg",
+        "https://crautos.com/clasificados/usados/71403041-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LIZANO",
+        "teléfono": "7215-0028",
+        "whatsapp": "7215-0028"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Excelente en todo. Manejelo y compare la calidad y el estado. .",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

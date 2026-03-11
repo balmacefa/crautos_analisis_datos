@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61761922&Ford.BRONCO%202.1984",
+    "año": 1984,
+    "marca": "FORD",
+    "modelo": "BRONCO 2",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61761922-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61761922-1.jpg",
+        "https://crautos.com/clasificados/usados/61761922-2.jpg",
+        "https://crautos.com/clasificados/usados/61761922-3.jpg",
+        "https://crautos.com/clasificados/usados/61761922-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES ALVARADO",
+        "teléfono": "8859-7802",
+        "whatsapp": "8859-7802"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Para continuar proyecto. El carro anda bien y está al dia.",
+        "kilometraje_number": null,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 41
+}

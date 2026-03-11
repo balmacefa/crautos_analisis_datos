@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66250102&Hyundai.GRAND%20I10.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66250102-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66250102-1.jpg",
+        "https://crautos.com/clasificados/usados/66250102-2.jpg",
+        "https://crautos.com/clasificados/usados/66250102-3.jpg",
+        "https://crautos.com/clasificados/usados/66250102-4.jpg",
+        "https://crautos.com/clasificados/usados/66250102-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EVELYN HIDALGO",
+        "teléfono": "8894-9931",
+        "whatsapp": "8894-9931"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "380,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "Tiene GPS instalado, batería nueva y Dekra al día .",
+        "kilometraje_number": 380000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

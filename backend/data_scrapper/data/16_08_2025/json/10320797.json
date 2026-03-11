@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10320797&Toyota.4RUNNER.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER",
+    "precio_crc": 15438,
+    "precio_usd": 7750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10320797-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10320797-1.jpg",
+        "https://crautos.com/clasificados/usados/10320797-2.jpg",
+        "https://crautos.com/clasificados/usados/10320797-3.jpg",
+        "https://crautos.com/clasificados/usados/10320797-4.jpg",
+        "https://crautos.com/clasificados/usados/10320797-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCO CARDONA",
+        "teléfono": "6324-6686 8953-1447",
+        "whatsapp": "6324-6686"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "222,222 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "kilometraje_number": 222222,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

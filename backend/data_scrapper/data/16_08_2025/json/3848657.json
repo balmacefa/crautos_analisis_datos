@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3848657&Hyundai.TUCSON.2022",
+    "año": 2022,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 14809000,
+    "precio_usd": 29500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3848657-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3848657-1.jpg",
+        "https://crautos.com/clasificados/usados/3848657-2.jpg",
+        "https://crautos.com/clasificados/usados/3848657-3.jpg",
+        "https://crautos.com/clasificados/usados/3848657-4.jpg",
+        "https://crautos.com/clasificados/usados/3848657-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "78,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Marzo del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO. DISPONIBLE EN SUCURSAL LA URUCA.",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 3
+}

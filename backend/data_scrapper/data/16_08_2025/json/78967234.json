@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78967234&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78967234-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78967234-1.jpg",
+        "https://crautos.com/clasificados/usados/78967234-2.jpg",
+        "https://crautos.com/clasificados/usados/78967234-3.jpg",
+        "https://crautos.com/clasificados/usados/78967234-4.jpg",
+        "https://crautos.com/clasificados/usados/78967234-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONIO GRANADOS FALLAS",
+        "teléfono": "8644-6864",
+        "whatsapp": "8644-6864"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "126,100 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado como nuevo.",
+        "kilometraje_number": 126100,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 18
+}

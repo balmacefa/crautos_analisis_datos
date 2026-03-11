@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27451263&Land%20Rover.RANGE%20ROVER%20SPORT.2018",
+    "año": 2018,
+    "marca": "LAND ROVER",
+    "modelo": "RANGE ROVER SPORT",
+    "precio_crc": 63725,
+    "precio_usd": 31990000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27451263-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27451263-1.jpg",
+        "https://crautos.com/clasificados/usados/27451263-2.jpg",
+        "https://crautos.com/clasificados/usados/27451263-3.jpg",
+        "https://crautos.com/clasificados/usados/27451263-4.jpg",
+        "https://crautos.com/clasificados/usados/27451263-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN COLE",
+        "teléfono": "8649-8337",
+        "whatsapp": "8649-8337"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "80,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Mejor precio del mercado-hielera-cierre automatizado en puertas-sistema off-road-recibo- s financia .",
+        "kilometraje_number": 80000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [],
+    "antiguedad": 7
+}

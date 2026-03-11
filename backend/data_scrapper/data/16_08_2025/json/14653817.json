@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14653817&Nissan.VERSA.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14653817-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14653817-1.jpg",
+        "https://crautos.com/clasificados/usados/14653817-2.jpg",
+        "https://crautos.com/clasificados/usados/14653817-3.jpg",
+        "https://crautos.com/clasificados/usados/14653817-4.jpg",
+        "https://crautos.com/clasificados/usados/14653817-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUNNY MORA",
+        "teléfono": "8964-6052",
+        "whatsapp": "8964-6052"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "72,500 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 72500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

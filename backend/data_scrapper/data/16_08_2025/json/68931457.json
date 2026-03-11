@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68931457&Hyundai.SANTA%20FE.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 17131,
+    "precio_usd": 8600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68931457-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68931457-1.jpg",
+        "https://crautos.com/clasificados/usados/68931457-2.jpg",
+        "https://crautos.com/clasificados/usados/68931457-3.jpg",
+        "https://crautos.com/clasificados/usados/68931457-4.jpg",
+        "https://crautos.com/clasificados/usados/68931457-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIEMILIA CAMPOS",
+        "teléfono": "8836-1453",
+        "whatsapp": "8836-1453"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

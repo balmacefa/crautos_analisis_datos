@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39799031&Kia.SPORTAGE.2008",
+    "año": 2008,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 9900,
+    "precio_usd": 4970000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39799031-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39799031-1.jpg",
+        "https://crautos.com/clasificados/usados/39799031-2.jpg",
+        "https://crautos.com/clasificados/usados/39799031-3.jpg",
+        "https://crautos.com/clasificados/usados/39799031-4.jpg",
+        "https://crautos.com/clasificados/usados/39799031-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FELIPE",
+        "teléfono": "8894-6522",
+        "whatsapp": "8894-6522"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "202,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Solamente atiendo por whatsapp.",
+        "kilometraje_number": 202000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

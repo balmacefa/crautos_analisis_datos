@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84030806&Toyota.ECHO.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84030806-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84030806-1.jpg",
+        "https://crautos.com/clasificados/usados/84030806-2.jpg",
+        "https://crautos.com/clasificados/usados/84030806-3.jpg",
+        "https://crautos.com/clasificados/usados/84030806-4.jpg",
+        "https://crautos.com/clasificados/usados/84030806-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SILVIA MORA",
+        "teléfono": "8919-5249"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "260,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Carro totalmente al día. .",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54378216&Chevrolet.SPARK.2011",
+    "año": 2011,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54378216-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54378216-1.jpg",
+        "https://crautos.com/clasificados/usados/54378216-2.jpg",
+        "https://crautos.com/clasificados/usados/54378216-3.jpg",
+        "https://crautos.com/clasificados/usados/54378216-4.jpg",
+        "https://crautos.com/clasificados/usados/54378216-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL BARAHONA",
+        "teléfono": "6480-0471 7070-3089",
+        "whatsapp": "6480-0471"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Muy bonito y muy cuidado. Mecánicamente impecable.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

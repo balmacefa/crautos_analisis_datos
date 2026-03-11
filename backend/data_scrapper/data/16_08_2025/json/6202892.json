@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6202892&Toyota.YARIS%20HB.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS HB",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6202892-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6202892-1.jpg",
+        "https://crautos.com/clasificados/usados/6202892-2.jpg",
+        "https://crautos.com/clasificados/usados/6202892-3.jpg",
+        "https://crautos.com/clasificados/usados/6202892-4.jpg",
+        "https://crautos.com/clasificados/usados/6202892-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "12 de Junio del 2025",
+        "comentario_vendedor": "buen estado se puede financiar una parte .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

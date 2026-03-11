@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23284360&Toyota.COROLLA%20SPORT.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA SPORT",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23284360-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23284360-1.jpg",
+        "https://crautos.com/clasificados/usados/23284360-2.jpg",
+        "https://crautos.com/clasificados/usados/23284360-3.jpg",
+        "https://crautos.com/clasificados/usados/23284360-4.jpg",
+        "https://crautos.com/clasificados/usados/23284360-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIELA VARGAS",
+        "teléfono": "8851-5882 8370-4444",
+        "whatsapp": "8851-5882"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "68,000 millas",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Para inscribir.",
+        "kilometraje_number": 68000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

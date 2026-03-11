@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63168545&Toyota.COROLLA%20.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63168545-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63168545-1.jpg",
+        "https://crautos.com/clasificados/usados/63168545-2.jpg",
+        "https://crautos.com/clasificados/usados/63168545-3.jpg",
+        "https://crautos.com/clasificados/usados/63168545-4.jpg",
+        "https://crautos.com/clasificados/usados/63168545-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATAN HIDALGO",
+        "teléfono": "6187-0158",
+        "whatsapp": "6187-0158"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Ya con Dekra - muy buen estado - detalles en pintura por eso el precio .",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

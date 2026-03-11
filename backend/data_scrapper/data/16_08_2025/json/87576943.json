@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87576943&Nissan.ALMERA.2006",
+    "año": 2006,
+    "marca": "NISSAN",
+    "modelo": "ALMERA",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87576943-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87576943-1.jpg",
+        "https://crautos.com/clasificados/usados/87576943-2.jpg",
+        "https://crautos.com/clasificados/usados/87576943-3.jpg",
+        "https://crautos.com/clasificados/usados/87576943-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NEFERTITI PEREZ",
+        "teléfono": "8689-8222",
+        "whatsapp": "8689-8222"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "245,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CELESTE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Polarizado nanoceramica luces Led original spectra incluyo traspaso se firma San Antonio de Coronado.",
+        "kilometraje_number": 245000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

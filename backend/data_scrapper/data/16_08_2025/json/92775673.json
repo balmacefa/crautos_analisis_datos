@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92775673&Hyundai.GETZ.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "GETZ",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92775673-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92775673-1.jpg",
+        "https://crautos.com/clasificados/usados/92775673-2.jpg",
+        "https://crautos.com/clasificados/usados/92775673-3.jpg",
+        "https://crautos.com/clasificados/usados/92775673-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO POSLA",
+        "teléfono": "8507-3192",
+        "whatsapp": "8507-3192"
+    },
+    "informacion_general": {
+        "cilindrada": "1100 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Llantas nuevas, muy económico por ser mil cien cc.",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 1100
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

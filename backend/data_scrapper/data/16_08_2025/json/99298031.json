@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99298031&Hyundai.CRETA%20GL.2024",
+    "año": 2024,
+    "marca": "HYUNDAI",
+    "modelo": "CRETA GL",
+    "precio_crc": 28884,
+    "precio_usd": 14500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99298031-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99298031-1.jpg",
+        "https://crautos.com/clasificados/usados/99298031-2.jpg",
+        "https://crautos.com/clasificados/usados/99298031-3.jpg",
+        "https://crautos.com/clasificados/usados/99298031-4.jpg",
+        "https://crautos.com/clasificados/usados/99298031-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROLANDO ABARCA",
+        "teléfono": "8969-1555"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "37,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo en excelente estado -como nuevo- . Con mantenimiento de agencia..",
+        "kilometraje_number": 37000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 1
+}

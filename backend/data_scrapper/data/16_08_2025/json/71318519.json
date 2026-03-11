@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71318519&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71318519-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71318519-1.jpg",
+        "https://crautos.com/clasificados/usados/71318519-2.jpg",
+        "https://crautos.com/clasificados/usados/71318519-3.jpg",
+        "https://crautos.com/clasificados/usados/71318519-4.jpg",
+        "https://crautos.com/clasificados/usados/71318519-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE",
+        "teléfono": "8970-2610",
+        "whatsapp": "8970-2610"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "20,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Venga y lo ve sin ningún compromiso .",
+        "kilometraje_number": 20000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

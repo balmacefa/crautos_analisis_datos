@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25881396&Hyundai.TUCSON.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8665,
+    "precio_usd": 4350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25881396-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25881396-1.jpg",
+        "https://crautos.com/clasificados/usados/25881396-2.jpg",
+        "https://crautos.com/clasificados/usados/25881396-3.jpg",
+        "https://crautos.com/clasificados/usados/25881396-4.jpg",
+        "https://crautos.com/clasificados/usados/25881396-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARMANDO ABARCA",
+        "teléfono": "7297-7729",
+        "whatsapp": "7297-7729"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 6",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE Y CAFÉ",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Carro de uso familiar - mantenimientos recientes - socadito.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

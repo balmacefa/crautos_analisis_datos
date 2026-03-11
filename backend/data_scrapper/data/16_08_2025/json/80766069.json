@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80766069&Toyota.RAV4.1997",
+    "año": 1997,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80766069-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80766069-1.jpg",
+        "https://crautos.com/clasificados/usados/80766069-2.jpg",
+        "https://crautos.com/clasificados/usados/80766069-3.jpg",
+        "https://crautos.com/clasificados/usados/80766069-4.jpg",
+        "https://crautos.com/clasificados/usados/80766069-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PRISCILLA CHAVARRÍA",
+        "teléfono": "6122-4533 8829-8927"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "215,400 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Detalles en la pintura .",
+        "kilometraje_number": 215400,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

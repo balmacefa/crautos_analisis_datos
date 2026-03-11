@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42705036&Toyota.YARIS.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42705036-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42705036-1.jpg",
+        "https://crautos.com/clasificados/usados/42705036-2.jpg",
+        "https://crautos.com/clasificados/usados/42705036-3.jpg",
+        "https://crautos.com/clasificados/usados/42705036-4.jpg",
+        "https://crautos.com/clasificados/usados/42705036-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTHOFER CESPEDES",
+        "teléfono": "7294-9718 8423-0278",
+        "whatsapp": "7294-9718"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado estético como mecánico pintura impecable con tratamiento cerámico y partes con ppf .",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

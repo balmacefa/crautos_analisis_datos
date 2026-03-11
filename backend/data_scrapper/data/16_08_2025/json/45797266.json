@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45797266",
+    "año": 2006,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45797266-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45797266-1.jpg",
+        "https://crautos.com/clasificados/usados/45797266-2.jpg",
+        "https://crautos.com/clasificados/usados/45797266-3.jpg",
+        "https://crautos.com/clasificados/usados/45797266-4.jpg",
+        "https://crautos.com/clasificados/usados/45797266-5.jpg",
+        "https://crautos.com/clasificados/usados/45797266-6.jpg",
+        "https://crautos.com/clasificados/usados/45797266-7.jpg",
+        "https://crautos.com/clasificados/usados/45797266-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELISSA NAVARRO HERNÁNDEZ",
+        "teléfono": "7104-8838 7162-9149",
+        "whatsapp": "7104-8838"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "329 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Se encuentra Al Día con Todo .",
+        "kilometraje_number": 329,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 19
+}

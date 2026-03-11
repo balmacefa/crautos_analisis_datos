@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47589220&Fiat.ADVENTURE.2013",
+    "año": 2013,
+    "marca": "FIAT",
+    "modelo": "ADVENTURE",
+    "precio_crc": 6673,
+    "precio_usd": 3350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47589220-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47589220-1.jpg",
+        "https://crautos.com/clasificados/usados/47589220-2.jpg",
+        "https://crautos.com/clasificados/usados/47589220-3.jpg",
+        "https://crautos.com/clasificados/usados/47589220-4.jpg",
+        "https://crautos.com/clasificados/usados/47589220-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO PRAVIA",
+        "teléfono": "8950-9696",
+        "whatsapp": "8950-9696"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

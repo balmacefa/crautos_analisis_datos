@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48139898&Toyota.ECHO.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 7072,
+    "precio_usd": 3550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48139898-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48139898-1.jpg",
+        "https://crautos.com/clasificados/usados/48139898-2.jpg",
+        "https://crautos.com/clasificados/usados/48139898-3.jpg",
+        "https://crautos.com/clasificados/usados/48139898-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS ALEJANDRO AGUINAGA",
+        "teléfono": "7217-0344 8392-8500",
+        "whatsapp": "7217-0344"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "211,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Vendo carro muy completo! Lo tengo en sarchi pero lo puedo llevar a Grecia o Zona franca coyol.",
+        "kilometraje_number": 211000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 22
+}

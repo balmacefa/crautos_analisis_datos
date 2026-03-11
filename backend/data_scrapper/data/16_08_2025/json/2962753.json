@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2962753&Mitsubishi.L200%20SPORTERO.2022",
+    "año": 2022,
+    "marca": "MITSUBISHI",
+    "modelo": "L200 SPORTERO",
+    "precio_crc": 20346060,
+    "precio_usd": 40530.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2962753-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2962753-1.jpg",
+        "https://crautos.com/clasificados/usados/2962753-2.jpg",
+        "https://crautos.com/clasificados/usados/2962753-3.jpg",
+        "https://crautos.com/clasificados/usados/2962753-4.jpg",
+        "https://crautos.com/clasificados/usados/2962753-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO Q",
+        "teléfono": "2522-7474",
+        "whatsapp": "7094-6958",
+        "dirección": "400 mtrs al oeste de la plaza de deportes de La Uruca Frente a la intersección Uruca, Circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "54,912 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Con el respaldo de GrupoQ.",
+        "kilometraje_number": 54912,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 3
+}

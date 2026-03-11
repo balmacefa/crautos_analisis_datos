@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23217279&Suzuki.VITARA%20GLX%20Z.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "VITARA GLX Z",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HEINER TORRES",
+        "teléfono": "8805-7662 8631-1517",
+        "whatsapp": "8805-7662"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado extras con techo panorámico.",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

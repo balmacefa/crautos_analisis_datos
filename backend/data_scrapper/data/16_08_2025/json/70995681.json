@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70995681&Kia.SPORTAGE.2005",
+    "año": 2005,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70995681-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70995681-1.jpg",
+        "https://crautos.com/clasificados/usados/70995681-2.jpg",
+        "https://crautos.com/clasificados/usados/70995681-3.jpg",
+        "https://crautos.com/clasificados/usados/70995681-4.jpg",
+        "https://crautos.com/clasificados/usados/70995681-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILBERT ABARCA",
+        "teléfono": "8858-4516 8531-3165",
+        "whatsapp": "8858-4516"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "91,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Es versión U.S.A impecable poco kilometraje extras todo funcionando bien .",
+        "kilometraje_number": 91000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

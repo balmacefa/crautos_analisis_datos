@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6464215&Kia.BONGO%20III%20.2012",
+    "año": 2012,
+    "marca": "KIA",
+    "modelo": "BONGO III",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6464215-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6464215-1.jpg",
+        "https://crautos.com/clasificados/usados/6464215-2.jpg",
+        "https://crautos.com/clasificados/usados/6464215-3.jpg",
+        "https://crautos.com/clasificados/usados/6464215-4.jpg",
+        "https://crautos.com/clasificados/usados/6464215-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VÍA KOREA",
+        "teléfono": "7295-5100 6267-5166 8845-5271",
+        "whatsapp": "7295-5100",
+        "dirección": "De la bomba Villa Bonita, 700 mtrs este sobre autopista Bernardo Soto"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "85,800 kms",
+        "placa": "ND",
+        "color_exterior": "BLUE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Recibo Carros o Financiamos Propio CINCUENTA por cientos del valor total.",
+        "kilometraje_number": 85800,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 13
+}

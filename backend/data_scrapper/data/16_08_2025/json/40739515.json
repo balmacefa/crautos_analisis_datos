@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40739515&Chevrolet.SPARK.2014",
+    "año": 2014,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40739515-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40739515-1.jpg",
+        "https://crautos.com/clasificados/usados/40739515-2.jpg",
+        "https://crautos.com/clasificados/usados/40739515-3.jpg",
+        "https://crautos.com/clasificados/usados/40739515-4.jpg",
+        "https://crautos.com/clasificados/usados/40739515-5.jpg",
+        "https://crautos.com/clasificados/usados/40739515-6.jpg",
+        "https://crautos.com/clasificados/usados/40739515-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NANCY MIRANDA MARCHENA",
+        "teléfono": "8532-3729",
+        "whatsapp": "8532-3729"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "138,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "comentario_vendedor": "Bien cuidado súper conómico.",
+        "kilometraje_number": 138000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

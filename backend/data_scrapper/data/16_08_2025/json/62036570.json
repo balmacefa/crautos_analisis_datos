@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62036570&Toyota.RAV4.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 27590,
+    "precio_usd": 13850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62036570-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62036570-1.jpg",
+        "https://crautos.com/clasificados/usados/62036570-2.jpg",
+        "https://crautos.com/clasificados/usados/62036570-3.jpg",
+        "https://crautos.com/clasificados/usados/62036570-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JASON DAVIS",
+        "teléfono": "8692-6481",
+        "whatsapp": "8692-6481"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "89,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "kilometraje_number": 89000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 6
+}

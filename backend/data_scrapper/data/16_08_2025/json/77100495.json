@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77100495&Hyundai.ELANTRA%20.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77100495-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77100495-1.jpg",
+        "https://crautos.com/clasificados/usados/77100495-2.jpg",
+        "https://crautos.com/clasificados/usados/77100495-3.jpg",
+        "https://crautos.com/clasificados/usados/77100495-4.jpg",
+        "https://crautos.com/clasificados/usados/77100495-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AARON ALVARADO",
+        "teléfono": "6447-9269",
+        "whatsapp": "6447-9269"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "219,783 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Detalle en el motor para inscribir esta .",
+        "kilometraje_number": 219783,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

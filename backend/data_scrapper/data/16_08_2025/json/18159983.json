@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18159983&Nissan.URVAN%20VX.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "URVAN VX",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18159983-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18159983-1.jpg",
+        "https://crautos.com/clasificados/usados/18159983-2.jpg",
+        "https://crautos.com/clasificados/usados/18159983-3.jpg",
+        "https://crautos.com/clasificados/usados/18159983-4.jpg",
+        "https://crautos.com/clasificados/usados/18159983-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR ARGUEDAS",
+        "teléfono": "8858-0429 7018-4698",
+        "whatsapp": "8858-0429"
+    },
+    "informacion_general": {
+        "cilindrada": "2953 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "700,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "SÓLO UN DUEÑO 3.0 DI.",
+        "kilometraje_number": 700000,
+        "cilindrada_number": 2953
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

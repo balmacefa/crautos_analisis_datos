@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16960639&Hyundai.I10%20.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16960639-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16960639-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIELA VILLALOBOS",
+        "teléfono": "7298-6212",
+        "whatsapp": "7298-6212"
+    },
+    "informacion_general": {
+        "cilindrada": "1100 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "96,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": 96000,
+        "cilindrada_number": 1100
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

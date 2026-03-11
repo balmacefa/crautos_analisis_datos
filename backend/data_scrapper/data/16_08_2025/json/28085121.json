@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28085121&Daihatsu.TERIOS.2009",
+    "año": 2009,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28085121-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28085121-1.jpg",
+        "https://crautos.com/clasificados/usados/28085121-2.jpg",
+        "https://crautos.com/clasificados/usados/28085121-3.jpg",
+        "https://crautos.com/clasificados/usados/28085121-4.jpg",
+        "https://crautos.com/clasificados/usados/28085121-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BERTÍN GAMBOA",
+        "teléfono": "8401-8711 8553-8527",
+        "whatsapp": "8401-8711"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "212,467 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Zona de los Santos - Acaba de pasar Dekra - Motor Perfecto - Radio Bluetooth - Negociable.",
+        "kilometraje_number": 212467,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 16
+}

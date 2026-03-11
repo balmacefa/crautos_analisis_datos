@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15574290&Nissan.TIIDA.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15574290-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15574290-1.jpg",
+        "https://crautos.com/clasificados/usados/15574290-2.jpg",
+        "https://crautos.com/clasificados/usados/15574290-3.jpg",
+        "https://crautos.com/clasificados/usados/15574290-4.jpg",
+        "https://crautos.com/clasificados/usados/15574290-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO VARGAS",
+        "teléfono": "8394-7520",
+        "whatsapp": "8394-7520"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "251,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Sistema GLP GARANTÍA motor y caja un mes de uso personal.",
+        "kilometraje_number": 251000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

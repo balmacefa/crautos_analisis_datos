@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79538979&Honda.CITY.2014",
+    "año": 2014,
+    "marca": "HONDA",
+    "modelo": "CITY",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN DANIEL PASTRANA UREÑA",
+        "teléfono": "7268-0980",
+        "whatsapp": "7268-0980"
+    },
+    "informacion_general": {
+        "cilindrada": "15000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "142,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS PLOMO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "kilometraje_number": 142000,
+        "cilindrada_number": 15000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

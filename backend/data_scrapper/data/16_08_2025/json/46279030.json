@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46279030&Kia.SOUL.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "SOUL",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46279030-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46279030-1.jpg",
+        "https://crautos.com/clasificados/usados/46279030-2.jpg",
+        "https://crautos.com/clasificados/usados/46279030-3.jpg",
+        "https://crautos.com/clasificados/usados/46279030-4.jpg",
+        "https://crautos.com/clasificados/usados/46279030-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN PIEDRA",
+        "teléfono": "8328-5392",
+        "whatsapp": "8328-5392"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "88,433 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "Auto en buen estado llantas nuevas economico.",
+        "kilometraje_number": 88433,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

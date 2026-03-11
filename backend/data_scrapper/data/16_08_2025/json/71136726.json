@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71136726&Chevrolet.SPARK.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATHI PEROULIS",
+        "teléfono": "8310-7790",
+        "whatsapp": "8310-7790"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "134,885 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 134885,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

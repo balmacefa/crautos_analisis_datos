@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2638327",
+    "año": 2013,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 11345,
+    "precio_usd": 5695000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2638327-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2638327-1.jpg",
+        "https://crautos.com/clasificados/usados/2638327-2.jpg",
+        "https://crautos.com/clasificados/usados/2638327-3.jpg",
+        "https://crautos.com/clasificados/usados/2638327-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GOI CARS",
+        "teléfono": "8901-0666 8881-4710",
+        "whatsapp": "8881-4710",
+        "dirección": "Ipís de Guadalupe, frente a la gasolinera Trova"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Febrero del 2025",
+        "comentario_vendedor": "Cámara de reversa, radio con pantalla y bluetooth, vidrios eléctricos..",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

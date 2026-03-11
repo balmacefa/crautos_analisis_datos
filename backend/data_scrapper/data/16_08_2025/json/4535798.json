@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4535798&Nissan.FRONTIER.2015",
+    "año": 2015,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4535798-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4535798-1.jpg",
+        "https://crautos.com/clasificados/usados/4535798-2.jpg",
+        "https://crautos.com/clasificados/usados/4535798-3.jpg",
+        "https://crautos.com/clasificados/usados/4535798-4.jpg",
+        "https://crautos.com/clasificados/usados/4535798-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO PLAZA",
+        "teléfono": "2573-6060 8325-3875",
+        "whatsapp": "8484-5959",
+        "dirección": "400 mts Norte de la Bomba Delta, contiguo a la Guacamaya y La Dos Pinos La Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "163,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Mayo del 2025",
+        "comentario_vendedor": "Recibimos, financiamos, americano p, aire acondicionado, cajón con duraliner, AUX, excelente estado..",
+        "kilometraje_number": 163000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Computadora de viaje",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

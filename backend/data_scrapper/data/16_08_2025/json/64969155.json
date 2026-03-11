@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64969155&Mitsubishi.MIRAGE.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64969155-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64969155-1.jpg",
+        "https://crautos.com/clasificados/usados/64969155-2.jpg",
+        "https://crautos.com/clasificados/usados/64969155-3.jpg",
+        "https://crautos.com/clasificados/usados/64969155-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARJORIE LÓPEZ",
+        "teléfono": "7279-7858",
+        "whatsapp": "7279-7858"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "157,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Negociable Dekra al díase le cambiaron las llantas batería nueva cambio de aceite recién hecho aros .",
+        "kilometraje_number": 157000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 8
+}

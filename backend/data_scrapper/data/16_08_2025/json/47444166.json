@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47444166&Toyota.HILUX.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICKA ROJAS",
+        "teléfono": "8366-8812 6111-1204",
+        "whatsapp": "8366-8812"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "347,546 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Vehiculo x al dia marchamo al dia en perfecto estado.",
+        "kilometraje_number": 347546,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 26
+}

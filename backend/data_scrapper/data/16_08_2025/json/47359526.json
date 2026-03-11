@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47359526&Mitsubishi.OUTLANDER.2024",
+    "año": 2024,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 34462,
+    "precio_usd": 17300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47359526-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47359526-1.jpg",
+        "https://crautos.com/clasificados/usados/47359526-2.jpg",
+        "https://crautos.com/clasificados/usados/47359526-3.jpg",
+        "https://crautos.com/clasificados/usados/47359526-4.jpg",
+        "https://crautos.com/clasificados/usados/47359526-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO CAMBRONERO",
+        "teléfono": "8308-9402",
+        "whatsapp": "8308-9402"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "40,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Único dueño .",
+        "kilometraje_number": 40000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 1
+}

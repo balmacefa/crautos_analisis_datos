@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57655803&Hyundai.HD45.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "HD45",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57655803-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57655803-1.jpg",
+        "https://crautos.com/clasificados/usados/57655803-2.jpg",
+        "https://crautos.com/clasificados/usados/57655803-3.jpg",
+        "https://crautos.com/clasificados/usados/57655803-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROMAN MENDEZ",
+        "teléfono": "6119-5619"
+    },
+    "informacion_general": {
+        "cilindrada": "2600 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "225,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado muy lindo de piña escucho ofertas .",
+        "kilometraje_number": 225000,
+        "cilindrada_number": 2600
+    },
+    "equipamiento": [],
+    "antiguedad": 12
+}

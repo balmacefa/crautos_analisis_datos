@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3839528&Jeep.WRANGLER%20SAHARA.2013",
+    "año": 2013,
+    "marca": "JEEP",
+    "modelo": "WRANGLER SAHARA",
+    "precio_crc": 30876,
+    "precio_usd": 15500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3839528-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3839528-1.jpg",
+        "https://crautos.com/clasificados/usados/3839528-2.jpg",
+        "https://crautos.com/clasificados/usados/3839528-3.jpg",
+        "https://crautos.com/clasificados/usados/3839528-4.jpg",
+        "https://crautos.com/clasificados/usados/3839528-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LANDRENI AUTOS-AUTOS STA.ELENA",
+        "teléfono": "7081-5529 2229-3243 2292-6511",
+        "whatsapp": "7081-5529",
+        "dirección": "Coronado, 250 mtrs Sur de Coopecoronado, salimos en Waze como AUTOS SANTA ELENA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "105,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "RECOBIMOS Y FINANCIAMOS .",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

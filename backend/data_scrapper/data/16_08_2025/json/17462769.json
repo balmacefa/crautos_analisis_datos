@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17462769&Toyota.YARIS.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17462769-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17462769-1.jpg",
+        "https://crautos.com/clasificados/usados/17462769-2.jpg",
+        "https://crautos.com/clasificados/usados/17462769-3.jpg",
+        "https://crautos.com/clasificados/usados/17462769-4.jpg",
+        "https://crautos.com/clasificados/usados/17462769-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUGO GONZALEZ",
+        "teléfono": "8938-0417"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "DE AGENCIA. NACIONAL. IMPECABLE. CARRO DE COCHERA .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

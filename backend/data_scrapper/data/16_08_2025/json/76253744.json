@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76253744&Suzuki.SWIFT.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76253744-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76253744-1.jpg",
+        "https://crautos.com/clasificados/usados/76253744-2.jpg",
+        "https://crautos.com/clasificados/usados/76253744-3.jpg",
+        "https://crautos.com/clasificados/usados/76253744-4.jpg",
+        "https://crautos.com/clasificados/usados/76253744-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO CONESA",
+        "teléfono": "8829-8918",
+        "whatsapp": "8829-8918"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "106,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "IMPECABLE - POCO KM - .",
+        "kilometraje_number": 106000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

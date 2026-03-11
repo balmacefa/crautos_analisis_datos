@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30874587&Honda.CRV.2000",
+    "año": 2000,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30874587-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30874587-1.jpg",
+        "https://crautos.com/clasificados/usados/30874587-2.jpg",
+        "https://crautos.com/clasificados/usados/30874587-3.jpg",
+        "https://crautos.com/clasificados/usados/30874587-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN MENESES",
+        "teléfono": "8630-2566",
+        "whatsapp": "8630-2566"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "153,900 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Precio negociable .",
+        "kilometraje_number": 153900,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42746095&Mitsubishi.MONTERO%20SPORT.1998",
+    "año": 1998,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42746095-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42746095-1.jpg",
+        "https://crautos.com/clasificados/usados/42746095-2.jpg",
+        "https://crautos.com/clasificados/usados/42746095-3.jpg",
+        "https://crautos.com/clasificados/usados/42746095-4.jpg",
+        "https://crautos.com/clasificados/usados/42746095-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL QUESADA",
+        "teléfono": "6048-1005",
+        "whatsapp": "6048-1005"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable se vende por motivo de viaje..",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

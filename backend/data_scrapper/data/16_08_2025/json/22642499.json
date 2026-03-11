@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22642499&Toyota.ECHO.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22642499-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22642499-1.jpg",
+        "https://crautos.com/clasificados/usados/22642499-2.jpg",
+        "https://crautos.com/clasificados/usados/22642499-3.jpg",
+        "https://crautos.com/clasificados/usados/22642499-4.jpg",
+        "https://crautos.com/clasificados/usados/22642499-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAIRO VINDAS AGUILAR",
+        "teléfono": "8319-1451 8522-7171",
+        "whatsapp": "8319-1451"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "129,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Puede traer a su mecanico.",
+        "kilometraje_number": 129000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

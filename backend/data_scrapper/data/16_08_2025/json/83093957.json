@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83093957&Mitsubishi.L200.2024",
+    "año": 2024,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 31375,
+    "precio_usd": 15750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83093957-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83093957-1.jpg",
+        "https://crautos.com/clasificados/usados/83093957-2.jpg",
+        "https://crautos.com/clasificados/usados/83093957-3.jpg",
+        "https://crautos.com/clasificados/usados/83093957-4.jpg",
+        "https://crautos.com/clasificados/usados/83093957-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE BRENES",
+        "teléfono": "8314-1584",
+        "whatsapp": "8314-1584"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "8,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Exc estado como nuevo sólo ocho mil kms .",
+        "kilometraje_number": 8000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

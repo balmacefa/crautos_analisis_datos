@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1991634&Renault.DUSTER.2017",
+    "año": 2017,
+    "marca": "RENAULT",
+    "modelo": "DUSTER",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1991634-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1991634-1.jpg",
+        "https://crautos.com/clasificados/usados/1991634-2.jpg",
+        "https://crautos.com/clasificados/usados/1991634-3.jpg",
+        "https://crautos.com/clasificados/usados/1991634-4.jpg",
+        "https://crautos.com/clasificados/usados/1991634-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORCAMALLI S.A.",
+        "teléfono": "8304-8304 8338-7227 8996-9790",
+        "whatsapp": "8304-8304",
+        "dirección": "Guachipelín de Escazú, frente a Construplaza"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "115,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO VINO PERLA",
+        "color_interior": "NEGRO CON GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "!!! EXC. VEHICULO MUY CUIDADO COMPRADO EN AGENCIA, RECIBO VEHICULO DE MENOR PRECIO !!!.",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

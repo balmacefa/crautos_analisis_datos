@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58877130&Isuzu.NPR.2007",
+    "año": 2007,
+    "marca": "ISUZU",
+    "modelo": "NPR",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JESSICA VARGAS",
+        "teléfono": "7208-2926",
+        "whatsapp": "7208-2926"
+    },
+    "informacion_general": {
+        "cilindrada": "4334 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Contácteme y con gusto concretamos una cita..",
+        "kilometraje_number": null,
+        "cilindrada_number": 4334
+    },
+    "equipamiento": [],
+    "antiguedad": 18
+}

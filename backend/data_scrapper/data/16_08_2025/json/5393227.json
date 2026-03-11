@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5393227&Nissan.VERSA.2022",
+    "año": 2022,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5393227-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5393227-1.jpg",
+        "https://crautos.com/clasificados/usados/5393227-2.jpg",
+        "https://crautos.com/clasificados/usados/5393227-3.jpg",
+        "https://crautos.com/clasificados/usados/5393227-4.jpg",
+        "https://crautos.com/clasificados/usados/5393227-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IMPORT CARS CARTAGO",
+        "teléfono": "8487-6959 8431-8551",
+        "whatsapp": "8487-6959",
+        "dirección": "Costado norte del parque de la Basílica de los Ángeles, contiguo al restaurante la Puerta del Sol"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "61,507 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Abril del 2025",
+        "comentario_vendedor": "Financiamiento disponible ,se recibe, garantía y respaldo Facebook y IG Import Cartago .",
+        "kilometraje_number": 61507,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 3
+}

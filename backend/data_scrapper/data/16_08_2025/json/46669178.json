@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46669178&Toyota.RAV4%20L%20.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "RAV4 L",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46669178-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46669178-1.jpg",
+        "https://crautos.com/clasificados/usados/46669178-2.jpg",
+        "https://crautos.com/clasificados/usados/46669178-3.jpg",
+        "https://crautos.com/clasificados/usados/46669178-4.jpg",
+        "https://crautos.com/clasificados/usados/46669178-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATALY BARQUERO",
+        "teléfono": "8544-1007"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "165,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "DORADO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

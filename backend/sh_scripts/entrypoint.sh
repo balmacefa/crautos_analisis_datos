@@ -1,0 +1,1 @@
+# Use this script as entrypoint for docker

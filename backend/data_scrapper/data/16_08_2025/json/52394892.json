@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52394892&Toyota.RAV4.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52394892-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52394892-1.jpg",
+        "https://crautos.com/clasificados/usados/52394892-2.jpg",
+        "https://crautos.com/clasificados/usados/52394892-3.jpg",
+        "https://crautos.com/clasificados/usados/52394892-4.jpg",
+        "https://crautos.com/clasificados/usados/52394892-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ENRIQUE PEÑA",
+        "teléfono": "8503-3107"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "167,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Se vende urgente motivos de viaje .",
+        "kilometraje_number": 167000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 20
+}

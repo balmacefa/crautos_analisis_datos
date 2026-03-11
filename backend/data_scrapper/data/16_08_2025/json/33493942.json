@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33493942&Hyundai.TUCSON%20.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33493942-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33493942-1.jpg",
+        "https://crautos.com/clasificados/usados/33493942-2.jpg",
+        "https://crautos.com/clasificados/usados/33493942-3.jpg",
+        "https://crautos.com/clasificados/usados/33493942-4.jpg",
+        "https://crautos.com/clasificados/usados/33493942-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCELA CASTRO",
+        "teléfono": "8580-0346",
+        "whatsapp": "8580-0346"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "95,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

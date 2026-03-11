@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71906481&Nissan.VERSA.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71906481-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71906481-1.jpg",
+        "https://crautos.com/clasificados/usados/71906481-2.jpg",
+        "https://crautos.com/clasificados/usados/71906481-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER JIMÉNEZ",
+        "teléfono": "8961-0014"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Mecánicamente en muy buen estado todo al día se escucha ofertas ocupa pintura .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69834629&Toyota.LAND%20CRUISER%20.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 55777,
+    "precio_usd": 28000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69834629-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69834629-1.jpg",
+        "https://crautos.com/clasificados/usados/69834629-2.jpg",
+        "https://crautos.com/clasificados/usados/69834629-3.jpg",
+        "https://crautos.com/clasificados/usados/69834629-4.jpg",
+        "https://crautos.com/clasificados/usados/69834629-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERLYN SOTO GRANADOS",
+        "teléfono": "8859-1539 8859-1540",
+        "whatsapp": "8859-1539"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Un chuzo extras.",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

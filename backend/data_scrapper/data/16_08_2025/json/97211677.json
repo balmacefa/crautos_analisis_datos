@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97211677&Toyota.RAV4.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97211677-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97211677-1.jpg",
+        "https://crautos.com/clasificados/usados/97211677-2.jpg",
+        "https://crautos.com/clasificados/usados/97211677-3.jpg",
+        "https://crautos.com/clasificados/usados/97211677-4.jpg",
+        "https://crautos.com/clasificados/usados/97211677-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO VILLALOBOS",
+        "teléfono": "8313-1595",
+        "whatsapp": "8313-1595"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "93,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "03 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado muy buen mantenimiento.",
+        "kilometraje_number": 93000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55885866&Nissan.XTRAIL%20.2003",
+    "año": 2003,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 7271,
+    "precio_usd": 3650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55885866-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55885866-1.jpg",
+        "https://crautos.com/clasificados/usados/55885866-2.jpg",
+        "https://crautos.com/clasificados/usados/55885866-3.jpg",
+        "https://crautos.com/clasificados/usados/55885866-4.jpg",
+        "https://crautos.com/clasificados/usados/55885866-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHAN VENEGAS SEGURA",
+        "teléfono": "8343-3248",
+        "whatsapp": "8343-3248"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "260,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Perfectas condiciones mecánicas .",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

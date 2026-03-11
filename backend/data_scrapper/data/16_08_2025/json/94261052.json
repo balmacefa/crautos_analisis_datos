@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94261052&Mitsubishi.L200%20.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 32869,
+    "precio_usd": 16500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94261052-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94261052-1.jpg",
+        "https://crautos.com/clasificados/usados/94261052-2.jpg",
+        "https://crautos.com/clasificados/usados/94261052-3.jpg",
+        "https://crautos.com/clasificados/usados/94261052-4.jpg",
+        "https://crautos.com/clasificados/usados/94261052-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENDALL RAMIREZ",
+        "teléfono": "6033-7085",
+        "whatsapp": "6033-7085"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "132,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "kilometraje_number": 132000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

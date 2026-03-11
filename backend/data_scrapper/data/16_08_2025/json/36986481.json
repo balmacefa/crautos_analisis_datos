@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36986481&Mitsubishi.FUSO.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "FUSO",
+    "precio_crc": 25498,
+    "precio_usd": 12800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36986481-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36986481-1.jpg",
+        "https://crautos.com/clasificados/usados/36986481-2.jpg",
+        "https://crautos.com/clasificados/usados/36986481-3.jpg",
+        "https://crautos.com/clasificados/usados/36986481-4.jpg",
+        "https://crautos.com/clasificados/usados/36986481-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAROL RAMIREZ",
+        "teléfono": "8355-3202",
+        "whatsapp": "8355-3202"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,372 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Cajon punta de diamante.",
+        "kilometraje_number": 170372,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

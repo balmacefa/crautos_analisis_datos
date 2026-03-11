@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78148629&Toyota.COROLLA.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78148629-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78148629-1.jpg",
+        "https://crautos.com/clasificados/usados/78148629-2.jpg",
+        "https://crautos.com/clasificados/usados/78148629-3.jpg",
+        "https://crautos.com/clasificados/usados/78148629-4.jpg",
+        "https://crautos.com/clasificados/usados/78148629-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADOLFO CHAVES",
+        "teléfono": "8542-7711",
+        "whatsapp": "8542-7711"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "203,533 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "CHAMPAN",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Se recibe carro de mayor valor y se paga diferencia. Preferiblemente corolla.",
+        "kilometraje_number": 203533,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43767968&Chevrolet.CAVALIER.2019",
+    "año": 2019,
+    "marca": "CHEVROLET",
+    "modelo": "CAVALIER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43767968-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43767968-1.jpg",
+        "https://crautos.com/clasificados/usados/43767968-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO MOLINA",
+        "teléfono": "8320-5695",
+        "whatsapp": "8320-5695"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "45,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Poco kilometraje. Muy económico..",
+        "kilometraje_number": 45500,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 6
+}

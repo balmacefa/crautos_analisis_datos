@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40419884&Mercedes%20Benz.300D%20TURBO%20.1983",
+    "año": 1983,
+    "marca": "MERCEDES BENZ",
+    "modelo": "300D TURBO",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXÁNDER NÚÑEZ",
+        "teléfono": "8324-8000",
+        "whatsapp": "8324-8000"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "100,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Proyecto casi terminado. extras-Aros AMG Originales. Ganga!!.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asiento con memoria",
+        "Asientos eléctricos",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 42
+}

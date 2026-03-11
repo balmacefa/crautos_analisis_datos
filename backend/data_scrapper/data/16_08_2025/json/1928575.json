@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1928575&Mercedes%20Benz.280%20S.1984",
+    "año": 1984,
+    "marca": "MERCEDES BENZ",
+    "modelo": "280 S",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1928575-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1928575-1.jpg",
+        "https://crautos.com/clasificados/usados/1928575-2.jpg",
+        "https://crautos.com/clasificados/usados/1928575-3.jpg",
+        "https://crautos.com/clasificados/usados/1928575-4.jpg",
+        "https://crautos.com/clasificados/usados/1928575-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO TIME",
+        "teléfono": "8872-2000 8625-8814 2101-5859",
+        "whatsapp": "8872-2000",
+        "dirección": "Pozos de Santa Ana 400 oeste del Santa Ana Country Club."
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "129,710 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BEIGE",
+        "color_interior": "CAFÉ / CUERO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable, aire acondicionado, todo al día. En Waze Auto Time....",
+        "kilometraje_number": 129710,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 41
+}

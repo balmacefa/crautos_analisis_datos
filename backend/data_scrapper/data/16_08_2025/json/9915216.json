@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9915216&Kia.SPORTAGE%20.2019",
+    "año": 2019,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 19721,
+    "precio_usd": 9900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9915216-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9915216-1.jpg",
+        "https://crautos.com/clasificados/usados/9915216-2.jpg",
+        "https://crautos.com/clasificados/usados/9915216-3.jpg",
+        "https://crautos.com/clasificados/usados/9915216-4.jpg",
+        "https://crautos.com/clasificados/usados/9915216-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS PRIPA",
+        "teléfono": "6018-1919 2553-0010",
+        "whatsapp": "6018-1919",
+        "dirección": "Costado Sur de la Biblioteca Pública Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "104,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Información al WhatsApp .",
+        "kilometraje_number": 104000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95661383&Nissan.D21.1996",
+    "año": 1996,
+    "marca": "NISSAN",
+    "modelo": "D21",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95661383-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95661383-1.jpg",
+        "https://crautos.com/clasificados/usados/95661383-2.jpg",
+        "https://crautos.com/clasificados/usados/95661383-3.jpg",
+        "https://crautos.com/clasificados/usados/95661383-4.jpg",
+        "https://crautos.com/clasificados/usados/95661383-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRAYAN ALVARADO",
+        "teléfono": "6067-8562"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "300,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Carro en excelente estado .",
+        "kilometraje_number": 300000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 29
+}

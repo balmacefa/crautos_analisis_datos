@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50778091",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "ATOS",
+    "precio_crc": 8954,
+    "precio_usd": 4495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50778091-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50778091-1.jpg",
+        "https://crautos.com/clasificados/usados/50778091-2.jpg",
+        "https://crautos.com/clasificados/usados/50778091-3.jpg",
+        "https://crautos.com/clasificados/usados/50778091-4.jpg",
+        "https://crautos.com/clasificados/usados/50778091-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO ALVARADO MONGE",
+        "teléfono": "7076-5664",
+        "whatsapp": "7076-5664"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "51,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 51000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29766536&Nissan.PATROL.1994",
+    "año": 1994,
+    "marca": "NISSAN",
+    "modelo": "PATROL",
+    "precio_crc": 21713,
+    "precio_usd": 10900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29766536-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29766536-1.jpg",
+        "https://crautos.com/clasificados/usados/29766536-2.jpg",
+        "https://crautos.com/clasificados/usados/29766536-3.jpg",
+        "https://crautos.com/clasificados/usados/29766536-4.jpg",
+        "https://crautos.com/clasificados/usados/29766536-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO CORTES",
+        "teléfono": "6047-4782",
+        "whatsapp": "6047-4782"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "237,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Abril del 2025",
+        "comentario_vendedor": "Todo nuevo! Una joya de carro. Suspe Dobinson llantas Yokohama y muchas extras .",
+        "kilometraje_number": 237000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 31
+}

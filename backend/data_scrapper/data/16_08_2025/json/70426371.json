@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70426371&Chevrolet.OPTRA.2007",
+    "año": 2007,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70426371-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70426371-1.jpg",
+        "https://crautos.com/clasificados/usados/70426371-2.jpg",
+        "https://crautos.com/clasificados/usados/70426371-3.jpg",
+        "https://crautos.com/clasificados/usados/70426371-4.jpg",
+        "https://crautos.com/clasificados/usados/70426371-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE MADRIZ",
+        "teléfono": "8647-7474",
+        "whatsapp": "8647-7474"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "144,103 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Quiere un buen carro venga véalo y compruébelo por usted mismo..",
+        "kilometraje_number": 144103,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

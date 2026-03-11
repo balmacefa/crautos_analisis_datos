@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17752180&Chevrolet.TRAX.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "TRAX",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17752180-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17752180-1.jpg",
+        "https://crautos.com/clasificados/usados/17752180-2.jpg",
+        "https://crautos.com/clasificados/usados/17752180-3.jpg",
+        "https://crautos.com/clasificados/usados/17752180-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO VINDAS",
+        "teléfono": "6394-6314",
+        "whatsapp": "6394-6314"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "101,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Se encuentra en buen estado solo un dueño.",
+        "kilometraje_number": 101000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

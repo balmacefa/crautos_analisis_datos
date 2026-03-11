@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92663130&Geo.TRACKER%20.1995",
+    "año": 1995,
+    "marca": "GEO",
+    "modelo": "TRACKER",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92663130-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92663130-1.jpg",
+        "https://crautos.com/clasificados/usados/92663130-2.jpg",
+        "https://crautos.com/clasificados/usados/92663130-3.jpg",
+        "https://crautos.com/clasificados/usados/92663130-4.jpg",
+        "https://crautos.com/clasificados/usados/92663130-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAMILA NAVARRO",
+        "teléfono": "7172-8575",
+        "whatsapp": "7172-8575"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "167,800 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "kilometraje_number": 167800,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 30
+}

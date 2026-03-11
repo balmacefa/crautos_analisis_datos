@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88652394&Toyota.HILUX.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 25398,
+    "precio_usd": 12750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88652394-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88652394-1.jpg",
+        "https://crautos.com/clasificados/usados/88652394-2.jpg",
+        "https://crautos.com/clasificados/usados/88652394-3.jpg",
+        "https://crautos.com/clasificados/usados/88652394-4.jpg",
+        "https://crautos.com/clasificados/usados/88652394-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GONZALO ROMERO",
+        "teléfono": "8330-6321",
+        "whatsapp": "8330-6321"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BEIGE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

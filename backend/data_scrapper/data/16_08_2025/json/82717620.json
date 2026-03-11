@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82717620&Toyota.COROLLA%20L.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA L",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82717620-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82717620-1.jpg",
+        "https://crautos.com/clasificados/usados/82717620-2.jpg",
+        "https://crautos.com/clasificados/usados/82717620-3.jpg",
+        "https://crautos.com/clasificados/usados/82717620-4.jpg",
+        "https://crautos.com/clasificados/usados/82717620-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIOLA BARBOZA",
+        "teléfono": "6116-8974 6134-4538",
+        "whatsapp": "6116-8974"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,500 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Corolla L excelentes condiciones .",
+        "kilometraje_number": 115500,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

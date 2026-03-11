@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6812842&Chevrolet.CAMARO.2014",
+    "año": 2014,
+    "marca": "CHEVROLET",
+    "modelo": "CAMARO",
+    "precio_crc": 27689,
+    "precio_usd": 13900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6812842-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6812842-1.jpg",
+        "https://crautos.com/clasificados/usados/6812842-2.jpg",
+        "https://crautos.com/clasificados/usados/6812842-3.jpg",
+        "https://crautos.com/clasificados/usados/6812842-4.jpg",
+        "https://crautos.com/clasificados/usados/6812842-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DRIVE MOTORS CR",
+        "teléfono": "8455-2663",
+        "whatsapp": "8455-2663",
+        "dirección": "200 mts de la entrada principal del Condominio Montezuma, camino hacia Grecia"
+    },
+    "informacion_general": {
+        "cilindrada": "3600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "92,899 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado, list para inscribir.",
+        "kilometraje_number": 92899,
+        "cilindrada_number": 3600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

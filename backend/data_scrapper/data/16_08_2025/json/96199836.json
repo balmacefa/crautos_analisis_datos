@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96199836&Toyota.HIACE.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 41833,
+    "precio_usd": 21000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96199836-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96199836-1.jpg",
+        "https://crautos.com/clasificados/usados/96199836-2.jpg",
+        "https://crautos.com/clasificados/usados/96199836-3.jpg",
+        "https://crautos.com/clasificados/usados/96199836-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR VARGAS",
+        "teléfono": "8854-9249",
+        "whatsapp": "8854-9249"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado como nuevo .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 6
+}

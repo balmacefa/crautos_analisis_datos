@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34876639&Chevrolet.SPARK%20LS.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK LS",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATHERINE JIMENEZ",
+        "teléfono": "6115-4396",
+        "whatsapp": "6115-4396"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "73,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "kilometraje_number": 73000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

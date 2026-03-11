@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73687054&Honda.CRV.2005",
+    "año": 2005,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73687054-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73687054-1.jpg",
+        "https://crautos.com/clasificados/usados/73687054-2.jpg",
+        "https://crautos.com/clasificados/usados/73687054-3.jpg",
+        "https://crautos.com/clasificados/usados/73687054-4.jpg",
+        "https://crautos.com/clasificados/usados/73687054-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ASHLEY SOLANO",
+        "teléfono": "7170-7098",
+        "whatsapp": "7170-7098"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "173,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "kilometraje_number": 173000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

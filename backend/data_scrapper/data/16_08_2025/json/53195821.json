@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53195821&Suzuki.CIAZ.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "CIAZ",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53195821-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53195821-1.jpg",
+        "https://crautos.com/clasificados/usados/53195821-2.jpg",
+        "https://crautos.com/clasificados/usados/53195821-3.jpg",
+        "https://crautos.com/clasificados/usados/53195821-4.jpg",
+        "https://crautos.com/clasificados/usados/53195821-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE HERRERA",
+        "teléfono": "8840-4065",
+        "whatsapp": "8840-4065"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "179,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "CAFE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "buen estado general detalles estéticos.",
+        "kilometraje_number": 179000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

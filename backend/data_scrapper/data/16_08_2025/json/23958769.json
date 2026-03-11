@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23958769&BMW.E36.1998",
+    "año": 1998,
+    "marca": "BMW",
+    "modelo": "E36",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23958769-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23958769-1.jpg",
+        "https://crautos.com/clasificados/usados/23958769-2.jpg",
+        "https://crautos.com/clasificados/usados/23958769-3.jpg",
+        "https://crautos.com/clasificados/usados/23958769-4.jpg",
+        "https://crautos.com/clasificados/usados/23958769-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO CALVO",
+        "teléfono": "8586-1878",
+        "whatsapp": "8586-1878"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE/ NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Se vende BMW sedan cuatro puertas manual gasolina cc está al día DEKRA aprobado .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 27
+}

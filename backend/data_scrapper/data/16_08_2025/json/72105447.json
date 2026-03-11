@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72105447&Suzuki.GRAND%20VITARA.1999",
+    "año": 1999,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72105447-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72105447-1.jpg",
+        "https://crautos.com/clasificados/usados/72105447-2.jpg",
+        "https://crautos.com/clasificados/usados/72105447-3.jpg",
+        "https://crautos.com/clasificados/usados/72105447-4.jpg",
+        "https://crautos.com/clasificados/usados/72105447-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CÉSAR RAMÍREZ",
+        "teléfono": "8507-2199",
+        "whatsapp": "8507-2199"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "155,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO/DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Interesados escribir por favor no llamar. Gracias. .",
+        "kilometraje_number": 155000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

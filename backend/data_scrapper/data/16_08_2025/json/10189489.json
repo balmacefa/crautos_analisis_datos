@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10189489&Ford.ESCAPE.2001",
+    "año": 2001,
+    "marca": "FORD",
+    "modelo": "ESCAPE",
+    "precio_crc": 7271,
+    "precio_usd": 3650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10189489-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10189489-1.jpg",
+        "https://crautos.com/clasificados/usados/10189489-2.jpg",
+        "https://crautos.com/clasificados/usados/10189489-3.jpg",
+        "https://crautos.com/clasificados/usados/10189489-4.jpg",
+        "https://crautos.com/clasificados/usados/10189489-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICK VILLALOBOS RODRIGUEZ",
+        "teléfono": "6028-2812",
+        "whatsapp": "6028-2812"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6197513&Mitsubishi.QASHQAI.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "QASHQAI",
+    "precio_crc": 18825,
+    "precio_usd": 9450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6197513-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6197513-1.jpg",
+        "https://crautos.com/clasificados/usados/6197513-2.jpg",
+        "https://crautos.com/clasificados/usados/6197513-3.jpg",
+        "https://crautos.com/clasificados/usados/6197513-4.jpg",
+        "https://crautos.com/clasificados/usados/6197513-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHITO CARS",
+        "teléfono": "6290-1001 2589-6565",
+        "whatsapp": "6290-1001",
+        "dirección": "300 metros Oeste de la ferreteria EPA en San Antonio de Belen. Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "925,325 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Completamente al día recibo y financio, garantía por escrito. Chito Cars..",
+        "kilometraje_number": 925325,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

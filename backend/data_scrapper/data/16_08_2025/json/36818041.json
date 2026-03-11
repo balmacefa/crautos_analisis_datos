@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36818041&Mazda.2.2009",
+    "año": 2009,
+    "marca": "MAZDA",
+    "modelo": "2",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36818041-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36818041-1.jpg",
+        "https://crautos.com/clasificados/usados/36818041-2.jpg",
+        "https://crautos.com/clasificados/usados/36818041-3.jpg",
+        "https://crautos.com/clasificados/usados/36818041-4.jpg",
+        "https://crautos.com/clasificados/usados/36818041-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL",
+        "teléfono": "7269-1579",
+        "whatsapp": "7269-1579"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "96,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "CEREZO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Detalle en puerta trasera derecha poco kilometraje con batería prácticamente nuevo carro de cochera.",
+        "kilometraje_number": 96000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

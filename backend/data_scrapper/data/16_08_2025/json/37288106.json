@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37288106&Hyundai.ELANTRA.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37288106-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37288106-1.jpg",
+        "https://crautos.com/clasificados/usados/37288106-2.jpg",
+        "https://crautos.com/clasificados/usados/37288106-3.jpg",
+        "https://crautos.com/clasificados/usados/37288106-4.jpg",
+        "https://crautos.com/clasificados/usados/37288106-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON VALVERDE",
+        "teléfono": "8624-5132",
+        "whatsapp": "8624-5132"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "300 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "kilometraje_number": 300,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

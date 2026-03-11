@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30355777&Nissan.PLATINA.2003",
+    "año": 2003,
+    "marca": "NISSAN",
+    "modelo": "PLATINA",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30355777-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30355777-1.jpg",
+        "https://crautos.com/clasificados/usados/30355777-2.jpg",
+        "https://crautos.com/clasificados/usados/30355777-3.jpg",
+        "https://crautos.com/clasificados/usados/30355777-4.jpg",
+        "https://crautos.com/clasificados/usados/30355777-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH VEGA ARAYA",
+        "teléfono": "8684-0400",
+        "whatsapp": "8684-0400"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "196,400 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS CON AZUL",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Llantas nuevas. Consumo de combustible súper económico .",
+        "kilometraje_number": 196400,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

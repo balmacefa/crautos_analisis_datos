@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21764287",
+    "año": 1986,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 11155,
+    "precio_usd": 5600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21764287-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21764287-1.jpg",
+        "https://crautos.com/clasificados/usados/21764287-2.jpg",
+        "https://crautos.com/clasificados/usados/21764287-3.jpg",
+        "https://crautos.com/clasificados/usados/21764287-4.jpg",
+        "https://crautos.com/clasificados/usados/21764287-5.jpg",
+        "https://crautos.com/clasificados/usados/21764287-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAMES BULLOCK",
+        "teléfono": "8770-7780",
+        "whatsapp": "8770-7780"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "299,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "MARRON",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "GLP conversion reconstrucción completa del motor y nuevo frenos embrague radiador.",
+        "kilometraje_number": 299000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 39
+}

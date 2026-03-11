@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68522612&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68522612-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68522612-1.jpg",
+        "https://crautos.com/clasificados/usados/68522612-2.jpg",
+        "https://crautos.com/clasificados/usados/68522612-3.jpg",
+        "https://crautos.com/clasificados/usados/68522612-4.jpg",
+        "https://crautos.com/clasificados/usados/68522612-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUC DELVAUX",
+        "teléfono": "8303-4335",
+        "whatsapp": "8303-4335"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "90,600 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Pintura muy buen estado iinterior excelente. Dekra en blanco.",
+        "kilometraje_number": 90600,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

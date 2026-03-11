@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86665945&Kia.RIO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86665945-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86665945-1.jpg",
+        "https://crautos.com/clasificados/usados/86665945-2.jpg",
+        "https://crautos.com/clasificados/usados/86665945-3.jpg",
+        "https://crautos.com/clasificados/usados/86665945-4.jpg",
+        "https://crautos.com/clasificados/usados/86665945-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN GONZÁLEZ BADIILLA",
+        "teléfono": "8890-2898",
+        "whatsapp": "8890-2898"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "144,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Aros version sx llantas nuevas Muy cuidado uso personal.",
+        "kilometraje_number": 144000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

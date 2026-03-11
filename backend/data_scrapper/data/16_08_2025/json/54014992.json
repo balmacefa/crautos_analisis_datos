@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54014992",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY JX",
+    "precio_crc": 12948,
+    "precio_usd": 6500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54014992-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54014992-1.jpg",
+        "https://crautos.com/clasificados/usados/54014992-2.jpg",
+        "https://crautos.com/clasificados/usados/54014992-3.jpg",
+        "https://crautos.com/clasificados/usados/54014992-4.jpg",
+        "https://crautos.com/clasificados/usados/54014992-5.jpg",
+        "https://crautos.com/clasificados/usados/54014992-6.jpg",
+        "https://crautos.com/clasificados/usados/54014992-7.jpg",
+        "https://crautos.com/clasificados/usados/54014992-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VFYCARS",
+        "teléfono": "8836-0684",
+        "whatsapp": "8836-0684"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO - FINANCIO - TODO AL DIA Y ENTREGA INMEDIATA.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

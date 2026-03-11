@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98714999&Great%20Wall.WINGLE%205.2025",
+    "año": 2025,
+    "marca": "GREAT WALL",
+    "modelo": "WINGLE 5",
+    "precio_crc": 28486,
+    "precio_usd": 14300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98714999-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98714999-1.jpg",
+        "https://crautos.com/clasificados/usados/98714999-2.jpg",
+        "https://crautos.com/clasificados/usados/98714999-3.jpg",
+        "https://crautos.com/clasificados/usados/98714999-4.jpg",
+        "https://crautos.com/clasificados/usados/98714999-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO DIEN",
+        "teléfono": "8334-0260",
+        "whatsapp": "8334-0260"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "22 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente pick up personal o de trabajo muy economico.",
+        "kilometraje_number": 22,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 0
+}

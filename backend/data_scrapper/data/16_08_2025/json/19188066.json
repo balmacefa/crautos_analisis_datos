@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19188066&Hyundai.ACCENT.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANFRED GONZALEZ",
+        "teléfono": "6063-0699 6047-5366",
+        "whatsapp": "6063-0699"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "92,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Único sueño.",
+        "kilometraje_number": 92000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

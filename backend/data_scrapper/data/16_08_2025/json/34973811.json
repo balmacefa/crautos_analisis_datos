@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34973811&Nissan.TIIDA.2011",
+    "año": 2011,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34973811-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34973811-1.jpg",
+        "https://crautos.com/clasificados/usados/34973811-2.jpg",
+        "https://crautos.com/clasificados/usados/34973811-3.jpg",
+        "https://crautos.com/clasificados/usados/34973811-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO MORALES CESPEDES",
+        "teléfono": "7162-2231",
+        "whatsapp": "7162-2231"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Precio es Negociable.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

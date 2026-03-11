@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92545289&Daihatsu.TERIOS%20BEGO.2009",
+    "año": 2009,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92545289-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92545289-1.jpg",
+        "https://crautos.com/clasificados/usados/92545289-2.jpg",
+        "https://crautos.com/clasificados/usados/92545289-3.jpg",
+        "https://crautos.com/clasificados/usados/92545289-4.jpg",
+        "https://crautos.com/clasificados/usados/92545289-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO JIMÉNEZ",
+        "teléfono": "8896-4884",
+        "whatsapp": "8896-4884"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "309,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Excelente carro súper económico .",
+        "kilometraje_number": 309000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

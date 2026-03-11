@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81867688&Nissan.VERSA%20.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81867688-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81867688-1.jpg",
+        "https://crautos.com/clasificados/usados/81867688-2.jpg",
+        "https://crautos.com/clasificados/usados/81867688-3.jpg",
+        "https://crautos.com/clasificados/usados/81867688-4.jpg",
+        "https://crautos.com/clasificados/usados/81867688-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN JOSÉ SÁNCHEZ CAMPOS",
+        "teléfono": "8344-9374 8322-7972",
+        "whatsapp": "8344-9374"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "163,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 163000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

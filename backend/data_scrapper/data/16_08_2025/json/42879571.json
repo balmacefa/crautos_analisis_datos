@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42879571&Toyota.RUSH%20G.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "RUSH G",
+    "precio_crc": 23705,
+    "precio_usd": 11900000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN SOTO",
+        "teléfono": "8828-2532",
+        "whatsapp": "8828-2532"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "58,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Garantía- Financiamiento disponible por medio de entidades .",
+        "kilometraje_number": 58000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 1
+}

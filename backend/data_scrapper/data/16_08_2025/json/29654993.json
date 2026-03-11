@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29654993&Nissan.SENTRA.1996",
+    "año": 1996,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29654993-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29654993-1.jpg",
+        "https://crautos.com/clasificados/usados/29654993-2.jpg",
+        "https://crautos.com/clasificados/usados/29654993-3.jpg",
+        "https://crautos.com/clasificados/usados/29654993-4.jpg",
+        "https://crautos.com/clasificados/usados/29654993-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL CALDERON",
+        "teléfono": "8649-3432 8630-1961",
+        "whatsapp": "8905-4514"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Muy bien de motor detalles de pintura .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 29
+}

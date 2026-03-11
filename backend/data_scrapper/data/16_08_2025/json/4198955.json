@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4198955&Chevrolet.CAMARO%20SS.2010",
+    "año": 2010,
+    "marca": "CHEVROLET",
+    "modelo": "CAMARO SS",
+    "precio_crc": 35558,
+    "precio_usd": 17850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4198955-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4198955-1.jpg",
+        "https://crautos.com/clasificados/usados/4198955-2.jpg",
+        "https://crautos.com/clasificados/usados/4198955-3.jpg",
+        "https://crautos.com/clasificados/usados/4198955-4.jpg",
+        "https://crautos.com/clasificados/usados/4198955-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS KALEB",
+        "teléfono": "8829-0243 8830-8672 8831-6585",
+        "whatsapp": "8829-0243",
+        "dirección": "San Juan de Santa Bárbara, Heredia 200 metros oeste del colegio New Hope"
+    },
+    "informacion_general": {
+        "cilindrada": "62000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "102,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "caja sexta,frenos brembo,muflas borla,short shifter,aros veinte,admisión fast,cambers,paque eléctri .",
+        "kilometraje_number": 102000,
+        "cilindrada_number": 62000
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

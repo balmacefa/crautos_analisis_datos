@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2830356&Toyota.PRADO.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 21756660,
+    "precio_usd": 43340.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2830356-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2830356-1.jpg",
+        "https://crautos.com/clasificados/usados/2830356-2.jpg",
+        "https://crautos.com/clasificados/usados/2830356-3.jpg",
+        "https://crautos.com/clasificados/usados/2830356-4.jpg",
+        "https://crautos.com/clasificados/usados/2830356-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EXCELLENT CARS",
+        "teléfono": "8844-9740 7075-1870",
+        "whatsapp": "8844-9740",
+        "dirección": "Hospital, de la entrada del cementerio de obreros 150 este y 150 norte San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "VEHICULO EN PERFECTO ESTADO MANTENIMIENTO DE AGENCIA.",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

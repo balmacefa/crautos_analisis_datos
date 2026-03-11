@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1466024&Hyundai.H100%20PORTER.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "H100 PORTER",
+    "precio_crc": 17331,
+    "precio_usd": 8700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1466024-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1466024-1.jpg",
+        "https://crautos.com/clasificados/usados/1466024-2.jpg",
+        "https://crautos.com/clasificados/usados/1466024-3.jpg",
+        "https://crautos.com/clasificados/usados/1466024-4.jpg",
+        "https://crautos.com/clasificados/usados/1466024-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VÍA KOREA",
+        "teléfono": "7295-5100 6267-5166 8845-5271",
+        "whatsapp": "7295-5100",
+        "dirección": "De la bomba Villa Bonita, 700 mtrs este sobre autopista Bernardo Soto"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "78,922 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "FINANCIAMIENTO PROPIO CINCUENTA PORCIENTO DE PRIMA, RECIBIMOS AUTO..",
+        "kilometraje_number": 78922,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

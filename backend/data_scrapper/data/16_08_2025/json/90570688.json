@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90570688&Kia.MORNING.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "MORNING",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90570688-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90570688-1.jpg",
+        "https://crautos.com/clasificados/usados/90570688-2.jpg",
+        "https://crautos.com/clasificados/usados/90570688-3.jpg",
+        "https://crautos.com/clasificados/usados/90570688-4.jpg",
+        "https://crautos.com/clasificados/usados/90570688-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN BRENES",
+        "teléfono": "6158-1961",
+        "whatsapp": "6158-1961"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "72,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Muy bueno al dia sin nada que hacerle. .",
+        "kilometraje_number": 72000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

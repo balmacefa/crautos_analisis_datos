@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71788876&Nissan.MURANO.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "MURANO",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71788876-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71788876-1.jpg",
+        "https://crautos.com/clasificados/usados/71788876-2.jpg",
+        "https://crautos.com/clasificados/usados/71788876-3.jpg",
+        "https://crautos.com/clasificados/usados/71788876-4.jpg",
+        "https://crautos.com/clasificados/usados/71788876-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE VILLAFRANCA",
+        "teléfono": "8459-4860",
+        "whatsapp": "8459-4860"
+    },
+    "informacion_general": {
+        "cilindrada": "3498 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "98,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "DORADO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Ubicado en Escazu. Un solo dueno. Record de agencia..",
+        "kilometraje_number": 98000,
+        "cilindrada_number": 3498
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asiento con memoria",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

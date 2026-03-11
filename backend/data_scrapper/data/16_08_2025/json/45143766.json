@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45143766&Ford.MUSTANG.2011",
+    "año": 2011,
+    "marca": "FORD",
+    "modelo": "MUSTANG",
+    "precio_crc": 20906,
+    "precio_usd": 10495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45143766-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45143766-1.jpg",
+        "https://crautos.com/clasificados/usados/45143766-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO GONZALEZ",
+        "teléfono": "7016-1424",
+        "whatsapp": "7016-1424"
+    },
+    "informacion_general": {
+        "cilindrada": "3700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "98,000 millas",
+        "placa": "ND",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "P INSCRIBIR/excelentes condiciones llantas nuevas aros lujo frenos disco de coleccion todo original.",
+        "kilometraje_number": 98000,
+        "cilindrada_number": 3700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 14
+}

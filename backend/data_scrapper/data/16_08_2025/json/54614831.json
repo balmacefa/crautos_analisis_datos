@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54614831&Toyota.4RUNNER%20TD.1992",
+    "año": 1992,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER TD",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54614831-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54614831-1.jpg",
+        "https://crautos.com/clasificados/usados/54614831-2.jpg",
+        "https://crautos.com/clasificados/usados/54614831-3.jpg",
+        "https://crautos.com/clasificados/usados/54614831-4.jpg",
+        "https://crautos.com/clasificados/usados/54614831-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE ALBERTO MUÑOZ PEÑA",
+        "teléfono": "6045-5133",
+        "whatsapp": "6045-5133"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Toyota FourRunner Motor L Turbo Diesel.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 33
+}

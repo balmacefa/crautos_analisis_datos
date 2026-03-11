@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42438318&Peugeot.107.2014",
+    "año": 2014,
+    "marca": "PEUGEOT",
+    "modelo": "107",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SILVIA ESPINOZA",
+        "teléfono": "6161-1400"
+    },
+    "informacion_general": {
+        "cilindrada": "900 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Se negocia el precio .",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 900
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

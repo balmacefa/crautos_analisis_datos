@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46316690&Toyota.ECHO.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6275,
+    "precio_usd": 3150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46316690-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46316690-1.jpg",
+        "https://crautos.com/clasificados/usados/46316690-2.jpg",
+        "https://crautos.com/clasificados/usados/46316690-3.jpg",
+        "https://crautos.com/clasificados/usados/46316690-4.jpg",
+        "https://crautos.com/clasificados/usados/46316690-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL GALE",
+        "teléfono": "6436-1053",
+        "whatsapp": "6436-1053"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "143,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Muy económico! Cero óxido! Al dia! Aire!.",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46936478&Hyundai.SANTA%20FE.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46936478-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46936478-1.jpg",
+        "https://crautos.com/clasificados/usados/46936478-2.jpg",
+        "https://crautos.com/clasificados/usados/46936478-3.jpg",
+        "https://crautos.com/clasificados/usados/46936478-4.jpg",
+        "https://crautos.com/clasificados/usados/46936478-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM ALFARO",
+        "teléfono": "8980-9824 8830-9459",
+        "whatsapp": "8980-9824"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "El carro se encuentra en muy buenas condiciones.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

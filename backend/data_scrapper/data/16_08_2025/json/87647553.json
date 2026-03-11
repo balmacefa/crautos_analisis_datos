@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87647553&Suzuki.SIDEKICK%20SPORT%20JLX.1996",
+    "año": 1996,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK SPORT JLX",
+    "precio_crc": 5876,
+    "precio_usd": 2950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87647553-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87647553-1.jpg",
+        "https://crautos.com/clasificados/usados/87647553-2.jpg",
+        "https://crautos.com/clasificados/usados/87647553-3.jpg",
+        "https://crautos.com/clasificados/usados/87647553-4.jpg",
+        "https://crautos.com/clasificados/usados/87647553-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RUBÉN GODÍNEZ ALVAREZ",
+        "teléfono": "8712-5452",
+        "whatsapp": "8712-5452"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Vehiculo en muy buen estado perfecto funcionamento al dia .",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 29
+}

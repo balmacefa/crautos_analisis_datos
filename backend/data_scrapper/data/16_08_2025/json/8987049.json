@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8987049&Toyota.RAIZE.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "RAIZE",
+    "precio_crc": 8534000,
+    "precio_usd": 17000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8987049-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8987049-1.jpg",
+        "https://crautos.com/clasificados/usados/8987049-2.jpg",
+        "https://crautos.com/clasificados/usados/8987049-3.jpg",
+        "https://crautos.com/clasificados/usados/8987049-4.jpg",
+        "https://crautos.com/clasificados/usados/8987049-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BAVARIAN MOTORS CR S.A.",
+        "teléfono": "8486-1442",
+        "whatsapp": "8486-1442",
+        "dirección": "Agencia La Uruca, diagonal a la Bomba Delta. Agencia Escazú Guachipelín San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "36,941 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Un mes de garantía sobre caja y motor .",
+        "kilometraje_number": 36941,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

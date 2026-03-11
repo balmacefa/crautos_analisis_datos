@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6427704&Kia.SORENTO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 8032000,
+    "precio_usd": 16000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6427704-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6427704-1.jpg",
+        "https://crautos.com/clasificados/usados/6427704-2.jpg",
+        "https://crautos.com/clasificados/usados/6427704-3.jpg",
+        "https://crautos.com/clasificados/usados/6427704-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SUZUKI MOTOR CENTER",
+        "teléfono": "2242-7000 ext 232",
+        "whatsapp": "6196-2490",
+        "dirección": "Frente al Hospital Mexico, La Uruca. San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2359 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "74,664 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VINO",
+        "color_interior": "N/A",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "kilometraje_number": 74664,
+        "cilindrada_number": 2359
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

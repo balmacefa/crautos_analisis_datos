@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60125403&Honda.CIVIC.2008",
+    "año": 2008,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 8954,
+    "precio_usd": 4495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60125403-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60125403-1.jpg",
+        "https://crautos.com/clasificados/usados/60125403-2.jpg",
+        "https://crautos.com/clasificados/usados/60125403-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR SEGURA",
+        "teléfono": "6208-5221",
+        "whatsapp": "6208-5221"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "197,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "EXCLENTE ESTADO.",
+        "kilometraje_number": 197000,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

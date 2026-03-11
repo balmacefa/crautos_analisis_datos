@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77512912&Isuzu.RODEO.1995",
+    "año": 1995,
+    "marca": "ISUZU",
+    "modelo": "RODEO",
+    "precio_crc": 3785,
+    "precio_usd": 1900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77512912-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77512912-1.jpg",
+        "https://crautos.com/clasificados/usados/77512912-2.jpg",
+        "https://crautos.com/clasificados/usados/77512912-3.jpg",
+        "https://crautos.com/clasificados/usados/77512912-4.jpg",
+        "https://crautos.com/clasificados/usados/77512912-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN AYUBI",
+        "teléfono": "6111-9768",
+        "whatsapp": "6111-9768"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "225,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Junio del 2025",
+        "comentario_vendedor": "cuatro x cuatro listo pra firmar nada q hacerle excelente compresion x epa escazu traspaso incluido.",
+        "kilometraje_number": 225000,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 30
+}

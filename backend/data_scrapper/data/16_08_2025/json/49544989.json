@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49544989&Toyota.YARIS%20ADVANCE.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "YARIS ADVANCE",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49544989-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49544989-1.jpg",
+        "https://crautos.com/clasificados/usados/49544989-2.jpg",
+        "https://crautos.com/clasificados/usados/49544989-3.jpg",
+        "https://crautos.com/clasificados/usados/49544989-4.jpg",
+        "https://crautos.com/clasificados/usados/49544989-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCELA RODRÍGUEZ",
+        "teléfono": "8721-6450 8315-5131",
+        "whatsapp": "8721-6450"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "216,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado solo ha tenido dos dueños de uso familiar .",
+        "kilometraje_number": 216000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

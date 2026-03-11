@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49932246&Mitsubishi.MONTERO.1994",
+    "año": 1994,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49932246-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49932246-1.jpg",
+        "https://crautos.com/clasificados/usados/49932246-2.jpg",
+        "https://crautos.com/clasificados/usados/49932246-3.jpg",
+        "https://crautos.com/clasificados/usados/49932246-4.jpg",
+        "https://crautos.com/clasificados/usados/49932246-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTON KOROVYANSKIY",
+        "teléfono": "8666-0197",
+        "whatsapp": "8666-0197"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "187,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Solo por mensajes al watsApp, todo al día, firma inmediata, poco uso..",
+        "kilometraje_number": 187000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 31
+}

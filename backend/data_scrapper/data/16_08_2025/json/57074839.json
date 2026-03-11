@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57074839&Toyota.HILUX.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 30876,
+    "precio_usd": 15500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57074839-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57074839-1.jpg",
+        "https://crautos.com/clasificados/usados/57074839-2.jpg",
+        "https://crautos.com/clasificados/usados/57074839-3.jpg",
+        "https://crautos.com/clasificados/usados/57074839-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR SERRANO",
+        "teléfono": "8307-8085",
+        "whatsapp": "8307-8085"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "126,500 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. Muy cuidado.",
+        "kilometraje_number": 126500,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

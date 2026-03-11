@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53174764&Chevrolet.SPARK.2007",
+    "año": 2007,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53174764-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53174764-1.jpg",
+        "https://crautos.com/clasificados/usados/53174764-2.jpg",
+        "https://crautos.com/clasificados/usados/53174764-3.jpg",
+        "https://crautos.com/clasificados/usados/53174764-4.jpg",
+        "https://crautos.com/clasificados/usados/53174764-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AARÓN ACUÑA",
+        "teléfono": "8733-1239",
+        "whatsapp": "8733-1239"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 18
+}

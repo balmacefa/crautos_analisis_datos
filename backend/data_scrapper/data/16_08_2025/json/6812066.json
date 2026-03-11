@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6812066&Toyota.HILUX%20SRV%20.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "HILUX SRV",
+    "precio_crc": 30279,
+    "precio_usd": 15200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6812066-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6812066-1.jpg",
+        "https://crautos.com/clasificados/usados/6812066-2.jpg",
+        "https://crautos.com/clasificados/usados/6812066-3.jpg",
+        "https://crautos.com/clasificados/usados/6812066-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS KALEB",
+        "teléfono": "8829-0243 8830-8672 8831-6585",
+        "whatsapp": "8829-0243",
+        "dirección": "San Juan de Santa Bárbara, Heredia 200 metros oeste del colegio New Hope"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "174,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "snorkel, plancha TRD, lona, pantalla pioneer, llantas MT, luces led.",
+        "kilometraje_number": 174000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

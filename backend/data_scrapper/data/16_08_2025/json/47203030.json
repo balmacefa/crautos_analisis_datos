@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47203030&Toyota.COROLLA.1999",
+    "año": 1999,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47203030-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47203030-1.jpg",
+        "https://crautos.com/clasificados/usados/47203030-2.jpg",
+        "https://crautos.com/clasificados/usados/47203030-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PEDRO VILLALOBOS",
+        "teléfono": "8819-8387"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "13 de Junio del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Control crucero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 26
+}

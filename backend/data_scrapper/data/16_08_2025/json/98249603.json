@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98249603&Mitsubishi.MONTERO%20SPORT.1998",
+    "año": 1998,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MICHAEL.RIVERA",
+        "teléfono": "6077-1337",
+        "whatsapp": "6077-1337"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "289,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Es gasolina y glp.tanque dona .",
+        "kilometraje_number": 289000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 27
+}

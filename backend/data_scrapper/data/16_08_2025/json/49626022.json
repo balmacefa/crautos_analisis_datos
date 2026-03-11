@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49626022&Toyota.RAV4.1998",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49626022-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49626022-1.jpg",
+        "https://crautos.com/clasificados/usados/49626022-2.jpg",
+        "https://crautos.com/clasificados/usados/49626022-3.jpg",
+        "https://crautos.com/clasificados/usados/49626022-4.jpg",
+        "https://crautos.com/clasificados/usados/49626022-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICKY SALAZAR",
+        "teléfono": "8829-8279",
+        "whatsapp": "8829-8279"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "161,670 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "MOTOR NUEVO. EXCELENTE ESTADO FISICO Y MECANICO. PRECIO NEGOCIABLE..",
+        "kilometraje_number": 161670,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 27
+}

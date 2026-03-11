@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1523145&Suzuki.VITARA.2019",
+    "año": 2019,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 9036000,
+    "precio_usd": 18000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1523145-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1523145-1.jpg",
+        "https://crautos.com/clasificados/usados/1523145-2.jpg",
+        "https://crautos.com/clasificados/usados/1523145-3.jpg",
+        "https://crautos.com/clasificados/usados/1523145-4.jpg",
+        "https://crautos.com/clasificados/usados/1523145-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO. .",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 6
+}

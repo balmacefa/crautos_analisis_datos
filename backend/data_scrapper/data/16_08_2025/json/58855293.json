@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58855293&Nissan.XTRAIL.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58855293-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58855293-1.jpg",
+        "https://crautos.com/clasificados/usados/58855293-2.jpg",
+        "https://crautos.com/clasificados/usados/58855293-3.jpg",
+        "https://crautos.com/clasificados/usados/58855293-4.jpg",
+        "https://crautos.com/clasificados/usados/58855293-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO ESPINOZA",
+        "teléfono": "7197-9392",
+        "whatsapp": "7197-9392"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "97,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "CAMBIO RECIEN HECHO EN EL ACEITE DEL MOTOR Y CAJA DE CAMBIOS DREKA YA PAGO.",
+        "kilometraje_number": 97000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44809099&Honda.CRV%20EX%20.2004",
+    "año": 2004,
+    "marca": "HONDA",
+    "modelo": "CRV EX",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44809099-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44809099-1.jpg",
+        "https://crautos.com/clasificados/usados/44809099-2.jpg",
+        "https://crautos.com/clasificados/usados/44809099-3.jpg",
+        "https://crautos.com/clasificados/usados/44809099-4.jpg",
+        "https://crautos.com/clasificados/usados/44809099-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS GRANADOS VARGAS",
+        "teléfono": "8397-3856"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "128,600 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado .",
+        "kilometraje_number": 128600,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

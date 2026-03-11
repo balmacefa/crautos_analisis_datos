@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47926605&Isuzu.DMAX.2014",
+    "año": 2014,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 26295,
+    "precio_usd": 13200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47926605-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47926605-1.jpg",
+        "https://crautos.com/clasificados/usados/47926605-2.jpg",
+        "https://crautos.com/clasificados/usados/47926605-3.jpg",
+        "https://crautos.com/clasificados/usados/47926605-4.jpg",
+        "https://crautos.com/clasificados/usados/47926605-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WINSTON SALAZAR",
+        "teléfono": "8888-9932 8398-6148",
+        "whatsapp": "8888-9932"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE .",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

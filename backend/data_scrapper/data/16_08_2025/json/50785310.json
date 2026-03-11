@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50785310&Toyota.HIACE.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50785310-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50785310-1.jpg",
+        "https://crautos.com/clasificados/usados/50785310-2.jpg",
+        "https://crautos.com/clasificados/usados/50785310-3.jpg",
+        "https://crautos.com/clasificados/usados/50785310-4.jpg",
+        "https://crautos.com/clasificados/usados/50785310-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS TREJOS",
+        "teléfono": "8576-4598",
+        "whatsapp": "8576-4598"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "845,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 845000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

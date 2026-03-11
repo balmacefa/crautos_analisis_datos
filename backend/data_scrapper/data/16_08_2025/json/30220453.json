@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30220453&Isuzu.DMAX.2013",
+    "año": 2013,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DESIREE BALLAR",
+        "teléfono": "8973-9679"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "250,062 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Buen esatdo Dekra y marchamo al día..",
+        "kilometraje_number": 250062,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 12
+}

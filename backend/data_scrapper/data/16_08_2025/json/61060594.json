@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61060594&Nissan.TIIDA.2011",
+    "año": 2011,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61060594-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61060594-1.jpg",
+        "https://crautos.com/clasificados/usados/61060594-2.jpg",
+        "https://crautos.com/clasificados/usados/61060594-3.jpg",
+        "https://crautos.com/clasificados/usados/61060594-4.jpg",
+        "https://crautos.com/clasificados/usados/61060594-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN SANCHEZ",
+        "teléfono": "8769-1910 8847-0409",
+        "whatsapp": "8769-1910"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "165,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Carro muy cuidado. Economico. Al Día. .",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

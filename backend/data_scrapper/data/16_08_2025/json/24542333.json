@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24542333&Hyundai.TUCSON.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA JOSE FERNANDEZ",
+        "teléfono": "8749-2013",
+        "whatsapp": "8749-2013"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Se da para reparación viela bomba de diesel anillo de pistones y cigüeñal .",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Halógenos",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

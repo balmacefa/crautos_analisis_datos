@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6842863&Hyundai.TUCSON%20GL.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON GL",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6842863-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6842863-1.jpg",
+        "https://crautos.com/clasificados/usados/6842863-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "188,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Abril del 2025",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 188000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 9
+}

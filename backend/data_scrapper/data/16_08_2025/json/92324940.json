@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92324940&Mitsubishi.OUTLANDER.2003",
+    "año": 2003,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92324940-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92324940-1.jpg",
+        "https://crautos.com/clasificados/usados/92324940-2.jpg",
+        "https://crautos.com/clasificados/usados/92324940-3.jpg",
+        "https://crautos.com/clasificados/usados/92324940-4.jpg",
+        "https://crautos.com/clasificados/usados/92324940-5.jpg",
+        "https://crautos.com/clasificados/usados/92324940-6.jpg",
+        "https://crautos.com/clasificados/usados/92324940-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADAM JACOBOWITZ",
+        "teléfono": "7119-9285",
+        "whatsapp": "7119-9285"
+    },
+    "informacion_general": {
+        "cilindrada": "2351 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "152,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "SILVER",
+        "color_interior": "BLACK",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "El interior esta en muy buenas condiciones; no parece tener veinte-tres anos! Poco kilometraje..",
+        "kilometraje_number": 152000,
+        "cilindrada_number": 2351
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

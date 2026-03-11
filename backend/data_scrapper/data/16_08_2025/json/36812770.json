@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36812770&Dodge/RAM.GRAND%20CARAVAN%20.2001",
+    "año": 2001,
+    "marca": "DODGE/RAM",
+    "modelo": "GRAND CARAVAN",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO ARAYA",
+        "teléfono": "8679-8970",
+        "whatsapp": "8679-8970"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "8",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "19,915 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Se puede mejorar el precio o cambiar por otro vehículo no doy vuelto y que este en excelente estado.",
+        "kilometraje_number": 19915,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

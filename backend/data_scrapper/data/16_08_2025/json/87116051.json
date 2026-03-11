@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87116051&Mitsubishi.MONTERO%20XLS.2003",
+    "año": 2003,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO XLS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87116051-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87116051-1.jpg",
+        "https://crautos.com/clasificados/usados/87116051-2.jpg",
+        "https://crautos.com/clasificados/usados/87116051-3.jpg",
+        "https://crautos.com/clasificados/usados/87116051-4.jpg",
+        "https://crautos.com/clasificados/usados/87116051-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS SEQUEIRA SOLIS",
+        "teléfono": "8910-1852 8816-8044",
+        "whatsapp": "8910-1852"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "231,390 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 231390,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

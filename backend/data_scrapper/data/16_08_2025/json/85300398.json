@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85300398&Suzuki.JIMNY.1999",
+    "año": 1999,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85300398-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85300398-1.jpg",
+        "https://crautos.com/clasificados/usados/85300398-2.jpg",
+        "https://crautos.com/clasificados/usados/85300398-3.jpg",
+        "https://crautos.com/clasificados/usados/85300398-4.jpg",
+        "https://crautos.com/clasificados/usados/85300398-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIÁN MORALES ARAYA",
+        "teléfono": "8621-6202",
+        "whatsapp": "8621-6202"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "216,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE. Muy bien cuidado en todos los aspectos. Consulte sin compromiso.",
+        "kilometraje_number": 216000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

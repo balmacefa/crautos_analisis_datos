@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42088461&Honda.CRV.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42088461-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42088461-1.jpg",
+        "https://crautos.com/clasificados/usados/42088461-2.jpg",
+        "https://crautos.com/clasificados/usados/42088461-3.jpg",
+        "https://crautos.com/clasificados/usados/42088461-4.jpg",
+        "https://crautos.com/clasificados/usados/42088461-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWIN MUÑOZ",
+        "teléfono": "8711-2491 8471-4383 8819-4935",
+        "whatsapp": "8711-2491"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "170,900 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "TIENE CAMARA DE RETROCESO Y TIENE RADIO CON CAR PLAY .",
+        "kilometraje_number": 170900,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central"
+    ],
+    "antiguedad": 22
+}

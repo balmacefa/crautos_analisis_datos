@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98251980&Toyota.LAND%20CRUISER%20PRADO.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER PRADO",
+    "precio_crc": 48805,
+    "precio_usd": 24500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEISEL FALLAS",
+        "teléfono": "7295-7458",
+        "whatsapp": "7295-7458"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "41,950 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO MICCA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "VEHÍCULO EN EXCELENTE ESTADO REVISIONES DE AGENCIA NEGOCIABLE .",
+        "kilometraje_number": 41950,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

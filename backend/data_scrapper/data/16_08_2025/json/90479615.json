@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90479615&Toyota.COROLLA.1992",
+    "año": 1992,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 2590,
+    "precio_usd": 1300000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO GARCIA",
+        "teléfono": "6123-9956 7293-3507",
+        "whatsapp": "6123-9956"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Todo al dia.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 33
+}

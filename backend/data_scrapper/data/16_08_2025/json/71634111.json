@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71634111&Chevrolet.OPTRA.2008",
+    "año": 2008,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA",
+    "precio_crc": 3884,
+    "precio_usd": 1950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71634111-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71634111-1.jpg",
+        "https://crautos.com/clasificados/usados/71634111-2.jpg",
+        "https://crautos.com/clasificados/usados/71634111-3.jpg",
+        "https://crautos.com/clasificados/usados/71634111-4.jpg",
+        "https://crautos.com/clasificados/usados/71634111-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ DANIEL CORRALES PACHECO",
+        "teléfono": "8325-2310 8743-8543",
+        "whatsapp": "8325-2310"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "239,346 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Mecánica en excelente estado y carrocería regular .",
+        "kilometraje_number": 239346,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 17
+}

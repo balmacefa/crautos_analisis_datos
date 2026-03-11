@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95540959&Hyundai.EXCEL.1991",
+    "año": 1991,
+    "marca": "HYUNDAI",
+    "modelo": "EXCEL",
+    "precio_crc": 2191,
+    "precio_usd": 1100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95540959-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95540959-1.jpg",
+        "https://crautos.com/clasificados/usados/95540959-2.jpg",
+        "https://crautos.com/clasificados/usados/95540959-3.jpg",
+        "https://crautos.com/clasificados/usados/95540959-4.jpg",
+        "https://crautos.com/clasificados/usados/95540959-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO ROCHA",
+        "teléfono": "8903-7498 8792-4079",
+        "whatsapp": "8903-7498"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "155,992 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Al dia motor recien reparado dirección hidráulica polarizado .",
+        "kilometraje_number": 155992,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 34
+}

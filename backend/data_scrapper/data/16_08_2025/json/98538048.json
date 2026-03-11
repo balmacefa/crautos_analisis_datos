@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98538048&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98538048-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98538048-1.jpg",
+        "https://crautos.com/clasificados/usados/98538048-2.jpg",
+        "https://crautos.com/clasificados/usados/98538048-3.jpg",
+        "https://crautos.com/clasificados/usados/98538048-4.jpg",
+        "https://crautos.com/clasificados/usados/98538048-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENDAL ROMÁN",
+        "teléfono": "8984-1210",
+        "whatsapp": "8984-1210"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "300,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS Y BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Hoja de dekra en blanco .",
+        "kilometraje_number": 300000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5042371&Mitsubishi.L200%20SPORTERO.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "L200 SPORTERO",
+    "precio_crc": 25299,
+    "precio_usd": 12700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5042371-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5042371-1.jpg",
+        "https://crautos.com/clasificados/usados/5042371-2.jpg",
+        "https://crautos.com/clasificados/usados/5042371-3.jpg",
+        "https://crautos.com/clasificados/usados/5042371-4.jpg",
+        "https://crautos.com/clasificados/usados/5042371-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Junio del 2025",
+        "comentario_vendedor": "pick up doble .. muy bueno turbo diesel.. se financia y se recibe auto.",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

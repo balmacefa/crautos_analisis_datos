@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48502219&Suzuki.GRAND%20VITARA.2009",
+    "año": 2009,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48502219-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48502219-1.jpg",
+        "https://crautos.com/clasificados/usados/48502219-2.jpg",
+        "https://crautos.com/clasificados/usados/48502219-3.jpg",
+        "https://crautos.com/clasificados/usados/48502219-4.jpg",
+        "https://crautos.com/clasificados/usados/48502219-5.jpg",
+        "https://crautos.com/clasificados/usados/48502219-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CESAR MORA",
+        "teléfono": "8740-8997 8643-7359",
+        "whatsapp": "8740-8997"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Tiene racks y ademas radio pioneer con con pantalla y se tinie el cobertor de llanta de repuesto..",
+        "kilometraje_number": null,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

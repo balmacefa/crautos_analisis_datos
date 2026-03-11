@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56117642&Isuzu.NLR.2015",
+    "año": 2015,
+    "marca": "ISUZU",
+    "modelo": "NLR",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56117642-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56117642-1.jpg",
+        "https://crautos.com/clasificados/usados/56117642-2.jpg",
+        "https://crautos.com/clasificados/usados/56117642-3.jpg",
+        "https://crautos.com/clasificados/usados/56117642-4.jpg",
+        "https://crautos.com/clasificados/usados/56117642-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS CARDENAS",
+        "teléfono": "8896-4736",
+        "whatsapp": "8896-4736"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "425,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GROS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "kilometraje_number": 425000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

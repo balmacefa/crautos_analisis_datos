@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98219135",
+    "año": 2016,
+    "marca": "FIAT",
+    "modelo": "FULLBACK GLS",
+    "precio_crc": 24303,
+    "precio_usd": 12200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98219135-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98219135-1.jpg",
+        "https://crautos.com/clasificados/usados/98219135-2.jpg",
+        "https://crautos.com/clasificados/usados/98219135-3.jpg",
+        "https://crautos.com/clasificados/usados/98219135-4.jpg",
+        "https://crautos.com/clasificados/usados/98219135-5.jpg",
+        "https://crautos.com/clasificados/usados/98219135-6.jpg",
+        "https://crautos.com/clasificados/usados/98219135-7.jpg",
+        "https://crautos.com/clasificados/usados/98219135-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES PORRAS",
+        "teléfono": "8839-6216 8583-7154",
+        "whatsapp": "8839-6216"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "211,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Julio del 2025",
+        "comentario_vendedor": "Full Extras - Se cambia o se recibe a conveniencia.",
+        "kilometraje_number": 211000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

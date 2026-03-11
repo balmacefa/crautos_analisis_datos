@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17989152&Toyota.TERCEL.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROYNER GARCÍA",
+        "teléfono": "7113-4618",
+        "whatsapp": "7113-4618"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "RTV AL DIA .",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 29
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8715649",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "SONATA",
+    "precio_crc": 12938,
+    "precio_usd": 6495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8715649-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8715649-1.jpg",
+        "https://crautos.com/clasificados/usados/8715649-2.jpg",
+        "https://crautos.com/clasificados/usados/8715649-3.jpg",
+        "https://crautos.com/clasificados/usados/8715649-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GOI CARS",
+        "teléfono": "8901-0666 8881-4710",
+        "whatsapp": "8881-4710",
+        "dirección": "Ipís de Guadalupe, frente a la gasolinera Trova"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "105,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Octubre del 2024",
+        "comentario_vendedor": "Sistema de gas, asientos de cuero, sensores, llantas nuevas, poco kms, excelente estado motor y caja.",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

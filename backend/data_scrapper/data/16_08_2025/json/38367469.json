@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38367469&Chevrolet.OPTRA%20LS.2008",
+    "año": 2008,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA LS",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38367469-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38367469-1.jpg",
+        "https://crautos.com/clasificados/usados/38367469-2.jpg",
+        "https://crautos.com/clasificados/usados/38367469-3.jpg",
+        "https://crautos.com/clasificados/usados/38367469-4.jpg",
+        "https://crautos.com/clasificados/usados/38367469-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JERRY MORA",
+        "teléfono": "8309-8888",
+        "whatsapp": "8309-8888"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "38,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Recibo Galloper esta en Turrialba. .",
+        "kilometraje_number": 38000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28228048&Land%20Rover.DISCOVERY%205%20SE.2017",
+    "año": 2017,
+    "marca": "LAND ROVER",
+    "modelo": "DISCOVERY 5 SE",
+    "precio_crc": 39841,
+    "precio_usd": 20000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28228048-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28228048-1.jpg",
+        "https://crautos.com/clasificados/usados/28228048-2.jpg",
+        "https://crautos.com/clasificados/usados/28228048-3.jpg",
+        "https://crautos.com/clasificados/usados/28228048-4.jpg",
+        "https://crautos.com/clasificados/usados/28228048-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LIZANO",
+        "teléfono": "7215-0028",
+        "whatsapp": "7215-0028"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Sunroof panoramic. Aros grandes. Llantas Michelin. Excelente estado. Pueden contactar por Whatssap.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

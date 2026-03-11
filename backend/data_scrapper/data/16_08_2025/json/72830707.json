@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72830707&Toyota.COROLLA.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72830707-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72830707-1.jpg",
+        "https://crautos.com/clasificados/usados/72830707-2.jpg",
+        "https://crautos.com/clasificados/usados/72830707-3.jpg",
+        "https://crautos.com/clasificados/usados/72830707-4.jpg",
+        "https://crautos.com/clasificados/usados/72830707-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEEVEN CASTILLO",
+        "teléfono": "7065-0132 8870-2243",
+        "whatsapp": "7065-0132"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "78,000 kms",
+        "placa": "Termina en r",
+        "color_exterior": "BLANCO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado inscripción incluida.",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

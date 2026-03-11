@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28907409&Toyota.LAND%20CRUISER%20TROOPY.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER TROOPY",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28907409-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28907409-1.jpg",
+        "https://crautos.com/clasificados/usados/28907409-2.jpg",
+        "https://crautos.com/clasificados/usados/28907409-3.jpg",
+        "https://crautos.com/clasificados/usados/28907409-4.jpg",
+        "https://crautos.com/clasificados/usados/28907409-5.jpg",
+        "https://crautos.com/clasificados/usados/28907409-6.jpg",
+        "https://crautos.com/clasificados/usados/28907409-7.jpg",
+        "https://crautos.com/clasificados/usados/28907409-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO MONGE",
+        "teléfono": "8915-6000",
+        "whatsapp": "8915-6000"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "207,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "TROOPY--NACIONAL--LLANTAS NUEVAS--TAPICERIA NUEVA--RESTAURADA--MOTOR DIESEL UNO HZ.",
+        "kilometraje_number": 207000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 31
+}

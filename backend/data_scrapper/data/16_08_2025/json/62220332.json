@@ -1,0 +1,41 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62220332&Isuzu.KB.1991",
+    "año": 1991,
+    "marca": "ISUZU",
+    "modelo": "KB",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62220332-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62220332-1.jpg",
+        "https://crautos.com/clasificados/usados/62220332-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JERMAINE WRIGHT",
+        "teléfono": "6448-3835",
+        "whatsapp": "7259-8867"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "272,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "El vehículo se encuentra en Pérez Zeledón . Motor año 2004 2.8 TD.",
+        "kilometraje_number": 272000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 34
+}

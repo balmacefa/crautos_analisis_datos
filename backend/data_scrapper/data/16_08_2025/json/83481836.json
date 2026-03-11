@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83481836&Suzuki.ALTO.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "ALTO",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83481836-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83481836-1.jpg",
+        "https://crautos.com/clasificados/usados/83481836-2.jpg",
+        "https://crautos.com/clasificados/usados/83481836-3.jpg",
+        "https://crautos.com/clasificados/usados/83481836-4.jpg",
+        "https://crautos.com/clasificados/usados/83481836-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KENNETH DELGADO BARQUERO",
+        "teléfono": "8304-5226 8569-5228",
+        "whatsapp": "8304-5226"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "147,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Llantas Nuevas Vehículo Buen estado Se escuchan ofertas .",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,41 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23255983&Toyota.LAND%20CRUISER.1974",
+    "año": 1974,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23255983-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23255983-1.jpg",
+        "https://crautos.com/clasificados/usados/23255983-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL SIBAJA",
+        "teléfono": "8832-1660",
+        "whatsapp": "8832-1660"
+    },
+    "informacion_general": {
+        "cilindrada": "1 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Al día .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1
+    },
+    "equipamiento": [],
+    "antiguedad": 51
+}

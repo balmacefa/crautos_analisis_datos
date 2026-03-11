@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7543649&Toyota.RAV4.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 5129563,
+    "precio_usd": 10218.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7543649-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7543649-1.jpg",
+        "https://crautos.com/clasificados/usados/7543649-2.jpg",
+        "https://crautos.com/clasificados/usados/7543649-3.jpg",
+        "https://crautos.com/clasificados/usados/7543649-4.jpg",
+        "https://crautos.com/clasificados/usados/7543649-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS DIEKCANT",
+        "teléfono": "2203-2641 8451-2861",
+        "whatsapp": "8451-2861",
+        "dirección": "Rio Oro de Santa Ana, calle Cebadilla, 100 metros sur de la iglesia católica."
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Julio del 2025",
+        "comentario_vendedor": "MUY BUEN ESTADO VEHICULO EN CONSGINACION PUEDE TRAER SU MECANICO PARA EVALUAR LOS DETALLES.",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

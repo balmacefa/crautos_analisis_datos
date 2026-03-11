@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59235634&Piaggio.PORTER.2018",
+    "año": 2018,
+    "modelo": "Piaggio PORTER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59235634-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59235634-1.jpg",
+        "https://crautos.com/clasificados/usados/59235634-2.jpg",
+        "https://crautos.com/clasificados/usados/59235634-3.jpg",
+        "https://crautos.com/clasificados/usados/59235634-4.jpg",
+        "https://crautos.com/clasificados/usados/59235634-5.jpg",
+        "https://crautos.com/clasificados/usados/59235634-6.jpg",
+        "https://crautos.com/clasificados/usados/59235634-7.jpg",
+        "https://crautos.com/clasificados/usados/59235634-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEAN PAUL MADRIGAL CAMPOS",
+        "teléfono": "8839-3026",
+        "whatsapp": "8839-3026"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "29,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "•Motor MultiTech Euro Seis •DOHC •Dieciséis valvulas •Caja quinta •Estilo Kei Truck •Libre .",
+        "kilometraje_number": 29000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

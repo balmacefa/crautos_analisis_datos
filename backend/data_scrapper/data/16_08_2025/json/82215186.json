@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82215186&Hyundai.TUCSON%20GL.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON GL",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82215186-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82215186-1.jpg",
+        "https://crautos.com/clasificados/usados/82215186-2.jpg",
+        "https://crautos.com/clasificados/usados/82215186-3.jpg",
+        "https://crautos.com/clasificados/usados/82215186-4.jpg",
+        "https://crautos.com/clasificados/usados/82215186-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JHOANNA ESPINOZA MOREIRA",
+        "teléfono": "8885-2047",
+        "whatsapp": "8885-2047"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "254,734 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Junio del 2025",
+        "comentario_vendedor": "El carro posee un gravamen que yo voy a pagar. Para liberar el automóvil..",
+        "kilometraje_number": 254734,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 15
+}

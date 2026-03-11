@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81645829&BMW.318I.2001",
+    "año": 2001,
+    "marca": "BMW",
+    "modelo": "318I",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81645829-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81645829-1.jpg",
+        "https://crautos.com/clasificados/usados/81645829-2.jpg",
+        "https://crautos.com/clasificados/usados/81645829-3.jpg",
+        "https://crautos.com/clasificados/usados/81645829-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROY LOPEZ",
+        "teléfono": "8990-5855",
+        "whatsapp": "8990-5855"
+    },
+    "informacion_general": {
+        "cilindrada": "1990 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "252,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Dekra, precio negociable. Excelente estado..",
+        "kilometraje_number": 252000,
+        "cilindrada_number": 1990
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 24
+}

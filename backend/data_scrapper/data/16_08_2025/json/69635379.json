@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69635379&Hyundai.H1.2005",
+    "año": 2005,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69635379-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69635379-1.jpg",
+        "https://crautos.com/clasificados/usados/69635379-2.jpg",
+        "https://crautos.com/clasificados/usados/69635379-3.jpg",
+        "https://crautos.com/clasificados/usados/69635379-4.jpg",
+        "https://crautos.com/clasificados/usados/69635379-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN JOSE MORA JIMÉNEZ",
+        "teléfono": "8702-4267 8653-5028",
+        "whatsapp": "8702-4267"
+    },
+    "informacion_general": {
+        "cilindrada": "2600 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "365,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO/NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Diciembre del 2024",
+        "comentario_vendedor": "VEHÍCULO EN PERFECTO ESTADO DEL MOTOR .",
+        "kilometraje_number": 365000,
+        "cilindrada_number": 2600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

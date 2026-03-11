@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3870666&Maxus.T60%20ELITE.2021",
+    "año": 2021,
+    "modelo": "Maxus T60 ELITE",
+    "precio_crc": 12550000,
+    "precio_usd": 25000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3870666-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3870666-1.jpg",
+        "https://crautos.com/clasificados/usados/3870666-2.jpg",
+        "https://crautos.com/clasificados/usados/3870666-3.jpg",
+        "https://crautos.com/clasificados/usados/3870666-4.jpg",
+        "https://crautos.com/clasificados/usados/3870666-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOSTAR",
+        "teléfono": "2295-0000 2295-0002",
+        "whatsapp": "6252-1061",
+        "dirección": "Sucursales: La Uruca, Santa Ana, Curridabat y San Carlos"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "74,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Un año de garantía! Precio venta no incluye gastos de traspaso.",
+        "kilometraje_number": 74000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [],
+    "antiguedad": 4
+}

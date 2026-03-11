@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33406397&Jeep.COMPASS.2011",
+    "año": 2011,
+    "marca": "JEEP",
+    "modelo": "COMPASS",
+    "precio_crc": 10159,
+    "precio_usd": 5100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33406397-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33406397-1.jpg",
+        "https://crautos.com/clasificados/usados/33406397-2.jpg",
+        "https://crautos.com/clasificados/usados/33406397-3.jpg",
+        "https://crautos.com/clasificados/usados/33406397-4.jpg",
+        "https://crautos.com/clasificados/usados/33406397-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ABIGAIL PORRAS V",
+        "teléfono": "8347-5411 8577-4572",
+        "whatsapp": "8347-5411"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "comentario_vendedor": "Llantas nuevas - racks- reciente cambio de líquidos .",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

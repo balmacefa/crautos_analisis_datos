@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89390659",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "AGYA E",
+    "precio_crc": 15637,
+    "precio_usd": 7850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89390659-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89390659-1.jpg",
+        "https://crautos.com/clasificados/usados/89390659-2.jpg",
+        "https://crautos.com/clasificados/usados/89390659-3.jpg",
+        "https://crautos.com/clasificados/usados/89390659-4.jpg",
+        "https://crautos.com/clasificados/usados/89390659-5.jpg",
+        "https://crautos.com/clasificados/usados/89390659-6.jpg",
+        "https://crautos.com/clasificados/usados/89390659-7.jpg",
+        "https://crautos.com/clasificados/usados/89390659-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NURY",
+        "teléfono": "6001-0810 2228-2423",
+        "whatsapp": "6001-0810"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "17,959 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "El vehículo ha tenido un único dueño.",
+        "kilometraje_number": 17959,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 1
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3050230&Toyota.LAND%20CRUISER%20TROOPY%20HZJ78%20.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER TROOPY HZJ78",
+    "precio_crc": 51394,
+    "precio_usd": 25800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3050230-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3050230-1.jpg",
+        "https://crautos.com/clasificados/usados/3050230-2.jpg",
+        "https://crautos.com/clasificados/usados/3050230-3.jpg",
+        "https://crautos.com/clasificados/usados/3050230-4.jpg",
+        "https://crautos.com/clasificados/usados/3050230-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS CALDERÓN",
+        "teléfono": "2252-1886 8534-2419",
+        "whatsapp": "8534-2419",
+        "dirección": "Hatillo Centro, de la clínica Solón Nuñez 300 norte en Autos Calderón San José"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "TURBO full ARB oldmanemu BP bumpers ARB winch steps ARB side riels ARB consola barra rigid yokohama .",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

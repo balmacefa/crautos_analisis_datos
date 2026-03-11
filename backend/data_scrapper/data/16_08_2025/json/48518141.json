@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48518141&Nissan.TIIDA.2009",
+    "año": 2009,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48518141-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48518141-1.jpg",
+        "https://crautos.com/clasificados/usados/48518141-2.jpg",
+        "https://crautos.com/clasificados/usados/48518141-3.jpg",
+        "https://crautos.com/clasificados/usados/48518141-4.jpg",
+        "https://crautos.com/clasificados/usados/48518141-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GONZALO GÓMEZ ALVAREZ",
+        "teléfono": "8844-9173"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "CHAMPAÑA",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Está en perfecto estado y muy bajo kilometraje que refleja poco uso .",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

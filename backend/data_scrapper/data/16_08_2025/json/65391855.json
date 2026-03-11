@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65391855",
+    "año": 2024,
+    "marca": "CHANGAN",
+    "modelo": "STAR 9",
+    "precio_crc": 14990,
+    "precio_usd": 7525000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65391855-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65391855-1.jpg",
+        "https://crautos.com/clasificados/usados/65391855-2.jpg",
+        "https://crautos.com/clasificados/usados/65391855-3.jpg",
+        "https://crautos.com/clasificados/usados/65391855-4.jpg",
+        "https://crautos.com/clasificados/usados/65391855-5.jpg",
+        "https://crautos.com/clasificados/usados/65391855-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEPHEN CHILD",
+        "teléfono": "8884-8598",
+        "whatsapp": "8884-8598"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "6,444 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Panel practicamente nueva..",
+        "kilometraje_number": 6444,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado"
+    ],
+    "antiguedad": 1
+}

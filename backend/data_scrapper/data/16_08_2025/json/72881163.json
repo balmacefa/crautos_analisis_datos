@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72881163&Audi.A3.2017",
+    "año": 2017,
+    "marca": "AUDI",
+    "modelo": "A3",
+    "precio_crc": 15438,
+    "precio_usd": 7750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72881163-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72881163-1.jpg",
+        "https://crautos.com/clasificados/usados/72881163-2.jpg",
+        "https://crautos.com/clasificados/usados/72881163-3.jpg",
+        "https://crautos.com/clasificados/usados/72881163-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADAO COSTA",
+        "teléfono": "6451-8788",
+        "whatsapp": "6451-8788"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "1 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "ROJO OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Revisiones y mantenimiento de agencia perfecto estado .",
+        "kilometraje_number": 1,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

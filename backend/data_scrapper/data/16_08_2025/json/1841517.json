@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1841517&Honda.CRV.2013",
+    "año": 2013,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 17629,
+    "precio_usd": 8850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1841517-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1841517-1.jpg",
+        "https://crautos.com/clasificados/usados/1841517-2.jpg",
+        "https://crautos.com/clasificados/usados/1841517-3.jpg",
+        "https://crautos.com/clasificados/usados/1841517-4.jpg",
+        "https://crautos.com/clasificados/usados/1841517-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ADRIAN",
+        "teléfono": "7218-0680 6146-2250 2241-5222",
+        "dirección": "Moravia, del Banco Nacional 600 mtrs norte y 400 mtrs oeste Final del Boulevar, esquina de Autos Adrián"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "177,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "CUERO NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "COMPRADO EN AGENCIA, ESTA EN KILOMETROS, DOBLE TRACCION..",
+        "kilometraje_number": 177000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

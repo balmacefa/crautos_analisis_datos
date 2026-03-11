@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64423290&Toyota.YARIS.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISIDRO VIQUEZ",
+        "teléfono": "6230-0595",
+        "whatsapp": "7059-4433"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "115,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "CELESTE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

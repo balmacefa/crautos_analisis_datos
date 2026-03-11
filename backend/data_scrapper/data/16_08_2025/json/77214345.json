@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77214345&Toyota.HIACE.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77214345-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77214345-1.jpg",
+        "https://crautos.com/clasificados/usados/77214345-2.jpg",
+        "https://crautos.com/clasificados/usados/77214345-3.jpg",
+        "https://crautos.com/clasificados/usados/77214345-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANNY BUSTAMANTE CHACÓN",
+        "teléfono": "7110-2545",
+        "whatsapp": "7110-2545"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "236,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Se vende Hiace en buen estado al dia .",
+        "kilometraje_number": 236000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

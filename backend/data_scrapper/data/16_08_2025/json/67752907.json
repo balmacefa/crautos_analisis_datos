@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67752907&Kia.K2700.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "K2700",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67752907-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67752907-1.jpg",
+        "https://crautos.com/clasificados/usados/67752907-2.jpg",
+        "https://crautos.com/clasificados/usados/67752907-3.jpg",
+        "https://crautos.com/clasificados/usados/67752907-4.jpg",
+        "https://crautos.com/clasificados/usados/67752907-5.jpg",
+        "https://crautos.com/clasificados/usados/67752907-6.jpg",
+        "https://crautos.com/clasificados/usados/67752907-7.jpg",
+        "https://crautos.com/clasificados/usados/67752907-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN DIEGO NÁJERA GUADAMUZ",
+        "teléfono": "8399-6011",
+        "whatsapp": "8399-6011"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "Acepto cuatro millones y sigue pagando la deuda en CrediQ - paga ciento setenta y cinco x mes aprox..",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

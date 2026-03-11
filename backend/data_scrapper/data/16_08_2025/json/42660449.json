@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42660449&Toyota.TERCEL.1993",
+    "año": 1993,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3137,
+    "precio_usd": 1575000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42660449-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42660449-1.jpg",
+        "https://crautos.com/clasificados/usados/42660449-2.jpg",
+        "https://crautos.com/clasificados/usados/42660449-3.jpg",
+        "https://crautos.com/clasificados/usados/42660449-4.jpg",
+        "https://crautos.com/clasificados/usados/42660449-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO ARAGON",
+        "teléfono": "8433-1039 8366-0544"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "188,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Es carburado manual aire acondicionado excelente!.",
+        "kilometraje_number": 188000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 32
+}

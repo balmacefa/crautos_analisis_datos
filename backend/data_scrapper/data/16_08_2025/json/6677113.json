@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6677113&Nissan.VERSA.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 7948,
+    "precio_usd": 3990000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6677113-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6677113-1.jpg",
+        "https://crautos.com/clasificados/usados/6677113-2.jpg",
+        "https://crautos.com/clasificados/usados/6677113-3.jpg",
+        "https://crautos.com/clasificados/usados/6677113-4.jpg",
+        "https://crautos.com/clasificados/usados/6677113-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DREAM CARS CR",
+        "teléfono": "8719-0505",
+        "whatsapp": "8719-0505",
+        "dirección": "Guacima, de la gasolinera de San Antonio 500 al sur en Calle Monge"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "164,290 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "PRECIO FINAL SOLO POR ESTA SEMANA. FINANCIAMOS RECIBIMOS Y DAMOS GARANTÍA .",
+        "kilometraje_number": 164290,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

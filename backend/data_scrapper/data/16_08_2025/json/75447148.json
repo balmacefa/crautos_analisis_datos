@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75447148&Suzuki.SIDEKICK%20.1989",
+    "año": 1989,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK",
+    "precio_crc": 4880,
+    "precio_usd": 2450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75447148-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75447148-1.jpg",
+        "https://crautos.com/clasificados/usados/75447148-2.jpg",
+        "https://crautos.com/clasificados/usados/75447148-3.jpg",
+        "https://crautos.com/clasificados/usados/75447148-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHNNY GÓMEZ",
+        "teléfono": "8544-9695",
+        "whatsapp": "8544-9695"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "52,467 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "VINO",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Es doble tracción manual hidráulico techo duro muy cuidado de pintura y mecánica nada que hacerle .",
+        "kilometraje_number": 52467,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 36
+}

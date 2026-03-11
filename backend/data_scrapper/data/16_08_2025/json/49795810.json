@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49795810&Toyota.FJ%20CRUISER.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "FJ CRUISER",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49795810-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49795810-1.jpg",
+        "https://crautos.com/clasificados/usados/49795810-2.jpg",
+        "https://crautos.com/clasificados/usados/49795810-3.jpg",
+        "https://crautos.com/clasificados/usados/49795810-4.jpg",
+        "https://crautos.com/clasificados/usados/49795810-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES CALDERON",
+        "teléfono": "8853-5015",
+        "whatsapp": "8853-5015"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "292,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE SE PUEDE RECIBIR.",
+        "kilometraje_number": 292000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

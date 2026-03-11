@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86669242&Toyota.LAND%20CRUISER%20PRADO.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER PRADO",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86669242-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86669242-1.jpg",
+        "https://crautos.com/clasificados/usados/86669242-2.jpg",
+        "https://crautos.com/clasificados/usados/86669242-3.jpg",
+        "https://crautos.com/clasificados/usados/86669242-4.jpg",
+        "https://crautos.com/clasificados/usados/86669242-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL ALFARO",
+        "teléfono": "8810-2175"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "430,758 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "No es Turbo..",
+        "kilometraje_number": 430758,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

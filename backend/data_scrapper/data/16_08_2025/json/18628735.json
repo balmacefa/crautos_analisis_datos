@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18628735&Volvo.WCA.1995",
+    "año": 1995,
+    "marca": "VOLVO",
+    "modelo": "WCA",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTORIA JIMENEZ",
+        "teléfono": "8389-0465 8601-8980",
+        "whatsapp": "8389-0465"
+    },
+    "informacion_general": {
+        "cilindrada": "1460 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO Y AZUL",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Motor cummins.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1460
+    },
+    "equipamiento": [],
+    "antiguedad": 30
+}

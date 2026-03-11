@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11174772&Toyota.HILUX.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11174772-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11174772-1.jpg",
+        "https://crautos.com/clasificados/usados/11174772-2.jpg",
+        "https://crautos.com/clasificados/usados/11174772-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIOLA ALFARO",
+        "teléfono": "8408-2513 8817-4030"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "167,400 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Pick up en EXCELENTE estado con MUY poco kilometraje. Una chulada de carrito. Precio negociable. .",
+        "kilometraje_number": 167400,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

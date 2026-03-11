@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52149833&Chevrolet.COLORADO.2022",
+    "año": 2022,
+    "marca": "CHEVROLET",
+    "modelo": "COLORADO",
+    "precio_crc": 35857,
+    "precio_usd": 18000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52149833-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52149833-1.jpg",
+        "https://crautos.com/clasificados/usados/52149833-2.jpg",
+        "https://crautos.com/clasificados/usados/52149833-3.jpg",
+        "https://crautos.com/clasificados/usados/52149833-4.jpg",
+        "https://crautos.com/clasificados/usados/52149833-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL SERRANO",
+        "teléfono": "6195-3891 8666-5753",
+        "whatsapp": "6195-3891"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "56,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "kilometraje_number": 56000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de descenso",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

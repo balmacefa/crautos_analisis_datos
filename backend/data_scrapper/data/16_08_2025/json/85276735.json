@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85276735&Toyota.YARIS.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85276735-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85276735-1.jpg",
+        "https://crautos.com/clasificados/usados/85276735-2.jpg",
+        "https://crautos.com/clasificados/usados/85276735-3.jpg",
+        "https://crautos.com/clasificados/usados/85276735-4.jpg",
+        "https://crautos.com/clasificados/usados/85276735-5.jpg",
+        "https://crautos.com/clasificados/usados/85276735-6.jpg",
+        "https://crautos.com/clasificados/usados/85276735-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR",
+        "teléfono": "8579-0594",
+        "whatsapp": "8579-0594"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "133,288 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Llantas en excelente estado - radio con pantalla - AC - Alarma y cierre central - NO FUE UBER.",
+        "kilometraje_number": 133288,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

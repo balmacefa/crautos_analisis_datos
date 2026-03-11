@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69353562&Toyota.COROLLA.1997",
+    "año": 1997,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 4681,
+    "precio_usd": 2350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69353562-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69353562-1.jpg",
+        "https://crautos.com/clasificados/usados/69353562-2.jpg",
+        "https://crautos.com/clasificados/usados/69353562-3.jpg",
+        "https://crautos.com/clasificados/usados/69353562-4.jpg",
+        "https://crautos.com/clasificados/usados/69353562-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRANDON CAMACHO",
+        "teléfono": "8787-1074",
+        "whatsapp": "8732-0218"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,879 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "En óptimas condiciones .",
+        "kilometraje_number": 110879,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88283396&Toyota.LAND%20CRUISER.1995",
+    "año": 1995,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88283396-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88283396-1.jpg",
+        "https://crautos.com/clasificados/usados/88283396-2.jpg",
+        "https://crautos.com/clasificados/usados/88283396-3.jpg",
+        "https://crautos.com/clasificados/usados/88283396-4.jpg",
+        "https://crautos.com/clasificados/usados/88283396-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER CALDERÓN",
+        "teléfono": "6244-5878",
+        "whatsapp": "6244-5878"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "399,045 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS/CAFÉ",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Mayo del 2025",
+        "kilometraje_number": 399045,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43155659&Kia.SEDONA.2002",
+    "año": 2002,
+    "marca": "KIA",
+    "modelo": "SEDONA",
+    "precio_crc": 5279,
+    "precio_usd": 2650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43155659-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43155659-1.jpg",
+        "https://crautos.com/clasificados/usados/43155659-2.jpg",
+        "https://crautos.com/clasificados/usados/43155659-3.jpg",
+        "https://crautos.com/clasificados/usados/43155659-4.jpg",
+        "https://crautos.com/clasificados/usados/43155659-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL SALAS V",
+        "teléfono": "8308-1064",
+        "whatsapp": "8308-1064"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "115,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Carro Familiar buen funcionamiento muy espacioso, Está al Dia se puede cambiar por cuatro x cuatro .",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

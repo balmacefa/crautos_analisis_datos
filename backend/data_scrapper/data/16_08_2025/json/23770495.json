@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23770495&Volkswagen.SUPER%20BEETLE%20.1974",
+    "año": 1974,
+    "marca": "VOLKSWAGEN",
+    "modelo": "SUPER BEETLE",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23770495-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23770495-1.jpg",
+        "https://crautos.com/clasificados/usados/23770495-2.jpg",
+        "https://crautos.com/clasificados/usados/23770495-3.jpg",
+        "https://crautos.com/clasificados/usados/23770495-4.jpg",
+        "https://crautos.com/clasificados/usados/23770495-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM JÁUREGUI",
+        "teléfono": "8981-2323 6232-3334",
+        "whatsapp": "8981-2323"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "98,443 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ANARANJADO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "VW Super Beetle alemán versión USA. Motor overjoleado arrancador nuevo RTV ABR. Confiable.",
+        "kilometraje_number": 98443,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 51
+}

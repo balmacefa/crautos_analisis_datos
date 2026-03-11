@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43641994&Suzuki.GRAND%20VITARA.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 17131,
+    "precio_usd": 8600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43641994-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43641994-1.jpg",
+        "https://crautos.com/clasificados/usados/43641994-2.jpg",
+        "https://crautos.com/clasificados/usados/43641994-3.jpg",
+        "https://crautos.com/clasificados/usados/43641994-4.jpg",
+        "https://crautos.com/clasificados/usados/43641994-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS BADILLA",
+        "teléfono": "7107-9297 8787-2340 6412-2272",
+        "whatsapp": "7107-9297"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "87,869 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRISPLATA",
+        "color_interior": "NEGRO+GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "Hoja de revision limpia excelente estado se recibo Automatico todo terreno.",
+        "kilometraje_number": 87869,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

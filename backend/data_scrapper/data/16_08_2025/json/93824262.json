@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93824262&Nissan.URVAN%20NV350.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "URVAN NV350",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93824262-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93824262-1.jpg",
+        "https://crautos.com/clasificados/usados/93824262-2.jpg",
+        "https://crautos.com/clasificados/usados/93824262-3.jpg",
+        "https://crautos.com/clasificados/usados/93824262-4.jpg",
+        "https://crautos.com/clasificados/usados/93824262-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO QUIROS",
+        "teléfono": "8800-0623",
+        "whatsapp": "8800-0623"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "325,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Asientos de lujo no tengo los originales .",
+        "kilometraje_number": 325000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

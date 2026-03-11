@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87183879&Hyundai.TUCSON.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87183879-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87183879-1.jpg",
+        "https://crautos.com/clasificados/usados/87183879-2.jpg",
+        "https://crautos.com/clasificados/usados/87183879-3.jpg",
+        "https://crautos.com/clasificados/usados/87183879-4.jpg",
+        "https://crautos.com/clasificados/usados/87183879-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SUSANA BRENES",
+        "teléfono": "8554-8172",
+        "whatsapp": "8554-8172"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "237,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Excelente Estado muy cuidado .",
+        "kilometraje_number": 237000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

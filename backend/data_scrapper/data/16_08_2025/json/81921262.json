@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81921262&Hyundai.TUCSON%20.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81921262-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81921262-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LIZANDRO CECILIANO",
+        "teléfono": "8334-5666"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "67,000 kms",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR ya con Dekra....",
+        "kilometraje_number": 67000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60388334&Hyundai.SANTA%20FE.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60388334-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60388334-1.jpg",
+        "https://crautos.com/clasificados/usados/60388334-2.jpg",
+        "https://crautos.com/clasificados/usados/60388334-3.jpg",
+        "https://crautos.com/clasificados/usados/60388334-4.jpg",
+        "https://crautos.com/clasificados/usados/60388334-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAGGIE SÁNCHEZ",
+        "teléfono": "8748-8494 6479-9883",
+        "whatsapp": "8748-8494"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "91,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "A P R O V E C H E. EXCELENTE ESTADO--CALIDAD.",
+        "kilometraje_number": 91000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Retrovisores auto-retractibles",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

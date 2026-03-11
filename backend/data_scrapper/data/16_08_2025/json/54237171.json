@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54237171&Toyota.HILUX.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 30478,
+    "precio_usd": 15300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54237171-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54237171-1.jpg",
+        "https://crautos.com/clasificados/usados/54237171-2.jpg",
+        "https://crautos.com/clasificados/usados/54237171-3.jpg",
+        "https://crautos.com/clasificados/usados/54237171-4.jpg",
+        "https://crautos.com/clasificados/usados/54237171-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODOLFO GUTIERREZ",
+        "teléfono": "7293-6450 8466-8660",
+        "whatsapp": "7293-6460"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "153,975 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ Excelente estado estribos Rollbar Dekra en blanco.",
+        "kilometraje_number": 153975,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

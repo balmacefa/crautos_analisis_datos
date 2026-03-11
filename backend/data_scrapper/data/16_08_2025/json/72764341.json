@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72764341&Toyota.PRIUS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "PRIUS",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72764341-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72764341-1.jpg",
+        "https://crautos.com/clasificados/usados/72764341-2.jpg",
+        "https://crautos.com/clasificados/usados/72764341-3.jpg",
+        "https://crautos.com/clasificados/usados/72764341-4.jpg",
+        "https://crautos.com/clasificados/usados/72764341-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE PABLO PEREZ G.",
+        "teléfono": "7134-3533",
+        "whatsapp": "7134-3533"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Venta por motivo de viaje! Excelente vehículo elegante económico y fuerte. .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

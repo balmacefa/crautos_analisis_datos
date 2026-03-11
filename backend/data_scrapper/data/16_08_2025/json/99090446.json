@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99090446&Nissan.PATHFINDER.1993",
+    "año": 1993,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO S",
+        "teléfono": "8883-0870"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "98,992 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado poco uso.",
+        "kilometraje_number": 98992,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 32
+}

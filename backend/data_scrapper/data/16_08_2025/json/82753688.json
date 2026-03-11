@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82753688&Toyota.COROLLA.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82753688-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82753688-1.jpg",
+        "https://crautos.com/clasificados/usados/82753688-2.jpg",
+        "https://crautos.com/clasificados/usados/82753688-3.jpg",
+        "https://crautos.com/clasificados/usados/82753688-4.jpg",
+        "https://crautos.com/clasificados/usados/82753688-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRA SANCHEZ",
+        "teléfono": "7104-8445 8503-1545",
+        "whatsapp": "7104-8445"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,500 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/Airbags/Frenos ABS/asistencia al frenado c control de estabilidad. Volante de cuero.",
+        "kilometraje_number": 90500,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

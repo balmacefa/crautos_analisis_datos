@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67309375&Peugeot.301.2018",
+    "año": 2018,
+    "marca": "PEUGEOT",
+    "modelo": "301",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67309375-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67309375-1.jpg",
+        "https://crautos.com/clasificados/usados/67309375-2.jpg",
+        "https://crautos.com/clasificados/usados/67309375-3.jpg",
+        "https://crautos.com/clasificados/usados/67309375-4.jpg",
+        "https://crautos.com/clasificados/usados/67309375-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELENA ABARCA MADRIZ",
+        "teléfono": "8988-3755 6041-2046 6165-2320",
+        "whatsapp": "8988-3755"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "142,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "SE PUEDE RECIBIR VEHÍCULO DE MENOR VALOR .",
+        "kilometraje_number": 142000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

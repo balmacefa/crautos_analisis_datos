@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30582691&Mitsubishi.MONTERO%20SPORT.2001",
+    "año": 2001,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30582691-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30582691-1.jpg",
+        "https://crautos.com/clasificados/usados/30582691-2.jpg",
+        "https://crautos.com/clasificados/usados/30582691-3.jpg",
+        "https://crautos.com/clasificados/usados/30582691-4.jpg",
+        "https://crautos.com/clasificados/usados/30582691-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS ZAMORA",
+        "teléfono": "8702-3433",
+        "whatsapp": "8702-3433"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "156,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "26 de Abril del 2024",
+        "comentario_vendedor": "Detalles de pintura, check engine prendido, info msj privado.",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

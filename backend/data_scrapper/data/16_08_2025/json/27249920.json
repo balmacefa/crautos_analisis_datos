@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27249920&Changan.STAR%202.2014",
+    "año": 2014,
+    "marca": "CHANGAN",
+    "modelo": "STAR 2",
+    "precio_crc": 1295,
+    "precio_usd": 650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27249920-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27249920-1.jpg",
+        "https://crautos.com/clasificados/usados/27249920-2.jpg",
+        "https://crautos.com/clasificados/usados/27249920-3.jpg",
+        "https://crautos.com/clasificados/usados/27249920-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONNY JIMENEZ",
+        "teléfono": "8454-0007"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "50,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "En funcionamiento, se deben realizar detalles en carrocería y de mantenimiento mecánico.",
+        "kilometraje_number": 50000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

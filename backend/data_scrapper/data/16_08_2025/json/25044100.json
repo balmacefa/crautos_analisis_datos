@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25044100&BMW.X1.2017",
+    "año": 2017,
+    "marca": "BMW",
+    "modelo": "X1",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25044100-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25044100-1.jpg",
+        "https://crautos.com/clasificados/usados/25044100-2.jpg",
+        "https://crautos.com/clasificados/usados/25044100-3.jpg",
+        "https://crautos.com/clasificados/usados/25044100-4.jpg",
+        "https://crautos.com/clasificados/usados/25044100-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VINICIO CONCEPCIÓN",
+        "teléfono": "8399-3170",
+        "whatsapp": "8399-3170"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "92,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Vehículo muy cuidado. Con todos sus mantenimientos. Calidad..",
+        "kilometraje_number": 92000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

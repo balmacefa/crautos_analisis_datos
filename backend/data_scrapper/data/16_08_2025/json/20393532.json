@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20393532&Honda.CRV.1999",
+    "año": 1999,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20393532-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20393532-1.jpg",
+        "https://crautos.com/clasificados/usados/20393532-2.jpg",
+        "https://crautos.com/clasificados/usados/20393532-3.jpg",
+        "https://crautos.com/clasificados/usados/20393532-4.jpg",
+        "https://crautos.com/clasificados/usados/20393532-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARIEL AGUILAR",
+        "teléfono": "8669-7828",
+        "whatsapp": "8669-7828"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "380,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "VINO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE - LED, ALFOMBRAS BANDEJA, CANASTA, MULTILOCK ANTIROBO, BT.",
+        "kilometraje_number": 380000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96166908&Peugeot.206%20BERLINA.2002",
+    "año": 2002,
+    "marca": "PEUGEOT",
+    "modelo": "206 BERLINA",
+    "precio_crc": 2291,
+    "precio_usd": 1150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96166908-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96166908-1.jpg",
+        "https://crautos.com/clasificados/usados/96166908-2.jpg",
+        "https://crautos.com/clasificados/usados/96166908-3.jpg",
+        "https://crautos.com/clasificados/usados/96166908-4.jpg",
+        "https://crautos.com/clasificados/usados/96166908-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE BARBOZA",
+        "teléfono": "7110-2537 8879-1538",
+        "whatsapp": "7110-2537"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "219,485 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Dekra y marchamo al día tiene pantalla siete pulgadas.",
+        "kilometraje_number": 219485,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

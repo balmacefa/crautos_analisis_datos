@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22159409&Fiat.UNO%20WAY.2018",
+    "año": 2018,
+    "marca": "FIAT",
+    "modelo": "UNO WAY",
+    "precio_crc": 1892,
+    "precio_usd": 950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22159409-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22159409-1.jpg",
+        "https://crautos.com/clasificados/usados/22159409-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE RANGEL",
+        "teléfono": "8549-3999",
+        "whatsapp": "8549-3999"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "84,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Vehiculo con choque en esquina delantera derecha-se vende tal cual para reparacion o repuestos.",
+        "kilometraje_number": 84000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19903685&Nissan.D21.1986",
+    "año": 1986,
+    "marca": "NISSAN",
+    "modelo": "D21",
+    "precio_crc": 3088,
+    "precio_usd": 1550000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ LUIS HERRERA CHACÓN",
+        "teléfono": "6300-3739 7076-8617"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "100 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Es necesario revisión de viela..",
+        "kilometraje_number": 100,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 39
+}

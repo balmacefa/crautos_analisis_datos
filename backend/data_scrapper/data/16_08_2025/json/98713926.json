@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98713926&Kia.CERATO.2011",
+    "año": 2011,
+    "marca": "KIA",
+    "modelo": "CERATO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98713926-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98713926-1.jpg",
+        "https://crautos.com/clasificados/usados/98713926-2.jpg",
+        "https://crautos.com/clasificados/usados/98713926-3.jpg",
+        "https://crautos.com/clasificados/usados/98713926-4.jpg",
+        "https://crautos.com/clasificados/usados/98713926-5.jpg",
+        "https://crautos.com/clasificados/usados/98713926-6.jpg",
+        "https://crautos.com/clasificados/usados/98713926-7.jpg",
+        "https://crautos.com/clasificados/usados/98713926-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RAFAEL RIVERA",
+        "teléfono": "8340-9910 8340-8882",
+        "whatsapp": "8340-9910"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "272,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "OFERTA REBAJADO -quinientos mil colones APROVECHE MUY BUEN ESTADO.",
+        "kilometraje_number": 272000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

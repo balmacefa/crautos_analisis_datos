@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47529158&Mitsubishi.MONTERO%20SPORT%20.2002",
+    "año": 2002,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47529158-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47529158-1.jpg",
+        "https://crautos.com/clasificados/usados/47529158-2.jpg",
+        "https://crautos.com/clasificados/usados/47529158-3.jpg",
+        "https://crautos.com/clasificados/usados/47529158-4.jpg",
+        "https://crautos.com/clasificados/usados/47529158-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRAYAN CHAVES",
+        "teléfono": "8493-1036",
+        "whatsapp": "8493-1036"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "225,003 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VINO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado llantas nuevas .",
+        "kilometraje_number": 225003,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

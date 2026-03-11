@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93226233&Hyundai.ACCENT.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8267,
+    "precio_usd": 4150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93226233-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93226233-1.jpg",
+        "https://crautos.com/clasificados/usados/93226233-2.jpg",
+        "https://crautos.com/clasificados/usados/93226233-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERSON ZÚÑIGA",
+        "teléfono": "8321-1454",
+        "whatsapp": "8321-1454"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "90,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Uso familiar este mes incluye traspaso dekra junio hoja limpia.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

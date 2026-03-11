@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4126077&BYD.TANG%20GS.2023",
+    "año": 2023,
+    "marca": "BYD",
+    "modelo": "TANG GS",
+    "precio_crc": 59363,
+    "precio_usd": 29800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4126077-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4126077-1.jpg",
+        "https://crautos.com/clasificados/usados/4126077-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "39,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Octubre del 2024",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 39000
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 2
+}

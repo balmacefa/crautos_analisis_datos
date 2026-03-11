@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95883203&Kia.RIO.2010",
+    "año": 2010,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95883203-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95883203-1.jpg",
+        "https://crautos.com/clasificados/usados/95883203-2.jpg",
+        "https://crautos.com/clasificados/usados/95883203-3.jpg",
+        "https://crautos.com/clasificados/usados/95883203-4.jpg",
+        "https://crautos.com/clasificados/usados/95883203-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL CATARINELLA",
+        "teléfono": "6076-6566",
+        "whatsapp": "6076-6566"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "152,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Ganga Excelente Estado .",
+        "kilometraje_number": 152000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [],
+    "antiguedad": 15
+}

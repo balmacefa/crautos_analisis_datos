@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35344433&Honda.CRV.2005",
+    "año": 2005,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35344433-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35344433-1.jpg",
+        "https://crautos.com/clasificados/usados/35344433-2.jpg",
+        "https://crautos.com/clasificados/usados/35344433-3.jpg",
+        "https://crautos.com/clasificados/usados/35344433-4.jpg",
+        "https://crautos.com/clasificados/usados/35344433-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRÉS RODRIGUEZ",
+        "teléfono": "6132-9208",
+        "whatsapp": "6132-9208"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "134,500 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Pocas millas - batería nueva - con traspaso incluido.",
+        "kilometraje_number": 134500,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

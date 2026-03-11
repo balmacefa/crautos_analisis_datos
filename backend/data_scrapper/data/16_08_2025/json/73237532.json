@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73237532&Toyota.HILUX%20SRV.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "HILUX SRV",
+    "precio_crc": 38845,
+    "precio_usd": 19500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73237532-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73237532-1.jpg",
+        "https://crautos.com/clasificados/usados/73237532-2.jpg",
+        "https://crautos.com/clasificados/usados/73237532-3.jpg",
+        "https://crautos.com/clasificados/usados/73237532-4.jpg",
+        "https://crautos.com/clasificados/usados/73237532-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR GÓMEZ",
+        "teléfono": "8307-9441",
+        "whatsapp": "8307-9441"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "63,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Kilometraje original carro poco usado y nunca maltratado muchas extras en muy buenas condiones.",
+        "kilometraje_number": 63500,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60178372",
+    "año": 1993,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60178372-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60178372-1.jpg",
+        "https://crautos.com/clasificados/usados/60178372-2.jpg",
+        "https://crautos.com/clasificados/usados/60178372-3.jpg",
+        "https://crautos.com/clasificados/usados/60178372-4.jpg",
+        "https://crautos.com/clasificados/usados/60178372-5.jpg",
+        "https://crautos.com/clasificados/usados/60178372-6.jpg",
+        "https://crautos.com/clasificados/usados/60178372-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO PROTTI",
+        "teléfono": "8895-4307",
+        "whatsapp": "8895-4307"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "137,500 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Doble funciona perfecto .",
+        "kilometraje_number": 137500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 32
+}

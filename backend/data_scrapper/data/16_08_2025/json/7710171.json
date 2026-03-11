@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7710171&Hyundai.H1.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "H1",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7710171-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7710171-1.jpg",
+        "https://crautos.com/clasificados/usados/7710171-2.jpg",
+        "https://crautos.com/clasificados/usados/7710171-3.jpg",
+        "https://crautos.com/clasificados/usados/7710171-4.jpg",
+        "https://crautos.com/clasificados/usados/7710171-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VEHÍCULOS TODO TERRENO",
+        "teléfono": "8334-0109 8822-9797 2239-4611",
+        "dirección": "San Antonio de Belén, 100 mtrs oeste de la entrada principal a Pedregal, frente MXM"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "223,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Muy Buen Estado, Canasta, Garantía por Escrito..",
+        "kilometraje_number": 223000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

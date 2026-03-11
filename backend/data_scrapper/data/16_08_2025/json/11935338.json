@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11935338&Ford.F150.2013",
+    "año": 2013,
+    "marca": "FORD",
+    "modelo": "F150",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11935338-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11935338-1.jpg",
+        "https://crautos.com/clasificados/usados/11935338-2.jpg",
+        "https://crautos.com/clasificados/usados/11935338-3.jpg",
+        "https://crautos.com/clasificados/usados/11935338-4.jpg",
+        "https://crautos.com/clasificados/usados/11935338-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR",
+        "teléfono": "8818-2525"
+    },
+    "informacion_general": {
+        "cilindrada": "5000 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "101,325 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Abril del 2025",
+        "comentario_vendedor": "Dekra en blanco excelente...oigo ofertas.",
+        "kilometraje_number": 101325,
+        "cilindrada_number": 5000
+    },
+    "equipamiento": [],
+    "antiguedad": 12
+}

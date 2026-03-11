@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55632583&Suzuki.JIMNY%20GL.2023",
+    "año": 2023,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY GL",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55632583-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55632583-1.jpg",
+        "https://crautos.com/clasificados/usados/55632583-2.jpg",
+        "https://crautos.com/clasificados/usados/55632583-3.jpg",
+        "https://crautos.com/clasificados/usados/55632583-4.jpg",
+        "https://crautos.com/clasificados/usados/55632583-5.jpg",
+        "https://crautos.com/clasificados/usados/55632583-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER QUESADA",
+        "teléfono": "8868-2629",
+        "whatsapp": "8868-2629"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "65,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS PLOMO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Vehiculo en excelente estado de Motor y Pintura. Parece Nuevo .",
+        "kilometraje_number": 65000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

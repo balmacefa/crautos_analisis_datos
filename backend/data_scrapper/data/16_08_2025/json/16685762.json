@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16685762&Toyota.LAND%20CRUISER.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 17331,
+    "precio_usd": 8700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16685762-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16685762-1.jpg",
+        "https://crautos.com/clasificados/usados/16685762-2.jpg",
+        "https://crautos.com/clasificados/usados/16685762-3.jpg",
+        "https://crautos.com/clasificados/usados/16685762-4.jpg",
+        "https://crautos.com/clasificados/usados/16685762-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTHONY RAMOS",
+        "teléfono": "8826-1222 8443-2454",
+        "whatsapp": "8826-1222"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "322,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Empaque de cabezote fisurado y mala compresión de los cilindros por eso el precio .",
+        "kilometraje_number": 322000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

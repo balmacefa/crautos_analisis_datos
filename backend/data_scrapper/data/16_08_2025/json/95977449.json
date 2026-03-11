@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95977449&Chevrolet.CRUZE.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "CRUZE",
+    "precio_crc": 7271,
+    "precio_usd": 3650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95977449-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95977449-1.jpg",
+        "https://crautos.com/clasificados/usados/95977449-2.jpg",
+        "https://crautos.com/clasificados/usados/95977449-3.jpg",
+        "https://crautos.com/clasificados/usados/95977449-4.jpg",
+        "https://crautos.com/clasificados/usados/95977449-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANDERLAY DIAZ",
+        "teléfono": "8502-8168 8609-6703",
+        "whatsapp": "8502-8168"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "105,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Está en perfectas condiciones hasta que da gusto de verlo .",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

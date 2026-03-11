@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2823736&Nissan.SENTRA.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 10906,
+    "precio_usd": 5475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2823736-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2823736-1.jpg",
+        "https://crautos.com/clasificados/usados/2823736-2.jpg",
+        "https://crautos.com/clasificados/usados/2823736-3.jpg",
+        "https://crautos.com/clasificados/usados/2823736-4.jpg",
+        "https://crautos.com/clasificados/usados/2823736-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO ROJAS",
+        "teléfono": "8485-2638 7194-9962",
+        "dirección": "San Francisco de 2 Ríos"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "147,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Se recibe vehículo de menor valor precio negociable .",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

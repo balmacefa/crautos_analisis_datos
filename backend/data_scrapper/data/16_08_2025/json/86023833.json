@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86023833&Nissan.QASHQAI.2017",
+    "año": 2017,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86023833-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86023833-1.jpg",
+        "https://crautos.com/clasificados/usados/86023833-2.jpg",
+        "https://crautos.com/clasificados/usados/86023833-3.jpg",
+        "https://crautos.com/clasificados/usados/86023833-4.jpg",
+        "https://crautos.com/clasificados/usados/86023833-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ALFARO MONTOYA",
+        "teléfono": "8840-9787",
+        "whatsapp": "8840-9787"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "63,826 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño. Kilometraje excelente..",
+        "kilometraje_number": 63826,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

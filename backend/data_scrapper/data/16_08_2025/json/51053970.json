@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51053970&Geely.GX3%20PRO.2024",
+    "año": 2024,
+    "marca": "GEELY",
+    "modelo": "GX3 PRO",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51053970-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51053970-1.jpg",
+        "https://crautos.com/clasificados/usados/51053970-2.jpg",
+        "https://crautos.com/clasificados/usados/51053970-3.jpg",
+        "https://crautos.com/clasificados/usados/51053970-4.jpg",
+        "https://crautos.com/clasificados/usados/51053970-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA VALERIA VELÁZQUEZ",
+        "teléfono": "8430-9925"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "5,911 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Vendo porque me voy del país! Precio negociable!!.",
+        "kilometraje_number": 5911,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 1
+}

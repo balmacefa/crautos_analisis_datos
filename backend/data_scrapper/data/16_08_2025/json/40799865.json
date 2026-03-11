@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40799865&Isuzu.NMR.2019",
+    "año": 2019,
+    "marca": "ISUZU",
+    "modelo": "NMR",
+    "precio_crc": 25498,
+    "precio_usd": 12800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROGER SANDÍ",
+        "teléfono": "8331-9694",
+        "whatsapp": "8331-9694"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "214,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Piña corto listo para ruteo.",
+        "kilometraje_number": 214500,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

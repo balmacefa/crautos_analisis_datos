@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43134329&Nissan.VERSA.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43134329-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43134329-1.jpg",
+        "https://crautos.com/clasificados/usados/43134329-2.jpg",
+        "https://crautos.com/clasificados/usados/43134329-3.jpg",
+        "https://crautos.com/clasificados/usados/43134329-4.jpg",
+        "https://crautos.com/clasificados/usados/43134329-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHNNY VARGAS",
+        "teléfono": "8869-4343 8730-4994",
+        "whatsapp": "8869-4343"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "En buen estado tiene llantas nuevas y bateria nueva. Tiene detalles de pintura y se vende por viaje..",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

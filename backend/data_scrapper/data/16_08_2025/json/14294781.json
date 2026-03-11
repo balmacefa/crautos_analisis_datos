@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14294781&Jeep.CHEROKEE%20LIBERTY.2007",
+    "año": 2007,
+    "marca": "JEEP",
+    "modelo": "CHEROKEE LIBERTY",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONNY CONEJO GUTIERREZ",
+        "teléfono": "8998-6338 8668-0647",
+        "whatsapp": "8998-6338"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "184,357 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Exelente estado y muy económico..",
+        "kilometraje_number": 184357,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

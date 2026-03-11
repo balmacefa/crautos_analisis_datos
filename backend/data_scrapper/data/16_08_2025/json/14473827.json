@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14473827&Chevrolet.S10.2006",
+    "año": 2006,
+    "marca": "CHEVROLET",
+    "modelo": "S10",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14473827-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14473827-1.jpg",
+        "https://crautos.com/clasificados/usados/14473827-2.jpg",
+        "https://crautos.com/clasificados/usados/14473827-3.jpg",
+        "https://crautos.com/clasificados/usados/14473827-4.jpg",
+        "https://crautos.com/clasificados/usados/14473827-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO ULATE",
+        "teléfono": "8320-8531",
+        "whatsapp": "8320-8531"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Tiene un año de overhoul necesita pintura llantas excelentes suspensión nueva .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

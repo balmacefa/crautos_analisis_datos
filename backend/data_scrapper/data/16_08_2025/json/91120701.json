@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91120701&Nissan.TIIDA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91120701-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91120701-1.jpg",
+        "https://crautos.com/clasificados/usados/91120701-2.jpg",
+        "https://crautos.com/clasificados/usados/91120701-3.jpg",
+        "https://crautos.com/clasificados/usados/91120701-4.jpg",
+        "https://crautos.com/clasificados/usados/91120701-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTHONY GARCIA",
+        "teléfono": "8335-8714 8908-1214",
+        "whatsapp": "8908-1214"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "156,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Dekra en Blanco-Discos recién rectificados-Nacional-Llantas excelentes-No hay que hacerle nada.",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

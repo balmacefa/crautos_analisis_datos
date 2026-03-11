@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25639417&Toyota.YARIS.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25639417-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25639417-1.jpg",
+        "https://crautos.com/clasificados/usados/25639417-2.jpg",
+        "https://crautos.com/clasificados/usados/25639417-3.jpg",
+        "https://crautos.com/clasificados/usados/25639417-4.jpg",
+        "https://crautos.com/clasificados/usados/25639417-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HEINER ABARCA PEREIRA",
+        "teléfono": "8791-9645",
+        "whatsapp": "8791-9645"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "198,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "12 de Junio del 2025",
+        "comentario_vendedor": "Muy buen estado económico .",
+        "kilometraje_number": 198000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

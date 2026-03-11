@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29584056&Daihatsu.TERIOS%20BEGO.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29584056-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29584056-1.jpg",
+        "https://crautos.com/clasificados/usados/29584056-2.jpg",
+        "https://crautos.com/clasificados/usados/29584056-3.jpg",
+        "https://crautos.com/clasificados/usados/29584056-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALONSO VILLALOBOS",
+        "teléfono": "8394-9797",
+        "whatsapp": "8394-9797"
+    },
+    "informacion_general": {
+        "cilindrada": "1498 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "231,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "En la Garita Alajuela.",
+        "kilometraje_number": 231000,
+        "cilindrada_number": 1498
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

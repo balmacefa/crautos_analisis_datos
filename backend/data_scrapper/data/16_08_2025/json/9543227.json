@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9543227&Toyota.LAND%20CRUISER%20GX%20SERIE%20J80.1997",
+    "año": 1997,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER GX SERIE J80",
+    "precio_crc": 16515800,
+    "precio_usd": 32900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9543227-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9543227-1.jpg",
+        "https://crautos.com/clasificados/usados/9543227-2.jpg",
+        "https://crautos.com/clasificados/usados/9543227-3.jpg",
+        "https://crautos.com/clasificados/usados/9543227-4.jpg",
+        "https://crautos.com/clasificados/usados/9543227-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TURNKEY CR",
+        "teléfono": "8834-7143",
+        "whatsapp": "4070-7070",
+        "dirección": "Guachipelin de Escazú"
+    },
+    "informacion_general": {
+        "cilindrada": "4163 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "332,500 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE METÁLICO",
+        "color_interior": "CUERO CAFÉ",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Abril del 2025",
+        "comentario_vendedor": "NACIONAL-SUSPENSION OLD MAN BP-CANASTA ORIGINAL-COMPUERTAS AMBULANCIA-PANTALLA-IMPECABLE-TURNKEY CR.",
+        "kilometraje_number": 332500,
+        "cilindrada_number": 4163
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 28
+}

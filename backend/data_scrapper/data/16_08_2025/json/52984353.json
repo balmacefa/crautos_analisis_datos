@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52984353",
+    "año": 2013,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 21514,
+    "precio_usd": 10800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52984353-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52984353-1.jpg",
+        "https://crautos.com/clasificados/usados/52984353-2.jpg",
+        "https://crautos.com/clasificados/usados/52984353-3.jpg",
+        "https://crautos.com/clasificados/usados/52984353-4.jpg",
+        "https://crautos.com/clasificados/usados/52984353-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISABEL LARA - GERARDO ULLOA",
+        "teléfono": "2477-8601",
+        "whatsapp": "8664-6831"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "303,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO/GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "En muy buen estado general está en Santa Rosa de Pocosol San Carlos..",
+        "kilometraje_number": 303000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

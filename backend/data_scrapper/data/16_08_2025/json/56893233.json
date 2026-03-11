@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56893233&Daihatsu.CUORE.2002",
+    "año": 2002,
+    "marca": "DAIHATSU",
+    "modelo": "CUORE",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56893233-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56893233-1.jpg",
+        "https://crautos.com/clasificados/usados/56893233-2.jpg",
+        "https://crautos.com/clasificados/usados/56893233-3.jpg",
+        "https://crautos.com/clasificados/usados/56893233-4.jpg",
+        "https://crautos.com/clasificados/usados/56893233-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUELA HIDALGO",
+        "teléfono": "7098-4631 8377-9016",
+        "whatsapp": "7098-4631"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "123,456 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "kilometraje_number": 123456,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero"
+    ],
+    "antiguedad": 23
+}

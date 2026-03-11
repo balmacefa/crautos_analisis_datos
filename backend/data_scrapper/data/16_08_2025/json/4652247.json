@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4652247&Audi.E-TRON%20SPORTBACK%2055%20QUATTRO.2023",
+    "año": 2023,
+    "marca": "AUDI",
+    "modelo": "E-TRON SPORTBACK 55 QUATTRO",
+    "precio_crc": 26606000,
+    "precio_usd": 53000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4652247-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4652247-1.jpg",
+        "https://crautos.com/clasificados/usados/4652247-2.jpg",
+        "https://crautos.com/clasificados/usados/4652247-3.jpg",
+        "https://crautos.com/clasificados/usados/4652247-4.jpg",
+        "https://crautos.com/clasificados/usados/4652247-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "USADOS MOTORES BRITÁNICOS",
+        "teléfono": "4037-5720",
+        "whatsapp": "4037-5720",
+        "dirección": "Avenida Land Rover, La Uruca"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "400 kms",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "26,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Version SLINE .",
+        "kilometraje_number": 26000
+    },
+    "equipamiento": [
+        "Sunroof/techo panorámico"
+    ],
+    "antiguedad": 2
+}

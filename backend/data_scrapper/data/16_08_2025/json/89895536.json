@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89895536&Toyota.TERCEL.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 5080,
+    "precio_usd": 2550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89895536-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89895536-1.jpg",
+        "https://crautos.com/clasificados/usados/89895536-2.jpg",
+        "https://crautos.com/clasificados/usados/89895536-3.jpg",
+        "https://crautos.com/clasificados/usados/89895536-4.jpg",
+        "https://crautos.com/clasificados/usados/89895536-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EFARITH ALFARO",
+        "teléfono": "8342-8555",
+        "whatsapp": "8342-8555"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "147,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Excelente condiciones como nuevo traspaso incluído aire acondicionado .",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Tapicería de cuero",
+        "Volante ajustable"
+    ],
+    "antiguedad": 29
+}

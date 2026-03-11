@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=21321140&Hyundai.TUCSON.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/21321140-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/21321140-1.jpg",
+        "https://crautos.com/clasificados/usados/21321140-2.jpg",
+        "https://crautos.com/clasificados/usados/21321140-3.jpg",
+        "https://crautos.com/clasificados/usados/21321140-4.jpg",
+        "https://crautos.com/clasificados/usados/21321140-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AIDA BARRANTES",
+        "teléfono": "8764-7907",
+        "whatsapp": "8764-7907"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "112,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "TURQUESA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "vehículo en buen estado poco uso con calefacción en los asientos delanteros. Se escuchan ofertas.",
+        "kilometraje_number": 112000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 19
+}

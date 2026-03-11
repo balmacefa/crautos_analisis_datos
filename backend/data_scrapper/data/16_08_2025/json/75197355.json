@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75197355&Toyota.RAV4.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75197355-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75197355-1.jpg",
+        "https://crautos.com/clasificados/usados/75197355-2.jpg",
+        "https://crautos.com/clasificados/usados/75197355-3.jpg",
+        "https://crautos.com/clasificados/usados/75197355-4.jpg",
+        "https://crautos.com/clasificados/usados/75197355-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTOPHER CASTILLO ORTIZ",
+        "teléfono": "6338-4217",
+        "whatsapp": "6154-7595"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "125,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Carro en muy buen estado precio negociable, se puede recibir vehiculo alto y vuelto a mi favor..",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11136950&Nissan.MARCH.2024",
+    "año": 2024,
+    "marca": "NISSAN",
+    "modelo": "MARCH",
+    "precio_crc": 19721,
+    "precio_usd": 9900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11136950-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11136950-1.jpg",
+        "https://crautos.com/clasificados/usados/11136950-2.jpg",
+        "https://crautos.com/clasificados/usados/11136950-3.jpg",
+        "https://crautos.com/clasificados/usados/11136950-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LEONORA SEGURA",
+        "teléfono": "8722-7386",
+        "whatsapp": "8722-7386"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "16,500 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Récord de agencia. Termine de estrenar. Súper cuidado. Negociable el precio.",
+        "kilometraje_number": 16500,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 1
+}

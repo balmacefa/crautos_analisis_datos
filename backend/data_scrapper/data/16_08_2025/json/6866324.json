@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6866324&Toyota.4RUNNER%20.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER",
+    "precio_crc": 17878,
+    "precio_usd": 8975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6866324-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6866324-1.jpg",
+        "https://crautos.com/clasificados/usados/6866324-2.jpg",
+        "https://crautos.com/clasificados/usados/6866324-3.jpg",
+        "https://crautos.com/clasificados/usados/6866324-4.jpg",
+        "https://crautos.com/clasificados/usados/6866324-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "90,128 millas",
+        "placa": "ND",
+        "color_exterior": "CELESTE",
+        "color_interior": "GRIS-NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA P-INSCRIBIR-FULL EXT-GARANTIA-RECIB-FINANCI-ABIERTO DOMING STA CRUZ GTE.",
+        "kilometraje_number": 90128,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

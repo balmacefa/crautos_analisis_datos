@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18723031&Hyundai.ELANTRA%20GS.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA GS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18723031-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18723031-1.jpg",
+        "https://crautos.com/clasificados/usados/18723031-2.jpg",
+        "https://crautos.com/clasificados/usados/18723031-3.jpg",
+        "https://crautos.com/clasificados/usados/18723031-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL BLANCO JIMÉNEZ",
+        "teléfono": "8834-0292 8867-3345",
+        "whatsapp": "8867-3345"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "116,662 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable.",
+        "kilometraje_number": 116662,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

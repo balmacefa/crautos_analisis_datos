@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76285449&Mitsubishi.SX4%20.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "SX4",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76285449-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76285449-1.jpg",
+        "https://crautos.com/clasificados/usados/76285449-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES MUÑOZ",
+        "teléfono": "6120-0101",
+        "whatsapp": "6120-0101"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Gas GL doscientos klm con seis mil colones .",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

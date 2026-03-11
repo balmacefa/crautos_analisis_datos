@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40677521&Suzuki.GRAND%20VITARA.2006",
+    "año": 2006,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40677521-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40677521-1.jpg",
+        "https://crautos.com/clasificados/usados/40677521-2.jpg",
+        "https://crautos.com/clasificados/usados/40677521-3.jpg",
+        "https://crautos.com/clasificados/usados/40677521-4.jpg",
+        "https://crautos.com/clasificados/usados/40677521-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAIME MEJIA",
+        "teléfono": "8440-2738"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "198,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "29 de Junio del 2025",
+        "comentario_vendedor": "Doble tracción .",
+        "kilometraje_number": 198000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 19
+}

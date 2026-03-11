@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76542209&Nissan.VERSA.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76542209-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76542209-1.jpg",
+        "https://crautos.com/clasificados/usados/76542209-2.jpg",
+        "https://crautos.com/clasificados/usados/76542209-3.jpg",
+        "https://crautos.com/clasificados/usados/76542209-4.jpg",
+        "https://crautos.com/clasificados/usados/76542209-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CHAVARRIA",
+        "teléfono": "8572-7488",
+        "whatsapp": "8572-7488"
+    },
+    "informacion_general": {
+        "cilindrada": "18000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "El carro no sé a utilizado para ninguna plataforma está en perfecto estado .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 18000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

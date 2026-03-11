@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3717285&Hyundai.PORTER%20H100.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "PORTER H100",
+    "precio_crc": 17908,
+    "precio_usd": 8990000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3717285-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3717285-1.jpg",
+        "https://crautos.com/clasificados/usados/3717285-2.jpg",
+        "https://crautos.com/clasificados/usados/3717285-3.jpg",
+        "https://crautos.com/clasificados/usados/3717285-4.jpg",
+        "https://crautos.com/clasificados/usados/3717285-5.jpg",
+        "https://crautos.com/clasificados/usados/3717285-6.jpg",
+        "https://crautos.com/clasificados/usados/3717285-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO MAX",
+        "teléfono": "2244-8871",
+        "dirección": "Sto Domingo de Heredia 500 sur de la Basílica Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "82,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "eXCELENTE ESTADO!!! Listo para trabajar, carrocería y chasis impecables. NO se lo pierda!!!.",
+        "kilometraje_number": 82000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

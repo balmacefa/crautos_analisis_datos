@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68148604&Mitsubishi.L300.2005",
+    "año": 2005,
+    "marca": "MITSUBISHI",
+    "modelo": "L300",
+    "precio_crc": 8665,
+    "precio_usd": 4350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68148604-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68148604-1.jpg",
+        "https://crautos.com/clasificados/usados/68148604-2.jpg",
+        "https://crautos.com/clasificados/usados/68148604-3.jpg",
+        "https://crautos.com/clasificados/usados/68148604-4.jpg",
+        "https://crautos.com/clasificados/usados/68148604-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO GRANADOS",
+        "teléfono": "8939-0808",
+        "whatsapp": "8939-0808"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "283,440 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO HUESO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "De uso familiar. Nunca usada en turismo ni transporte de estudiantes -12 pasajeros.",
+        "kilometraje_number": 283440,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 20
+}

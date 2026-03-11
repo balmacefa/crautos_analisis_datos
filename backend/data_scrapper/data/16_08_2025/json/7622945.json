@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7622945&Hyundai.SANTA%20FE%20GL.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE GL",
+    "precio_crc": 17918,
+    "precio_usd": 8995000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7622945-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7622945-1.jpg",
+        "https://crautos.com/clasificados/usados/7622945-2.jpg",
+        "https://crautos.com/clasificados/usados/7622945-3.jpg",
+        "https://crautos.com/clasificados/usados/7622945-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GOI CARS",
+        "teléfono": "8901-0666 8881-4710",
+        "whatsapp": "8881-4710",
+        "dirección": "Ipís de Guadalupe, frente a la gasolinera Trova"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "83,461 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Techo panorámico, doble tracción, siete pasajeros .",
+        "kilometraje_number": 83461,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

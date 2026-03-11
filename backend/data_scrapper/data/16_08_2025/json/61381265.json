@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61381265",
+    "año": 2025,
+    "marca": "SUZUKI",
+    "modelo": "SPRESSO",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61381265-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61381265-1.jpg",
+        "https://crautos.com/clasificados/usados/61381265-2.jpg",
+        "https://crautos.com/clasificados/usados/61381265-3.jpg",
+        "https://crautos.com/clasificados/usados/61381265-4.jpg",
+        "https://crautos.com/clasificados/usados/61381265-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS SOTO",
+        "teléfono": "8671-9030 8302-0344",
+        "whatsapp": "8671-9030"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "50 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "CARRO NUEVO sacado de agencia libre de prendas..",
+        "kilometraje_number": 50,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 0
+}

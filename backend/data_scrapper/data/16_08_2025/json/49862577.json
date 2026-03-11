@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49862577&Volvo.VNL%20CONDOMINIO.2006",
+    "año": 2006,
+    "marca": "VOLVO",
+    "modelo": "VNL CONDOMINIO",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49862577-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49862577-1.jpg",
+        "https://crautos.com/clasificados/usados/49862577-2.jpg",
+        "https://crautos.com/clasificados/usados/49862577-3.jpg",
+        "https://crautos.com/clasificados/usados/49862577-4.jpg",
+        "https://crautos.com/clasificados/usados/49862577-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO GÓMEZ",
+        "teléfono": "8332-8299",
+        "whatsapp": "8332-8299"
+    },
+    "informacion_general": {
+        "cilindrada": "12800 cc",
+        "estilo": "Camión 10.0 ton. o más",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "100,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Excelente Volvo motor Daros de aluminio al día en todo ya inscrito. Desembrague totalmente nuevo tr.",
+        "kilometraje_number": 100000,
+        "cilindrada_number": 12800
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 19
+}

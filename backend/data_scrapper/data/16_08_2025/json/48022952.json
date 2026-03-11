@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48022952&Toyota.TERCEL.1993",
+    "año": 1993,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3287,
+    "precio_usd": 1650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48022952-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48022952-1.jpg",
+        "https://crautos.com/clasificados/usados/48022952-2.jpg",
+        "https://crautos.com/clasificados/usados/48022952-3.jpg",
+        "https://crautos.com/clasificados/usados/48022952-4.jpg",
+        "https://crautos.com/clasificados/usados/48022952-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCELA SOTO TAYLOR",
+        "teléfono": "6307-7425 8624-6270",
+        "whatsapp": "6307-7425"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE CLARO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Se cambia por moto al día, se recibe vuelto. .",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 32
+}

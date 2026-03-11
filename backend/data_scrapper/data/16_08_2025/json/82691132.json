@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82691132&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82691132-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82691132-1.jpg",
+        "https://crautos.com/clasificados/usados/82691132-2.jpg",
+        "https://crautos.com/clasificados/usados/82691132-3.jpg",
+        "https://crautos.com/clasificados/usados/82691132-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "INGRID NUÑEZ",
+        "teléfono": "8433-3296 8626-6274",
+        "whatsapp": "8433-3296"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "119,550 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "OSCURO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Excelentes condiciones. Precio negociable.",
+        "kilometraje_number": 119550,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24248699&Chery.TIGGO%202%20PRO.2024",
+    "año": 2024,
+    "marca": "CHERY",
+    "modelo": "TIGGO 2 PRO",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24248699-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24248699-1.jpg",
+        "https://crautos.com/clasificados/usados/24248699-2.jpg",
+        "https://crautos.com/clasificados/usados/24248699-3.jpg",
+        "https://crautos.com/clasificados/usados/24248699-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLGER ZAMORA",
+        "teléfono": "8739-1512 8677-1406",
+        "whatsapp": "8677-1406"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "52,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Exc estado mecánico Estilo SUV 2wd Kilometraje 52000 Color interior Negro 5 p.",
+        "kilometraje_number": 52000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

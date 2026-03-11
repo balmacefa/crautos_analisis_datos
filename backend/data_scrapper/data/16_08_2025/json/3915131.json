@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3915131&Volkswagen.ESCARABAJO%20SUPER%20BEETLE.1975",
+    "año": 1975,
+    "marca": "VOLKSWAGEN",
+    "modelo": "ESCARABAJO SUPER BEETLE",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3915131-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3915131-1.jpg",
+        "https://crautos.com/clasificados/usados/3915131-2.jpg",
+        "https://crautos.com/clasificados/usados/3915131-3.jpg",
+        "https://crautos.com/clasificados/usados/3915131-4.jpg",
+        "https://crautos.com/clasificados/usados/3915131-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JARCAR",
+        "teléfono": "8350-1851 8312-8488 8607-6336",
+        "whatsapp": "8350-1851",
+        "dirección": "Pavas, 100 metros norte de la Estación de Bomberos."
+    },
+    "informacion_general": {
+        "cilindrada": "2100 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Mayo del 2024",
+        "comentario_vendedor": "aros porsche motor subaru wrx turbo butacas aire acondicionada etc .",
+        "kilometraje_number": null,
+        "cilindrada_number": 2100
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 50
+}

@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6703235&Hyundai.GRAND%20I10.2023",
+    "año": 2023,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 8232800,
+    "precio_usd": 16400.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6703235-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6703235-1.jpg",
+        "https://crautos.com/clasificados/usados/6703235-2.jpg",
+        "https://crautos.com/clasificados/usados/6703235-3.jpg",
+        "https://crautos.com/clasificados/usados/6703235-4.jpg",
+        "https://crautos.com/clasificados/usados/6703235-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO Q",
+        "teléfono": "2522-7474",
+        "whatsapp": "7094-6958",
+        "dirección": "400 mtrs al oeste de la plaza de deportes de La Uruca Frente a la intersección Uruca, Circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "89,856 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Con el respaldo de GrupoQ.",
+        "kilometraje_number": 89856,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

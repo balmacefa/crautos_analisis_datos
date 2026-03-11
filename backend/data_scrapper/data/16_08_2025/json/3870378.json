@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3870378&Toyota.RAV4.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3870378-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3870378-1.jpg",
+        "https://crautos.com/clasificados/usados/3870378-2.jpg",
+        "https://crautos.com/clasificados/usados/3870378-3.jpg",
+        "https://crautos.com/clasificados/usados/3870378-4.jpg",
+        "https://crautos.com/clasificados/usados/3870378-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "122,000 millas",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "para inscribir sea primer dueño en CR se financia EXCELENTE ESTADO .",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

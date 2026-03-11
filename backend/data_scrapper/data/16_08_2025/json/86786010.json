@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86786010&Fiat.CITY.1987",
+    "año": 1987,
+    "marca": "FIAT",
+    "modelo": "CITY",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86786010-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86786010-1.jpg",
+        "https://crautos.com/clasificados/usados/86786010-2.jpg",
+        "https://crautos.com/clasificados/usados/86786010-3.jpg",
+        "https://crautos.com/clasificados/usados/86786010-4.jpg",
+        "https://crautos.com/clasificados/usados/86786010-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARTA MUÑOZ",
+        "teléfono": "8829-5332",
+        "whatsapp": "8829-5332"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "61,074 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "perfecto estado y en uso. RTV y Marchamo la día. muy original. arranca al toque.",
+        "kilometraje_number": 61074,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [],
+    "antiguedad": 38
+}

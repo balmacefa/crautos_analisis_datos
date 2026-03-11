@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97758663&Toyota.YARIS.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97758663-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97758663-1.jpg",
+        "https://crautos.com/clasificados/usados/97758663-2.jpg",
+        "https://crautos.com/clasificados/usados/97758663-3.jpg",
+        "https://crautos.com/clasificados/usados/97758663-4.jpg",
+        "https://crautos.com/clasificados/usados/97758663-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IVAN BADILLA",
+        "teléfono": "8607-7766 8868-7412",
+        "whatsapp": "8868-7412"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE AGUA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Versión Americana, Llantas recién cambiadas, frenos recién cambiados..",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

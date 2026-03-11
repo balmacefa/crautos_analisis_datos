@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98194010&Hyundai.ACCENT.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98194010-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98194010-1.jpg",
+        "https://crautos.com/clasificados/usados/98194010-2.jpg",
+        "https://crautos.com/clasificados/usados/98194010-3.jpg",
+        "https://crautos.com/clasificados/usados/98194010-4.jpg",
+        "https://crautos.com/clasificados/usados/98194010-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA JOSÉ SALAZAR AGUIRRE",
+        "teléfono": "7276-8008 8316-1513 7267-9179",
+        "whatsapp": "7028-3406"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "108,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Se vende Hyundai accent con mantenimientos marchamo y Dekra al día. Poco kilometraje para su año .",
+        "kilometraje_number": 108000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

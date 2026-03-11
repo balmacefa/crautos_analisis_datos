@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53681885&Suzuki.GRAND%20VITARA%20.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 16434,
+    "precio_usd": 8250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53681885-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53681885-1.jpg",
+        "https://crautos.com/clasificados/usados/53681885-2.jpg",
+        "https://crautos.com/clasificados/usados/53681885-3.jpg",
+        "https://crautos.com/clasificados/usados/53681885-4.jpg",
+        "https://crautos.com/clasificados/usados/53681885-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDAL VARGAS BORBÓN",
+        "teléfono": "8880-7853",
+        "whatsapp": "8880-7853"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "115,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Al día sin prendas.",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

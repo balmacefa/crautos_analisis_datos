@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80363720&Hyundai.SANTA%20FE%20SPORT.2018",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE SPORT",
+    "precio_crc": 19721,
+    "precio_usd": 9900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80363720-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80363720-1.jpg",
+        "https://crautos.com/clasificados/usados/80363720-2.jpg",
+        "https://crautos.com/clasificados/usados/80363720-3.jpg",
+        "https://crautos.com/clasificados/usados/80363720-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWIN PEREZ",
+        "teléfono": "6300-0094",
+        "whatsapp": "6300-0094"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "99,000 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "CREMA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "-PARA INSCRIBIR-.",
+        "kilometraje_number": 99000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

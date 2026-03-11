@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36174041&Hyundai.TUCSON%20.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 19074,
+    "precio_usd": 9575000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36174041-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36174041-1.jpg",
+        "https://crautos.com/clasificados/usados/36174041-2.jpg",
+        "https://crautos.com/clasificados/usados/36174041-3.jpg",
+        "https://crautos.com/clasificados/usados/36174041-4.jpg",
+        "https://crautos.com/clasificados/usados/36174041-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABRICIO PEREZ",
+        "teléfono": "7277-2224",
+        "whatsapp": "7277-2224"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "75,400 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "NACIONAL - sacado de Agencia -AWD - SETENTA y Cinco MIL kilometros REALES Recibo y Financio -.",
+        "kilometraje_number": 75400,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

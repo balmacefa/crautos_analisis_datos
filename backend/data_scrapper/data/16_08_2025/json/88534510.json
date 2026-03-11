@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88534510&Suzuki.JIMNY.2018",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 18500,
+    "precio_usd": 9287000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88534510-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88534510-1.jpg",
+        "https://crautos.com/clasificados/usados/88534510-2.jpg",
+        "https://crautos.com/clasificados/usados/88534510-3.jpg",
+        "https://crautos.com/clasificados/usados/88534510-4.jpg",
+        "https://crautos.com/clasificados/usados/88534510-5.jpg",
+        "https://crautos.com/clasificados/usados/88534510-6.jpg",
+        "https://crautos.com/clasificados/usados/88534510-7.jpg",
+        "https://crautos.com/clasificados/usados/88534510-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO MICHELINO MARÍN",
+        "teléfono": "8318-0162"
+    },
+    "informacion_general": {
+        "cilindrada": "1328 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "64,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "El kilometraje más bajo. Un solo dueño. De agencia. Todo original. Excelente estado. Negociable..",
+        "kilometraje_number": 64000,
+        "cilindrada_number": 1328
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

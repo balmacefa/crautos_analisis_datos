@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6046857&Toyota.YARIS%20.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6046857-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6046857-1.jpg",
+        "https://crautos.com/clasificados/usados/6046857-2.jpg",
+        "https://crautos.com/clasificados/usados/6046857-3.jpg",
+        "https://crautos.com/clasificados/usados/6046857-4.jpg",
+        "https://crautos.com/clasificados/usados/6046857-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS PRIPA",
+        "teléfono": "6018-1919 2553-0010",
+        "whatsapp": "6018-1919",
+        "dirección": "Costado Sur de la Biblioteca Pública Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Precio de contado, información al WhatsApp .",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

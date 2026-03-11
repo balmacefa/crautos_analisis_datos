@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39935838&Toyota.LAND%20CRUISER.1977",
+    "año": 1977,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39935838-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39935838-1.jpg",
+        "https://crautos.com/clasificados/usados/39935838-2.jpg",
+        "https://crautos.com/clasificados/usados/39935838-3.jpg",
+        "https://crautos.com/clasificados/usados/39935838-4.jpg",
+        "https://crautos.com/clasificados/usados/39935838-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUÉ BOLAÑOS VIALES",
+        "teléfono": "8318-9752"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "10 de Junio del 2024",
+        "comentario_vendedor": "Cañas un solo dueño sin Dekra.",
+        "kilometraje_number": null,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 48
+}

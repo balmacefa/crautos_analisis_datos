@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43257341&Toyota.YARIS.2018",
+    "año": 2018,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43257341-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43257341-1.jpg",
+        "https://crautos.com/clasificados/usados/43257341-2.jpg",
+        "https://crautos.com/clasificados/usados/43257341-3.jpg",
+        "https://crautos.com/clasificados/usados/43257341-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTONY QUIRÓS",
+        "teléfono": "6299-5767",
+        "whatsapp": "6299-5767"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "79,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Junio del 2025",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 7
+}

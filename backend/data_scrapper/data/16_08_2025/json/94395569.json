@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94395569&Geo.PRIZM.1993",
+    "año": 1993,
+    "marca": "GEO",
+    "modelo": "PRIZM",
+    "precio_crc": 3187,
+    "precio_usd": 1600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94395569-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94395569-1.jpg",
+        "https://crautos.com/clasificados/usados/94395569-2.jpg",
+        "https://crautos.com/clasificados/usados/94395569-3.jpg",
+        "https://crautos.com/clasificados/usados/94395569-4.jpg",
+        "https://crautos.com/clasificados/usados/94395569-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER BADILLA",
+        "teléfono": "7240-9505",
+        "whatsapp": "7240-9505"
+    },
+    "informacion_general": {
+        "cilindrada": "1587 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "179,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "El Precio no es Negociable. Toyota Corolla Sprinter Mercado Americano Dekra Agosto Veintiseis.",
+        "kilometraje_number": 179000,
+        "cilindrada_number": 1587
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 32
+}

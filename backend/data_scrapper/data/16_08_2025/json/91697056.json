@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91697056&Hyundai.STAREX%20H1.2002",
+    "año": 2002,
+    "marca": "HYUNDAI",
+    "modelo": "STAREX H1",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91697056-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91697056-1.jpg",
+        "https://crautos.com/clasificados/usados/91697056-2.jpg",
+        "https://crautos.com/clasificados/usados/91697056-3.jpg",
+        "https://crautos.com/clasificados/usados/91697056-4.jpg",
+        "https://crautos.com/clasificados/usados/91697056-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR ZUÑIGA",
+        "teléfono": "8400-6724 8618-5801 6110-7071",
+        "whatsapp": "8400-6724"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "235,175 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "BUENA OPORTUNIDAD.",
+        "kilometraje_number": 235175,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8566980&Suzuki.JIMNY%20JX.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY JX",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8566980-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8566980-1.jpg",
+        "https://crautos.com/clasificados/usados/8566980-2.jpg",
+        "https://crautos.com/clasificados/usados/8566980-3.jpg",
+        "https://crautos.com/clasificados/usados/8566980-4.jpg",
+        "https://crautos.com/clasificados/usados/8566980-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ICONS CARS",
+        "teléfono": "8843-0456 8317-3703",
+        "whatsapp": "8843-0456",
+        "dirección": "Heredia, San Antonio de Belén, del depósito de materiales El Lagar 250 mtrs oeste"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "226,935 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Precio no incluyen gastos legales, negociable de contado, RECIBO carro menor valor..",
+        "kilometraje_number": 226935,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

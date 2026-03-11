@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91172052&Kia.SPORTAGE.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91172052-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91172052-1.jpg",
+        "https://crautos.com/clasificados/usados/91172052-2.jpg",
+        "https://crautos.com/clasificados/usados/91172052-3.jpg",
+        "https://crautos.com/clasificados/usados/91172052-4.jpg",
+        "https://crautos.com/clasificados/usados/91172052-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS MURILLO",
+        "teléfono": "8825-6946",
+        "whatsapp": "8825-6946"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "119,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "03 de Junio del 2025",
+        "comentario_vendedor": "Estado del Vehículo excelente mantenimiento. recibo sedan automático corolla, tiida o elantra.",
+        "kilometraje_number": 119000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

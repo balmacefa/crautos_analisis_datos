@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20492664&Toyota.COROLLA.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 19124,
+    "precio_usd": 9600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20492664-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20492664-1.jpg",
+        "https://crautos.com/clasificados/usados/20492664-2.jpg",
+        "https://crautos.com/clasificados/usados/20492664-3.jpg",
+        "https://crautos.com/clasificados/usados/20492664-4.jpg",
+        "https://crautos.com/clasificados/usados/20492664-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE MIGUEL BOTERO",
+        "teléfono": "8878-0126"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "53,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "kilometraje_number": 53000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 6
+}

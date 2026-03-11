@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51592417&Volvo.C30.2009",
+    "año": 2009,
+    "marca": "VOLVO",
+    "modelo": "C30",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO GARRO",
+        "teléfono": "8818-2424",
+        "whatsapp": "8818-2424"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "156,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS PERLADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "El más seguro de su clase y tamaño .",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

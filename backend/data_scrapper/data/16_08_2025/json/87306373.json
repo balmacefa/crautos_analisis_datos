@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87306373&Hyundai.I10.2009",
+    "año": 2009,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87306373-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87306373-1.jpg",
+        "https://crautos.com/clasificados/usados/87306373-2.jpg",
+        "https://crautos.com/clasificados/usados/87306373-3.jpg",
+        "https://crautos.com/clasificados/usados/87306373-4.jpg",
+        "https://crautos.com/clasificados/usados/87306373-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUNIOR QUESADA PORRAS",
+        "teléfono": "7291-1154 8709-2959",
+        "whatsapp": "7291-1154"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "171,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Se vende en excelente estado negociable con cambio reciente de todo el sistema de frenado.",
+        "kilometraje_number": 171000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

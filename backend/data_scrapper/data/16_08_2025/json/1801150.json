@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1801150&Suzuki.ALTO%20DX.2019",
+    "año": 2019,
+    "marca": "SUZUKI",
+    "modelo": "ALTO DX",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1801150-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1801150-1.jpg",
+        "https://crautos.com/clasificados/usados/1801150-2.jpg",
+        "https://crautos.com/clasificados/usados/1801150-3.jpg",
+        "https://crautos.com/clasificados/usados/1801150-4.jpg",
+        "https://crautos.com/clasificados/usados/1801150-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN AZOFEIFA",
+        "teléfono": "8513-3864",
+        "whatsapp": "8513-3864",
+        "dirección": "Alajuela, Ciruelas"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS GRAFITO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "MUY BUEN ESTADO GENERAL. PERFECTO PARA PLATAFORMAS. .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

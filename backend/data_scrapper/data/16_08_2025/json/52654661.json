@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52654661&Toyota.PRADO%20TX.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "PRADO TX",
+    "precio_crc": 39442,
+    "precio_usd": 19800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52654661-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52654661-1.jpg",
+        "https://crautos.com/clasificados/usados/52654661-2.jpg",
+        "https://crautos.com/clasificados/usados/52654661-3.jpg",
+        "https://crautos.com/clasificados/usados/52654661-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANNIE",
+        "teléfono": "8846-3849",
+        "whatsapp": "8846-3849"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "121,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Toyota Prado TX • Excelente condición • Siempre guardado bajo techo • Un solo dueño • Cambio re.",
+        "kilometraje_number": 121000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

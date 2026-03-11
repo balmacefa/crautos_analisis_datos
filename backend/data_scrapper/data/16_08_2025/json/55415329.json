@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55415329&Isuzu.NPR.2003",
+    "año": 2003,
+    "marca": "ISUZU",
+    "modelo": "NPR",
+    "precio_crc": 17331,
+    "precio_usd": 8700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55415329-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55415329-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RABIE ALAWAR",
+        "teléfono": "6350-4110"
+    },
+    "informacion_general": {
+        "cilindrada": "4800 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "173,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "RAMPA HIDRÁULICA .",
+        "kilometraje_number": 173000,
+        "cilindrada_number": 4800
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Turbo"
+    ],
+    "antiguedad": 22
+}

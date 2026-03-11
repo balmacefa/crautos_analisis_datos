@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7150691&Kia.BONGO%20III.2008",
+    "año": 2008,
+    "marca": "KIA",
+    "modelo": "BONGO III",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7150691-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7150691-1.jpg",
+        "https://crautos.com/clasificados/usados/7150691-2.jpg",
+        "https://crautos.com/clasificados/usados/7150691-3.jpg",
+        "https://crautos.com/clasificados/usados/7150691-4.jpg",
+        "https://crautos.com/clasificados/usados/7150691-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VÍA KOREA",
+        "teléfono": "7295-5100 6267-5166 8845-5271",
+        "whatsapp": "7295-5100",
+        "dirección": "De la bomba Villa Bonita, 700 mtrs este sobre autopista Bernardo Soto"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "146,514 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "FINANCIAMIENTO PROPIO CINCUENTA PORCIENTO DE PRIMA, RECIBIMOS AUTO..",
+        "kilometraje_number": 146514,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

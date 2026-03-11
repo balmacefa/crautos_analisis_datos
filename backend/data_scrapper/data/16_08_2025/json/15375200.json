@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15375200&Chevrolet.SPARK.2011",
+    "año": 2011,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15375200-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15375200-1.jpg",
+        "https://crautos.com/clasificados/usados/15375200-2.jpg",
+        "https://crautos.com/clasificados/usados/15375200-3.jpg",
+        "https://crautos.com/clasificados/usados/15375200-4.jpg",
+        "https://crautos.com/clasificados/usados/15375200-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRIGETTE RIVERA",
+        "teléfono": "8743-1257",
+        "whatsapp": "8743-1257"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "09 de Mayo del 2025",
+        "kilometraje_number": null,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

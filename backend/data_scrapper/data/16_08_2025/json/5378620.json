@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5378620&Isuzu.DMAX.2023",
+    "año": 2023,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 33865,
+    "precio_usd": 17000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5378620-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5378620-1.jpg",
+        "https://crautos.com/clasificados/usados/5378620-2.jpg",
+        "https://crautos.com/clasificados/usados/5378620-3.jpg",
+        "https://crautos.com/clasificados/usados/5378620-4.jpg",
+        "https://crautos.com/clasificados/usados/5378620-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VILLAMOTORS",
+        "teléfono": "8599-7978 8306-3434 2101-1881",
+        "whatsapp": "8306-3434",
+        "dirección": "San Miguel de Santo Domingo de Heredia 200 sur del Restaurante la casa de Doña Lela"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "70,000 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "nacional , se recibe y se financia .",
+        "kilometraje_number": 70000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41110872",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41110872-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41110872-1.jpg",
+        "https://crautos.com/clasificados/usados/41110872-2.jpg",
+        "https://crautos.com/clasificados/usados/41110872-3.jpg",
+        "https://crautos.com/clasificados/usados/41110872-4.jpg",
+        "https://crautos.com/clasificados/usados/41110872-5.jpg",
+        "https://crautos.com/clasificados/usados/41110872-6.jpg",
+        "https://crautos.com/clasificados/usados/41110872-7.jpg",
+        "https://crautos.com/clasificados/usados/41110872-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CLAUDIA DE SANTIAGO",
+        "teléfono": "8601-6731",
+        "whatsapp": "8601-6731"
+    },
+    "informacion_general": {
+        "cilindrada": "1328 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Está en condiciones excelentes por dentro y por fuera sin ruidos óxido ni ninguna falla. .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1328
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

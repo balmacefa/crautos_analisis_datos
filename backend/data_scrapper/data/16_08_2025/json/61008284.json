@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61008284&Mitsubishi.MIRAGE%20G4.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE G4",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61008284-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61008284-1.jpg",
+        "https://crautos.com/clasificados/usados/61008284-2.jpg",
+        "https://crautos.com/clasificados/usados/61008284-3.jpg",
+        "https://crautos.com/clasificados/usados/61008284-4.jpg",
+        "https://crautos.com/clasificados/usados/61008284-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERARDO ESPINOZA GONZALEZ",
+        "teléfono": "8341-0349",
+        "whatsapp": "8341-0349"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "158,945 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "SOLO VENTA.",
+        "kilometraje_number": 158945,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

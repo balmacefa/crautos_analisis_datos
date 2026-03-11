@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12540630&Toyota.HILUX.2011",
+    "año": 2011,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 22709,
+    "precio_usd": 11400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12540630-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12540630-1.jpg",
+        "https://crautos.com/clasificados/usados/12540630-2.jpg",
+        "https://crautos.com/clasificados/usados/12540630-3.jpg",
+        "https://crautos.com/clasificados/usados/12540630-4.jpg",
+        "https://crautos.com/clasificados/usados/12540630-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRAN MENDEZ",
+        "teléfono": "8873-3547",
+        "whatsapp": "8873-3547"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "164,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Exelente estado. Muy económico batería nueva con garantía de dos años.",
+        "kilometraje_number": 164000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

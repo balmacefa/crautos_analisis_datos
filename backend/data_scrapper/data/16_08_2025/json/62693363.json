@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62693363&Mazda.3.2014",
+    "año": 2014,
+    "marca": "MAZDA",
+    "modelo": "3",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62693363-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62693363-1.jpg",
+        "https://crautos.com/clasificados/usados/62693363-2.jpg",
+        "https://crautos.com/clasificados/usados/62693363-3.jpg",
+        "https://crautos.com/clasificados/usados/62693363-4.jpg",
+        "https://crautos.com/clasificados/usados/62693363-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESMER MORAGA",
+        "teléfono": "8743-6565 8426-8366",
+        "whatsapp": "8743-6565"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "143,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

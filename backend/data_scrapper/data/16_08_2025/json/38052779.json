@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38052779&Nissan.PATHFINDER.2000",
+    "año": 2000,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 9661,
+    "precio_usd": 4850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38052779-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38052779-1.jpg",
+        "https://crautos.com/clasificados/usados/38052779-2.jpg",
+        "https://crautos.com/clasificados/usados/38052779-3.jpg",
+        "https://crautos.com/clasificados/usados/38052779-4.jpg",
+        "https://crautos.com/clasificados/usados/38052779-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN SOLIS",
+        "teléfono": "7089-7689",
+        "whatsapp": "7089-7689"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "286,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "kilometraje_number": 286000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

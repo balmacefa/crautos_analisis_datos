@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39486406&Nissan.QASHQAI.2020",
+    "año": 2020,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39486406-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39486406-1.jpg",
+        "https://crautos.com/clasificados/usados/39486406-2.jpg",
+        "https://crautos.com/clasificados/usados/39486406-3.jpg",
+        "https://crautos.com/clasificados/usados/39486406-4.jpg",
+        "https://crautos.com/clasificados/usados/39486406-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JIM PAQUIN",
+        "teléfono": "8891-4910",
+        "whatsapp": "7372-8025"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "69,600 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "se vende por motivo de viaje .",
+        "kilometraje_number": 69600,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores frontales",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}

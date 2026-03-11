@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24415396&Toyota.ECHO.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24415396-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24415396-1.jpg",
+        "https://crautos.com/clasificados/usados/24415396-2.jpg",
+        "https://crautos.com/clasificados/usados/24415396-3.jpg",
+        "https://crautos.com/clasificados/usados/24415396-4.jpg",
+        "https://crautos.com/clasificados/usados/24415396-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA FERNANDA MONGE SIBAJA",
+        "teléfono": "8466-4579",
+        "whatsapp": "8466-4579"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "121,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "MARRÓN",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Dekra en blanco.",
+        "kilometraje_number": 121000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

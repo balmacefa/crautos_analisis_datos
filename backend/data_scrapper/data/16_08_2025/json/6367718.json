@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6367718",
+    "año": 2017,
+    "marca": "HINO",
+    "modelo": "500 1521",
+    "precio_crc": 49402,
+    "precio_usd": 24800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6367718-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6367718-1.jpg",
+        "https://crautos.com/clasificados/usados/6367718-2.jpg",
+        "https://crautos.com/clasificados/usados/6367718-3.jpg",
+        "https://crautos.com/clasificados/usados/6367718-4.jpg",
+        "https://crautos.com/clasificados/usados/6367718-5.jpg",
+        "https://crautos.com/clasificados/usados/6367718-6.jpg",
+        "https://crautos.com/clasificados/usados/6367718-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS LA ESTACIÓN",
+        "teléfono": "6131-4522 8850-7637",
+        "whatsapp": "8801-1510",
+        "dirección": "De la bomba La Castellana, 100 mts Oeste y 400 mts Sur. Avenida 20 calle 10. San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "8000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "104,854 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Piso Metalico,Semi Aire,Mantenimiento de Agencia,Version Nacional,Con Furgon..",
+        "kilometraje_number": 104854,
+        "cilindrada_number": 8000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 8
+}

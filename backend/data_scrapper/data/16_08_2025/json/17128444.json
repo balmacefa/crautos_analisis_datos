@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17128444&Chevrolet.BEAT%20LT.2020",
+    "año": 2020,
+    "marca": "CHEVROLET",
+    "modelo": "BEAT LT",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17128444-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17128444-1.jpg",
+        "https://crautos.com/clasificados/usados/17128444-2.jpg",
+        "https://crautos.com/clasificados/usados/17128444-3.jpg",
+        "https://crautos.com/clasificados/usados/17128444-4.jpg",
+        "https://crautos.com/clasificados/usados/17128444-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN ROJAS",
+        "teléfono": "8406-2278",
+        "whatsapp": "8406-2278"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "131,407 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Na.",
+        "kilometraje_number": 131407,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

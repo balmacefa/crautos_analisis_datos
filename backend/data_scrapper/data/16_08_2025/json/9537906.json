@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9537906&Toyota.HIACE.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 22088000,
+    "precio_usd": 44000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9537906-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9537906-1.jpg",
+        "https://crautos.com/clasificados/usados/9537906-2.jpg",
+        "https://crautos.com/clasificados/usados/9537906-3.jpg",
+        "https://crautos.com/clasificados/usados/9537906-4.jpg",
+        "https://crautos.com/clasificados/usados/9537906-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS DIEKCANT",
+        "teléfono": "2203-2641 8451-2861",
+        "whatsapp": "8451-2861",
+        "dirección": "Rio Oro de Santa Ana, calle Cebadilla, 100 metros sur de la iglesia católica."
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "75,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Mayo del 2025",
+        "comentario_vendedor": "COMO NUEVA FINANCIAMIENTO DISPONIBLE, GARANTIA POR ESCRITO.",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45665559&Suzuki.BALENO%20GLX.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "BALENO GLX",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45665559-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45665559-1.jpg",
+        "https://crautos.com/clasificados/usados/45665559-2.jpg",
+        "https://crautos.com/clasificados/usados/45665559-3.jpg",
+        "https://crautos.com/clasificados/usados/45665559-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN BRENES",
+        "teléfono": "8361-4373",
+        "whatsapp": "8361-4373"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

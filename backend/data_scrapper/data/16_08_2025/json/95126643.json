@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95126643&Mitsubishi.L200.2016",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 29183,
+    "precio_usd": 14650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95126643-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95126643-1.jpg",
+        "https://crautos.com/clasificados/usados/95126643-2.jpg",
+        "https://crautos.com/clasificados/usados/95126643-3.jpg",
+        "https://crautos.com/clasificados/usados/95126643-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES FLORES DELGADO",
+        "teléfono": "8566-6945 8536-4489",
+        "whatsapp": "8566-6945"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "113,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Exelente estado .",
+        "kilometraje_number": 113000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

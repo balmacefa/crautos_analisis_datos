@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87693074&Mazda.CX7.2007",
+    "año": 2007,
+    "marca": "MAZDA",
+    "modelo": "CX7",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87693074-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87693074-1.jpg",
+        "https://crautos.com/clasificados/usados/87693074-2.jpg",
+        "https://crautos.com/clasificados/usados/87693074-3.jpg",
+        "https://crautos.com/clasificados/usados/87693074-4.jpg",
+        "https://crautos.com/clasificados/usados/87693074-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIAN TORRES",
+        "teléfono": "8824-5877",
+        "whatsapp": "8824-5877"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "18 de Diciembre del 2024",
+        "comentario_vendedor": "BUEN ESTADO marchamo pago.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82234841&Toyota.AVALON.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "AVALON",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82234841-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82234841-1.jpg",
+        "https://crautos.com/clasificados/usados/82234841-2.jpg",
+        "https://crautos.com/clasificados/usados/82234841-3.jpg",
+        "https://crautos.com/clasificados/usados/82234841-4.jpg",
+        "https://crautos.com/clasificados/usados/82234841-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLMAN SANDINO",
+        "teléfono": "8870-7167 8992-6195 2203-1625"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "152,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Junio del 2025",
+        "comentario_vendedor": "Dekra y derecho de circulación al día . .",
+        "kilometraje_number": 152000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asiento con memoria",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

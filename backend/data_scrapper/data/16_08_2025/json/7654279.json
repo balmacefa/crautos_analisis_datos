@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7654279&Toyota.RUSH%20G.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "RUSH G",
+    "precio_crc": 11596200,
+    "precio_usd": 23100.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7654279-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7654279-1.jpg",
+        "https://crautos.com/clasificados/usados/7654279-2.jpg",
+        "https://crautos.com/clasificados/usados/7654279-3.jpg",
+        "https://crautos.com/clasificados/usados/7654279-4.jpg",
+        "https://crautos.com/clasificados/usados/7654279-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOTOR CITY",
+        "teléfono": "8844-1919 8364-5234 2100-0808",
+        "whatsapp": "8844-1919",
+        "dirección": "San Rafael de Escazú, 75 Mtrs sur del Centro Comercial Paco"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "58,700 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Mayo del 2025",
+        "kilometraje_number": 58700,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75919554&Hyundai.ACCENT.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75919554-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75919554-1.jpg",
+        "https://crautos.com/clasificados/usados/75919554-2.jpg",
+        "https://crautos.com/clasificados/usados/75919554-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES JA JIMENEZ",
+        "teléfono": "6067-9922 7036-9948",
+        "whatsapp": "6067-9922"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "166,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Buen estado mecánicamente excelente mantenimiento.",
+        "kilometraje_number": 166000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

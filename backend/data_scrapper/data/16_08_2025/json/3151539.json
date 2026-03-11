@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3151539&Hyundai.H1%20GRAND%20STAREX%20.2018",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "H1 GRAND STAREX",
+    "precio_crc": 28884,
+    "precio_usd": 14500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3151539-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3151539-1.jpg",
+        "https://crautos.com/clasificados/usados/3151539-2.jpg",
+        "https://crautos.com/clasificados/usados/3151539-3.jpg",
+        "https://crautos.com/clasificados/usados/3151539-4.jpg",
+        "https://crautos.com/clasificados/usados/3151539-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS VÍA KOREA",
+        "teléfono": "7295-5100 6267-5166 8845-5271",
+        "whatsapp": "7295-5100",
+        "dirección": "De la bomba Villa Bonita, 700 mtrs este sobre autopista Bernardo Soto"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "34,740 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "FINANCIAMIENTO PROPIO Y FINANCIAMIENTO CON BANCO, RECIBIMOS AUTO..",
+        "kilometraje_number": 34740,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

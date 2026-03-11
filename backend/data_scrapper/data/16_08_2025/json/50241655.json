@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50241655",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50241655-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50241655-1.jpg",
+        "https://crautos.com/clasificados/usados/50241655-2.jpg",
+        "https://crautos.com/clasificados/usados/50241655-3.jpg",
+        "https://crautos.com/clasificados/usados/50241655-4.jpg",
+        "https://crautos.com/clasificados/usados/50241655-5.jpg",
+        "https://crautos.com/clasificados/usados/50241655-6.jpg",
+        "https://crautos.com/clasificados/usados/50241655-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA LIA DÁVILA DE SANTOS",
+        "teléfono": "8877-9111",
+        "whatsapp": "8877-9111"
+    },
+    "informacion_general": {
+        "cilindrada": "2494 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Super buen estado. El chasis está pintado con antigrava para evitar la coroccion. .",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 2494
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

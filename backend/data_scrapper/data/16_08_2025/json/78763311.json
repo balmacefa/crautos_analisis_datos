@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78763311&Hyundai.CRETA%20GL.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "CRETA GL",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78763311-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78763311-1.jpg",
+        "https://crautos.com/clasificados/usados/78763311-2.jpg",
+        "https://crautos.com/clasificados/usados/78763311-3.jpg",
+        "https://crautos.com/clasificados/usados/78763311-4.jpg",
+        "https://crautos.com/clasificados/usados/78763311-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE ZÚÑIGA",
+        "teléfono": "8346-3708",
+        "whatsapp": "8346-3708"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "83,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Financiable con CrediQ.",
+        "kilometraje_number": 83000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

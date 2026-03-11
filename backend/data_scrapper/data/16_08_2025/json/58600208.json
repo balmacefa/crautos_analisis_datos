@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58600208&Toyota.TERCEL.1993",
+    "año": 1993,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3785,
+    "precio_usd": 1900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58600208-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58600208-1.jpg",
+        "https://crautos.com/clasificados/usados/58600208-2.jpg",
+        "https://crautos.com/clasificados/usados/58600208-3.jpg",
+        "https://crautos.com/clasificados/usados/58600208-4.jpg",
+        "https://crautos.com/clasificados/usados/58600208-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ PABLO",
+        "teléfono": "8346-7161",
+        "whatsapp": "8346-7161"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "123,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado mecánico. .",
+        "kilometraje_number": 123000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 32
+}

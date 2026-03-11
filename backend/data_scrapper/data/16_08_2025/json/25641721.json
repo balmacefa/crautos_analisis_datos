@@ -1,0 +1,40 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25641721&Jeep.PATRIOT%20.2008",
+    "año": 2008,
+    "marca": "JEEP",
+    "modelo": "PATRIOT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25641721-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25641721-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELANY RAMOS",
+        "teléfono": "8779-6226 8856-3455",
+        "whatsapp": "8779-6226"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "ND",
+        "placa": "Termina en 4",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "El carro no tiene aire acondicionado hay que cambiarle un motor de ventana y un compesador.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 17
+}

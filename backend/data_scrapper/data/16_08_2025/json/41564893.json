@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41564893&Toyota.YARIS.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41564893-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41564893-1.jpg",
+        "https://crautos.com/clasificados/usados/41564893-2.jpg",
+        "https://crautos.com/clasificados/usados/41564893-3.jpg",
+        "https://crautos.com/clasificados/usados/41564893-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN CAMACHO",
+        "teléfono": "8436-1999",
+        "whatsapp": "8436-1999"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "350,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura como todo carro de su año llantas nuevas motor y caja excelente estado pantalla .",
+        "kilometraje_number": 350000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

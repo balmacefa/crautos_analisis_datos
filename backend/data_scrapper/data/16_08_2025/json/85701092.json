@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85701092&Renault.CLIO.2003",
+    "año": 2003,
+    "marca": "RENAULT",
+    "modelo": "CLIO",
+    "precio_crc": 3486,
+    "precio_usd": 1750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85701092-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85701092-1.jpg",
+        "https://crautos.com/clasificados/usados/85701092-2.jpg",
+        "https://crautos.com/clasificados/usados/85701092-3.jpg",
+        "https://crautos.com/clasificados/usados/85701092-4.jpg",
+        "https://crautos.com/clasificados/usados/85701092-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO LIZANO",
+        "teléfono": "8895-0462",
+        "whatsapp": "8895-0462"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "220,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Mantenimiento especializado en la marca .",
+        "kilometraje_number": 220000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

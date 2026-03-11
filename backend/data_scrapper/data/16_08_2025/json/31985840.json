@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31985840&Toyota.AGYA.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "AGYA",
+    "precio_crc": 18127,
+    "precio_usd": 9100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31985840-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31985840-1.jpg",
+        "https://crautos.com/clasificados/usados/31985840-2.jpg",
+        "https://crautos.com/clasificados/usados/31985840-3.jpg",
+        "https://crautos.com/clasificados/usados/31985840-4.jpg",
+        "https://crautos.com/clasificados/usados/31985840-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREA PEÑALOSA",
+        "teléfono": "7300-7630",
+        "whatsapp": "7300-7630"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "21,600 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Se cede leasing..",
+        "kilometraje_number": 21600,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control electrónico de estabilidad",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 2
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31831115&Kia.SPORTAGE.2007",
+    "año": 2007,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31831115-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31831115-1.jpg",
+        "https://crautos.com/clasificados/usados/31831115-2.jpg",
+        "https://crautos.com/clasificados/usados/31831115-3.jpg",
+        "https://crautos.com/clasificados/usados/31831115-4.jpg",
+        "https://crautos.com/clasificados/usados/31831115-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATALIN CAMACHO V",
+        "teléfono": "8814-5552 8815-7707",
+        "whatsapp": "8814-5552"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "116,587 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VINO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "EL CARRO ESTA COMO SE VE EN LAS IMAGENES .DEKRA HOJA EN BLANCO. LLANTAS NUEVAS. .",
+        "kilometraje_number": 116587,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

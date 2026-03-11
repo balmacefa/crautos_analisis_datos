@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43355681&Toyota.YARIS.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 20518,
+    "precio_usd": 10300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43355681-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43355681-1.jpg",
+        "https://crautos.com/clasificados/usados/43355681-2.jpg",
+        "https://crautos.com/clasificados/usados/43355681-3.jpg",
+        "https://crautos.com/clasificados/usados/43355681-4.jpg",
+        "https://crautos.com/clasificados/usados/43355681-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROXANA SANABRIA",
+        "teléfono": "8937-4847 8880-2021",
+        "whatsapp": "8937-4847"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "12,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "kilometraje_number": 12000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

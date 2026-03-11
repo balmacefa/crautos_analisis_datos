@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43698040&Ford.F250%20LARIAT%20SUPER%20DUTY%20.2003",
+    "año": 2003,
+    "marca": "FORD",
+    "modelo": "F250 LARIAT SUPER DUTY",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TATIANA JIMENEZ",
+        "teléfono": "7014-2801 7144-1944",
+        "whatsapp": "7014-2801"
+    },
+    "informacion_general": {
+        "cilindrada": "6000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "151,701 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "BIEGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Ford Lariat Super Duty Centennial Edition. Se escuchan ofertas.",
+        "kilometraje_number": 151701,
+        "cilindrada_number": 6000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 22
+}

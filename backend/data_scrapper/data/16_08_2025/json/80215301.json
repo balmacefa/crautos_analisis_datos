@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80215301",
+    "año": 2016,
+    "marca": "GEELY",
+    "modelo": "GC5",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80215301-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80215301-1.jpg",
+        "https://crautos.com/clasificados/usados/80215301-2.jpg",
+        "https://crautos.com/clasificados/usados/80215301-3.jpg",
+        "https://crautos.com/clasificados/usados/80215301-4.jpg",
+        "https://crautos.com/clasificados/usados/80215301-5.jpg",
+        "https://crautos.com/clasificados/usados/80215301-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA",
+        "teléfono": "6016-2956",
+        "whatsapp": "6016-2956"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Vehículo robusto. De agencia. Interior en perfecto estado..",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

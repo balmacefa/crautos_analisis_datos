@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32179017&Toyota.HIACE%20.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 39841,
+    "precio_usd": 20000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32179017-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32179017-1.jpg",
+        "https://crautos.com/clasificados/usados/32179017-2.jpg",
+        "https://crautos.com/clasificados/usados/32179017-3.jpg",
+        "https://crautos.com/clasificados/usados/32179017-4.jpg",
+        "https://crautos.com/clasificados/usados/32179017-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YESSENIA LARA VANEGAS",
+        "teléfono": "8407-9798 8688-9502",
+        "whatsapp": "8407-9798"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "234,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 234000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

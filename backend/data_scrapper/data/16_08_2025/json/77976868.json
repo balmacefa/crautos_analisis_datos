@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77976868&Chevrolet.SPARK.2009",
+    "año": 2009,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 1195,
+    "precio_usd": 600000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AARÓN ARIAS",
+        "teléfono": "8701-1142",
+        "whatsapp": "8701-1142"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "320,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Atrasado dekra y marchamo problema de aceleración y fuga hidráulico .",
+        "kilometraje_number": 320000,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Asientos eléctricos"
+    ],
+    "antiguedad": 16
+}

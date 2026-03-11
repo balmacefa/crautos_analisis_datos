@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57452012&Mitsubishi.MONTERO%20SPORT.2004",
+    "año": 2004,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57452012-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57452012-1.jpg",
+        "https://crautos.com/clasificados/usados/57452012-2.jpg",
+        "https://crautos.com/clasificados/usados/57452012-3.jpg",
+        "https://crautos.com/clasificados/usados/57452012-4.jpg",
+        "https://crautos.com/clasificados/usados/57452012-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHN SMITH",
+        "teléfono": "7046-2059 8363-9615",
+        "whatsapp": "7046-2059"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en excelente estado. Frenos nuevos llantas Yokohama de alta calidad. Con Snorkel..",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

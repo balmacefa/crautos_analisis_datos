@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96968091&Hyundai.STAREX.2002",
+    "año": 2002,
+    "marca": "HYUNDAI",
+    "modelo": "STAREX",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96968091-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96968091-1.jpg",
+        "https://crautos.com/clasificados/usados/96968091-2.jpg",
+        "https://crautos.com/clasificados/usados/96968091-3.jpg",
+        "https://crautos.com/clasificados/usados/96968091-4.jpg",
+        "https://crautos.com/clasificados/usados/96968091-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HÉCTOR ZAMORA",
+        "teléfono": "8832-7271",
+        "whatsapp": "8832-7271"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "260,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89903003&Audi.Q3.2016",
+    "año": 2016,
+    "marca": "AUDI",
+    "modelo": "Q3",
+    "precio_crc": 18200,
+    "precio_usd": 9136400.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89903003-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89903003-1.jpg",
+        "https://crautos.com/clasificados/usados/89903003-2.jpg",
+        "https://crautos.com/clasificados/usados/89903003-3.jpg",
+        "https://crautos.com/clasificados/usados/89903003-4.jpg",
+        "https://crautos.com/clasificados/usados/89903003-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CARLOS PERALTA",
+        "teléfono": "8827-2969 8896-5541",
+        "whatsapp": "8827-2969"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "74,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "pocos kilómetros cambio reciente del aceite de la caja de transmisión .",
+        "kilometraje_number": 74000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

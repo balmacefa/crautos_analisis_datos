@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29074383&Hyundai.SANTA%20FE%20.2018",
+    "año": 2018,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 27888,
+    "precio_usd": 14000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29074383-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29074383-1.jpg",
+        "https://crautos.com/clasificados/usados/29074383-2.jpg",
+        "https://crautos.com/clasificados/usados/29074383-3.jpg",
+        "https://crautos.com/clasificados/usados/29074383-4.jpg",
+        "https://crautos.com/clasificados/usados/29074383-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GLORIANA NAVARRO",
+        "teléfono": "8706-5686 8856-2018",
+        "whatsapp": "8706-5686"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "86,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "EXTRAS EN EXCELENTE ESTADO ASIENTOS DE CUERO.",
+        "kilometraje_number": 86000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

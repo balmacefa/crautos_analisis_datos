@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7982463&Donfeng%20(ZNA).GLORY%20560.2020",
+    "año": 2020,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) GLORY 560",
+    "precio_crc": 10257,
+    "precio_usd": 5149000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7982463-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7982463-1.jpg",
+        "https://crautos.com/clasificados/usados/7982463-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SCOTIABANK VEHÍCULOS",
+        "teléfono": "2299-0852",
+        "dirección": "Costado Norte del Estadio Nacional, Sabana, Scotiabank San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "88,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Noviembre del 2024",
+        "comentario_vendedor": "Vehiculos de oportunidad Scotiabank, solo venta de contado, se reciben ofertas. Precio negociable.",
+        "kilometraje_number": 88000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Cierre central"
+    ],
+    "antiguedad": 5
+}

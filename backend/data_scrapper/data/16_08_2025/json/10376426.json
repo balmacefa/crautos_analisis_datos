@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10376426&Isuzu.DMAX.2011",
+    "año": 2011,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 19422,
+    "precio_usd": 9750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10376426-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10376426-1.jpg",
+        "https://crautos.com/clasificados/usados/10376426-2.jpg",
+        "https://crautos.com/clasificados/usados/10376426-3.jpg",
+        "https://crautos.com/clasificados/usados/10376426-4.jpg",
+        "https://crautos.com/clasificados/usados/10376426-5.jpg",
+        "https://crautos.com/clasificados/usados/10376426-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON GARCÍA",
+        "teléfono": "8639-6621",
+        "whatsapp": "8639-6621"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "238,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "Todo funcionado, al día. Por dentro ok, AC ok ,alarma y GPS, radio pantalla..",
+        "kilometraje_number": 238000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

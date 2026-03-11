@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7659174&Honda.FIT%20LX.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "FIT LX",
+    "precio_crc": 10159,
+    "precio_usd": 5099990.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7659174-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7659174-1.jpg",
+        "https://crautos.com/clasificados/usados/7659174-2.jpg",
+        "https://crautos.com/clasificados/usados/7659174-3.jpg",
+        "https://crautos.com/clasificados/usados/7659174-4.jpg",
+        "https://crautos.com/clasificados/usados/7659174-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "99,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Junio del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 99000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60559689&Suzuki.SWIFT.2010",
+    "año": 2010,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60559689-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60559689-1.jpg",
+        "https://crautos.com/clasificados/usados/60559689-2.jpg",
+        "https://crautos.com/clasificados/usados/60559689-3.jpg",
+        "https://crautos.com/clasificados/usados/60559689-4.jpg",
+        "https://crautos.com/clasificados/usados/60559689-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROCÍO CASTRO ROJAS",
+        "teléfono": "8320-5840 8624-0090",
+        "whatsapp": "8320-5840"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Abril del 2025",
+        "comentario_vendedor": "GANGA rebajado. Hoja Dekra en blanco. Muy buen estado. .",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91675963&Toyota.ECHO%20SPORT.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "ECHO SPORT",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91675963-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91675963-1.jpg",
+        "https://crautos.com/clasificados/usados/91675963-2.jpg",
+        "https://crautos.com/clasificados/usados/91675963-3.jpg",
+        "https://crautos.com/clasificados/usados/91675963-4.jpg",
+        "https://crautos.com/clasificados/usados/91675963-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GIOVANNI UGALDE MIRANDA",
+        "teléfono": "8977-3164 8438-9900",
+        "whatsapp": "6002-0000"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Llame y negociamos versión Sport muy lindo .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

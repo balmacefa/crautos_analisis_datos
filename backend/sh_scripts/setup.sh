@@ -1,0 +1,1 @@
+# Use this script to setup the docker images

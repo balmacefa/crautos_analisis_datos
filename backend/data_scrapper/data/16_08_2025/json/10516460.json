@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10516460&Mitsubishi.MONTERO%20SPORT%20.2004",
+    "año": 2004,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10516460-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10516460-1.jpg",
+        "https://crautos.com/clasificados/usados/10516460-2.jpg",
+        "https://crautos.com/clasificados/usados/10516460-3.jpg",
+        "https://crautos.com/clasificados/usados/10516460-4.jpg",
+        "https://crautos.com/clasificados/usados/10516460-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEAN CARLO RAMIREZ QUIROS",
+        "teléfono": "7099-4681",
+        "whatsapp": "7099-4681"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "VERDE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Perfectas condiciones sistema de gas inyectado se puede resibir pick up.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

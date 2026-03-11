@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95530283&Daihatsu.TERIOS%20BEGO.2016",
+    "año": 2016,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95530283-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95530283-1.jpg",
+        "https://crautos.com/clasificados/usados/95530283-2.jpg",
+        "https://crautos.com/clasificados/usados/95530283-3.jpg",
+        "https://crautos.com/clasificados/usados/95530283-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN ARGUEDAS",
+        "teléfono": "8675-5742",
+        "whatsapp": "8675-5742"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "316,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VINO QUEMADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Unico dueño en Costa Rica. vehiculo de trabajo en buen estado supernegociable.",
+        "kilometraje_number": 316000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Retrovisores auto-retractibles",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51812451&Nissan.VERSA.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51812451-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51812451-1.jpg",
+        "https://crautos.com/clasificados/usados/51812451-2.jpg",
+        "https://crautos.com/clasificados/usados/51812451-3.jpg",
+        "https://crautos.com/clasificados/usados/51812451-4.jpg",
+        "https://crautos.com/clasificados/usados/51812451-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREA MARIA",
+        "teléfono": "8640-6901",
+        "whatsapp": "8640-6901"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Se encuentra en Puriscal. .",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

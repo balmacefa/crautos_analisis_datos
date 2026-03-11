@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84337307&Suzuki.GRAND%20VITARA.2007",
+    "año": 2007,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84337307-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84337307-1.jpg",
+        "https://crautos.com/clasificados/usados/84337307-2.jpg",
+        "https://crautos.com/clasificados/usados/84337307-3.jpg",
+        "https://crautos.com/clasificados/usados/84337307-4.jpg",
+        "https://crautos.com/clasificados/usados/84337307-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAM MADRIGAL",
+        "teléfono": "8643-9389",
+        "whatsapp": "8643-9389"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "161,626 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Llantas nuevas Dekra al dia.",
+        "kilometraje_number": 161626,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 18
+}

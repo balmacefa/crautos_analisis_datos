@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3526350&Fiat.BRAVA%20SX.2001",
+    "año": 2001,
+    "marca": "FIAT",
+    "modelo": "BRAVA SX",
+    "precio_crc": 3088,
+    "precio_usd": 1550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3526350-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3526350-1.jpg",
+        "https://crautos.com/clasificados/usados/3526350-2.jpg",
+        "https://crautos.com/clasificados/usados/3526350-3.jpg",
+        "https://crautos.com/clasificados/usados/3526350-4.jpg",
+        "https://crautos.com/clasificados/usados/3526350-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIO GAMBOA",
+        "teléfono": "8830-5576",
+        "dirección": "Belén"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "143,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Muy conservado, todo original, muy bajo Km. Italiano..",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29065374",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "RUSH S",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29065374-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29065374-1.jpg",
+        "https://crautos.com/clasificados/usados/29065374-2.jpg",
+        "https://crautos.com/clasificados/usados/29065374-3.jpg",
+        "https://crautos.com/clasificados/usados/29065374-4.jpg",
+        "https://crautos.com/clasificados/usados/29065374-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICARDO SANCHEZ SOTO",
+        "teléfono": "8337-9517"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "67,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "llantas reemplazadas en octubre año pasado.",
+        "kilometraje_number": 67000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

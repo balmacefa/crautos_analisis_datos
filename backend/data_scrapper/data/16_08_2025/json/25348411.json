@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25348411&Mitsubishi.L200%20.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 19522,
+    "precio_usd": 9800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25348411-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25348411-1.jpg",
+        "https://crautos.com/clasificados/usados/25348411-2.jpg",
+        "https://crautos.com/clasificados/usados/25348411-3.jpg",
+        "https://crautos.com/clasificados/usados/25348411-4.jpg",
+        "https://crautos.com/clasificados/usados/25348411-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANUBIO BARQUERO MADRIGAL",
+        "teléfono": "2273-4005",
+        "whatsapp": "8503-3565"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "280,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Aros de lujo .pegadero .",
+        "kilometraje_number": 280000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

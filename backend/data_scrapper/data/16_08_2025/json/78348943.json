@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78348943&Dodge/RAM.RAM%202500.2015",
+    "año": 2015,
+    "marca": "DODGE/RAM",
+    "modelo": "RAM 2500",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78348943-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78348943-1.jpg",
+        "https://crautos.com/clasificados/usados/78348943-2.jpg",
+        "https://crautos.com/clasificados/usados/78348943-3.jpg",
+        "https://crautos.com/clasificados/usados/78348943-4.jpg",
+        "https://crautos.com/clasificados/usados/78348943-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CHRISTOPHER VARGAS",
+        "teléfono": "8952-0295",
+        "whatsapp": "8952-0295"
+    },
+    "informacion_general": {
+        "cilindrada": "6400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "95,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGR",
+        "color_interior": "NEGR",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 6400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

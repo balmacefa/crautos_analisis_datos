@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52377784&Toyota.RAV4.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52377784-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52377784-1.jpg",
+        "https://crautos.com/clasificados/usados/52377784-2.jpg",
+        "https://crautos.com/clasificados/usados/52377784-3.jpg",
+        "https://crautos.com/clasificados/usados/52377784-4.jpg",
+        "https://crautos.com/clasificados/usados/52377784-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO SABORIO",
+        "teléfono": "7205-6686 6219-8500 6121-6912",
+        "whatsapp": "6121-6912"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "193,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Abril del 2025",
+        "comentario_vendedor": "Nacional Record Agencia. Precio negociable. Excelente Condicion. Familiar muy económico.",
+        "kilometraje_number": 193000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

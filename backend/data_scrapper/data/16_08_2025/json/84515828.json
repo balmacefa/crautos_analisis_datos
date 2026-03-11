@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84515828&Toyota.HILUX.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 30478,
+    "precio_usd": 15300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84515828-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84515828-1.jpg",
+        "https://crautos.com/clasificados/usados/84515828-2.jpg",
+        "https://crautos.com/clasificados/usados/84515828-3.jpg",
+        "https://crautos.com/clasificados/usados/84515828-4.jpg",
+        "https://crautos.com/clasificados/usados/84515828-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVE CHAVARRIA ARAYA",
+        "teléfono": "8916-8964 8379-7723",
+        "whatsapp": "8916-8964"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "220,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "KUN26L-HRMDY.",
+        "kilometraje_number": 220000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

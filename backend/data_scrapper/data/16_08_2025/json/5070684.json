@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5070684&Honda.CRV%20EXL.2014",
+    "año": 2014,
+    "marca": "HONDA",
+    "modelo": "CRV EXL",
+    "precio_crc": 19323,
+    "precio_usd": 9699990.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5070684-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5070684-1.jpg",
+        "https://crautos.com/clasificados/usados/5070684-2.jpg",
+        "https://crautos.com/clasificados/usados/5070684-3.jpg",
+        "https://crautos.com/clasificados/usados/5070684-4.jpg",
+        "https://crautos.com/clasificados/usados/5070684-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "CUERO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Mayo del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

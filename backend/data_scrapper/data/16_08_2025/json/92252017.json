@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=92252017&Kia.BONGO%20III.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "BONGO III",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/92252017-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/92252017-1.jpg",
+        "https://crautos.com/clasificados/usados/92252017-2.jpg",
+        "https://crautos.com/clasificados/usados/92252017-3.jpg",
+        "https://crautos.com/clasificados/usados/92252017-4.jpg",
+        "https://crautos.com/clasificados/usados/92252017-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL ZUNIGA",
+        "teléfono": "8344-5694 8692-0380"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "61,750 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Mayo del 2025",
+        "comentario_vendedor": "CERO OXIDO-ACEITE MOTOR Y DE CAJA NUEVOS-EXCELENTE ESTADO-puedo recibir..",
+        "kilometraje_number": 61750,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

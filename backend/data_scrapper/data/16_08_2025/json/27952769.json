@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27952769&Mercedes%20Benz.EQB%20350%204M.2023",
+    "año": 2023,
+    "marca": "MERCEDES BENZ",
+    "modelo": "EQB 350 4M",
+    "precio_crc": 43587,
+    "precio_usd": 21880500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27952769-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27952769-1.jpg",
+        "https://crautos.com/clasificados/usados/27952769-2.jpg",
+        "https://crautos.com/clasificados/usados/27952769-3.jpg",
+        "https://crautos.com/clasificados/usados/27952769-4.jpg",
+        "https://crautos.com/clasificados/usados/27952769-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON BRENES GUZMÁN",
+        "teléfono": "8841-0750",
+        "whatsapp": "8841-0750"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "484 kms",
+        "batería": "215.0 kWh",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "34,478 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE SE PUEDE FINANCIAR.",
+        "kilometraje_number": 34478
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

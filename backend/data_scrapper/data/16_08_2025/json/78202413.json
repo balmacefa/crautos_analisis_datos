@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78202413&Suzuki.APV.2011",
+    "año": 2011,
+    "marca": "SUZUKI",
+    "modelo": "APV",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78202413-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78202413-1.jpg",
+        "https://crautos.com/clasificados/usados/78202413-2.jpg",
+        "https://crautos.com/clasificados/usados/78202413-3.jpg",
+        "https://crautos.com/clasificados/usados/78202413-4.jpg",
+        "https://crautos.com/clasificados/usados/78202413-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MATHIAS LOOSER",
+        "teléfono": "8855-8610 2272-1010",
+        "whatsapp": "8855-8610"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "460,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Acaba de pasar Dekra. Se le hizo overhaul hace poco. Las llantas estan nuevas..",
+        "kilometraje_number": 460000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 14
+}

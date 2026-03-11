@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1707402&Toyota.HIACE.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 33865,
+    "precio_usd": 17000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1707402-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1707402-1.jpg",
+        "https://crautos.com/clasificados/usados/1707402-2.jpg",
+        "https://crautos.com/clasificados/usados/1707402-3.jpg",
+        "https://crautos.com/clasificados/usados/1707402-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOTORES ARROYO",
+        "teléfono": "7109-9166 8383-5377",
+        "dirección": "Barrio Cuba, 100 mtrs norte de la Guardia Rural"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "207,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Perfecto estado dieciséis pasajeros .",
+        "kilometraje_number": 207000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

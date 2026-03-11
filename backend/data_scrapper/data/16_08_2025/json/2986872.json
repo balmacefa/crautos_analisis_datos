@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2986872&Suzuki.CELERIO%20GLX.2018",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO GLX",
+    "precio_crc": 8715,
+    "precio_usd": 4375000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2986872-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2986872-1.jpg",
+        "https://crautos.com/clasificados/usados/2986872-2.jpg",
+        "https://crautos.com/clasificados/usados/2986872-3.jpg",
+        "https://crautos.com/clasificados/usados/2986872-4.jpg",
+        "https://crautos.com/clasificados/usados/2986872-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN PABLO ROJAS",
+        "teléfono": "8485-2638 7194-9962",
+        "dirección": "San Francisco de 2 Ríos"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "106,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Se recibe vehículo de menor valor precio negociable .",
+        "kilometraje_number": 106000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43658060&Nissan.FRONTIER%20NP300.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER NP300",
+    "precio_crc": 27789,
+    "precio_usd": 13950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43658060-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43658060-1.jpg",
+        "https://crautos.com/clasificados/usados/43658060-2.jpg",
+        "https://crautos.com/clasificados/usados/43658060-3.jpg",
+        "https://crautos.com/clasificados/usados/43658060-4.jpg",
+        "https://crautos.com/clasificados/usados/43658060-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BORIS SÁNCHEZ CASTILLO",
+        "teléfono": "8823-5562 8335-4681",
+        "whatsapp": "8823-5562"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "186,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Canopy y Llanta Nuevas Goodyear.",
+        "kilometraje_number": 186000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

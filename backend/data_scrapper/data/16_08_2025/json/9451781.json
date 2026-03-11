@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9451781&Ford.ESCAPE%20.2017",
+    "año": 2017,
+    "marca": "FORD",
+    "modelo": "ESCAPE",
+    "precio_crc": 9036000,
+    "precio_usd": 18000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9451781-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9451781-1.jpg",
+        "https://crautos.com/clasificados/usados/9451781-2.jpg",
+        "https://crautos.com/clasificados/usados/9451781-3.jpg",
+        "https://crautos.com/clasificados/usados/9451781-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO Q",
+        "teléfono": "2522-7474",
+        "whatsapp": "7094-6958",
+        "dirección": "400 mtrs al oeste de la plaza de deportes de La Uruca Frente a la intersección Uruca, Circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "40,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "Precio mas traspaso.",
+        "kilometraje_number": 40000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

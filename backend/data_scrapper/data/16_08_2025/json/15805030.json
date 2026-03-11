@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15805030&Mitsubishi.MONTERO%20SPORT%20XLS.2011",
+    "año": 2011,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT XLS",
+    "precio_crc": 20817,
+    "precio_usd": 10450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15805030-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15805030-1.jpg",
+        "https://crautos.com/clasificados/usados/15805030-2.jpg",
+        "https://crautos.com/clasificados/usados/15805030-3.jpg",
+        "https://crautos.com/clasificados/usados/15805030-4.jpg",
+        "https://crautos.com/clasificados/usados/15805030-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO GOMEZ",
+        "teléfono": "7150-2157",
+        "whatsapp": "7150-2157"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Montero Sport Nativa extras Nacional muy cuidado nada que hacerle recibo doy vuelto.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

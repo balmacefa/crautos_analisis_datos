@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91698552&Toyota.TERCEL.1995",
+    "año": 1995,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 3685,
+    "precio_usd": 1850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91698552-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91698552-1.jpg",
+        "https://crautos.com/clasificados/usados/91698552-2.jpg",
+        "https://crautos.com/clasificados/usados/91698552-3.jpg",
+        "https://crautos.com/clasificados/usados/91698552-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDWIN BALMACEDA",
+        "teléfono": "8888-5366",
+        "whatsapp": "8888-5366"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "negro",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 30
+}

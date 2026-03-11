@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12678932",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 11255,
+    "precio_usd": 5650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12678932-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12678932-1.jpg",
+        "https://crautos.com/clasificados/usados/12678932-2.jpg",
+        "https://crautos.com/clasificados/usados/12678932-3.jpg",
+        "https://crautos.com/clasificados/usados/12678932-4.jpg",
+        "https://crautos.com/clasificados/usados/12678932-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER AZOFEIFA",
+        "teléfono": "8313-7070",
+        "whatsapp": "8313-7070"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "224,000 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "Comprado en Purdy. Solo dos dueños. No Rent a Car. Marchamo-Dekra al día. No choques. No grávamenes .",
+        "kilometraje_number": 224000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

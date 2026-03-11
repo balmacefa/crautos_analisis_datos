@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55781449&Suzuki.SIDEKICK%20SPORT.1998",
+    "año": 1998,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK SPORT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN GARBANZO",
+        "teléfono": "6169-0268 6349-4762",
+        "whatsapp": "6349-4762"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "300 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Friales De Desamparados .",
+        "kilometraje_number": 300,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 27
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65407460&Hyundai.TUCSON%20.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65407460-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65407460-1.jpg",
+        "https://crautos.com/clasificados/usados/65407460-2.jpg",
+        "https://crautos.com/clasificados/usados/65407460-3.jpg",
+        "https://crautos.com/clasificados/usados/65407460-4.jpg",
+        "https://crautos.com/clasificados/usados/65407460-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUGO TREJOS AGÜERO",
+        "teléfono": "8895-1901"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "49,063 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS CLARO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "19 de Marzo del 2024",
+        "comentario_vendedor": "Se encuentra en excelentes condiciones de cochera….",
+        "kilometraje_number": 49063,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

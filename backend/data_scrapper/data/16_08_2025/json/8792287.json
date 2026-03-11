@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8792287&Fiat.DUCATO.2016",
+    "año": 2016,
+    "marca": "FIAT",
+    "modelo": "DUCATO",
+    "precio_crc": 17331,
+    "precio_usd": 8700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8792287-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8792287-1.jpg",
+        "https://crautos.com/clasificados/usados/8792287-2.jpg",
+        "https://crautos.com/clasificados/usados/8792287-3.jpg",
+        "https://crautos.com/clasificados/usados/8792287-4.jpg",
+        "https://crautos.com/clasificados/usados/8792287-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS COLIN",
+        "teléfono": "8707-8363",
+        "whatsapp": "8915-0268",
+        "dirección": "Guadalupe de Cartago 200 mtrs Sur de la entrada principal del Parque Industrial"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "235,800 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE CON NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO,RECIBIMOS VEHICULO DE MENOR VALOR.",
+        "kilometraje_number": 235800,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

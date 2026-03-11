@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40049221&Nissan.FRONTIER.2001",
+    "año": 2001,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40049221-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40049221-1.jpg",
+        "https://crautos.com/clasificados/usados/40049221-2.jpg",
+        "https://crautos.com/clasificados/usados/40049221-3.jpg",
+        "https://crautos.com/clasificados/usados/40049221-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RICKY ACOSTA",
+        "teléfono": "6478-6396",
+        "whatsapp": "6478-6396"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "196,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "Al día .",
+        "kilometraje_number": 196000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 24
+}

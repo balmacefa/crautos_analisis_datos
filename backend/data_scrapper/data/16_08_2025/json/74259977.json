@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74259977&Hyundai.ACCENT%20BLUE.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74259977-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74259977-1.jpg",
+        "https://crautos.com/clasificados/usados/74259977-2.jpg",
+        "https://crautos.com/clasificados/usados/74259977-3.jpg",
+        "https://crautos.com/clasificados/usados/74259977-4.jpg",
+        "https://crautos.com/clasificados/usados/74259977-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN BARQUERO G",
+        "teléfono": "8894-7750 8444-8566 8319-7139",
+        "whatsapp": "8894-7750"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "206,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Al. Día Dekra .",
+        "kilometraje_number": 206000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

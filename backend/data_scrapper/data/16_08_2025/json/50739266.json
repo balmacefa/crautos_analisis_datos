@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50739266&Honda.CRV.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 17729,
+    "precio_usd": 8900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50739266-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50739266-1.jpg",
+        "https://crautos.com/clasificados/usados/50739266-2.jpg",
+        "https://crautos.com/clasificados/usados/50739266-3.jpg",
+        "https://crautos.com/clasificados/usados/50739266-4.jpg",
+        "https://crautos.com/clasificados/usados/50739266-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RANDALL QUIROS",
+        "teléfono": "8346-3833"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "102,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Excelente estafo.",
+        "kilometraje_number": 102000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

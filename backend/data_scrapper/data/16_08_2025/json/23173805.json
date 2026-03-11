@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23173805&Nissan.FRONTIER.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23173805-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23173805-1.jpg",
+        "https://crautos.com/clasificados/usados/23173805-2.jpg",
+        "https://crautos.com/clasificados/usados/23173805-3.jpg",
+        "https://crautos.com/clasificados/usados/23173805-4.jpg",
+        "https://crautos.com/clasificados/usados/23173805-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JASON BONILLA",
+        "teléfono": "7211-1102"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "145,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "Hermoso Frontier impecable, único dueño, sacado de agencia en USA, nunca trabajado..",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 9
+}

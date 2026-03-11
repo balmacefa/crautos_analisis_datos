@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32074707&Mazda.B2300.2009",
+    "año": 2009,
+    "marca": "MAZDA",
+    "modelo": "B2300",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32074707-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32074707-1.jpg",
+        "https://crautos.com/clasificados/usados/32074707-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES MADRIGAL",
+        "teléfono": "8364-0919 6431-2699",
+        "whatsapp": "8364-0919"
+    },
+    "informacion_general": {
+        "cilindrada": "2300 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Se vende o se cambia. Grecia.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 16
+}

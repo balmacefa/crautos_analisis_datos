@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91719571",
+    "año": 2011,
+    "marca": "BMW",
+    "modelo": "328I",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91719571-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91719571-1.jpg",
+        "https://crautos.com/clasificados/usados/91719571-2.jpg",
+        "https://crautos.com/clasificados/usados/91719571-3.jpg",
+        "https://crautos.com/clasificados/usados/91719571-4.jpg",
+        "https://crautos.com/clasificados/usados/91719571-5.jpg",
+        "https://crautos.com/clasificados/usados/91719571-6.jpg",
+        "https://crautos.com/clasificados/usados/91719571-7.jpg",
+        "https://crautos.com/clasificados/usados/91719571-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR ABARCA GARRO",
+        "teléfono": "8318-5075 8824-0176",
+        "whatsapp": "8318-5075"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Julio del 2025",
+        "comentario_vendedor": "Carro en perfecto estado. Impecable.",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

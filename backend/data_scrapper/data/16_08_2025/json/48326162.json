@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48326162&Chevrolet.SPARK%20GO%20LT.2015",
+    "año": 2015,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK GO LT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48326162-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48326162-1.jpg",
+        "https://crautos.com/clasificados/usados/48326162-2.jpg",
+        "https://crautos.com/clasificados/usados/48326162-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "THELMA ZELEDON",
+        "teléfono": "8556-8727",
+        "whatsapp": "8556-8727"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Rtv al día batería nueva cambio de aceite . Única dueña . Urge vender .",
+        "kilometraje_number": 170,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2587289&Toyota.HILUX.2019",
+    "año": 2019,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 19661208,
+    "precio_usd": 39166.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2587289-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2587289-1.jpg",
+        "https://crautos.com/clasificados/usados/2587289-2.jpg",
+        "https://crautos.com/clasificados/usados/2587289-3.jpg",
+        "https://crautos.com/clasificados/usados/2587289-4.jpg",
+        "https://crautos.com/clasificados/usados/2587289-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STARCARS LA URUCA",
+        "teléfono": "4105-6654 8860-9090 8713-6343",
+        "whatsapp": "8860-9090",
+        "dirección": "La Uruca Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "165,360 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Enero del 2025",
+        "comentario_vendedor": "FINANCIAMIENTO DISPONIBLE, CUATRO POR CUATRO, PRIMA BAJAS.",
+        "kilometraje_number": 165360,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 6
+}

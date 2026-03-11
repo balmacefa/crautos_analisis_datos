@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49597585&Honda.CIVIC.1999",
+    "año": 1999,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 4582,
+    "precio_usd": 2300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49597585-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49597585-1.jpg",
+        "https://crautos.com/clasificados/usados/49597585-2.jpg",
+        "https://crautos.com/clasificados/usados/49597585-3.jpg",
+        "https://crautos.com/clasificados/usados/49597585-4.jpg",
+        "https://crautos.com/clasificados/usados/49597585-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES CHAVES",
+        "teléfono": "7026-6462 7271-0548 8375-6329",
+        "whatsapp": "7026-6462"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "245,250 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "El carro tiene detalles de pintura y raspones solo de enderezado y pintura y listo .",
+        "kilometraje_number": 245250,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

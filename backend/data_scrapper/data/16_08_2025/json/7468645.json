@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7468645&Mercedes%20Benz.G400%20CDI.2005",
+    "año": 2005,
+    "marca": "MERCEDES BENZ",
+    "modelo": "G400 CDI",
+    "precio_crc": 24598000,
+    "precio_usd": 49000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7468645-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7468645-1.jpg",
+        "https://crautos.com/clasificados/usados/7468645-2.jpg",
+        "https://crautos.com/clasificados/usados/7468645-3.jpg",
+        "https://crautos.com/clasificados/usados/7468645-4.jpg",
+        "https://crautos.com/clasificados/usados/7468645-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIO GAMBOA",
+        "teléfono": "8830-5576",
+        "dirección": "Belén"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "CUERO NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Nacional, muy poco uso, y de ciudad. .",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

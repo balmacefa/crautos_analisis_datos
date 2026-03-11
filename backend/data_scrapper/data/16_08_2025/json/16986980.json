@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16986980&Toyota.HILUX%20.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 45219,
+    "precio_usd": 22700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16986980-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16986980-1.jpg",
+        "https://crautos.com/clasificados/usados/16986980-2.jpg",
+        "https://crautos.com/clasificados/usados/16986980-3.jpg",
+        "https://crautos.com/clasificados/usados/16986980-4.jpg",
+        "https://crautos.com/clasificados/usados/16986980-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL CÓRDOBA",
+        "teléfono": "8476-0828"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "79,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Financiamiento disponible para asalariados e independientes .",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

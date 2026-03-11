@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2984994&Piaggio.PORTER.2018",
+    "año": 2018,
+    "modelo": "Piaggio PORTER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2984994-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2984994-1.jpg",
+        "https://crautos.com/clasificados/usados/2984994-2.jpg",
+        "https://crautos.com/clasificados/usados/2984994-3.jpg",
+        "https://crautos.com/clasificados/usados/2984994-4.jpg",
+        "https://crautos.com/clasificados/usados/2984994-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "26 de Mayo del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. INFO: WhatsApp. GAS LP.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 7
+}

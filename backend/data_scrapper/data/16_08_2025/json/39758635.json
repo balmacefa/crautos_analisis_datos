@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39758635&Nissan.XTERRA.2002",
+    "año": 2002,
+    "marca": "NISSAN",
+    "modelo": "XTERRA",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39758635-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39758635-1.jpg",
+        "https://crautos.com/clasificados/usados/39758635-2.jpg",
+        "https://crautos.com/clasificados/usados/39758635-3.jpg",
+        "https://crautos.com/clasificados/usados/39758635-4.jpg",
+        "https://crautos.com/clasificados/usados/39758635-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANKLIN TORRES",
+        "teléfono": "8856-7983 8537-6341",
+        "whatsapp": "8856-7983"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "274,703 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE OSCURO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "kilometraje_number": 274703,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 23
+}

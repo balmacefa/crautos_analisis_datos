@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46814671&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46814671-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46814671-1.jpg",
+        "https://crautos.com/clasificados/usados/46814671-2.jpg",
+        "https://crautos.com/clasificados/usados/46814671-3.jpg",
+        "https://crautos.com/clasificados/usados/46814671-4.jpg",
+        "https://crautos.com/clasificados/usados/46814671-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CALEB PÉREZ",
+        "teléfono": "6240-3793"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

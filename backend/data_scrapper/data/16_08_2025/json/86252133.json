@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86252133&Honda.CRV%20.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86252133-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86252133-1.jpg",
+        "https://crautos.com/clasificados/usados/86252133-2.jpg",
+        "https://crautos.com/clasificados/usados/86252133-3.jpg",
+        "https://crautos.com/clasificados/usados/86252133-4.jpg",
+        "https://crautos.com/clasificados/usados/86252133-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "REBECA GONZALEZ LUNA",
+        "teléfono": "8536-3018",
+        "whatsapp": "7261-6200"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "182,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Precio Negociable.",
+        "kilometraje_number": 182000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

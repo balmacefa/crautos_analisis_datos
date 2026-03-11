@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53824875&Suzuki.SIDEKICK.1997",
+    "año": 1997,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53824875-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53824875-1.jpg",
+        "https://crautos.com/clasificados/usados/53824875-2.jpg",
+        "https://crautos.com/clasificados/usados/53824875-3.jpg",
+        "https://crautos.com/clasificados/usados/53824875-4.jpg",
+        "https://crautos.com/clasificados/usados/53824875-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RUGI",
+        "teléfono": "8833-3390",
+        "whatsapp": "8833-3390"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Todo al día - Firma de inmediato.",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

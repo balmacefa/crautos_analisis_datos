@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56979332&Jeep.WRANGLER%20TJ.1997",
+    "año": 1997,
+    "marca": "JEEP",
+    "modelo": "WRANGLER TJ",
+    "precio_crc": 20518,
+    "precio_usd": 10300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56979332-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56979332-1.jpg",
+        "https://crautos.com/clasificados/usados/56979332-2.jpg",
+        "https://crautos.com/clasificados/usados/56979332-3.jpg",
+        "https://crautos.com/clasificados/usados/56979332-4.jpg",
+        "https://crautos.com/clasificados/usados/56979332-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO MONTANARI",
+        "teléfono": "8740-2145",
+        "whatsapp": "8740-2145"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "105,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Junio del 2025",
+        "comentario_vendedor": "Conversión a bobina, computadora reprogramable, puedo recibir vehículo .",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 28
+}

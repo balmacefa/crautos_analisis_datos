@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51040790&Nissan.TIIDA.2008",
+    "año": 2008,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51040790-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51040790-1.jpg",
+        "https://crautos.com/clasificados/usados/51040790-2.jpg",
+        "https://crautos.com/clasificados/usados/51040790-3.jpg",
+        "https://crautos.com/clasificados/usados/51040790-4.jpg",
+        "https://crautos.com/clasificados/usados/51040790-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIAN PERINI",
+        "teléfono": "8354-0156",
+        "whatsapp": "8354-0156"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "145,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Muy buen Estado Poco kilometraje. Se muestra en Belen de Heredia..",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66122553&Suzuki.SIDEKICK.1995",
+    "año": 1995,
+    "marca": "SUZUKI",
+    "modelo": "SIDEKICK",
+    "precio_crc": 4681,
+    "precio_usd": 2350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66122553-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66122553-1.jpg",
+        "https://crautos.com/clasificados/usados/66122553-2.jpg",
+        "https://crautos.com/clasificados/usados/66122553-3.jpg",
+        "https://crautos.com/clasificados/usados/66122553-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID FONSECA BOZA",
+        "teléfono": "8854-7502",
+        "whatsapp": "8854-7502"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "220,700 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Carro en buen estado. Al día. .",
+        "kilometraje_number": 220700,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31199813&Toyota.RAV4.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN CRUZ",
+        "teléfono": "8495-2494",
+        "whatsapp": "6190-8830"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "10 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "AZUL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Todo al día Firma de una.",
+        "kilometraje_number": 10,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 29
+}

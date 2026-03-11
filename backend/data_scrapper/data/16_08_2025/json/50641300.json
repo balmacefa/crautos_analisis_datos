@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50641300&Chevrolet.COLORADO.2005",
+    "año": 2005,
+    "marca": "CHEVROLET",
+    "modelo": "COLORADO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50641300-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50641300-1.jpg",
+        "https://crautos.com/clasificados/usados/50641300-2.jpg",
+        "https://crautos.com/clasificados/usados/50641300-3.jpg",
+        "https://crautos.com/clasificados/usados/50641300-4.jpg",
+        "https://crautos.com/clasificados/usados/50641300-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FELIX ANTONIO QUESADA",
+        "teléfono": "8678-7852",
+        "whatsapp": "8678-7852"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "204,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "SE CAMBIA POR ELANTRA O TUCSON..",
+        "kilometraje_number": 204000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

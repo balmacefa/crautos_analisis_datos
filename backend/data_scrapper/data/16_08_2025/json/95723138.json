@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95723138&Mitsubishi.OUTLANDER.2019",
+    "año": 2019,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95723138-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95723138-1.jpg",
+        "https://crautos.com/clasificados/usados/95723138-2.jpg",
+        "https://crautos.com/clasificados/usados/95723138-3.jpg",
+        "https://crautos.com/clasificados/usados/95723138-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HAROLD VALVERDE",
+        "teléfono": "8515-3400",
+        "whatsapp": "8515-3400"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "84,899 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS Y BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Excelentes condiciones y se encuentra al día..",
+        "kilometraje_number": 84899,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 6
+}

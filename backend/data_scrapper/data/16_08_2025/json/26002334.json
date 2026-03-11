@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26002334&Toyota.TERCEL%20.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26002334-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26002334-1.jpg",
+        "https://crautos.com/clasificados/usados/26002334-2.jpg",
+        "https://crautos.com/clasificados/usados/26002334-3.jpg",
+        "https://crautos.com/clasificados/usados/26002334-4.jpg",
+        "https://crautos.com/clasificados/usados/26002334-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAMELA GODÍNEZ",
+        "teléfono": "6344-9529 8987-0216",
+        "whatsapp": "6344-9529"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "189,151 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Precio negociable .",
+        "kilometraje_number": 189151,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Halógenos"
+    ],
+    "antiguedad": 29
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54439502&Nissan.FRONTIER%20.1999",
+    "año": 1999,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54439502-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54439502-1.jpg",
+        "https://crautos.com/clasificados/usados/54439502-2.jpg",
+        "https://crautos.com/clasificados/usados/54439502-3.jpg",
+        "https://crautos.com/clasificados/usados/54439502-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO PEREZ M.",
+        "teléfono": "8897-5519",
+        "whatsapp": "8897-5519"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Marzo del 2025",
+        "comentario_vendedor": "Excelente estado precio negociable .",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

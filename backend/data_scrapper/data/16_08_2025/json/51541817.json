@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51541817&Toyota.RAV4.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51541817-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51541817-1.jpg",
+        "https://crautos.com/clasificados/usados/51541817-2.jpg",
+        "https://crautos.com/clasificados/usados/51541817-3.jpg",
+        "https://crautos.com/clasificados/usados/51541817-4.jpg",
+        "https://crautos.com/clasificados/usados/51541817-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANFRED NÚÑEZ ALVARADO",
+        "teléfono": "8646-9344",
+        "whatsapp": "8646-9344"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "217,455 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": ".",
+        "kilometraje_number": 217455,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

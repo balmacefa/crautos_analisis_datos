@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47570625&BMW.X3.2014",
+    "año": 2014,
+    "marca": "BMW",
+    "modelo": "X3",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47570625-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47570625-1.jpg",
+        "https://crautos.com/clasificados/usados/47570625-2.jpg",
+        "https://crautos.com/clasificados/usados/47570625-3.jpg",
+        "https://crautos.com/clasificados/usados/47570625-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR NAVAS",
+        "teléfono": "8383-8078",
+        "whatsapp": "7109-2277"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "209,671 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO - ECONOMICO - DIESEL - AUTOMATICO.",
+        "kilometraje_number": 209671,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

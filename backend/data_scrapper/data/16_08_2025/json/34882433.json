@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34882433&Honda.CIVIC%20V-TEC.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CIVIC V-TEC",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34882433-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34882433-1.jpg",
+        "https://crautos.com/clasificados/usados/34882433-2.jpg",
+        "https://crautos.com/clasificados/usados/34882433-3.jpg",
+        "https://crautos.com/clasificados/usados/34882433-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS ALPIZAR",
+        "teléfono": "8992-9397",
+        "whatsapp": "8992-9397"
+    },
+    "informacion_general": {
+        "cilindrada": "1700 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "218,600 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "LED en el interior de colores. Decoraciones en rojo en el interior y Calipers .",
+        "kilometraje_number": 218600,
+        "cilindrada_number": 1700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

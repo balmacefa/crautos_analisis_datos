@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38197869&Honda.CIVIC%20.2006",
+    "año": 2006,
+    "marca": "HONDA",
+    "modelo": "CIVIC",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/38197869-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/38197869-1.jpg",
+        "https://crautos.com/clasificados/usados/38197869-2.jpg",
+        "https://crautos.com/clasificados/usados/38197869-3.jpg",
+        "https://crautos.com/clasificados/usados/38197869-4.jpg",
+        "https://crautos.com/clasificados/usados/38197869-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CELESTE FUENTES",
+        "teléfono": "8352-3736",
+        "whatsapp": "8352-3736"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "23,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Tiene batería nueva se vende porque no se usa anda directo se entrega catalizador original .",
+        "kilometraje_number": 23000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

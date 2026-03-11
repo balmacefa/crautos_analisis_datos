@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82465226&Nissan.FRONTIER%20.1998",
+    "año": 1998,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 8765,
+    "precio_usd": 4400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82465226-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82465226-1.jpg",
+        "https://crautos.com/clasificados/usados/82465226-2.jpg",
+        "https://crautos.com/clasificados/usados/82465226-3.jpg",
+        "https://crautos.com/clasificados/usados/82465226-4.jpg",
+        "https://crautos.com/clasificados/usados/82465226-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN BARBOZA",
+        "teléfono": "7037-3626",
+        "whatsapp": "7037-3626"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Libre de gravámenes aal día ffirma inmediata .",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 27
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40950965&Toyota.TERCEL.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40950965-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40950965-1.jpg",
+        "https://crautos.com/clasificados/usados/40950965-2.jpg",
+        "https://crautos.com/clasificados/usados/40950965-3.jpg",
+        "https://crautos.com/clasificados/usados/40950965-4.jpg",
+        "https://crautos.com/clasificados/usados/40950965-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HERNÁN VILLALOBOS",
+        "teléfono": "8398-6372",
+        "whatsapp": "8398-6372"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "266,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Se puede cambiar por otro carro cuatro puertas. Caja cuarta, muy económico. Llantas nuevas..",
+        "kilometraje_number": 266000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 29
+}

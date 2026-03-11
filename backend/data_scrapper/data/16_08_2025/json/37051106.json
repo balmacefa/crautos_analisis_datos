@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=37051106&Honda.CRV.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/37051106-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/37051106-1.jpg",
+        "https://crautos.com/clasificados/usados/37051106-2.jpg",
+        "https://crautos.com/clasificados/usados/37051106-3.jpg",
+        "https://crautos.com/clasificados/usados/37051106-4.jpg",
+        "https://crautos.com/clasificados/usados/37051106-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLGER RAMIREZ DELGADO",
+        "teléfono": "8973-7619",
+        "whatsapp": "8973-7619"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "181,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "kilometraje_number": 181000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 22
+}

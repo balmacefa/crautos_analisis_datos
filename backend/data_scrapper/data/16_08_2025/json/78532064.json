@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78532064",
+    "año": 2023,
+    "marca": "GEELY",
+    "modelo": "GX3",
+    "precio_crc": 14940,
+    "precio_usd": 7500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78532064-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78532064-1.jpg",
+        "https://crautos.com/clasificados/usados/78532064-2.jpg",
+        "https://crautos.com/clasificados/usados/78532064-3.jpg",
+        "https://crautos.com/clasificados/usados/78532064-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEPHANNIE HERNANDEZ",
+        "teléfono": "8318-1568",
+        "whatsapp": "8318-1568"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "43,256 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Carro en buen estado. Lo estoy vendiendo porque me voy de CR.",
+        "kilometraje_number": 43256,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

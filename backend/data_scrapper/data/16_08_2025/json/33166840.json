@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33166840&Nissan.KICKS.2020",
+    "año": 2020,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 17928,
+    "precio_usd": 9000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33166840-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33166840-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA LIDIETH CHACÓN SANABRIA",
+        "teléfono": "7113-3899",
+        "whatsapp": "7113-3899"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "87,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Dekra hasta en dos años cámara de retroceso asientos en cuero.",
+        "kilometraje_number": 87000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}

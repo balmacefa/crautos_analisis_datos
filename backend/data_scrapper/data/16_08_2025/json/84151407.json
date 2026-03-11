@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84151407&Hyundai.ELANTRA.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84151407-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84151407-1.jpg",
+        "https://crautos.com/clasificados/usados/84151407-2.jpg",
+        "https://crautos.com/clasificados/usados/84151407-3.jpg",
+        "https://crautos.com/clasificados/usados/84151407-4.jpg",
+        "https://crautos.com/clasificados/usados/84151407-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RUTH QUIROS",
+        "teléfono": "8975-7818 8324-9988",
+        "whatsapp": "8324-9988"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "195,075 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS/NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Se escuchan ofertas. .",
+        "kilometraje_number": 195075,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

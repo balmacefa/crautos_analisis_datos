@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61582959&Nissan.TIIDA.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61582959-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61582959-1.jpg",
+        "https://crautos.com/clasificados/usados/61582959-2.jpg",
+        "https://crautos.com/clasificados/usados/61582959-3.jpg",
+        "https://crautos.com/clasificados/usados/61582959-4.jpg",
+        "https://crautos.com/clasificados/usados/61582959-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREIVIN SOLIS",
+        "teléfono": "8899-1551",
+        "whatsapp": "8899-1551"
+    },
+    "informacion_general": {
+        "cilindrada": "1598 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "183,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Solo dos dueños no usado en plataformas rtv en blanco.",
+        "kilometraje_number": 183000,
+        "cilindrada_number": 1598
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66350719&Hyundai.PORTER%202%20PLUS.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "PORTER 2 PLUS",
+    "precio_crc": 17829,
+    "precio_usd": 8950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66350719-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66350719-1.jpg",
+        "https://crautos.com/clasificados/usados/66350719-2.jpg",
+        "https://crautos.com/clasificados/usados/66350719-3.jpg",
+        "https://crautos.com/clasificados/usados/66350719-4.jpg",
+        "https://crautos.com/clasificados/usados/66350719-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODRIGO LEON",
+        "teléfono": "8555-7313",
+        "whatsapp": "8555-7313"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "156,919 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO CAJON REFRIGERADO SIRVE PARA CONGELADOS.",
+        "kilometraje_number": 156919,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 10
+}

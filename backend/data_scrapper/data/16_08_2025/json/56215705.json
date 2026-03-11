@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56215705&Suzuki.CELERIO%20GLX.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO GLX",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56215705-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56215705-1.jpg",
+        "https://crautos.com/clasificados/usados/56215705-2.jpg",
+        "https://crautos.com/clasificados/usados/56215705-3.jpg",
+        "https://crautos.com/clasificados/usados/56215705-4.jpg",
+        "https://crautos.com/clasificados/usados/56215705-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA QUESADA ARAYA",
+        "teléfono": "8464-7666 8836-4945 8891-9397",
+        "whatsapp": "8464-7666"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "65,580 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Poco kilometraje!!!!.",
+        "kilometraje_number": 65580,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

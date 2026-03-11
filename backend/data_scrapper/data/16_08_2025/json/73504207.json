@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73504207&Toyota.COROLLA.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73504207-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73504207-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA MARIA SANDINO",
+        "teléfono": "8369-4465",
+        "whatsapp": "8369-4465"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS METALICO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Llantas y batería nuevas perfecto estado..",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

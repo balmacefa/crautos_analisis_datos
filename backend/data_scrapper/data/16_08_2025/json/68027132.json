@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68027132&Toyota.YARIS%20E.2020",
+    "año": 2020,
+    "marca": "TOYOTA",
+    "modelo": "YARIS E",
+    "precio_crc": 17430,
+    "precio_usd": 8750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68027132-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68027132-1.jpg",
+        "https://crautos.com/clasificados/usados/68027132-2.jpg",
+        "https://crautos.com/clasificados/usados/68027132-3.jpg",
+        "https://crautos.com/clasificados/usados/68027132-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO RODRIGUEZ",
+        "teléfono": "6260-4366",
+        "whatsapp": "6260-4366"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "77,300 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Marzo del 2025",
+        "comentario_vendedor": "Tiene Dekra por dos años pintura impecable todo al día cómo nuevo se vende por poco uso .",
+        "kilometraje_number": 77300,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 5
+}

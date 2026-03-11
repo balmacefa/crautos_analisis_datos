@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=83509900&Ford.ESCAPE.2013",
+    "año": 2013,
+    "marca": "FORD",
+    "modelo": "ESCAPE",
+    "precio_crc": 5378,
+    "precio_usd": 2700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/83509900-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/83509900-1.jpg",
+        "https://crautos.com/clasificados/usados/83509900-2.jpg",
+        "https://crautos.com/clasificados/usados/83509900-3.jpg",
+        "https://crautos.com/clasificados/usados/83509900-4.jpg",
+        "https://crautos.com/clasificados/usados/83509900-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CASTRO",
+        "teléfono": "8343-5355 8856-6033",
+        "whatsapp": "8343-5355"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "96,873 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "Negro",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "PRECIO EN ALMACEN FISCAL, DEBE IMPUESTOS DE NACIONALIZACIÓN..",
+        "kilometraje_number": 96873,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

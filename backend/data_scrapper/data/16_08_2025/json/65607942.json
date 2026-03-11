@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65607942&Toyota.1000.1986",
+    "año": 1986,
+    "marca": "TOYOTA",
+    "modelo": "1000",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE HERRERA",
+        "teléfono": "8815-0453",
+        "whatsapp": "8815-0453"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "87,891 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Un carro casi casi original es el clasico del abuelo.",
+        "kilometraje_number": 87891,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 39
+}

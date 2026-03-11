@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86212182&Suzuki.GRAND%20VITARA.2006",
+    "año": 2006,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86212182-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86212182-1.jpg",
+        "https://crautos.com/clasificados/usados/86212182-2.jpg",
+        "https://crautos.com/clasificados/usados/86212182-3.jpg",
+        "https://crautos.com/clasificados/usados/86212182-4.jpg",
+        "https://crautos.com/clasificados/usados/86212182-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YORDAN VARGAS",
+        "teléfono": "8875-6021 8816-6513",
+        "whatsapp": "8875-6021"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "143,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Se Vende o se cambia por Yaris o Corolla! Excelente Estado! Llantas Nuevas! Único Dueño en CR.",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

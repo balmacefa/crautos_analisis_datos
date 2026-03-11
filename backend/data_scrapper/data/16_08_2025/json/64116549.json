@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64116549&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64116549-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64116549-1.jpg",
+        "https://crautos.com/clasificados/usados/64116549-2.jpg",
+        "https://crautos.com/clasificados/usados/64116549-3.jpg",
+        "https://crautos.com/clasificados/usados/64116549-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO GONZALEZ",
+        "teléfono": "8876-9320",
+        "whatsapp": "8876-9320"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Bujias bobinas .bateria. nuevos.",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 25
+}

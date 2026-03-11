@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35420267&Kia.K2500.2025",
+    "año": 2025,
+    "marca": "KIA",
+    "modelo": "K2500",
+    "precio_crc": 31673,
+    "precio_usd": 15900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35420267-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35420267-1.jpg",
+        "https://crautos.com/clasificados/usados/35420267-2.jpg",
+        "https://crautos.com/clasificados/usados/35420267-3.jpg",
+        "https://crautos.com/clasificados/usados/35420267-4.jpg",
+        "https://crautos.com/clasificados/usados/35420267-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLY ROMERO SAENZ",
+        "teléfono": "7018-5363",
+        "whatsapp": "7018-5363"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "8,161 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "nuevo termine de estrenar 4X4 extras garantia de agencia. Para Inscribir.",
+        "kilometraje_number": 8161,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 0
+}

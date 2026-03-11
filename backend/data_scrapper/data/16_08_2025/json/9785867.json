@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9785867&Hyundai.TERRACAN%20.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "TERRACAN",
+    "precio_crc": 5417624,
+    "precio_usd": 10792.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9785867-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9785867-1.jpg",
+        "https://crautos.com/clasificados/usados/9785867-2.jpg",
+        "https://crautos.com/clasificados/usados/9785867-3.jpg",
+        "https://crautos.com/clasificados/usados/9785867-4.jpg",
+        "https://crautos.com/clasificados/usados/9785867-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IMPORKOR S.A",
+        "teléfono": "6299-5630 8379-6625 7208-6245",
+        "whatsapp": "6299-5630",
+        "dirección": "Santa Ana, Calle margarita, 25 metros Este de Auto Star"
+    },
+    "informacion_general": {
+        "cilindrada": "2900 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "92,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Abril del 2025",
+        "comentario_vendedor": "CUATRO POR CUATRO SIETE PASAJEROS .",
+        "kilometraje_number": 92000,
+        "cilindrada_number": 2900
+    },
+    "equipamiento": [],
+    "antiguedad": 19
+}

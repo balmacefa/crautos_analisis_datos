@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1847333&Suzuki.CELERIO.2010",
+    "año": 2010,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1847333-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1847333-1.jpg",
+        "https://crautos.com/clasificados/usados/1847333-2.jpg",
+        "https://crautos.com/clasificados/usados/1847333-3.jpg",
+        "https://crautos.com/clasificados/usados/1847333-4.jpg",
+        "https://crautos.com/clasificados/usados/1847333-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ROPE",
+        "teléfono": "8868-5124",
+        "dirección": "Cartago centro Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "170,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Excelente Estado !! Precio Incluye Traspaso !!!.",
+        "kilometraje_number": 170000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 15
+}

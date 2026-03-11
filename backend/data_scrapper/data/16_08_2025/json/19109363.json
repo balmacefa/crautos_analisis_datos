@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19109363&Hyundai.ACCENT.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19109363-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19109363-1.jpg",
+        "https://crautos.com/clasificados/usados/19109363-2.jpg",
+        "https://crautos.com/clasificados/usados/19109363-3.jpg",
+        "https://crautos.com/clasificados/usados/19109363-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KAROL HERRERA",
+        "teléfono": "8844-9669",
+        "whatsapp": "8844-9669"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "74,100 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Se vende para cambiar de carro está en excelente estado Se inscribió el año pasado.",
+        "kilometraje_number": 74100,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

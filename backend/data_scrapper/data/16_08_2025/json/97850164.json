@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97850164&Hyundai.ACCENT.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8265,
+    "precio_usd": 4149000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97850164-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97850164-1.jpg",
+        "https://crautos.com/clasificados/usados/97850164-2.jpg",
+        "https://crautos.com/clasificados/usados/97850164-3.jpg",
+        "https://crautos.com/clasificados/usados/97850164-4.jpg",
+        "https://crautos.com/clasificados/usados/97850164-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEPHEN",
+        "teléfono": "6389-9604",
+        "whatsapp": "6389-9604"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "97,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Julio del 2025",
+        "comentario_vendedor": "Exc.Est.Incluye Traspaso Neg de Contado.",
+        "kilometraje_number": 97000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara 360",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

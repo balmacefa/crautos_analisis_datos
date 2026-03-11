@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76063122&Citroen.C3.2013",
+    "año": 2013,
+    "marca": "CITROEN",
+    "modelo": "C3",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76063122-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76063122-1.jpg",
+        "https://crautos.com/clasificados/usados/76063122-2.jpg",
+        "https://crautos.com/clasificados/usados/76063122-3.jpg",
+        "https://crautos.com/clasificados/usados/76063122-4.jpg",
+        "https://crautos.com/clasificados/usados/76063122-5.jpg",
+        "https://crautos.com/clasificados/usados/76063122-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SHIRLEY CALVO VARGAS",
+        "teléfono": "8808-4232 8801-1353"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "128,390 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS CLARO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Segunda dueña - Excelente estado.",
+        "kilometraje_number": 128390,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

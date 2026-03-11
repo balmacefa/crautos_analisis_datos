@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3815125&Kia.K2500%20TURBO.2024",
+    "año": 2024,
+    "marca": "KIA",
+    "modelo": "K2500 TURBO",
+    "precio_crc": 14934500,
+    "precio_usd": 29750.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3815125-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3815125-1.jpg",
+        "https://crautos.com/clasificados/usados/3815125-2.jpg",
+        "https://crautos.com/clasificados/usados/3815125-3.jpg",
+        "https://crautos.com/clasificados/usados/3815125-4.jpg",
+        "https://crautos.com/clasificados/usados/3815125-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS 4X4 DEL OESTE",
+        "teléfono": "8823-1617 2239-5947 8383-3829",
+        "dirección": "Heredia, San Antonio de Belén, 200mtrs Este de Rumba Disco Club"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "3,250 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "GARANTIA DEL FABRICANTE, ESTA NUEVO, VERSION NACIONAL QUALITY MOTORS.",
+        "kilometraje_number": 3250,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 1
+}

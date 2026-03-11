@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26792179&Suzuki.SX4.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26792179-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26792179-1.jpg",
+        "https://crautos.com/clasificados/usados/26792179-2.jpg",
+        "https://crautos.com/clasificados/usados/26792179-3.jpg",
+        "https://crautos.com/clasificados/usados/26792179-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATTIA JIMÉNEZ CASTRO",
+        "teléfono": "8888-0983 8825-1015 7003-6233",
+        "whatsapp": "8888-0983"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "172,226 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Una sola dueña récords de agencia los .km.",
+        "kilometraje_number": 172226,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

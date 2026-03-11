@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11357130&Fiat.STRADA%20WORKING.2017",
+    "año": 2017,
+    "marca": "FIAT",
+    "modelo": "STRADA WORKING",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11357130-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11357130-1.jpg",
+        "https://crautos.com/clasificados/usados/11357130-2.jpg",
+        "https://crautos.com/clasificados/usados/11357130-3.jpg",
+        "https://crautos.com/clasificados/usados/11357130-4.jpg",
+        "https://crautos.com/clasificados/usados/11357130-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO RAMIREZ",
+        "teléfono": "8408-1152",
+        "whatsapp": "8408-1152"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Carro de cochera. Seis meses de garantía por escrito. .",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

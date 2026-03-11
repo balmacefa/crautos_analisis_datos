@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26390480&Suzuki.JIMNY.2007",
+    "año": 2007,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26390480-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26390480-1.jpg",
+        "https://crautos.com/clasificados/usados/26390480-2.jpg",
+        "https://crautos.com/clasificados/usados/26390480-3.jpg",
+        "https://crautos.com/clasificados/usados/26390480-4.jpg",
+        "https://crautos.com/clasificados/usados/26390480-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO LEON",
+        "teléfono": "8385-2040",
+        "whatsapp": "8385-2040"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Modelo JLX aros deportivos originales canasta original pantalla android halogenos en buen estado.",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

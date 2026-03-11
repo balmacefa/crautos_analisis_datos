@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80825314&Kia.BONGO.2018",
+    "año": 2018,
+    "marca": "KIA",
+    "modelo": "BONGO",
+    "precio_crc": 19522,
+    "precio_usd": 9800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80825314-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80825314-1.jpg",
+        "https://crautos.com/clasificados/usados/80825314-2.jpg",
+        "https://crautos.com/clasificados/usados/80825314-3.jpg",
+        "https://crautos.com/clasificados/usados/80825314-4.jpg",
+        "https://crautos.com/clasificados/usados/80825314-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE CASTILLO",
+        "teléfono": "8838-2450",
+        "whatsapp": "8838-2450"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "44,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "CRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Refrigerado techo alto muy buen estado - PARA INSCRIBIR -.",
+        "kilometraje_number": 44000,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54343845&Toyota.RAV4.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54343845-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54343845-1.jpg",
+        "https://crautos.com/clasificados/usados/54343845-2.jpg",
+        "https://crautos.com/clasificados/usados/54343845-3.jpg",
+        "https://crautos.com/clasificados/usados/54343845-4.jpg",
+        "https://crautos.com/clasificados/usados/54343845-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN BARRANTES",
+        "teléfono": "8678-9474",
+        "whatsapp": "8678-9474"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "171,811 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 171811,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 21
+}

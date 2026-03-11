@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69982327&Mercedes%20Benz.C280.2000",
+    "año": 2000,
+    "marca": "MERCEDES BENZ",
+    "modelo": "C280",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HEBEL ABELLAN ROSADO",
+        "teléfono": "8391-5207",
+        "whatsapp": "8391-5207"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "196,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Motor en muy buen estado detalles en carrocería e interiores de cuero con algunos daños.",
+        "kilometraje_number": 196000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 25
+}

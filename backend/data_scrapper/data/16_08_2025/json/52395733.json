@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52395733&Honda.CRV.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52395733-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52395733-1.jpg",
+        "https://crautos.com/clasificados/usados/52395733-2.jpg",
+        "https://crautos.com/clasificados/usados/52395733-3.jpg",
+        "https://crautos.com/clasificados/usados/52395733-4.jpg",
+        "https://crautos.com/clasificados/usados/52395733-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN JIMÉNEZ",
+        "teléfono": "8717-9300 6070-0196"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTES CONDICIONES MECANICAS-PLANTA SONIDO-BATERIA NUEVA-NEGOCIEMOS.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

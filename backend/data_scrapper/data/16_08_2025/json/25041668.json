@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25041668&Honda.CRV.1999",
+    "año": 1999,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 7371,
+    "precio_usd": 3700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25041668-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25041668-1.jpg",
+        "https://crautos.com/clasificados/usados/25041668-2.jpg",
+        "https://crautos.com/clasificados/usados/25041668-3.jpg",
+        "https://crautos.com/clasificados/usados/25041668-4.jpg",
+        "https://crautos.com/clasificados/usados/25041668-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIELA GRANADOS",
+        "teléfono": "8771-8519",
+        "whatsapp": "8771-8519"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "110,058 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Vehículo en buen estado no óxido .",
+        "kilometraje_number": 110058,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

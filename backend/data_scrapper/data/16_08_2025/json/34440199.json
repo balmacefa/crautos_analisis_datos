@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34440199&Toyota.YARIS.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9811,
+    "precio_usd": 4925000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34440199-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34440199-1.jpg",
+        "https://crautos.com/clasificados/usados/34440199-2.jpg",
+        "https://crautos.com/clasificados/usados/34440199-3.jpg",
+        "https://crautos.com/clasificados/usados/34440199-4.jpg",
+        "https://crautos.com/clasificados/usados/34440199-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MANUEL",
+        "teléfono": "8686-0146",
+        "whatsapp": "8686-0146"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,000 millas",
+        "placa": "ND",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "beige",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Noviembre del 2024",
+        "comentario_vendedor": "Perfecto estado listo para inscribir full extras automatico cierre central se le puede financiar..",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asiento con memoria",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 17
+}

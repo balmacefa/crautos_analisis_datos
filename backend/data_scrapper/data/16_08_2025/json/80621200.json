@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80621200&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7749,
+    "precio_usd": 3890000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80621200-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80621200-1.jpg",
+        "https://crautos.com/clasificados/usados/80621200-2.jpg",
+        "https://crautos.com/clasificados/usados/80621200-3.jpg",
+        "https://crautos.com/clasificados/usados/80621200-4.jpg",
+        "https://crautos.com/clasificados/usados/80621200-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO CRUZ",
+        "teléfono": "8883-7775 8705-5171",
+        "whatsapp": "8883-7775"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO TODO AL DIA ALARMA Y CIERRE CENTRAL DEKRA HASTA FEBRERO.",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

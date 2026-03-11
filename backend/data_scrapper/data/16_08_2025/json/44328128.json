@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44328128&Kia.PICANTO.2018",
+    "año": 2018,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44328128-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44328128-1.jpg",
+        "https://crautos.com/clasificados/usados/44328128-2.jpg",
+        "https://crautos.com/clasificados/usados/44328128-3.jpg",
+        "https://crautos.com/clasificados/usados/44328128-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VIVIANA MARIA RAMIREZ AVILA",
+        "teléfono": "6024-9262 6116-3008 2433-8238",
+        "whatsapp": "6024-9262"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "62,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "COBRE",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Automatico solo un dueño excelente estado!!!!.",
+        "kilometraje_number": 62000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 7
+}

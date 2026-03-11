@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5195789&Toyota.AGYA.2024",
+    "año": 2024,
+    "marca": "TOYOTA",
+    "modelo": "AGYA",
+    "precio_crc": 16434,
+    "precio_usd": 8250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5195789-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5195789-1.jpg",
+        "https://crautos.com/clasificados/usados/5195789-2.jpg",
+        "https://crautos.com/clasificados/usados/5195789-3.jpg",
+        "https://crautos.com/clasificados/usados/5195789-4.jpg",
+        "https://crautos.com/clasificados/usados/5195789-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARS BELÉN",
+        "teléfono": "6290-9073 8412-3434 2102-8111",
+        "whatsapp": "8827-2568",
+        "dirección": "San Joaquín de Flores, Llorente, de la Ferretería El Lagar 75 mts oeste contiguo a Cevichera San Joaquín Nº2"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "24,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "31 de Mayo del 2025",
+        "comentario_vendedor": "Impecable todo al dia como nuevo se recibe vehiculo menor valor.",
+        "kilometraje_number": 24000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 1
+}

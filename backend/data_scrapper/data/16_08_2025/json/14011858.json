@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14011858&Hino.DUTRO.2008",
+    "año": 2008,
+    "marca": "HINO",
+    "modelo": "DUTRO",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14011858-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14011858-1.jpg",
+        "https://crautos.com/clasificados/usados/14011858-2.jpg",
+        "https://crautos.com/clasificados/usados/14011858-3.jpg",
+        "https://crautos.com/clasificados/usados/14011858-4.jpg",
+        "https://crautos.com/clasificados/usados/14011858-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN CASCANTE",
+        "teléfono": "6378-5652",
+        "whatsapp": "6378-5652"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "282,100 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado solo dos dueños.",
+        "kilometraje_number": 282100,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Control de descenso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

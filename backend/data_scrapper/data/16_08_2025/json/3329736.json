@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3329736&Chevrolet.SPARK.2015",
+    "año": 2015,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3329736-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3329736-1.jpg",
+        "https://crautos.com/clasificados/usados/3329736-2.jpg",
+        "https://crautos.com/clasificados/usados/3329736-3.jpg",
+        "https://crautos.com/clasificados/usados/3329736-4.jpg",
+        "https://crautos.com/clasificados/usados/3329736-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS PREMIUM DEL ESTE",
+        "teléfono": "7274-7556 8568-8550",
+        "whatsapp": "7274-7556",
+        "dirección": "San Pedro de Montes de Oca 75 mtrs oeste de la iglesia católica Frente Oficentro San Pedro San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "45,434 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "EL PRECIO ES CON GASTOS INCLUIDOS.",
+        "kilometraje_number": 45434,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49814375&Hyundai.ACCENT.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49814375-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49814375-1.jpg",
+        "https://crautos.com/clasificados/usados/49814375-2.jpg",
+        "https://crautos.com/clasificados/usados/49814375-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LORNA ACOSTA",
+        "teléfono": "8780-0789",
+        "whatsapp": "8780-0789"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "191,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "•Hyundai Accent •Motor . •Transmisión automática. •Vehículo cómodo y con mantenimiento .",
+        "kilometraje_number": 191000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Control de radio en el volante",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 14
+}

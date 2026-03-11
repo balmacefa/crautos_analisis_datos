@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44313140&Changan.STAR%209.2017",
+    "año": 2017,
+    "marca": "CHANGAN",
+    "modelo": "STAR 9",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44313140-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44313140-1.jpg",
+        "https://crautos.com/clasificados/usados/44313140-2.jpg",
+        "https://crautos.com/clasificados/usados/44313140-3.jpg",
+        "https://crautos.com/clasificados/usados/44313140-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER VEGA",
+        "teléfono": "8482-5031",
+        "whatsapp": "8482-5031"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "47,200 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado y de mantenimiento, Dekra.",
+        "kilometraje_number": 47200,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

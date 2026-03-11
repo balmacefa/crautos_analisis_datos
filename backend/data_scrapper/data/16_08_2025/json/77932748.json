@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77932748&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10508,
+    "precio_usd": 5275000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77932748-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77932748-1.jpg",
+        "https://crautos.com/clasificados/usados/77932748-2.jpg",
+        "https://crautos.com/clasificados/usados/77932748-3.jpg",
+        "https://crautos.com/clasificados/usados/77932748-4.jpg",
+        "https://crautos.com/clasificados/usados/77932748-5.jpg",
+        "https://crautos.com/clasificados/usados/77932748-6.jpg",
+        "https://crautos.com/clasificados/usados/77932748-7.jpg",
+        "https://crautos.com/clasificados/usados/77932748-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DALIA ARAYA",
+        "teléfono": "8896-8856 8613-4000"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "114,748 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "kilometraje_number": 114748,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32365956&Mitsubishi.MONTERO.1999",
+    "año": 1999,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32365956-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32365956-1.jpg",
+        "https://crautos.com/clasificados/usados/32365956-2.jpg",
+        "https://crautos.com/clasificados/usados/32365956-3.jpg",
+        "https://crautos.com/clasificados/usados/32365956-4.jpg",
+        "https://crautos.com/clasificados/usados/32365956-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TAMARA QUIROS",
+        "teléfono": "8482-6458 8724-9270",
+        "whatsapp": "8482-6458"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "330,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Llantas compensadores y fibras nuevas .",
+        "kilometraje_number": 330000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

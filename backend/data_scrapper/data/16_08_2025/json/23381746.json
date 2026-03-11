@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23381746&Land%20Rover.RANGE%20ROVER%20V8%20.2015",
+    "año": 2015,
+    "marca": "LAND ROVER",
+    "modelo": "RANGE ROVER V8",
+    "precio_crc": 50000,
+    "precio_usd": 25100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23381746-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23381746-1.jpg",
+        "https://crautos.com/clasificados/usados/23381746-2.jpg",
+        "https://crautos.com/clasificados/usados/23381746-3.jpg",
+        "https://crautos.com/clasificados/usados/23381746-4.jpg",
+        "https://crautos.com/clasificados/usados/23381746-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AZ",
+        "teléfono": "6019-7474",
+        "whatsapp": "6019-7474"
+    },
+    "informacion_general": {
+        "cilindrada": "4400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "V ocho .",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 4400
+    },
+    "equipamiento": [],
+    "antiguedad": 10
+}

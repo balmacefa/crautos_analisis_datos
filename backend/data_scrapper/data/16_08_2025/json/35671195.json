@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35671195&Land%20Rover.SERIE%20III.1978",
+    "año": 1978,
+    "marca": "LAND ROVER",
+    "modelo": "SERIE III",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35671195-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35671195-1.jpg",
+        "https://crautos.com/clasificados/usados/35671195-2.jpg",
+        "https://crautos.com/clasificados/usados/35671195-3.jpg",
+        "https://crautos.com/clasificados/usados/35671195-4.jpg",
+        "https://crautos.com/clasificados/usados/35671195-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN BONILLA",
+        "teléfono": "8943-2106",
+        "whatsapp": "8943-2106"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "14,036 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Muy original-todo le funciona-inglés y último q salió en su línea diésel-recibo en efectivo mejoro p.",
+        "kilometraje_number": 14036,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aros de lujo"
+    ],
+    "antiguedad": 47
+}

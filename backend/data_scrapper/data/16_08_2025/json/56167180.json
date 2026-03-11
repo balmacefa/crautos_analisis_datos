@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56167180&Hyundai.ELANTRA%20LIMITED%20.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA LIMITED",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56167180-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56167180-1.jpg",
+        "https://crautos.com/clasificados/usados/56167180-2.jpg",
+        "https://crautos.com/clasificados/usados/56167180-3.jpg",
+        "https://crautos.com/clasificados/usados/56167180-4.jpg",
+        "https://crautos.com/clasificados/usados/56167180-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TATIANA LEDEZMA",
+        "teléfono": "8622-3224"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "82,135 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "ROJO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Full, .",
+        "kilometraje_number": 82135,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

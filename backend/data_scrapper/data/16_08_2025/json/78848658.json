@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78848658&Hyundai.ACCENT%20GLS.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT GLS",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78848658-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78848658-1.jpg",
+        "https://crautos.com/clasificados/usados/78848658-2.jpg",
+        "https://crautos.com/clasificados/usados/78848658-3.jpg",
+        "https://crautos.com/clasificados/usados/78848658-4.jpg",
+        "https://crautos.com/clasificados/usados/78848658-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEISY ROJAS",
+        "teléfono": "8790-8157",
+        "whatsapp": "8790-8157"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "91,700 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado tiene poco millaje y esta muy bien cuidado.",
+        "kilometraje_number": 91700,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

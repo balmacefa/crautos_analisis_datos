@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56556930&Kia.SPORTAGE.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56556930-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56556930-1.jpg",
+        "https://crautos.com/clasificados/usados/56556930-2.jpg",
+        "https://crautos.com/clasificados/usados/56556930-3.jpg",
+        "https://crautos.com/clasificados/usados/56556930-4.jpg",
+        "https://crautos.com/clasificados/usados/56556930-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS VARGAS",
+        "teléfono": "8845-2163",
+        "whatsapp": "8845-2163"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "133,500 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Versión Nacional muy económico kilometraje real libre de gravámenes .",
+        "kilometraje_number": 133500,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

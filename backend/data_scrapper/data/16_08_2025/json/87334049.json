@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87334049&Toyota.COROLLA.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87334049-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87334049-1.jpg",
+        "https://crautos.com/clasificados/usados/87334049-2.jpg",
+        "https://crautos.com/clasificados/usados/87334049-3.jpg",
+        "https://crautos.com/clasificados/usados/87334049-4.jpg",
+        "https://crautos.com/clasificados/usados/87334049-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCIA GÓMEZ BARQUERO",
+        "teléfono": "8855-7521",
+        "whatsapp": "8855-7521"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "122,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Excelente vehículo muy económico .",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

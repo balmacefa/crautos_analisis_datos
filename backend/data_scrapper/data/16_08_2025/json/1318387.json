@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1318387&Honda.HRV.2018",
+    "año": 2018,
+    "marca": "HONDA",
+    "modelo": "HRV",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1318387-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1318387-1.jpg",
+        "https://crautos.com/clasificados/usados/1318387-2.jpg",
+        "https://crautos.com/clasificados/usados/1318387-3.jpg",
+        "https://crautos.com/clasificados/usados/1318387-4.jpg",
+        "https://crautos.com/clasificados/usados/1318387-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "75,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "excelente estado recibo vehiculo financiamiento disponible .",
+        "kilometraje_number": 75000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

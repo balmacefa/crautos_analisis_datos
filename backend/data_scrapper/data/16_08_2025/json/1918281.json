@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1918281&Honda.CRV.2003",
+    "año": 2003,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1918281-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1918281-1.jpg",
+        "https://crautos.com/clasificados/usados/1918281-2.jpg",
+        "https://crautos.com/clasificados/usados/1918281-3.jpg",
+        "https://crautos.com/clasificados/usados/1918281-4.jpg",
+        "https://crautos.com/clasificados/usados/1918281-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DRIVE MOTORS CR",
+        "teléfono": "8455-2663",
+        "whatsapp": "8455-2663",
+        "dirección": "200 mts de la entrada principal del Condominio Montezuma, camino hacia Grecia"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "146,367 millas",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado, listo para inscribir.",
+        "kilometraje_number": 146367,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de descenso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62138191&Toyota.YARIS.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62138191-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62138191-1.jpg",
+        "https://crautos.com/clasificados/usados/62138191-2.jpg",
+        "https://crautos.com/clasificados/usados/62138191-3.jpg",
+        "https://crautos.com/clasificados/usados/62138191-4.jpg",
+        "https://crautos.com/clasificados/usados/62138191-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VERONICA VÍQUEZ",
+        "teléfono": "8410-2677 8723-6837",
+        "whatsapp": "8723-6837"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "302,256 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Precio ganga .",
+        "kilometraje_number": 302256,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 15
+}

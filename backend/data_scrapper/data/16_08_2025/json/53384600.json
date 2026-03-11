@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53384600",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 44821,
+    "precio_usd": 22500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53384600-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53384600-1.jpg",
+        "https://crautos.com/clasificados/usados/53384600-2.jpg",
+        "https://crautos.com/clasificados/usados/53384600-3.jpg",
+        "https://crautos.com/clasificados/usados/53384600-4.jpg",
+        "https://crautos.com/clasificados/usados/53384600-5.jpg",
+        "https://crautos.com/clasificados/usados/53384600-6.jpg",
+        "https://crautos.com/clasificados/usados/53384600-7.jpg",
+        "https://crautos.com/clasificados/usados/53384600-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE PEÑA",
+        "teléfono": "8434-3721",
+        "whatsapp": "8434-3721"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "45,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "kilometraje_number": 45000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

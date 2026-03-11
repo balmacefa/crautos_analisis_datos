@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39936872",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "SCROSS",
+    "precio_crc": 12351,
+    "precio_usd": 6200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39936872-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39936872-1.jpg",
+        "https://crautos.com/clasificados/usados/39936872-2.jpg",
+        "https://crautos.com/clasificados/usados/39936872-3.jpg",
+        "https://crautos.com/clasificados/usados/39936872-4.jpg",
+        "https://crautos.com/clasificados/usados/39936872-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUILLERMO GARCIA",
+        "teléfono": "7102-3570",
+        "whatsapp": "7102-3570"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "141,000 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "excelentes condiciones se escuchan ofertas .",
+        "kilometraje_number": 141000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

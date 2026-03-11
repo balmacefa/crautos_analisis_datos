@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53649070&BYD.F3.2017",
+    "año": 2017,
+    "marca": "BYD",
+    "modelo": "F3",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53649070-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53649070-1.jpg",
+        "https://crautos.com/clasificados/usados/53649070-2.jpg",
+        "https://crautos.com/clasificados/usados/53649070-3.jpg",
+        "https://crautos.com/clasificados/usados/53649070-4.jpg",
+        "https://crautos.com/clasificados/usados/53649070-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIO CAMACHO",
+        "teléfono": "7208-4112"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "17 de Junio del 2025",
+        "comentario_vendedor": "Único Dueño de agencia.",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

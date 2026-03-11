@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84614391&Ford.ESCAPE.2008",
+    "año": 2008,
+    "marca": "FORD",
+    "modelo": "ESCAPE",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84614391-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84614391-1.jpg",
+        "https://crautos.com/clasificados/usados/84614391-2.jpg",
+        "https://crautos.com/clasificados/usados/84614391-3.jpg",
+        "https://crautos.com/clasificados/usados/84614391-4.jpg",
+        "https://crautos.com/clasificados/usados/84614391-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IVONNE CORRALES",
+        "teléfono": "8387-2015 7257-8993",
+        "whatsapp": "8387-2015"
+    },
+    "informacion_general": {
+        "cilindrada": "2350 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "88,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Solo un dueño registral. Carro mecánicamente en excelente estado. .",
+        "kilometraje_number": 88000,
+        "cilindrada_number": 2350
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

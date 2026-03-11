@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14677156&Isuzu.NPR.2006",
+    "año": 2006,
+    "marca": "ISUZU",
+    "modelo": "NPR",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14677156-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14677156-1.jpg",
+        "https://crautos.com/clasificados/usados/14677156-2.jpg",
+        "https://crautos.com/clasificados/usados/14677156-3.jpg",
+        "https://crautos.com/clasificados/usados/14677156-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR CALDERON",
+        "teléfono": "8739-3405 6234-3137",
+        "whatsapp": "8739-3405"
+    },
+    "informacion_general": {
+        "cilindrada": "4300 cc",
+        "estilo": "Camión 4.0-4.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "157,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Vagoneta isuzu toma fuerza a la caja.",
+        "kilometraje_number": 157000,
+        "cilindrada_number": 4300
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 19
+}

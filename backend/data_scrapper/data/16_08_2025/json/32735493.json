@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32735493&Mitsubishi.LANCER.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32735493-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32735493-1.jpg",
+        "https://crautos.com/clasificados/usados/32735493-2.jpg",
+        "https://crautos.com/clasificados/usados/32735493-3.jpg",
+        "https://crautos.com/clasificados/usados/32735493-4.jpg",
+        "https://crautos.com/clasificados/usados/32735493-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUILLERMO FERNANDEZ",
+        "teléfono": "7010-1510",
+        "whatsapp": "7010-1510"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado general una oportunidad.",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

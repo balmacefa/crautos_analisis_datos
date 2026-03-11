@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51385240&Mazda.BT50.2014",
+    "año": 2014,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51385240-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51385240-1.jpg",
+        "https://crautos.com/clasificados/usados/51385240-2.jpg",
+        "https://crautos.com/clasificados/usados/51385240-3.jpg",
+        "https://crautos.com/clasificados/usados/51385240-4.jpg",
+        "https://crautos.com/clasificados/usados/51385240-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN LEANDRO",
+        "teléfono": "8320-3520 8707-6297",
+        "whatsapp": "8320-3520"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "15,200 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "El carro está en muy buenas condiciones .",
+        "kilometraje_number": 15200,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

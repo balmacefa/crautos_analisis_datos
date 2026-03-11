@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93608858&Nissan.VERSA%20SV.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "VERSA SV",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93608858-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93608858-1.jpg",
+        "https://crautos.com/clasificados/usados/93608858-2.jpg",
+        "https://crautos.com/clasificados/usados/93608858-3.jpg",
+        "https://crautos.com/clasificados/usados/93608858-4.jpg",
+        "https://crautos.com/clasificados/usados/93608858-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARMEN VINDAS GÓMEZ",
+        "teléfono": "6459-1288",
+        "whatsapp": "6459-1288"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "142,091 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO-GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "19 de Junio del 2025",
+        "comentario_vendedor": "Versión USA Urge Vender .",
+        "kilometraje_number": 142091,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

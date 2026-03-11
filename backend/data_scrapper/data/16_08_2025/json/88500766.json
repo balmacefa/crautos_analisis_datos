@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88500766&Mitsubishi.MONTERO.1988",
+    "año": 1988,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 1693,
+    "precio_usd": 850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88500766-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88500766-1.jpg",
+        "https://crautos.com/clasificados/usados/88500766-2.jpg",
+        "https://crautos.com/clasificados/usados/88500766-3.jpg",
+        "https://crautos.com/clasificados/usados/88500766-4.jpg",
+        "https://crautos.com/clasificados/usados/88500766-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HILLEL DRUCKER",
+        "teléfono": "6081-1290 6368-9919"
+    },
+    "informacion_general": {
+        "cilindrada": "2600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "275,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Tiene mala la caja y debe Dekra y marchamo de este año. .",
+        "kilometraje_number": 275000,
+        "cilindrada_number": 2600
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 37
+}

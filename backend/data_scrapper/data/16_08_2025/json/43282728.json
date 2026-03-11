@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43282728&Mitsubishi.MONTERO%20SPORT.1999",
+    "año": 1999,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO SPORT",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43282728-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43282728-1.jpg",
+        "https://crautos.com/clasificados/usados/43282728-2.jpg",
+        "https://crautos.com/clasificados/usados/43282728-3.jpg",
+        "https://crautos.com/clasificados/usados/43282728-4.jpg",
+        "https://crautos.com/clasificados/usados/43282728-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIÁN MAY",
+        "teléfono": "8528-0556",
+        "whatsapp": "8528-0556"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "231,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "El carro está quemando aceite.",
+        "kilometraje_number": 231000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

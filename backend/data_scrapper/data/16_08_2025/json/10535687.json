@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10535687&Toyota.YARIS.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10535687-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10535687-1.jpg",
+        "https://crautos.com/clasificados/usados/10535687-2.jpg",
+        "https://crautos.com/clasificados/usados/10535687-3.jpg",
+        "https://crautos.com/clasificados/usados/10535687-4.jpg",
+        "https://crautos.com/clasificados/usados/10535687-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERSON SOLANO",
+        "teléfono": "8332-1332 8371-3321",
+        "whatsapp": "8332-1332"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "185,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Yaris motor y caja buen estado precio por detalles en pintura.",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

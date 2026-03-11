@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16595853&Toyota.ECHO.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16595853-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16595853-1.jpg",
+        "https://crautos.com/clasificados/usados/16595853-2.jpg",
+        "https://crautos.com/clasificados/usados/16595853-3.jpg",
+        "https://crautos.com/clasificados/usados/16595853-4.jpg",
+        "https://crautos.com/clasificados/usados/16595853-5.jpg",
+        "https://crautos.com/clasificados/usados/16595853-6.jpg",
+        "https://crautos.com/clasificados/usados/16595853-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MINOR",
+        "teléfono": "8318-7316 8898-4208",
+        "whatsapp": "8318-7316"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "19 de Julio del 2025",
+        "comentario_vendedor": "Excelente Estado Carro de Cochera.",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 22
+}

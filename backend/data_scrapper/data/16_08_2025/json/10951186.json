@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10951186&Nissan.PLATINA.2007",
+    "año": 2007,
+    "marca": "NISSAN",
+    "modelo": "PLATINA",
+    "precio_crc": 2789,
+    "precio_usd": 1400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10951186-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10951186-1.jpg",
+        "https://crautos.com/clasificados/usados/10951186-2.jpg",
+        "https://crautos.com/clasificados/usados/10951186-3.jpg",
+        "https://crautos.com/clasificados/usados/10951186-4.jpg",
+        "https://crautos.com/clasificados/usados/10951186-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD RODRIGUEZ VARGAS",
+        "teléfono": "8437-8096",
+        "whatsapp": "8437-8096"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Buen estado de motor. llantas y batería nueva. Pintura dañada.",
+        "kilometraje_number": 200,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 18
+}

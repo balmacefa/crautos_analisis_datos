@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48468356&Hyundai.ACCENT.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 9955,
+    "precio_usd": 4997500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48468356-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48468356-1.jpg",
+        "https://crautos.com/clasificados/usados/48468356-2.jpg",
+        "https://crautos.com/clasificados/usados/48468356-3.jpg",
+        "https://crautos.com/clasificados/usados/48468356-4.jpg",
+        "https://crautos.com/clasificados/usados/48468356-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO MONGE",
+        "teléfono": "7200-6579",
+        "whatsapp": "7200-6579"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "114,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Agosto del 2025",
+        "comentario_vendedor": "Socado motor mil cuatro manual .",
+        "kilometraje_number": 114000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97536241&Nissan.TIIDA.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97536241-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97536241-1.jpg",
+        "https://crautos.com/clasificados/usados/97536241-2.jpg",
+        "https://crautos.com/clasificados/usados/97536241-3.jpg",
+        "https://crautos.com/clasificados/usados/97536241-4.jpg",
+        "https://crautos.com/clasificados/usados/97536241-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANTHONY JAVIER LEITON",
+        "teléfono": "8521-9336",
+        "whatsapp": "8521-9336"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "102,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Exelente Estado. Yo lo cuido mucho. Nunca Plataformas. Uso Personal. Llantas Nuevas. Muy ECONÓMICO..",
+        "kilometraje_number": 102000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

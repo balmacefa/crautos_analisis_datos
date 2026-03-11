@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84608922&Ford.ESCAPE%20.2002",
+    "año": 2002,
+    "marca": "FORD",
+    "modelo": "ESCAPE",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84608922-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84608922-1.jpg",
+        "https://crautos.com/clasificados/usados/84608922-2.jpg",
+        "https://crautos.com/clasificados/usados/84608922-3.jpg",
+        "https://crautos.com/clasificados/usados/84608922-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SHARON LOAIZA",
+        "teléfono": "8842-5360",
+        "whatsapp": "8842-5360"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "235,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Para reparar. Detalles de pintura. Llantas casi nuevas. Traspaso incluido.",
+        "kilometraje_number": 235000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

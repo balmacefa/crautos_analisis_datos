@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86497796&Chevrolet.TRACKER.2000",
+    "año": 2000,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86497796-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86497796-1.jpg",
+        "https://crautos.com/clasificados/usados/86497796-2.jpg",
+        "https://crautos.com/clasificados/usados/86497796-3.jpg",
+        "https://crautos.com/clasificados/usados/86497796-4.jpg",
+        "https://crautos.com/clasificados/usados/86497796-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAHYANA CALDERON",
+        "teléfono": "8519-8463",
+        "whatsapp": "8519-8463"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Se le ha dado excelente mantenimiento. Doble tracción real. Llantas nuevas..",
+        "kilometraje_number": 200,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

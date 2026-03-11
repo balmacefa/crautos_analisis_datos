@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86842940&Chevrolet.CAPTIVA.2007",
+    "año": 2007,
+    "marca": "CHEVROLET",
+    "modelo": "CAPTIVA",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86842940-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86842940-1.jpg",
+        "https://crautos.com/clasificados/usados/86842940-2.jpg",
+        "https://crautos.com/clasificados/usados/86842940-3.jpg",
+        "https://crautos.com/clasificados/usados/86842940-4.jpg",
+        "https://crautos.com/clasificados/usados/86842940-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE FONSECA",
+        "teléfono": "7020-3102",
+        "whatsapp": "7020-3102"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "205,656 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Urge vender .",
+        "kilometraje_number": 205656,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

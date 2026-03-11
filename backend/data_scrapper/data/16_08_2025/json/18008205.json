@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18008205&Kia.CERATO.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "CERATO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN URRUTIA GRAJAL",
+        "teléfono": "7127-5666",
+        "whatsapp": "7127-5666"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "117,164 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLQNCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "kilometraje_number": 117164,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

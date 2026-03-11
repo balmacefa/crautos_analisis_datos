@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45403326&Hyundai.ACCENT.2006",
+    "año": 2006,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA ELENA MORA PÉREZ",
+        "teléfono": "8749-6830 8749-6816",
+        "whatsapp": "8749-6816"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "186,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Solo dos dueños desde su fabricación uso familiar no ha Sido taxi ni de plataformas.",
+        "kilometraje_number": 186000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

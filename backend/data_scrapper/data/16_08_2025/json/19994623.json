@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19994623&Kia.RIO.2014",
+    "año": 2014,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19994623-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19994623-1.jpg",
+        "https://crautos.com/clasificados/usados/19994623-2.jpg",
+        "https://crautos.com/clasificados/usados/19994623-3.jpg",
+        "https://crautos.com/clasificados/usados/19994623-4.jpg",
+        "https://crautos.com/clasificados/usados/19994623-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIANA MARTÍNEZ",
+        "teléfono": "8828-4899 8397-4897",
+        "whatsapp": "8828-4899"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "97,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Vehículo en excelente estado. Perfecto para quienes buscan economía y estilo .",
+        "kilometraje_number": 97000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

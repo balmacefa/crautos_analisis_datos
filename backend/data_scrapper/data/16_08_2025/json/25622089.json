@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25622089&Toyota.LAND%20CRUISER.1985",
+    "año": 1985,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE GONZÁLEZ",
+        "teléfono": "8899-7904",
+        "whatsapp": "8899-7904"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "430,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO Y AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Land cruiser troopy firma de una . Llantas a un noventa de vida Hidraulica Freno disco delantero.",
+        "kilometraje_number": 430000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 40
+}

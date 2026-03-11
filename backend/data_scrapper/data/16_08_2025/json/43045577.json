@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43045577&BMW.318I.1999",
+    "año": 1999,
+    "marca": "BMW",
+    "modelo": "318I",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43045577-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43045577-1.jpg",
+        "https://crautos.com/clasificados/usados/43045577-2.jpg",
+        "https://crautos.com/clasificados/usados/43045577-3.jpg",
+        "https://crautos.com/clasificados/usados/43045577-4.jpg",
+        "https://crautos.com/clasificados/usados/43045577-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE PABLO RODRIGUEZ GONZALEZ",
+        "teléfono": "8880-0879 6077-2040",
+        "whatsapp": "8880-0879"
+    },
+    "informacion_general": {
+        "cilindrada": "1895 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Requiere reemplazo de evaporador de aire acondicionado. Repuesto se incluye con la compra. .",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1895
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

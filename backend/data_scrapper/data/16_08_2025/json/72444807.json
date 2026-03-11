@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72444807&Toyota.COROLLA%20S.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA S",
+    "precio_crc": 15339,
+    "precio_usd": 7700000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID RUIZ",
+        "teléfono": "8817-4287",
+        "whatsapp": "8817-4287"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "103,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "kilometraje_number": 103000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=87905720&Hyundai.CRETA.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "CRETA",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/87905720-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/87905720-1.jpg",
+        "https://crautos.com/clasificados/usados/87905720-2.jpg",
+        "https://crautos.com/clasificados/usados/87905720-3.jpg",
+        "https://crautos.com/clasificados/usados/87905720-4.jpg",
+        "https://crautos.com/clasificados/usados/87905720-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELISSA MARTINEZ VARGAS",
+        "teléfono": "8805-3770 8667-6073"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "137,125 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "Caja Sexta.",
+        "kilometraje_number": 137125,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

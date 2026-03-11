@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81015646&Suzuki.SX4.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81015646-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81015646-1.jpg",
+        "https://crautos.com/clasificados/usados/81015646-2.jpg",
+        "https://crautos.com/clasificados/usados/81015646-3.jpg",
+        "https://crautos.com/clasificados/usados/81015646-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN JIMÉNEZ MOLINA",
+        "teléfono": "8738-0194 8564-6052",
+        "whatsapp": "8738-0194"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "173,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Muy económico todo al día y libre de gravámenes.",
+        "kilometraje_number": 173000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 13
+}

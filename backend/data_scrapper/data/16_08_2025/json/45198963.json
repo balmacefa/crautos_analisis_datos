@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45198963&Suzuki.JIMNY.2023",
+    "año": 2023,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 26000,
+    "precio_usd": 13052000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45198963-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45198963-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SIMI LEEHE",
+        "teléfono": "7055-7054"
+    },
+    "informacion_general": {
+        "cilindrada": "1462 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "20,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRAY",
+        "color_interior": "GREY",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Llantas Mudster todo terreno para estilo y capacidad off-road.",
+        "kilometraje_number": 20000,
+        "cilindrada_number": 1462
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 2
+}

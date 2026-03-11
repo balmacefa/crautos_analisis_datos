@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=47507959&Mitsubishi.MIRAGE.1996",
+    "año": 1996,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE",
+    "precio_crc": 1195,
+    "precio_usd": 600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/47507959-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/47507959-1.jpg",
+        "https://crautos.com/clasificados/usados/47507959-2.jpg",
+        "https://crautos.com/clasificados/usados/47507959-3.jpg",
+        "https://crautos.com/clasificados/usados/47507959-4.jpg",
+        "https://crautos.com/clasificados/usados/47507959-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS OVARES BADILLA",
+        "teléfono": "8629-4497",
+        "whatsapp": "8629-4497"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "199,990 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Requiere reparación caja automática.",
+        "kilometraje_number": 199990,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 29
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67836913&Toyota.RAV4.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67836913-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67836913-1.jpg",
+        "https://crautos.com/clasificados/usados/67836913-2.jpg",
+        "https://crautos.com/clasificados/usados/67836913-3.jpg",
+        "https://crautos.com/clasificados/usados/67836913-4.jpg",
+        "https://crautos.com/clasificados/usados/67836913-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SERGIO ARROYO",
+        "teléfono": "7183-0803 7200-1103",
+        "whatsapp": "7183-0803"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "176,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "Pantalla Pegadero Mecánicamente en excelente estado muy cuidado. Busco Suzuki Vitara..",
+        "kilometraje_number": 176000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 24
+}

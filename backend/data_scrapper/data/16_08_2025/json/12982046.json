@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12982046&Toyota.LAND%20CRUISER%20HARDTOP.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER HARDTOP",
+    "precio_crc": 32072,
+    "precio_usd": 16100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12982046-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12982046-1.jpg",
+        "https://crautos.com/clasificados/usados/12982046-2.jpg",
+        "https://crautos.com/clasificados/usados/12982046-3.jpg",
+        "https://crautos.com/clasificados/usados/12982046-4.jpg",
+        "https://crautos.com/clasificados/usados/12982046-5.jpg",
+        "https://crautos.com/clasificados/usados/12982046-6.jpg",
+        "https://crautos.com/clasificados/usados/12982046-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS OVIEDO",
+        "teléfono": "6002-9785 6242-9617",
+        "whatsapp": "6002-9785"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "GRECIA .",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 21
+}

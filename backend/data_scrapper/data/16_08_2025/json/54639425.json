@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54639425&Hyundai.GRACE%20GRAND%20SALON.1995",
+    "año": 1995,
+    "marca": "HYUNDAI",
+    "modelo": "GRACE GRAND SALON",
+    "precio_crc": 5677,
+    "precio_usd": 2850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54639425-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54639425-1.jpg",
+        "https://crautos.com/clasificados/usados/54639425-2.jpg",
+        "https://crautos.com/clasificados/usados/54639425-3.jpg",
+        "https://crautos.com/clasificados/usados/54639425-4.jpg",
+        "https://crautos.com/clasificados/usados/54639425-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HANS PARRALES T.",
+        "teléfono": "8470-0750 8816-7791",
+        "whatsapp": "8470-0750"
+    },
+    "informacion_general": {
+        "cilindrada": "2476 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "VENDE MUCROBUS SE USO CARGA- SE BRINDA ASIENTOS, MOTOR NUEVO TURBO DIESEL.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2476
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 30
+}

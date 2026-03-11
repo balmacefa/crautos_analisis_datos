@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30697873&Mazda.MIATA.1990",
+    "año": 1990,
+    "marca": "MAZDA",
+    "modelo": "MIATA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30697873-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30697873-1.jpg",
+        "https://crautos.com/clasificados/usados/30697873-2.jpg",
+        "https://crautos.com/clasificados/usados/30697873-3.jpg",
+        "https://crautos.com/clasificados/usados/30697873-4.jpg",
+        "https://crautos.com/clasificados/usados/30697873-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIÁN ARCE",
+        "teléfono": "8785-3111",
+        "whatsapp": "8785-3111"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "212,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Aire frío todo al día y libre de todo convertible de uso diario.",
+        "kilometraje_number": 212000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 35
+}

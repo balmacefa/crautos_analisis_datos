@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62385055&Fiat.STRADA%20WORKING.2014",
+    "año": 2014,
+    "marca": "FIAT",
+    "modelo": "STRADA WORKING",
+    "precio_crc": 6873,
+    "precio_usd": 3450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62385055-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62385055-1.jpg",
+        "https://crautos.com/clasificados/usados/62385055-2.jpg",
+        "https://crautos.com/clasificados/usados/62385055-3.jpg",
+        "https://crautos.com/clasificados/usados/62385055-4.jpg",
+        "https://crautos.com/clasificados/usados/62385055-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN ALVARADO",
+        "teléfono": "8708-8732",
+        "whatsapp": "8708-8732"
+    },
+    "informacion_general": {
+        "cilindrada": "1368 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "118,906 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "De contado.",
+        "kilometraje_number": 118906,
+        "cilindrada_number": 1368
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=40288651&Toyota.HILUX.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/40288651-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/40288651-1.jpg",
+        "https://crautos.com/clasificados/usados/40288651-2.jpg",
+        "https://crautos.com/clasificados/usados/40288651-3.jpg",
+        "https://crautos.com/clasificados/usados/40288651-4.jpg",
+        "https://crautos.com/clasificados/usados/40288651-5.jpg",
+        "https://crautos.com/clasificados/usados/40288651-6.jpg",
+        "https://crautos.com/clasificados/usados/40288651-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FEDERICO RODRIGUEZ",
+        "teléfono": "8871-9141",
+        "whatsapp": "8871-9141"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "155,800 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "kilometraje_number": 155800,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

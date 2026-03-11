@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91547792&Nissan.SENTRA.1994",
+    "año": 1994,
+    "marca": "NISSAN",
+    "modelo": "SENTRA",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91547792-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91547792-1.jpg",
+        "https://crautos.com/clasificados/usados/91547792-2.jpg",
+        "https://crautos.com/clasificados/usados/91547792-3.jpg",
+        "https://crautos.com/clasificados/usados/91547792-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GLORIANA RUIZ",
+        "teléfono": "8369-1768",
+        "whatsapp": "8369-1768"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Todo al día y firma inmediata vendo o cambio por toyota echo y doy vuelto.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 31
+}

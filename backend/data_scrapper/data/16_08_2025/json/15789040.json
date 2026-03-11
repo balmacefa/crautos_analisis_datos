@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15789040&Jeep.COMPASS.2007",
+    "año": 2007,
+    "marca": "JEEP",
+    "modelo": "COMPASS",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15789040-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15789040-1.jpg",
+        "https://crautos.com/clasificados/usados/15789040-2.jpg",
+        "https://crautos.com/clasificados/usados/15789040-3.jpg",
+        "https://crautos.com/clasificados/usados/15789040-4.jpg",
+        "https://crautos.com/clasificados/usados/15789040-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL PORRAS",
+        "teléfono": "8797-3151 7102-8845",
+        "whatsapp": "8797-3151"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "CREMA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "El carro se encuentra bien de oportunidad.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

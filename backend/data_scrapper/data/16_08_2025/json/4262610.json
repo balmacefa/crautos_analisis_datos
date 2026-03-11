@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4262610",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 31474,
+    "precio_usd": 15800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4262610-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4262610-1.jpg",
+        "https://crautos.com/clasificados/usados/4262610-2.jpg",
+        "https://crautos.com/clasificados/usados/4262610-3.jpg",
+        "https://crautos.com/clasificados/usados/4262610-4.jpg",
+        "https://crautos.com/clasificados/usados/4262610-5.jpg",
+        "https://crautos.com/clasificados/usados/4262610-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS LA ESTACIÓN",
+        "teléfono": "6131-4522 8850-7637",
+        "whatsapp": "8801-1510",
+        "dirección": "De la bomba La Castellana, 100 mts Oeste y 400 mts Sur. Avenida 20 calle 10. San Jose"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "92,991 kms",
+        "placa": "ND",
+        "color_exterior": "VERDE OLIVO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "HIGH POWER,Turbo Diesel Intercooler, star stop,Excelente mantenimiento.",
+        "kilometraje_number": 92991,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

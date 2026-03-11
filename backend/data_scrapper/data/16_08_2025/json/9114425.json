@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9114425&Toyota.RAV4%20VVT-I.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "RAV4 VVT-I",
+    "precio_crc": 15886,
+    "precio_usd": 7975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9114425-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9114425-1.jpg",
+        "https://crautos.com/clasificados/usados/9114425-2.jpg",
+        "https://crautos.com/clasificados/usados/9114425-3.jpg",
+        "https://crautos.com/clasificados/usados/9114425-4.jpg",
+        "https://crautos.com/clasificados/usados/9114425-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "92,394 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "CAFE",
+        "color_interior": "GRIS-NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA AL DIA-FULL EXT-GARANTI x ESCRIT-RECIB-FINANCI-ABIERT DOMING STA CRUZ GTE.",
+        "kilometraje_number": 92394,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

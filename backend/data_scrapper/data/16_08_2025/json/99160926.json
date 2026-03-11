@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99160926&Kia.SPORTAGE.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 15637,
+    "precio_usd": 7850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99160926-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99160926-1.jpg",
+        "https://crautos.com/clasificados/usados/99160926-2.jpg",
+        "https://crautos.com/clasificados/usados/99160926-3.jpg",
+        "https://crautos.com/clasificados/usados/99160926-4.jpg",
+        "https://crautos.com/clasificados/usados/99160926-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISAAC GONZALO",
+        "teléfono": "6059-0317",
+        "whatsapp": "6059-0317"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "16,400 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL OSAURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 16400,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

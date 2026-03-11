@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17321779&Hyundai.GRACE.2003",
+    "año": 2003,
+    "marca": "HYUNDAI",
+    "modelo": "GRACE",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17321779-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17321779-1.jpg",
+        "https://crautos.com/clasificados/usados/17321779-2.jpg",
+        "https://crautos.com/clasificados/usados/17321779-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFFRY QUESADA J",
+        "teléfono": "8445-8027",
+        "whatsapp": "8445-8027"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "383,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Todo al día. Firma inmediata. Detalles de pintura. Negociable. .",
+        "kilometraje_number": 383000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 22
+}

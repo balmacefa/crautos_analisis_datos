@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60441566&Hyundai.ELANTRA.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60441566-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60441566-1.jpg",
+        "https://crautos.com/clasificados/usados/60441566-2.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATHAN CAMPOS",
+        "teléfono": "7219-2117",
+        "whatsapp": "7219-2117"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "152,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "CREMA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "Debe dos marchamos y RITEve por eso el precio .",
+        "kilometraje_number": 152000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Halógenos",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 14
+}

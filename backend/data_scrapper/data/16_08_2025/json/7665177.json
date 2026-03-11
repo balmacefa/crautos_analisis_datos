@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7665177&Mitsubishi.LANCER.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7665177-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7665177-1.jpg",
+        "https://crautos.com/clasificados/usados/7665177-2.jpg",
+        "https://crautos.com/clasificados/usados/7665177-3.jpg",
+        "https://crautos.com/clasificados/usados/7665177-4.jpg",
+        "https://crautos.com/clasificados/usados/7665177-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GEP DE LA LIMA S.A.",
+        "teléfono": "8392-9349 8372-9989 2572-1111",
+        "whatsapp": "8372-9989",
+        "dirección": "Costado norte de Gas Tonza, Lima Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "272,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "buen estado se puede financiar una parte .",
+        "kilometraje_number": 272000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

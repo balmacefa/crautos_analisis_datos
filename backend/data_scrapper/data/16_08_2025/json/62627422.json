@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62627422",
+    "año": 2012,
+    "marca": "KIA",
+    "modelo": "BONGO",
+    "precio_crc": 12351,
+    "precio_usd": 6200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62627422-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62627422-1.jpg",
+        "https://crautos.com/clasificados/usados/62627422-2.jpg",
+        "https://crautos.com/clasificados/usados/62627422-3.jpg",
+        "https://crautos.com/clasificados/usados/62627422-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE LUIS DELGADO",
+        "teléfono": "7059-4820"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Perfecto.estado recién paso dreka.",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

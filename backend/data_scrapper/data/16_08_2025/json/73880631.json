@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73880631&Hyundai.ACCENT%20BLUE%20.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT BLUE",
+    "precio_crc": 6275,
+    "precio_usd": 3150000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARÍA TERESA GALEANO",
+        "teléfono": "6370-9290",
+        "whatsapp": "6370-9290"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "266,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura y focos traseros .",
+        "kilometraje_number": 266000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 13
+}

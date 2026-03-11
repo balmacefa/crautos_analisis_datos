@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65508164&Volvo.C30.2009",
+    "año": 2009,
+    "marca": "VOLVO",
+    "modelo": "C30",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN PANIAGUA",
+        "teléfono": "7061-9778",
+        "whatsapp": "7061-9778"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

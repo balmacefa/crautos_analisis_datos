@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48231041",
+    "año": 1998,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 28785,
+    "precio_usd": 14450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48231041-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48231041-1.jpg",
+        "https://crautos.com/clasificados/usados/48231041-2.jpg",
+        "https://crautos.com/clasificados/usados/48231041-3.jpg",
+        "https://crautos.com/clasificados/usados/48231041-4.jpg",
+        "https://crautos.com/clasificados/usados/48231041-5.jpg",
+        "https://crautos.com/clasificados/usados/48231041-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO VILLALOBOS",
+        "teléfono": "8362-5322",
+        "whatsapp": "8362-5322"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "220,000 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "RECIBO.DECKRA.D HIDRÁULICA.BUEN ESTADO.LLANTAS NUEVAS Y FRENOS.RECIBO.NEGOCIABLE .",
+        "kilometraje_number": 220000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 27
+}

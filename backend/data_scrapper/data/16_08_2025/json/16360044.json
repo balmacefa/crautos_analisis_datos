@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16360044&Honda.CIVIC%20LX.2001",
+    "año": 2001,
+    "marca": "HONDA",
+    "modelo": "CIVIC LX",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16360044-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16360044-1.jpg",
+        "https://crautos.com/clasificados/usados/16360044-2.jpg",
+        "https://crautos.com/clasificados/usados/16360044-3.jpg",
+        "https://crautos.com/clasificados/usados/16360044-4.jpg",
+        "https://crautos.com/clasificados/usados/16360044-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CYNTHIA GAMBOA",
+        "teléfono": "6049-7934 8799-4422",
+        "whatsapp": "6049-7934"
+    },
+    "informacion_general": {
+        "cilindrada": "1668 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "293,972 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Mayo del 2025",
+        "comentario_vendedor": "ESTA EN EXC ESTADO URGE VENDER.",
+        "kilometraje_number": 293972,
+        "cilindrada_number": 1668
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

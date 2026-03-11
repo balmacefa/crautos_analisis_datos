@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56545422&Nissan.FRONTIER.2025",
+    "año": 2025,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 42430,
+    "precio_usd": 21300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56545422-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56545422-1.jpg",
+        "https://crautos.com/clasificados/usados/56545422-2.jpg",
+        "https://crautos.com/clasificados/usados/56545422-3.jpg",
+        "https://crautos.com/clasificados/usados/56545422-4.jpg",
+        "https://crautos.com/clasificados/usados/56545422-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO LAM REYES",
+        "teléfono": "8401-4385",
+        "whatsapp": "8401-4385"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "13,300 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Termine de estrenar garantía de agencia..",
+        "kilometraje_number": 13300,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 0
+}

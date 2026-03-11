@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1506297&Honda.CRV.2013",
+    "año": 2013,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 18725,
+    "precio_usd": 9400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1506297-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1506297-1.jpg",
+        "https://crautos.com/clasificados/usados/1506297-2.jpg",
+        "https://crautos.com/clasificados/usados/1506297-3.jpg",
+        "https://crautos.com/clasificados/usados/1506297-4.jpg",
+        "https://crautos.com/clasificados/usados/1506297-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DRIVE MOTORS CR",
+        "teléfono": "8455-2663",
+        "whatsapp": "8455-2663",
+        "dirección": "200 mts de la entrada principal del Condominio Montezuma, camino hacia Grecia"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "104,895 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado, listo para inscribir.",
+        "kilometraje_number": 104895,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

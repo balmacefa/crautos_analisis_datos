@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65562629&Nissan.NAVARA.2022",
+    "año": 2022,
+    "marca": "NISSAN",
+    "modelo": "NAVARA",
+    "precio_crc": 39243,
+    "precio_usd": 19700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65562629-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65562629-1.jpg",
+        "https://crautos.com/clasificados/usados/65562629-2.jpg",
+        "https://crautos.com/clasificados/usados/65562629-3.jpg",
+        "https://crautos.com/clasificados/usados/65562629-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GLENDA SILVA",
+        "teléfono": "6287-0783",
+        "whatsapp": "6287-0783"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "50 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCA",
+        "color_interior": "NEGRA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "precio mas gastos de traspaso y cero km***para inscribir**.",
+        "kilometraje_number": 50,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de descenso",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 3
+}

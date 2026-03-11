@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46727918&Chevrolet.SPARK.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46727918-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46727918-1.jpg",
+        "https://crautos.com/clasificados/usados/46727918-2.jpg",
+        "https://crautos.com/clasificados/usados/46727918-3.jpg",
+        "https://crautos.com/clasificados/usados/46727918-4.jpg",
+        "https://crautos.com/clasificados/usados/46727918-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HAILYN BARRANTES",
+        "teléfono": "8676-0646",
+        "whatsapp": "8676-0646"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "154,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Precio negosiable .",
+        "kilometraje_number": 154000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

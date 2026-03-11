@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5724123&Hyundai.KONA.2023",
+    "año": 2023,
+    "marca": "HYUNDAI",
+    "modelo": "KONA",
+    "precio_crc": 11626320,
+    "precio_usd": 23160.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5724123-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5724123-1.jpg",
+        "https://crautos.com/clasificados/usados/5724123-2.jpg",
+        "https://crautos.com/clasificados/usados/5724123-3.jpg",
+        "https://crautos.com/clasificados/usados/5724123-4.jpg",
+        "https://crautos.com/clasificados/usados/5724123-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO Q",
+        "teléfono": "2522-7474",
+        "whatsapp": "7094-6958",
+        "dirección": "400 mtrs al oeste de la plaza de deportes de La Uruca Frente a la intersección Uruca, Circunvalación"
+    },
+    "informacion_general": {
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "26,958 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Con el respaldo de GrupoQ.",
+        "kilometraje_number": 26958
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

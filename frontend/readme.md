@@ -1,0 +1,1 @@
+<!-- This is an nextjs app, that interact with the backend to pull data -->

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62964094&Hyundai.ELANTRA%20AVANTE.2011",
+    "año": 2011,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA AVANTE",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62964094-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62964094-1.jpg",
+        "https://crautos.com/clasificados/usados/62964094-2.jpg",
+        "https://crautos.com/clasificados/usados/62964094-3.jpg",
+        "https://crautos.com/clasificados/usados/62964094-4.jpg",
+        "https://crautos.com/clasificados/usados/62964094-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOHAN GUEVARA",
+        "teléfono": "8791-3137 6197-2558",
+        "whatsapp": "8791-3137"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "126,306 kms",
+        "placa": "Termina en",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "kilometraje_number": 126306,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

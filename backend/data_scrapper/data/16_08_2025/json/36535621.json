@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36535621&Toyota.COROLLA%20S.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA S",
+    "precio_crc": 10757,
+    "precio_usd": 5400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36535621-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36535621-1.jpg",
+        "https://crautos.com/clasificados/usados/36535621-2.jpg",
+        "https://crautos.com/clasificados/usados/36535621-3.jpg",
+        "https://crautos.com/clasificados/usados/36535621-4.jpg",
+        "https://crautos.com/clasificados/usados/36535621-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEX RODRÍGUEZ",
+        "teléfono": "8348-9827",
+        "whatsapp": "8348-9827"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "125,000 millas",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Está en Grecia. Para Inscribir. Podría recibir moto. .",
+        "kilometraje_number": 125000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 15
+}

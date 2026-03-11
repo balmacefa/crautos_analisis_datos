@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88752858&Hyundai.SANTA%20FE.2012",
+    "año": 2012,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 10946,
+    "precio_usd": 5495000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88752858-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88752858-1.jpg",
+        "https://crautos.com/clasificados/usados/88752858-2.jpg",
+        "https://crautos.com/clasificados/usados/88752858-3.jpg",
+        "https://crautos.com/clasificados/usados/88752858-4.jpg",
+        "https://crautos.com/clasificados/usados/88752858-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGOLLL",
+        "teléfono": "7175-9064",
+        "whatsapp": "7175-9064"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "176,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BRONCE",
+        "color_interior": "BEIGE CAFE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO TODO LE FUNCIONA TODO AL DIA.",
+        "kilometraje_number": 176000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

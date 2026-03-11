@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11640169",
+    "año": 2009,
+    "marca": "SUBARU",
+    "modelo": "FORESTER",
+    "precio_crc": 12948,
+    "precio_usd": 6500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11640169-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11640169-1.jpg",
+        "https://crautos.com/clasificados/usados/11640169-2.jpg",
+        "https://crautos.com/clasificados/usados/11640169-3.jpg",
+        "https://crautos.com/clasificados/usados/11640169-4.jpg",
+        "https://crautos.com/clasificados/usados/11640169-5.jpg",
+        "https://crautos.com/clasificados/usados/11640169-6.jpg",
+        "https://crautos.com/clasificados/usados/11640169-7.jpg",
+        "https://crautos.com/clasificados/usados/11640169-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISMAEL FLORES",
+        "teléfono": "8354-0392",
+        "whatsapp": "8354-0392"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Se puede recibir vehículo de menor valor. Recién se cambio faja de distribución y conjunto clutch..",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

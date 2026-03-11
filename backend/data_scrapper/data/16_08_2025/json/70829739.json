@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70829739&Toyota.RAIZE.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "RAIZE",
+    "precio_crc": 17530,
+    "precio_usd": 8800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70829739-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70829739-1.jpg",
+        "https://crautos.com/clasificados/usados/70829739-2.jpg",
+        "https://crautos.com/clasificados/usados/70829739-3.jpg",
+        "https://crautos.com/clasificados/usados/70829739-4.jpg",
+        "https://crautos.com/clasificados/usados/70829739-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATHERINE ACUÑA",
+        "teléfono": "7207-4001",
+        "whatsapp": "7207-4001"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "22,300 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS CLARO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "kilometraje_number": 22300,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

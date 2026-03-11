@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16004355&Toyota.HILUX.1994",
+    "año": 1994,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16004355-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16004355-1.jpg",
+        "https://crautos.com/clasificados/usados/16004355-2.jpg",
+        "https://crautos.com/clasificados/usados/16004355-3.jpg",
+        "https://crautos.com/clasificados/usados/16004355-4.jpg",
+        "https://crautos.com/clasificados/usados/16004355-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR CAMACHO",
+        "teléfono": "6308-1222",
+        "whatsapp": "6308-1222"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "250,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Cajón refrigerado funcionando al cien por ciento se puede dar con batea o solo en batea! .",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 31
+}

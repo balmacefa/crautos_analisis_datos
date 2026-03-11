@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56262053&Toyota.LAND%20CRUISER%20PRADO%20TX.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER PRADO TX",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56262053-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56262053-1.jpg",
+        "https://crautos.com/clasificados/usados/56262053-2.jpg",
+        "https://crautos.com/clasificados/usados/56262053-3.jpg",
+        "https://crautos.com/clasificados/usados/56262053-4.jpg",
+        "https://crautos.com/clasificados/usados/56262053-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO CORDERO",
+        "teléfono": "7091-0199",
+        "whatsapp": "7091-0199"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Unica dueña record de agencia pintura impecable.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de descenso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

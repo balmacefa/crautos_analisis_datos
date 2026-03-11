@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41829853",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "CANTER",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41829853-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41829853-1.jpg",
+        "https://crautos.com/clasificados/usados/41829853-2.jpg",
+        "https://crautos.com/clasificados/usados/41829853-3.jpg",
+        "https://crautos.com/clasificados/usados/41829853-4.jpg",
+        "https://crautos.com/clasificados/usados/41829853-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES",
+        "teléfono": "6074-7890"
+    },
+    "informacion_general": {
+        "cilindrada": "3900 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "317,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Excelente Estado.",
+        "kilometraje_number": 317000,
+        "cilindrada_number": 3900
+    },
+    "equipamiento": [
+        "Control de descenso",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 17
+}

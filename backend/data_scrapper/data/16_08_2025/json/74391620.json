@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=74391620&Toyota.YARIS.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/74391620-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/74391620-1.jpg",
+        "https://crautos.com/clasificados/usados/74391620-2.jpg",
+        "https://crautos.com/clasificados/usados/74391620-3.jpg",
+        "https://crautos.com/clasificados/usados/74391620-4.jpg",
+        "https://crautos.com/clasificados/usados/74391620-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO ARAYA",
+        "teléfono": "6041-2294",
+        "whatsapp": "6041-2294"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "166,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO, BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Carro en perfectas condiciones. firma inmediata. Esta en Naranjo .",
+        "kilometraje_number": 166000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

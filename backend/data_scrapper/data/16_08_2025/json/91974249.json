@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91974249&Toyota.COROLLA.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91974249-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91974249-1.jpg",
+        "https://crautos.com/clasificados/usados/91974249-2.jpg",
+        "https://crautos.com/clasificados/usados/91974249-3.jpg",
+        "https://crautos.com/clasificados/usados/91974249-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREIVIN NAVARRO",
+        "teléfono": "5700-3955 8634-8511",
+        "whatsapp": "5700-3955"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "189,883 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "kilometraje_number": 189883,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

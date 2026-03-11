@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14602674&Geely.GC2.2017",
+    "año": 2017,
+    "marca": "GEELY",
+    "modelo": "GC2",
+    "precio_crc": 7271,
+    "precio_usd": 3650000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14602674-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14602674-1.jpg",
+        "https://crautos.com/clasificados/usados/14602674-2.jpg",
+        "https://crautos.com/clasificados/usados/14602674-3.jpg",
+        "https://crautos.com/clasificados/usados/14602674-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DENIS MÉNDEZ",
+        "teléfono": "8797-9117",
+        "whatsapp": "8314-8915"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "96,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Se encuentra al día sin gravámenes .",
+        "kilometraje_number": 96000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [],
+    "antiguedad": 8
+}

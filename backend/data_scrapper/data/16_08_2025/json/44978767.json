@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44978767&Hyundai.ACCENT.1995",
+    "año": 1995,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 3386,
+    "precio_usd": 1700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44978767-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44978767-1.jpg",
+        "https://crautos.com/clasificados/usados/44978767-2.jpg",
+        "https://crautos.com/clasificados/usados/44978767-3.jpg",
+        "https://crautos.com/clasificados/usados/44978767-4.jpg",
+        "https://crautos.com/clasificados/usados/44978767-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ODILIO CALVO MENA",
+        "teléfono": "8369-9985 8446-2736",
+        "whatsapp": "8369-9985"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "20,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "El kilometraje es un estimado ya que se cambio recientemente el tablero .",
+        "kilometraje_number": 20000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 30
+}

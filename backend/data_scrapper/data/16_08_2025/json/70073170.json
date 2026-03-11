@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70073170&Marcopolo.VOLARE.2019",
+    "año": 2019,
+    "modelo": "Marcopolo VOLARE",
+    "precio_crc": 75697,
+    "precio_usd": 38000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70073170-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70073170-1.jpg",
+        "https://crautos.com/clasificados/usados/70073170-2.jpg",
+        "https://crautos.com/clasificados/usados/70073170-3.jpg",
+        "https://crautos.com/clasificados/usados/70073170-4.jpg",
+        "https://crautos.com/clasificados/usados/70073170-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS BERMUDEZ SEGURA",
+        "teléfono": "8887-0874 6006-0094",
+        "whatsapp": "8887-0874"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "63,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "1",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "kilometraje_number": 63000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 6
+}

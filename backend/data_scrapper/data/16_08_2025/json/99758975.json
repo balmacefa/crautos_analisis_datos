@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99758975&Nissan.VERSA%20.2009",
+    "año": 2009,
+    "marca": "NISSAN",
+    "modelo": "VERSA",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99758975-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99758975-1.jpg",
+        "https://crautos.com/clasificados/usados/99758975-2.jpg",
+        "https://crautos.com/clasificados/usados/99758975-3.jpg",
+        "https://crautos.com/clasificados/usados/99758975-4.jpg",
+        "https://crautos.com/clasificados/usados/99758975-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS FALLAS",
+        "teléfono": "8888-2868",
+        "whatsapp": "8888-2868"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "215,732 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "URGE VENDER.",
+        "kilometraje_number": 215732,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

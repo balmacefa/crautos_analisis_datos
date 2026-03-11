@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95148817&Chery.TIGGO%202.2018",
+    "año": 2018,
+    "marca": "CHERY",
+    "modelo": "TIGGO 2",
+    "precio_crc": 10458,
+    "precio_usd": 5250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95148817-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95148817-1.jpg",
+        "https://crautos.com/clasificados/usados/95148817-2.jpg",
+        "https://crautos.com/clasificados/usados/95148817-3.jpg",
+        "https://crautos.com/clasificados/usados/95148817-4.jpg",
+        "https://crautos.com/clasificados/usados/95148817-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS ROJAS",
+        "teléfono": "8728-4374",
+        "whatsapp": "8728-4374"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "90,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO/NARANJA",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Impecable estado vehículo familiar de ciudad nada que hacerle.",
+        "kilometraje_number": 90000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

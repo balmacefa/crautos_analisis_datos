@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50761449&Toyota.HIACE.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 30279,
+    "precio_usd": 15200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50761449-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50761449-1.jpg",
+        "https://crautos.com/clasificados/usados/50761449-2.jpg",
+        "https://crautos.com/clasificados/usados/50761449-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID ORTEGA",
+        "teléfono": "8824-9476 8833-5369",
+        "whatsapp": "8824-9476"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "522,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "23 de Mayo del 2025",
+        "comentario_vendedor": "Excelentes condiciones. Precio Negociable. Se vende para compra mas nueva.",
+        "kilometraje_number": 522000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=97828772&Mitsubishi.L200%20SPORTERO.2014",
+    "año": 2014,
+    "marca": "MITSUBISHI",
+    "modelo": "L200 SPORTERO",
+    "precio_crc": 24900,
+    "precio_usd": 12500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/97828772-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/97828772-1.jpg",
+        "https://crautos.com/clasificados/usados/97828772-2.jpg",
+        "https://crautos.com/clasificados/usados/97828772-3.jpg",
+        "https://crautos.com/clasificados/usados/97828772-4.jpg",
+        "https://crautos.com/clasificados/usados/97828772-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONEY MORERA MURILLO",
+        "teléfono": "8820-5077 7203-3064",
+        "whatsapp": "8820-5077"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "190,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Junio del 2025",
+        "comentario_vendedor": "Tiene las cuatro llantas nuevas instaladas recientemente .",
+        "kilometraje_number": 190000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 11
+}

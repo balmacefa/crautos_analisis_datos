@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26075322&Honda.CIVIC%20EK.1996",
+    "año": 1996,
+    "marca": "HONDA",
+    "modelo": "CIVIC EK",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26075322-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26075322-1.jpg",
+        "https://crautos.com/clasificados/usados/26075322-2.jpg",
+        "https://crautos.com/clasificados/usados/26075322-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN CHAVES",
+        "teléfono": "8811-3715",
+        "whatsapp": "8811-3715"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Civic en muy buen estado motor Bveinte VTEC muchas extras se podría recibir vehículo de mi interes.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 29
+}

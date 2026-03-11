@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=61664807&Suzuki.SWIFT.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/61664807-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/61664807-1.jpg",
+        "https://crautos.com/clasificados/usados/61664807-2.jpg",
+        "https://crautos.com/clasificados/usados/61664807-3.jpg",
+        "https://crautos.com/clasificados/usados/61664807-4.jpg",
+        "https://crautos.com/clasificados/usados/61664807-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANA GONZÁLEZ",
+        "teléfono": "8912-5456",
+        "whatsapp": "8912-5456"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado- versión Japones- Automatico.",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32623900&Honda.CIVIC%20EX.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "CIVIC EX",
+    "precio_crc": 15936,
+    "precio_usd": 8000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32623900-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32623900-1.jpg",
+        "https://crautos.com/clasificados/usados/32623900-2.jpg",
+        "https://crautos.com/clasificados/usados/32623900-3.jpg",
+        "https://crautos.com/clasificados/usados/32623900-4.jpg",
+        "https://crautos.com/clasificados/usados/32623900-5.jpg",
+        "https://crautos.com/clasificados/usados/32623900-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON ZUÑIGA",
+        "teléfono": "8386-2286",
+        "whatsapp": "8386-2286"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "63,500 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Poco Kilometraje excelente estado.",
+        "kilometraje_number": 63500,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

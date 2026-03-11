@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8632215&Kia.SPORTAGE.2023",
+    "año": 2023,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 22590000,
+    "precio_usd": 45000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8632215-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8632215-1.jpg",
+        "https://crautos.com/clasificados/usados/8632215-2.jpg",
+        "https://crautos.com/clasificados/usados/8632215-3.jpg",
+        "https://crautos.com/clasificados/usados/8632215-4.jpg",
+        "https://crautos.com/clasificados/usados/8632215-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "42,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "TERRACOTA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Febrero del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO. DISPONIBLE EN SUCURSAL ESCAZUUCA.",
+        "kilometraje_number": 42000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 2
+}

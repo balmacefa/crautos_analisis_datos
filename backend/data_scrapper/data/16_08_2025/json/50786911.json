@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50786911&Toyota.HILUX.2013",
+    "año": 2013,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 27988,
+    "precio_usd": 14050000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50786911-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50786911-1.jpg",
+        "https://crautos.com/clasificados/usados/50786911-2.jpg",
+        "https://crautos.com/clasificados/usados/50786911-3.jpg",
+        "https://crautos.com/clasificados/usados/50786911-4.jpg",
+        "https://crautos.com/clasificados/usados/50786911-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFFREY BENAVIDES CARTIN",
+        "teléfono": "8853-0194 2543-1423",
+        "whatsapp": "8853-0194"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "232,900 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "ACABA DE PASAR DEKRA MUY ECONOMICO NEGOCIABLE IDEAL PARA TRABAJAR.",
+        "kilometraje_number": 232900,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

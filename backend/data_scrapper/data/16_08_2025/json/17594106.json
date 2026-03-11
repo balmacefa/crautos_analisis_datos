@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17594106&Jeep.LAREDO%20CJ5.1980",
+    "año": 1980,
+    "marca": "JEEP",
+    "modelo": "LAREDO CJ5",
+    "precio_crc": 50000,
+    "precio_usd": 25100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17594106-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17594106-1.jpg",
+        "https://crautos.com/clasificados/usados/17594106-2.jpg",
+        "https://crautos.com/clasificados/usados/17594106-3.jpg",
+        "https://crautos.com/clasificados/usados/17594106-4.jpg",
+        "https://crautos.com/clasificados/usados/17594106-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RODRIGO DE BEDOUT",
+        "teléfono": "8837-8092",
+        "whatsapp": "8837-8092"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "22,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "BLUE",
+        "color_interior": "BLACK",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "kilometraje_number": 22000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [],
+    "antiguedad": 45
+}

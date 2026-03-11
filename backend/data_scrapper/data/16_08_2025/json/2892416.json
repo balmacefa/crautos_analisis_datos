@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2892416&Kia.SORENTO.2023",
+    "año": 2023,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 25100000,
+    "precio_usd": 50000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2892416-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2892416-1.jpg",
+        "https://crautos.com/clasificados/usados/2892416-2.jpg",
+        "https://crautos.com/clasificados/usados/2892416-3.jpg",
+        "https://crautos.com/clasificados/usados/2892416-4.jpg",
+        "https://crautos.com/clasificados/usados/2892416-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "51,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Abril del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO.",
+        "kilometraje_number": 51000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 2
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20117362&Mitsubishi.FUSO%20CANTER%20.2018",
+    "año": 2018,
+    "marca": "MITSUBISHI",
+    "modelo": "FUSO CANTER",
+    "precio_crc": 43825,
+    "precio_usd": 22000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20117362-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20117362-1.jpg",
+        "https://crautos.com/clasificados/usados/20117362-2.jpg",
+        "https://crautos.com/clasificados/usados/20117362-3.jpg",
+        "https://crautos.com/clasificados/usados/20117362-4.jpg",
+        "https://crautos.com/clasificados/usados/20117362-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ ANTONIO ARGUELLO QUESADA",
+        "teléfono": "8874-8189 8377-4440 2463-2239",
+        "whatsapp": "8874-8189"
+    },
+    "informacion_general": {
+        "cilindrada": "2998 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Se vende por falta de uso comprado de agencia.",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2998
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

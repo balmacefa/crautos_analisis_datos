@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=22527749&Hyundai.CRETA.2022",
+    "año": 2022,
+    "marca": "HYUNDAI",
+    "modelo": "CRETA",
+    "precio_crc": 27291,
+    "precio_usd": 13700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/22527749-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/22527749-1.jpg",
+        "https://crautos.com/clasificados/usados/22527749-2.jpg",
+        "https://crautos.com/clasificados/usados/22527749-3.jpg",
+        "https://crautos.com/clasificados/usados/22527749-4.jpg",
+        "https://crautos.com/clasificados/usados/22527749-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "TATIANA MIRANDA",
+        "teléfono": "8747-2331",
+        "whatsapp": "8747-2331"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "37,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 37000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4674453&Hyundai.TUCSON.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8483101,
+    "precio_usd": 16899.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4674453-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4674453-1.jpg",
+        "https://crautos.com/clasificados/usados/4674453-2.jpg",
+        "https://crautos.com/clasificados/usados/4674453-3.jpg",
+        "https://crautos.com/clasificados/usados/4674453-4.jpg",
+        "https://crautos.com/clasificados/usados/4674453-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "COSTA AMERICAN AUTO",
+        "teléfono": "7114-2178 4018-1478",
+        "whatsapp": "7114-2178",
+        "dirección": "Guadalupe, San Francisco, Barrio Tournon Centro Comercial Tournon Local 2"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "62,400 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 62400,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 10
+}

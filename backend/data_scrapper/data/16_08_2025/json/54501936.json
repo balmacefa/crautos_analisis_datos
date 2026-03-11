@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54501936&Toyota.RAV4.2005",
+    "año": 2005,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54501936-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54501936-1.jpg",
+        "https://crautos.com/clasificados/usados/54501936-2.jpg",
+        "https://crautos.com/clasificados/usados/54501936-3.jpg",
+        "https://crautos.com/clasificados/usados/54501936-4.jpg",
+        "https://crautos.com/clasificados/usados/54501936-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SULAY PRADO",
+        "teléfono": "8476-4063 7209-1943",
+        "whatsapp": "8476-4063"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "207,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Urge vender solo efectivo escucho ofertas .",
+        "kilometraje_number": 207000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 20
+}

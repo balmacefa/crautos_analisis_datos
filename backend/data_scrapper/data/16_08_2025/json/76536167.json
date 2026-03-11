@@ -1,0 +1,16 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76536167&Toyota.HIACE.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 21912,
+    "precio_usd": 11000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76536167-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76536167-1.jpg",
+        "https://crautos.com/clasificados/usados/76536167-2.jpg",
+        "https://crautos.com/clasificados/usados/76536167-3.jpg",
+        "https://crautos.com/clasificados/usados/76536167-4.jpg"
+    ],
+    "antiguedad": 15
+}

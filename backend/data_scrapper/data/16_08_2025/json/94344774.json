@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94344774&Hyundai.MATRIX.2005",
+    "año": 2005,
+    "marca": "HYUNDAI",
+    "modelo": "MATRIX",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94344774-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94344774-1.jpg",
+        "https://crautos.com/clasificados/usados/94344774-2.jpg",
+        "https://crautos.com/clasificados/usados/94344774-3.jpg",
+        "https://crautos.com/clasificados/usados/94344774-4.jpg",
+        "https://crautos.com/clasificados/usados/94344774-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR PICADO",
+        "teléfono": "8718-1300 8562-1018",
+        "whatsapp": "8718-1300"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Station Wagon",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "177,217 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS-NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Espacio y confort para todos tus viajes. Conversemos sin compromiso..",
+        "kilometraje_number": 177217,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

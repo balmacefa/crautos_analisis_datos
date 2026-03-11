@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79354201&Isuzu.DMAX.2008",
+    "año": 2008,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79354201-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79354201-1.jpg",
+        "https://crautos.com/clasificados/usados/79354201-2.jpg",
+        "https://crautos.com/clasificados/usados/79354201-3.jpg",
+        "https://crautos.com/clasificados/usados/79354201-4.jpg",
+        "https://crautos.com/clasificados/usados/79354201-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO ABARCA",
+        "teléfono": "6060-3832 6458-8032",
+        "whatsapp": "6060-3832"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "158,249 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Único dueño carro de cochera como nuevo todo original .",
+        "kilometraje_number": 158249,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

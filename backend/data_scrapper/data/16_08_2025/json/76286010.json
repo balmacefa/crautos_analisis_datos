@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=76286010&Chevrolet.AVEO%20LT.2020",
+    "año": 2020,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO LT",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/76286010-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/76286010-1.jpg",
+        "https://crautos.com/clasificados/usados/76286010-2.jpg",
+        "https://crautos.com/clasificados/usados/76286010-3.jpg",
+        "https://crautos.com/clasificados/usados/76286010-4.jpg",
+        "https://crautos.com/clasificados/usados/76286010-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL RIVERA",
+        "teléfono": "7099-6273"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "141,268 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "comentario_vendedor": "CHEVROLET AVEO LT en excelente estado.",
+        "kilometraje_number": 141268,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 5
+}

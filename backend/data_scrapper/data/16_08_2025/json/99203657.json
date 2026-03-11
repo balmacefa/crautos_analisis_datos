@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99203657",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 5976,
+    "precio_usd": 3000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99203657-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99203657-1.jpg",
+        "https://crautos.com/clasificados/usados/99203657-2.jpg",
+        "https://crautos.com/clasificados/usados/99203657-3.jpg",
+        "https://crautos.com/clasificados/usados/99203657-4.jpg",
+        "https://crautos.com/clasificados/usados/99203657-5.jpg",
+        "https://crautos.com/clasificados/usados/99203657-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "XIOMARA O",
+        "teléfono": "8550-9440",
+        "whatsapp": "8550-9440"
+    },
+    "informacion_general": {
+        "cilindrada": "1598 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "233,610 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "20 de Julio del 2025",
+        "comentario_vendedor": "No se reciben a cambio vehiculos o motos.",
+        "kilometraje_number": 233610,
+        "cilindrada_number": 1598
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Cierre central",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3781571&Changan.UNI%20T.2024",
+    "año": 2024,
+    "marca": "CHANGAN",
+    "modelo": "UNI T",
+    "precio_crc": 13303000,
+    "precio_usd": 26500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3781571-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3781571-1.jpg",
+        "https://crautos.com/clasificados/usados/3781571-2.jpg",
+        "https://crautos.com/clasificados/usados/3781571-3.jpg",
+        "https://crautos.com/clasificados/usados/3781571-4.jpg",
+        "https://crautos.com/clasificados/usados/3781571-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SUZUKI MOTOR CENTER",
+        "teléfono": "2242-7000 ext 232",
+        "whatsapp": "6196-2490",
+        "dirección": "Frente al Hospital Mexico, La Uruca. San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "17,392 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "N/A",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 17392,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 1
+}

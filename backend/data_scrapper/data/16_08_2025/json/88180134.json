@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88180134&Hyundai.ELANTRA.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88180134-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88180134-1.jpg",
+        "https://crautos.com/clasificados/usados/88180134-2.jpg",
+        "https://crautos.com/clasificados/usados/88180134-3.jpg",
+        "https://crautos.com/clasificados/usados/88180134-4.jpg",
+        "https://crautos.com/clasificados/usados/88180134-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEYVIN ALVAREZ",
+        "teléfono": "6223-7926",
+        "whatsapp": "6223-7926"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 millas",
+        "placa": "Termina en 4",
+        "color_exterior": "BRONCE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

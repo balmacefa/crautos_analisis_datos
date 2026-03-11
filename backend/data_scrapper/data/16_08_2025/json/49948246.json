@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49948246&Daihatsu.TERIOS.2006",
+    "año": 2006,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49948246-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49948246-1.jpg",
+        "https://crautos.com/clasificados/usados/49948246-2.jpg",
+        "https://crautos.com/clasificados/usados/49948246-3.jpg",
+        "https://crautos.com/clasificados/usados/49948246-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO BONILLA LUNA",
+        "teléfono": "8387-7730",
+        "whatsapp": "8387-7730"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "218,596 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "ROSADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "Excelente estado y con mantenimiento completo..",
+        "kilometraje_number": 218596,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

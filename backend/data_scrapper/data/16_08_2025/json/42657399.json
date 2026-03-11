@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42657399&Toyota.YARIS.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42657399-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42657399-1.jpg",
+        "https://crautos.com/clasificados/usados/42657399-2.jpg",
+        "https://crautos.com/clasificados/usados/42657399-3.jpg",
+        "https://crautos.com/clasificados/usados/42657399-4.jpg",
+        "https://crautos.com/clasificados/usados/42657399-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN UMAÑA",
+        "teléfono": "8790-1881"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "176,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "LLANTAS NUEVAS BATERIA NUEVA MUY CUIDADO.",
+        "kilometraje_number": 176000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

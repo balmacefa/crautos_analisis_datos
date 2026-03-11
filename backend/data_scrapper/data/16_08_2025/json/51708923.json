@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51708923&Hino.DUTRO.2008",
+    "año": 2008,
+    "marca": "HINO",
+    "modelo": "DUTRO",
+    "precio_crc": 16335,
+    "precio_usd": 8200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51708923-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51708923-1.jpg",
+        "https://crautos.com/clasificados/usados/51708923-2.jpg",
+        "https://crautos.com/clasificados/usados/51708923-3.jpg",
+        "https://crautos.com/clasificados/usados/51708923-4.jpg",
+        "https://crautos.com/clasificados/usados/51708923-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCO ANTONIO CHAVES",
+        "teléfono": "8887-7851"
+    },
+    "informacion_general": {
+        "cilindrada": "40000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "232,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Camion en perfecto estado todo le funciona y en óptimas condiciones .",
+        "kilometraje_number": 232000,
+        "cilindrada_number": 40000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 17
+}

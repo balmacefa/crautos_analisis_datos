@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98456361&Toyota.HILUX.1991",
+    "año": 1991,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98456361-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98456361-1.jpg",
+        "https://crautos.com/clasificados/usados/98456361-2.jpg",
+        "https://crautos.com/clasificados/usados/98456361-3.jpg",
+        "https://crautos.com/clasificados/usados/98456361-4.jpg",
+        "https://crautos.com/clasificados/usados/98456361-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISAAC VILLALOBOS",
+        "teléfono": "7012-6565",
+        "whatsapp": "7012-6565"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "273,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "AZUL",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "kilometraje_number": 273000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 34
+}

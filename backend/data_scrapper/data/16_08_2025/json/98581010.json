@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=98581010&Nissan.TIIDA.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/98581010-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/98581010-1.jpg",
+        "https://crautos.com/clasificados/usados/98581010-2.jpg",
+        "https://crautos.com/clasificados/usados/98581010-3.jpg",
+        "https://crautos.com/clasificados/usados/98581010-4.jpg",
+        "https://crautos.com/clasificados/usados/98581010-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CECILIA SILVA",
+        "teléfono": "7155-0000"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "100,300 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "NEGOCIABLE EN PERFECTO ESTADO, SE FINANCIA.",
+        "kilometraje_number": 100300,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

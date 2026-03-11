@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34810195&Suzuki.VITARA.2000",
+    "año": 2000,
+    "marca": "SUZUKI",
+    "modelo": "VITARA",
+    "precio_crc": 4980,
+    "precio_usd": 2500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34810195-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34810195-1.jpg",
+        "https://crautos.com/clasificados/usados/34810195-2.jpg",
+        "https://crautos.com/clasificados/usados/34810195-3.jpg",
+        "https://crautos.com/clasificados/usados/34810195-4.jpg",
+        "https://crautos.com/clasificados/usados/34810195-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DAVID SOLANO",
+        "teléfono": "8979-6546",
+        "whatsapp": "8979-6546"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "20,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Al dia y regalo traspaso. Excelente de motor-caja-carroceria-chasis y pisos. NECESITA PINTURA TOTAL..",
+        "kilometraje_number": 20000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 25
+}

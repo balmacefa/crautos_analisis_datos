@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32706332&Hyundai.SANTA%20FE.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32706332-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32706332-1.jpg",
+        "https://crautos.com/clasificados/usados/32706332-2.jpg",
+        "https://crautos.com/clasificados/usados/32706332-3.jpg",
+        "https://crautos.com/clasificados/usados/32706332-4.jpg",
+        "https://crautos.com/clasificados/usados/32706332-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTINA QUESADA",
+        "teléfono": "8314-7872 8881-1550",
+        "whatsapp": "8314-7872"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "223,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "kilometraje_number": 223000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

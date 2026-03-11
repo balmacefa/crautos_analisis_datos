@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1502979&Suzuki.GRAND%20VITARA%20.2007",
+    "año": 2007,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1502979-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1502979-1.jpg",
+        "https://crautos.com/clasificados/usados/1502979-2.jpg",
+        "https://crautos.com/clasificados/usados/1502979-3.jpg",
+        "https://crautos.com/clasificados/usados/1502979-4.jpg",
+        "https://crautos.com/clasificados/usados/1502979-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO XIRI TIBÁS",
+        "teléfono": "2236-9966 8785-6553 6009-9978",
+        "whatsapp": "6009-9978",
+        "dirección": "San Juan de Tibas , 150 mts oeste del Maxipali, edificio Auto Xiri"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "118,342 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "comentario_vendedor": "Financiamiento directo de AUTO XIRI TIBAS,con prima y cuota a convenir,recibimos ,garantía .",
+        "kilometraje_number": 118342,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 18
+}

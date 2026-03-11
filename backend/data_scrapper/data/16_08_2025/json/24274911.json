@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24274911&Mitsubishi.LANCER.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24274911-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24274911-1.jpg",
+        "https://crautos.com/clasificados/usados/24274911-2.jpg",
+        "https://crautos.com/clasificados/usados/24274911-3.jpg",
+        "https://crautos.com/clasificados/usados/24274911-4.jpg",
+        "https://crautos.com/clasificados/usados/24274911-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS PANIAGUA",
+        "teléfono": "8467-2929 8869-3094",
+        "whatsapp": "8467-2929"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Muy bueno.",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

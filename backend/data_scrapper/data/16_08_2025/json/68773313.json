@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68773313&Citroen.C3%20SX.2011",
+    "año": 2011,
+    "marca": "CITROEN",
+    "modelo": "C3 SX",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68773313-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68773313-1.jpg",
+        "https://crautos.com/clasificados/usados/68773313-2.jpg",
+        "https://crautos.com/clasificados/usados/68773313-3.jpg",
+        "https://crautos.com/clasificados/usados/68773313-4.jpg",
+        "https://crautos.com/clasificados/usados/68773313-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUGO AGUILAR",
+        "teléfono": "8843-5509 7011-2700"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "133,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "AL DIA SIN GRAVAMENES USO PERSONAL ECONOMICO.",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

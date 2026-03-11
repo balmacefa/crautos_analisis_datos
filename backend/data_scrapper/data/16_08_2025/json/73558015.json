@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73558015&Chevrolet.SPARK%20.2009",
+    "año": 2009,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73558015-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73558015-1.jpg",
+        "https://crautos.com/clasificados/usados/73558015-2.jpg",
+        "https://crautos.com/clasificados/usados/73558015-3.jpg",
+        "https://crautos.com/clasificados/usados/73558015-4.jpg",
+        "https://crautos.com/clasificados/usados/73558015-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LIGIA MARCELA UGALDE",
+        "teléfono": "7175-4354",
+        "whatsapp": "7175-4354"
+    },
+    "informacion_general": {
+        "cilindrada": "800 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "145,400 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "11 de Junio del 2025",
+        "comentario_vendedor": "Cuenta con GPS satelital y apagado remoto.",
+        "kilometraje_number": 145400,
+        "cilindrada_number": 800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Cierre central"
+    ],
+    "antiguedad": 16
+}

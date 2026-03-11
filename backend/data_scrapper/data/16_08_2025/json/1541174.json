@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1541174&Hyundai.TUCSON.2015",
+    "año": 2015,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 16733,
+    "precio_usd": 8400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1541174-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1541174-1.jpg",
+        "https://crautos.com/clasificados/usados/1541174-2.jpg",
+        "https://crautos.com/clasificados/usados/1541174-3.jpg",
+        "https://crautos.com/clasificados/usados/1541174-4.jpg",
+        "https://crautos.com/clasificados/usados/1541174-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS RICHARD S.A.",
+        "teléfono": "8603-4704 7063-9109",
+        "whatsapp": "8603-4704",
+        "dirección": "San Miguel Desamparados 800 mts sur Maxibodega sobre carretera mano izquierda SAN JOSE"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "77,000 kms",
+        "placa": "ND",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "09 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado, se ofrece financiamiento, todo al dia..",
+        "kilometraje_number": 77000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero"
+    ],
+    "antiguedad": 10
+}

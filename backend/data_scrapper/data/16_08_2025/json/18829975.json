@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18829975&Hyundai.TUCSON%20.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18829975-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18829975-1.jpg",
+        "https://crautos.com/clasificados/usados/18829975-2.jpg",
+        "https://crautos.com/clasificados/usados/18829975-3.jpg",
+        "https://crautos.com/clasificados/usados/18829975-4.jpg",
+        "https://crautos.com/clasificados/usados/18829975-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NELSON OROZCO ROSES",
+        "teléfono": "6475-5918",
+        "whatsapp": "6475-5918"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "155,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Lindo bbien cuidado con mínimos detalles en pintura .",
+        "kilometraje_number": 155000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

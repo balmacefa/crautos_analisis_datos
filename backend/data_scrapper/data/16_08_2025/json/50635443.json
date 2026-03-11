@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50635443",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "ASX",
+    "precio_crc": 11454,
+    "precio_usd": 5750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50635443-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50635443-1.jpg",
+        "https://crautos.com/clasificados/usados/50635443-2.jpg",
+        "https://crautos.com/clasificados/usados/50635443-3.jpg",
+        "https://crautos.com/clasificados/usados/50635443-4.jpg",
+        "https://crautos.com/clasificados/usados/50635443-5.jpg",
+        "https://crautos.com/clasificados/usados/50635443-6.jpg",
+        "https://crautos.com/clasificados/usados/50635443-7.jpg",
+        "https://crautos.com/clasificados/usados/50635443-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FREDDY SANABRIA JIMÉNEZ",
+        "teléfono": "8785-5835 8789-4439",
+        "whatsapp": "8785-5835"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CELESTE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "10 de Junio del 2025",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79106392&Daihatsu.TERIOS%20BEGO.2009",
+    "año": 2009,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS BEGO",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79106392-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79106392-1.jpg",
+        "https://crautos.com/clasificados/usados/79106392-2.jpg",
+        "https://crautos.com/clasificados/usados/79106392-3.jpg",
+        "https://crautos.com/clasificados/usados/79106392-4.jpg",
+        "https://crautos.com/clasificados/usados/79106392-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO CHAVES",
+        "teléfono": "8817-7862 8973-2662",
+        "whatsapp": "8817-7862"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "295,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "TODO AL DÍA-MANUAL-ESPEJOS ELÉCTRICOS-PANTALLA-FIRMA INMEDIATA-MUY ECONÓMICO-LUPAS DELANTERAS.",
+        "kilometraje_number": 295000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

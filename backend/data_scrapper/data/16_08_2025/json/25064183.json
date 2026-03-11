@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25064183&Toyota.TERCEL.1991",
+    "año": 1991,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 1992,
+    "precio_usd": 1000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JESUS CHAVES",
+        "teléfono": "6330-0808 6184-4983",
+        "whatsapp": "6330-0808"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Tercel debe mayo de dekra esta caminando .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 34
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=1995860&Suzuki.VITARA%20GL.2023",
+    "año": 2023,
+    "marca": "SUZUKI",
+    "modelo": "VITARA GL",
+    "precio_crc": 12801000,
+    "precio_usd": 25500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/1995860-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/1995860-1.jpg",
+        "https://crautos.com/clasificados/usados/1995860-2.jpg",
+        "https://crautos.com/clasificados/usados/1995860-3.jpg",
+        "https://crautos.com/clasificados/usados/1995860-4.jpg",
+        "https://crautos.com/clasificados/usados/1995860-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SUZUKI MOTOR CENTER",
+        "teléfono": "2242-7000 ext 232",
+        "whatsapp": "6196-2490",
+        "dirección": "Frente al Hospital Mexico, La Uruca. San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "62,878 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "GRIS",
+        "color_interior": "N/A",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "kilometraje_number": 62878,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

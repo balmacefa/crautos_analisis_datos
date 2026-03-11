@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5575429&Chevrolet.TRACKER%20LS.2023",
+    "año": 2023,
+    "marca": "CHEVROLET",
+    "modelo": "TRACKER LS",
+    "precio_crc": 11626320,
+    "precio_usd": 23160.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5575429-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5575429-1.jpg",
+        "https://crautos.com/clasificados/usados/5575429-2.jpg",
+        "https://crautos.com/clasificados/usados/5575429-3.jpg",
+        "https://crautos.com/clasificados/usados/5575429-4.jpg",
+        "https://crautos.com/clasificados/usados/5575429-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO Q",
+        "teléfono": "2522-7474",
+        "whatsapp": "7094-6958",
+        "dirección": "400 mtrs al oeste de la plaza de deportes de La Uruca Frente a la intersección Uruca, Circunvalación"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "25,307 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Con el respaldo de GrupoQ.",
+        "kilometraje_number": 25307,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

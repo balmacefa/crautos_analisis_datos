@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15297728&Daihatsu.TERIOS.2004",
+    "año": 2004,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15297728-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15297728-1.jpg",
+        "https://crautos.com/clasificados/usados/15297728-2.jpg",
+        "https://crautos.com/clasificados/usados/15297728-3.jpg",
+        "https://crautos.com/clasificados/usados/15297728-4.jpg",
+        "https://crautos.com/clasificados/usados/15297728-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAIRO RODRÍGUEZ GRANADOS",
+        "teléfono": "8642-2663 7110-2099",
+        "whatsapp": "8642-2663"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "224,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Buen estado de caja y motor sin checks ni fugas. Muy económico y fuerte..",
+        "kilometraje_number": 224000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

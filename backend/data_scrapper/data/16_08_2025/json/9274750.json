@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9274750&Hyundai.ACCENT%20GL.2014",
+    "año": 2014,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT GL",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9274750-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9274750-1.jpg",
+        "https://crautos.com/clasificados/usados/9274750-2.jpg",
+        "https://crautos.com/clasificados/usados/9274750-3.jpg",
+        "https://crautos.com/clasificados/usados/9274750-4.jpg",
+        "https://crautos.com/clasificados/usados/9274750-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAR SWAP",
+        "teléfono": "7104-6984 7273-9291 7071-9915",
+        "whatsapp": "7104-6984",
+        "dirección": "Centro comercial Santa Verde. La Aurora. Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "174,218 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Perfecto estado! Detalles pequeños en pintura! Conjunto de clutch nuevo!.",
+        "kilometraje_number": 174218,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

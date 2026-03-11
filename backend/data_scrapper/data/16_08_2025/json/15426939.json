@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15426939&Chevrolet.SPARK%20GO%20.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK GO",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15426939-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15426939-1.jpg",
+        "https://crautos.com/clasificados/usados/15426939-2.jpg",
+        "https://crautos.com/clasificados/usados/15426939-3.jpg",
+        "https://crautos.com/clasificados/usados/15426939-4.jpg",
+        "https://crautos.com/clasificados/usados/15426939-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD",
+        "teléfono": "8827-6086",
+        "whatsapp": "8827-6086"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "127,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Junio del 2025",
+        "comentario_vendedor": "VEHICULO FAMILIAR, EXCELENTE ESTADO ESCUCHO OFERTAS.",
+        "kilometraje_number": 127500,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

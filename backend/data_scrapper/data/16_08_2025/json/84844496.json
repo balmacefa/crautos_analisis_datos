@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84844496&Toyota.ECHO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84844496-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84844496-1.jpg",
+        "https://crautos.com/clasificados/usados/84844496-2.jpg",
+        "https://crautos.com/clasificados/usados/84844496-3.jpg",
+        "https://crautos.com/clasificados/usados/84844496-4.jpg",
+        "https://crautos.com/clasificados/usados/84844496-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN MATA",
+        "teléfono": "6287-4880"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "214,896 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Alarma cierre central todo al día mecanicamente bien detalles de pintura.",
+        "kilometraje_number": 214896,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 24
+}

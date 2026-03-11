@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59983113&Suzuki.SX4.2014",
+    "año": 2014,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59983113-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59983113-1.jpg",
+        "https://crautos.com/clasificados/usados/59983113-2.jpg",
+        "https://crautos.com/clasificados/usados/59983113-3.jpg",
+        "https://crautos.com/clasificados/usados/59983113-4.jpg",
+        "https://crautos.com/clasificados/usados/59983113-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YOHAIMAN HERNANDEZ",
+        "teléfono": "7021-9467 8312-8428",
+        "whatsapp": "7021-9467"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "132,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "excelente condiciones.",
+        "kilometraje_number": 132000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

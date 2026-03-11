@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=91984657&Hyundai.ACCENT%20.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 8865,
+    "precio_usd": 4450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/91984657-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/91984657-1.jpg",
+        "https://crautos.com/clasificados/usados/91984657-2.jpg",
+        "https://crautos.com/clasificados/usados/91984657-3.jpg",
+        "https://crautos.com/clasificados/usados/91984657-4.jpg",
+        "https://crautos.com/clasificados/usados/91984657-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEJANDRO TORRES CASTRO",
+        "teléfono": "8814-2550",
+        "whatsapp": "8814-2550"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "107,000 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ Vehículo americano.",
+        "kilometraje_number": 107000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

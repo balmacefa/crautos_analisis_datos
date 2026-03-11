@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=89275124&Toyota.RAV4.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 10857,
+    "precio_usd": 5450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/89275124-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/89275124-1.jpg",
+        "https://crautos.com/clasificados/usados/89275124-2.jpg",
+        "https://crautos.com/clasificados/usados/89275124-3.jpg",
+        "https://crautos.com/clasificados/usados/89275124-4.jpg",
+        "https://crautos.com/clasificados/usados/89275124-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFFREY FRAY SEGURA",
+        "teléfono": "8818-0668",
+        "whatsapp": "8818-0668"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "132,900 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "NO",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Por Viaje para inscribir, placa Diplomatica, Tapiceria y Motor impecables, LLantas Nuevas.",
+        "kilometraje_number": 132900,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

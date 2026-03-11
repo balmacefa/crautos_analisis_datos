@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11683639&Mitsubishi.LANCER.2009",
+    "año": 2009,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 8865,
+    "precio_usd": 4450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/11683639-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/11683639-1.jpg",
+        "https://crautos.com/clasificados/usados/11683639-2.jpg",
+        "https://crautos.com/clasificados/usados/11683639-3.jpg",
+        "https://crautos.com/clasificados/usados/11683639-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR CARRILLO ROJAS",
+        "teléfono": "8702-1388 7114-0746 8814-1501",
+        "whatsapp": "8702-1388"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado batería nueva .",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

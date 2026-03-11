@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=2315751&Honda.CRV%20LX.2015",
+    "año": 2015,
+    "marca": "HONDA",
+    "modelo": "CRV LX",
+    "precio_crc": 8534000,
+    "precio_usd": 17000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/2315751-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/2315751-1.jpg",
+        "https://crautos.com/clasificados/usados/2315751-2.jpg",
+        "https://crautos.com/clasificados/usados/2315751-3.jpg",
+        "https://crautos.com/clasificados/usados/2315751-4.jpg",
+        "https://crautos.com/clasificados/usados/2315751-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOTOR CITY",
+        "teléfono": "8844-1919 8364-5234 2100-0808",
+        "whatsapp": "8844-1919",
+        "dirección": "San Rafael de Escazú, 75 Mtrs sur del Centro Comercial Paco"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "128,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, TAPICERIA EN BUEN ESTADO, MEJOR PRECIO DEL MERCADO.",
+        "kilometraje_number": 128000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

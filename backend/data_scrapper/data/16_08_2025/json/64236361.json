@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=64236361&Honda.CRV.1999",
+    "año": 1999,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 6922,
+    "precio_usd": 3475000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/64236361-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/64236361-1.jpg",
+        "https://crautos.com/clasificados/usados/64236361-2.jpg",
+        "https://crautos.com/clasificados/usados/64236361-3.jpg",
+        "https://crautos.com/clasificados/usados/64236361-4.jpg",
+        "https://crautos.com/clasificados/usados/64236361-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDUARDO WRAY",
+        "teléfono": "8348-9944 7016-9870",
+        "whatsapp": "8348-9944"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Cuatro x cuatro - Pantalla Android - Tapiceria de cuero - Financiamiento disponible - Se recibe.",
+        "kilometraje_number": null,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

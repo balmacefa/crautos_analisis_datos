@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=39814777&Nissan.TIIDA.2009",
+    "año": 2009,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 7171,
+    "precio_usd": 3600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/39814777-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/39814777-1.jpg",
+        "https://crautos.com/clasificados/usados/39814777-2.jpg",
+        "https://crautos.com/clasificados/usados/39814777-3.jpg",
+        "https://crautos.com/clasificados/usados/39814777-4.jpg",
+        "https://crautos.com/clasificados/usados/39814777-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO COTO",
+        "teléfono": "8959-7614",
+        "whatsapp": "8959-7614"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "RTV hasta julio próximo año. Excelente oferta!!.",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=6175146&Toyota.FJ%20CRUISER%20VVT-I.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "FJ CRUISER VVT-I",
+    "precio_crc": 25847,
+    "precio_usd": 12975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/6175146-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/6175146-1.jpg",
+        "https://crautos.com/clasificados/usados/6175146-2.jpg",
+        "https://crautos.com/clasificados/usados/6175146-3.jpg",
+        "https://crautos.com/clasificados/usados/6175146-4.jpg",
+        "https://crautos.com/clasificados/usados/6175146-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS SANTA CRUZ GUANACASTE",
+        "teléfono": "2680-0444",
+        "whatsapp": "8876-5478",
+        "dirección": "Guanacaste, Santa Cruz, frente a la UCR"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "125,594 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS-NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "15 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA AL DIA-FULL EXT-GARANTI x ESCRIT-RECIB-FINANCI-ABIERT DOMING STA CRUZ GTE.",
+        "kilometraje_number": 125594,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

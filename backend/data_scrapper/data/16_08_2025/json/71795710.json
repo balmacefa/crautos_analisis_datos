@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71795710&Honda.CIVIC%20LX.2008",
+    "año": 2008,
+    "marca": "HONDA",
+    "modelo": "CIVIC LX",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71795710-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71795710-1.jpg",
+        "https://crautos.com/clasificados/usados/71795710-2.jpg",
+        "https://crautos.com/clasificados/usados/71795710-3.jpg",
+        "https://crautos.com/clasificados/usados/71795710-4.jpg",
+        "https://crautos.com/clasificados/usados/71795710-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE CARLOS SOLANO SALAS",
+        "teléfono": "8602-6959",
+        "whatsapp": "8602-6959"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "118,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL OSCURO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Versión FACO. Poco kilometraje. DEKRA en Blanco. Puedo mostrarlo en Guanacaste además del GAM..",
+        "kilometraje_number": 118000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

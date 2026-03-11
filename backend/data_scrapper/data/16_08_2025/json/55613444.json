@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55613444&Hyundai.ELANTRA.2001",
+    "año": 2001,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55613444-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55613444-1.jpg",
+        "https://crautos.com/clasificados/usados/55613444-2.jpg",
+        "https://crautos.com/clasificados/usados/55613444-3.jpg",
+        "https://crautos.com/clasificados/usados/55613444-4.jpg",
+        "https://crautos.com/clasificados/usados/55613444-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARCOS UGALDE",
+        "teléfono": "6208-6543",
+        "whatsapp": "6208-6543"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "192,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Detalles de pintura, se recibe pick up.",
+        "kilometraje_number": 192000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

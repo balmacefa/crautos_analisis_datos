@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99284722&Chevrolet.AVEO.2009",
+    "año": 2009,
+    "marca": "CHEVROLET",
+    "modelo": "AVEO",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99284722-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99284722-1.jpg",
+        "https://crautos.com/clasificados/usados/99284722-2.jpg",
+        "https://crautos.com/clasificados/usados/99284722-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSVALDO VEGA",
+        "teléfono": "8801-6314",
+        "whatsapp": "8801-6314"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "174,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "Lo recibí como forma de pago pero no me interesa. Al dia y sin gravamenes.",
+        "kilometraje_number": 174000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

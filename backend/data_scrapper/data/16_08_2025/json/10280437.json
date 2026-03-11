@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10280437&Toyota.ECHO.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6375,
+    "precio_usd": 3200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10280437-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10280437-1.jpg",
+        "https://crautos.com/clasificados/usados/10280437-2.jpg",
+        "https://crautos.com/clasificados/usados/10280437-3.jpg",
+        "https://crautos.com/clasificados/usados/10280437-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATHELYN BADILLA CAMPOS",
+        "teléfono": "8986-7924"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "136,000 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 136000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

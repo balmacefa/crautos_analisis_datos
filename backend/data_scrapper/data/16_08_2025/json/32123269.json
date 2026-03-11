@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32123269&Toyota.HIACE.2022",
+    "año": 2022,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 36851,
+    "precio_usd": 18499000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32123269-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32123269-1.jpg",
+        "https://crautos.com/clasificados/usados/32123269-2.jpg",
+        "https://crautos.com/clasificados/usados/32123269-3.jpg",
+        "https://crautos.com/clasificados/usados/32123269-4.jpg",
+        "https://crautos.com/clasificados/usados/32123269-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ RAMÍREZ",
+        "teléfono": "8884-3648",
+        "whatsapp": "8884-3648"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "110,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "Impecable como en las fotos. Récord en mano de mantenimiento desde nueva..",
+        "kilometraje_number": 110000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 3
+}

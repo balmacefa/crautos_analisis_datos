@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88951455&Toyota.HILUX.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 21713,
+    "precio_usd": 10900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88951455-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88951455-1.jpg",
+        "https://crautos.com/clasificados/usados/88951455-2.jpg",
+        "https://crautos.com/clasificados/usados/88951455-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER MONGE",
+        "teléfono": "8821-6929 8361-1163",
+        "whatsapp": "8821-6929"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "238,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Mayo del 2025",
+        "comentario_vendedor": "Llantas nuevas-excelente estado no es pickup de trabajo-suspensión recién cambiada.",
+        "kilometraje_number": 238000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

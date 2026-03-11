@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=36096009&Nissan.QASHQAI.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/36096009-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/36096009-1.jpg",
+        "https://crautos.com/clasificados/usados/36096009-2.jpg",
+        "https://crautos.com/clasificados/usados/36096009-3.jpg",
+        "https://crautos.com/clasificados/usados/36096009-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATIA DE GOEYEN",
+        "teléfono": "8993-8119"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "15,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Muy poco kilometraje solo un dueño mantenimiento siempre en agencia.",
+        "kilometraje_number": 15500,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

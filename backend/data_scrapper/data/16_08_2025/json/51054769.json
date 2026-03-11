@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51054769&Toyota.RAV4.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51054769-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51054769-1.jpg",
+        "https://crautos.com/clasificados/usados/51054769-2.jpg",
+        "https://crautos.com/clasificados/usados/51054769-3.jpg",
+        "https://crautos.com/clasificados/usados/51054769-4.jpg",
+        "https://crautos.com/clasificados/usados/51054769-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO HIDALGO",
+        "teléfono": "8954-0152 6060-2449",
+        "whatsapp": "8954-0152"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "270,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "CELESTE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "kilometraje_number": 270000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 23
+}

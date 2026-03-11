@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63564020&Toyota.HILUX.1988",
+    "año": 1988,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63564020-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63564020-1.jpg",
+        "https://crautos.com/clasificados/usados/63564020-2.jpg",
+        "https://crautos.com/clasificados/usados/63564020-3.jpg",
+        "https://crautos.com/clasificados/usados/63564020-4.jpg",
+        "https://crautos.com/clasificados/usados/63564020-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MAURICIO FUENTES",
+        "teléfono": "8659-9295",
+        "whatsapp": "8659-9295"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "158,900 kms",
+        "placa": "Termina en",
+        "color_exterior": "CELESTE",
+        "color_interior": "CELESTE",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Carro muy económico totalmente al día firma de inmediato .",
+        "kilometraje_number": 158900,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 37
+}

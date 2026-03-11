@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14604330&Geo.METRO.1995",
+    "año": 1995,
+    "marca": "GEO",
+    "modelo": "METRO",
+    "precio_crc": 2689,
+    "precio_usd": 1350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14604330-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14604330-1.jpg",
+        "https://crautos.com/clasificados/usados/14604330-2.jpg",
+        "https://crautos.com/clasificados/usados/14604330-3.jpg",
+        "https://crautos.com/clasificados/usados/14604330-4.jpg",
+        "https://crautos.com/clasificados/usados/14604330-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ALBERTO MONGE SABORIO",
+        "teléfono": "8674-6242",
+        "whatsapp": "8674-6242"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "123,456 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS OSCURITO",
+        "color_interior": "GRIS CLARO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "10 de Julio del 2025",
+        "comentario_vendedor": "Motor 1000 en buenas condiciones Llantas nuevas Mangueras de todo el motor nuevas Radio USB Aire .",
+        "kilometraje_number": 123456,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 30
+}

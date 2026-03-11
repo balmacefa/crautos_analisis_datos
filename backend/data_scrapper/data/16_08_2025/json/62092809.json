@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62092809&Isuzu.DMAX.2018",
+    "año": 2018,
+    "marca": "ISUZU",
+    "modelo": "DMAX",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62092809-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62092809-1.jpg",
+        "https://crautos.com/clasificados/usados/62092809-2.jpg",
+        "https://crautos.com/clasificados/usados/62092809-3.jpg",
+        "https://crautos.com/clasificados/usados/62092809-4.jpg",
+        "https://crautos.com/clasificados/usados/62092809-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRYAN GONZÁLEZ",
+        "teléfono": "8882-2335 6296-3928",
+        "whatsapp": "8882-2335"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "99,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "ROJO MICA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "ExtrasHistorial de revisión desde que salio de agencia.. Recibo de mi interés de levante rack thule.",
+        "kilometraje_number": 99000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

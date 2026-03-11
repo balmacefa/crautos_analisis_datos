@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25312014&Suzuki.JIMNY.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "JIMNY",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25312014-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25312014-1.jpg",
+        "https://crautos.com/clasificados/usados/25312014-2.jpg",
+        "https://crautos.com/clasificados/usados/25312014-3.jpg",
+        "https://crautos.com/clasificados/usados/25312014-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADOLFO GARCÍA MORA",
+        "teléfono": "8316-3247 8896-9975",
+        "whatsapp": "8316-3247"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "341,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Para inscribir directamente al comprador sale mas económico que un traspaso.",
+        "kilometraje_number": 341000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=17942699&Nissan.TIIDA.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "TIIDA",
+    "precio_crc": 7869,
+    "precio_usd": 3950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/17942699-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/17942699-1.jpg",
+        "https://crautos.com/clasificados/usados/17942699-2.jpg",
+        "https://crautos.com/clasificados/usados/17942699-3.jpg",
+        "https://crautos.com/clasificados/usados/17942699-4.jpg",
+        "https://crautos.com/clasificados/usados/17942699-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ASTORGA JIMENEZ",
+        "teléfono": "8817-9778 8830-2492",
+        "whatsapp": "8817-9778"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "195,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "afastjim.",
+        "kilometraje_number": 195000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

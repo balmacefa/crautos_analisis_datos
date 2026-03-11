@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70385417&Hyundai.ACCENT%20GL.2001",
+    "año": 2001,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT GL",
+    "precio_crc": 2988,
+    "precio_usd": 1500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70385417-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70385417-1.jpg",
+        "https://crautos.com/clasificados/usados/70385417-2.jpg",
+        "https://crautos.com/clasificados/usados/70385417-3.jpg",
+        "https://crautos.com/clasificados/usados/70385417-4.jpg",
+        "https://crautos.com/clasificados/usados/70385417-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PABLO ARCE",
+        "teléfono": "6002-2962 8326-9393 8561-1611",
+        "whatsapp": "6002-2962"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "238,409 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "CARRO EN BUEN ESTADO DEKRA Y MARCHAMO AL DIA LLANTAS NUEVAS Y RADIO PIONEER PRECIO NEGOCIABLE.",
+        "kilometraje_number": 238409,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 24
+}

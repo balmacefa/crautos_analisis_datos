@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53107686&Kia.PICANTO%20.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "PICANTO",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53107686-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53107686-1.jpg",
+        "https://crautos.com/clasificados/usados/53107686-2.jpg",
+        "https://crautos.com/clasificados/usados/53107686-3.jpg",
+        "https://crautos.com/clasificados/usados/53107686-4.jpg",
+        "https://crautos.com/clasificados/usados/53107686-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO",
+        "teléfono": "8315-2933 7017-8308",
+        "whatsapp": "8315-2933"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "117,500 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Julio del 2025",
+        "comentario_vendedor": "Se vende por falta de uso.",
+        "kilometraje_number": 117500,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

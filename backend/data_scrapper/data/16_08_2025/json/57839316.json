@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57839316&Nissan.KICKS.2023",
+    "año": 2023,
+    "marca": "NISSAN",
+    "modelo": "KICKS",
+    "precio_crc": 26892,
+    "precio_usd": 13500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57839316-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57839316-1.jpg",
+        "https://crautos.com/clasificados/usados/57839316-2.jpg",
+        "https://crautos.com/clasificados/usados/57839316-3.jpg",
+        "https://crautos.com/clasificados/usados/57839316-4.jpg",
+        "https://crautos.com/clasificados/usados/57839316-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUÉ RODRIGUEZ SALAS",
+        "teléfono": "7016-0360",
+        "whatsapp": "8321-2372"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "38,952 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "perfecto estado!!.",
+        "kilometraje_number": 38952,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 2
+}

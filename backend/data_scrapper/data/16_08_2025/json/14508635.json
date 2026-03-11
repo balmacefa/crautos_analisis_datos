@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14508635&Hyundai.I20.2016",
+    "año": 2016,
+    "marca": "HYUNDAI",
+    "modelo": "I20",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14508635-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14508635-1.jpg",
+        "https://crautos.com/clasificados/usados/14508635-2.jpg",
+        "https://crautos.com/clasificados/usados/14508635-3.jpg",
+        "https://crautos.com/clasificados/usados/14508635-4.jpg",
+        "https://crautos.com/clasificados/usados/14508635-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN MANUEL BUSTAMANTE MORALES",
+        "teléfono": "7127-9084",
+        "whatsapp": "7127-9084"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "163,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Mayo del 2025",
+        "comentario_vendedor": "Incluyo traspaso .",
+        "kilometraje_number": 163000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

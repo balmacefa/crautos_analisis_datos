@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57876825&CMC.VERYCA.2011",
+    "año": 2011,
+    "modelo": "CMC VERYCA",
+    "precio_crc": 5369,
+    "precio_usd": 2695000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57876825-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57876825-1.jpg",
+        "https://crautos.com/clasificados/usados/57876825-2.jpg",
+        "https://crautos.com/clasificados/usados/57876825-3.jpg",
+        "https://crautos.com/clasificados/usados/57876825-4.jpg",
+        "https://crautos.com/clasificados/usados/57876825-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EZEQUIEL GUILLEN",
+        "teléfono": "8794-7166",
+        "whatsapp": "8794-7166"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "103,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Vehiculo al dia buenas condiciones y listo para usar.",
+        "kilometraje_number": 103000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 14
+}

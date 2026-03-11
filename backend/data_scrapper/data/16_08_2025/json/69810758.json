@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=69810758&Mazda.3.2009",
+    "año": 2009,
+    "marca": "MAZDA",
+    "modelo": "3",
+    "precio_crc": 6275,
+    "precio_usd": 3150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/69810758-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/69810758-1.jpg",
+        "https://crautos.com/clasificados/usados/69810758-2.jpg",
+        "https://crautos.com/clasificados/usados/69810758-3.jpg",
+        "https://crautos.com/clasificados/usados/69810758-4.jpg",
+        "https://crautos.com/clasificados/usados/69810758-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN OROZCO",
+        "teléfono": "8341-7310",
+        "whatsapp": "8341-7310"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "172,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Abril del 2025",
+        "comentario_vendedor": "Detalles de pintura, mecanicamente está en muy buen estado.",
+        "kilometraje_number": 172000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

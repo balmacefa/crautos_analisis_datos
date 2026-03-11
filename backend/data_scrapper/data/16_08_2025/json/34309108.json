@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34309108&Toyota.HILUX.2010",
+    "año": 2010,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 26394,
+    "precio_usd": 13250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34309108-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34309108-1.jpg",
+        "https://crautos.com/clasificados/usados/34309108-2.jpg",
+        "https://crautos.com/clasificados/usados/34309108-3.jpg",
+        "https://crautos.com/clasificados/usados/34309108-4.jpg",
+        "https://crautos.com/clasificados/usados/34309108-5.jpg",
+        "https://crautos.com/clasificados/usados/34309108-6.jpg",
+        "https://crautos.com/clasificados/usados/34309108-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CESAR MEJIA CASCO",
+        "teléfono": "8945-6141",
+        "whatsapp": "8945-6142"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "255,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "CHANPAGNE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Esta en muy buen estado puedo recibir carro bajo y vuelto o venta en efectivo preferiblemente .",
+        "kilometraje_number": 255000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 15
+}

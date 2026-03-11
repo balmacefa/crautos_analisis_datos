@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50973330&Jeep.GRAND%20CHEROKEE.2007",
+    "año": 2007,
+    "marca": "JEEP",
+    "modelo": "GRAND CHEROKEE",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50973330-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50973330-1.jpg",
+        "https://crautos.com/clasificados/usados/50973330-2.jpg",
+        "https://crautos.com/clasificados/usados/50973330-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO SOTO",
+        "teléfono": "8990-4224",
+        "whatsapp": "8990-4224"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Regular",
+        "kilometraje": "264,323 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Carro para arreglar. Fuga de aceite y recalienta. Parqueado No se puede usar tira humo. Sin diagnost.",
+        "kilometraje_number": 264323,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

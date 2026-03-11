@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30358619&Nissan.FRONTIER.2004",
+    "año": 2004,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30358619-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30358619-1.jpg",
+        "https://crautos.com/clasificados/usados/30358619-2.jpg",
+        "https://crautos.com/clasificados/usados/30358619-3.jpg",
+        "https://crautos.com/clasificados/usados/30358619-4.jpg",
+        "https://crautos.com/clasificados/usados/30358619-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ HERRERA",
+        "teléfono": "8372-1511",
+        "whatsapp": "8372-1511"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "184,000 millas",
+        "placa": "Termina en 0",
+        "color_exterior": "CHAMPAN",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "28 de Junio del 2025",
+        "comentario_vendedor": "Disponible a partir del veinte de Julio. Solo mensajes..",
+        "kilometraje_number": 184000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

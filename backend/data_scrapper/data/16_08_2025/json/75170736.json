@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75170736&Toyota.RAV4.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75170736-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75170736-1.jpg",
+        "https://crautos.com/clasificados/usados/75170736-2.jpg",
+        "https://crautos.com/clasificados/usados/75170736-3.jpg",
+        "https://crautos.com/clasificados/usados/75170736-4.jpg",
+        "https://crautos.com/clasificados/usados/75170736-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDRES CALDERON",
+        "teléfono": "8853-5015",
+        "whatsapp": "8853-5015"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "101,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "NACIONAL PERFECTO ESTADO.",
+        "kilometraje_number": 101000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

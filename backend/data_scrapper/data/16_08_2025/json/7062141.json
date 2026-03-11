@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=7062141&Hyundai.TUCSON%20.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 21614,
+    "precio_usd": 10850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/7062141-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/7062141-1.jpg",
+        "https://crautos.com/clasificados/usados/7062141-2.jpg",
+        "https://crautos.com/clasificados/usados/7062141-3.jpg",
+        "https://crautos.com/clasificados/usados/7062141-4.jpg",
+        "https://crautos.com/clasificados/usados/7062141-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS KALEB",
+        "teléfono": "8829-0243 8830-8672 8831-6585",
+        "whatsapp": "8829-0243",
+        "dirección": "San Juan de Santa Bárbara, Heredia 200 metros oeste del colegio New Hope"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "82,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Versión Limited, pantalla táctil,.",
+        "kilometraje_number": 82000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

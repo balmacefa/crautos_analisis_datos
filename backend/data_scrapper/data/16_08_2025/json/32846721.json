@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=32846721&Toyota.COROLLA.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 7072,
+    "precio_usd": 3550000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/32846721-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/32846721-1.jpg",
+        "https://crautos.com/clasificados/usados/32846721-2.jpg",
+        "https://crautos.com/clasificados/usados/32846721-3.jpg",
+        "https://crautos.com/clasificados/usados/32846721-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAOLA BRENES",
+        "teléfono": "8349-8515 8349-1845",
+        "whatsapp": "8349-8515"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "46,698 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 46698,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 21
+}

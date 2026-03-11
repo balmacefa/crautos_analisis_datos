@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16256599&Peugeot.301.2016",
+    "año": 2016,
+    "marca": "PEUGEOT",
+    "modelo": "301",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16256599-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16256599-1.jpg",
+        "https://crautos.com/clasificados/usados/16256599-2.jpg",
+        "https://crautos.com/clasificados/usados/16256599-3.jpg",
+        "https://crautos.com/clasificados/usados/16256599-4.jpg",
+        "https://crautos.com/clasificados/usados/16256599-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTINA ARREA MUÑOZ",
+        "teléfono": "8477-4773 8321-6266",
+        "whatsapp": "8477-3773"
+    },
+    "informacion_general": {
+        "cilindrada": "1587 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "112,072 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "kilometraje_number": 112072,
+        "cilindrada_number": 1587
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 9
+}

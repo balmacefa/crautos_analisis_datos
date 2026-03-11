@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34863854&Toyota.RAV4.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 10558,
+    "precio_usd": 5300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34863854-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34863854-1.jpg",
+        "https://crautos.com/clasificados/usados/34863854-2.jpg",
+        "https://crautos.com/clasificados/usados/34863854-3.jpg",
+        "https://crautos.com/clasificados/usados/34863854-4.jpg",
+        "https://crautos.com/clasificados/usados/34863854-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSÉ PABLO HERNANDEZ",
+        "teléfono": "7293-9805",
+        "whatsapp": "7293-9805"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "121,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Excelente gas LP con ahorro muy grande .",
+        "kilometraje_number": 121000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

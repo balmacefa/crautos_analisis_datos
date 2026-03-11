@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71072969&Daihatsu.TERIOS.2005",
+    "año": 2005,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71072969-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71072969-1.jpg",
+        "https://crautos.com/clasificados/usados/71072969-2.jpg",
+        "https://crautos.com/clasificados/usados/71072969-3.jpg",
+        "https://crautos.com/clasificados/usados/71072969-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GIULIANA ELIZONDO V",
+        "teléfono": "8312-9049 8838-6897",
+        "whatsapp": "8312-9049"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

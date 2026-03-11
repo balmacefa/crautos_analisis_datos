@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=49146514",
+    "año": 2021,
+    "marca": "JAC",
+    "modelo": "1035KN",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/49146514-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/49146514-1.jpg",
+        "https://crautos.com/clasificados/usados/49146514-2.jpg",
+        "https://crautos.com/clasificados/usados/49146514-3.jpg",
+        "https://crautos.com/clasificados/usados/49146514-4.jpg",
+        "https://crautos.com/clasificados/usados/49146514-5.jpg",
+        "https://crautos.com/clasificados/usados/49146514-6.jpg",
+        "https://crautos.com/clasificados/usados/49146514-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL",
+        "teléfono": "8786-4008",
+        "whatsapp": "8786-4008"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "173,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado dekra hasta veintisiete lo puede probar o trae mecánico de confianza .",
+        "kilometraje_number": 173000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 4
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=86037408&Toyota.YARIS.2009",
+    "año": 2009,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/86037408-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/86037408-1.jpg",
+        "https://crautos.com/clasificados/usados/86037408-2.jpg",
+        "https://crautos.com/clasificados/usados/86037408-3.jpg",
+        "https://crautos.com/clasificados/usados/86037408-4.jpg",
+        "https://crautos.com/clasificados/usados/86037408-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN DIEGO MIRANDA",
+        "teléfono": "8419-8925 8630-2936",
+        "whatsapp": "8419-8925"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "117,000 millas",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "IMPECABLE - cero oxido - garantia.",
+        "kilometraje_number": 117000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

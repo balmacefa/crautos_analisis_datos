@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28359158&Nissan.FRONTIER.2004",
+    "año": 2004,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28359158-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28359158-1.jpg",
+        "https://crautos.com/clasificados/usados/28359158-2.jpg",
+        "https://crautos.com/clasificados/usados/28359158-3.jpg",
+        "https://crautos.com/clasificados/usados/28359158-4.jpg",
+        "https://crautos.com/clasificados/usados/28359158-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ANGULO",
+        "teléfono": "8446-4461 8669-8837",
+        "whatsapp": "8446-4461"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "198,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "DORADO",
+        "color_interior": "CAFÉ",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Muy bien cuidado, sistema de Gas GLP escucho ofertas no recibo. .",
+        "kilometraje_number": 198000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 21
+}

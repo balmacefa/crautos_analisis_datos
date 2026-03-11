@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20166740&Land%20Rover.SERIES%202A%20109.1971",
+    "año": 1971,
+    "marca": "LAND ROVER",
+    "modelo": "SERIES 2A 109",
+    "precio_crc": 58765,
+    "precio_usd": 29500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20166740-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20166740-1.jpg",
+        "https://crautos.com/clasificados/usados/20166740-2.jpg",
+        "https://crautos.com/clasificados/usados/20166740-3.jpg",
+        "https://crautos.com/clasificados/usados/20166740-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAIRO",
+        "teléfono": "6137-2718",
+        "whatsapp": "6137-2718"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "10",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "10,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VERDE",
+        "color_interior": "PIEL",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Unico en su clase restomood Land Rover caja de transmisión automática y motor L v mecáni.",
+        "kilometraje_number": 10000,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [],
+    "antiguedad": 54
+}

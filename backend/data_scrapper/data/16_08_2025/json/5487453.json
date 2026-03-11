@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5487453&Toyota.LAND%20CRUISER%20LX.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER LX",
+    "precio_crc": 26104000,
+    "precio_usd": 52000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5487453-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5487453-1.jpg",
+        "https://crautos.com/clasificados/usados/5487453-2.jpg",
+        "https://crautos.com/clasificados/usados/5487453-3.jpg",
+        "https://crautos.com/clasificados/usados/5487453-4.jpg",
+        "https://crautos.com/clasificados/usados/5487453-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTO TIME",
+        "teléfono": "8872-2000 8625-8814 2101-5859",
+        "whatsapp": "8872-2000",
+        "dirección": "Pozos de Santa Ana 400 oeste del Santa Ana Country Club."
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "9",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "265,330 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Nacional, recibimos vehículo como parte de pago..",
+        "kilometraje_number": 265330,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

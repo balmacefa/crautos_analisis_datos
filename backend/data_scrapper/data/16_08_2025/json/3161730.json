@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3161730&Suzuki.CELERIO%20GXL.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO GXL",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3161730-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3161730-1.jpg",
+        "https://crautos.com/clasificados/usados/3161730-2.jpg",
+        "https://crautos.com/clasificados/usados/3161730-3.jpg",
+        "https://crautos.com/clasificados/usados/3161730-4.jpg",
+        "https://crautos.com/clasificados/usados/3161730-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JARCAR",
+        "teléfono": "8350-1851 8312-8488 8607-6336",
+        "whatsapp": "8350-1851",
+        "dirección": "Pavas, 100 metros norte de la Estación de Bomberos."
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "120,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": ".JARCARMOTORS.",
+        "kilometraje_number": 120000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

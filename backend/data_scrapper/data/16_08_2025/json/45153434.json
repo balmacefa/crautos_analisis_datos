@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45153434&Kia.RIO.2017",
+    "año": 2017,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 9861,
+    "precio_usd": 4950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45153434-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45153434-1.jpg",
+        "https://crautos.com/clasificados/usados/45153434-2.jpg",
+        "https://crautos.com/clasificados/usados/45153434-3.jpg",
+        "https://crautos.com/clasificados/usados/45153434-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILSON CAMACHO",
+        "teléfono": "7106-0649",
+        "whatsapp": "7106-0649"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "119,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "02 de Junio del 2025",
+        "comentario_vendedor": "Muy económico, ideal para ciudad. Con detalles estéticos que mejorar..",
+        "kilometraje_number": 119000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

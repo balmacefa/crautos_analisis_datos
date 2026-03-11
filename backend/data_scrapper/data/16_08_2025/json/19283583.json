@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19283583&Toyota.HILUX.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 34861,
+    "precio_usd": 17500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19283583-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19283583-1.jpg",
+        "https://crautos.com/clasificados/usados/19283583-2.jpg",
+        "https://crautos.com/clasificados/usados/19283583-3.jpg",
+        "https://crautos.com/clasificados/usados/19283583-4.jpg",
+        "https://crautos.com/clasificados/usados/19283583-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GERSON VILLALOBOS",
+        "teléfono": "8913-3333",
+        "whatsapp": "8913-3333"
+    },
+    "informacion_general": {
+        "cilindrada": "3300 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "143,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 143000,
+        "cilindrada_number": 3300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=38104282&Toyota.ECHO.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EVELYN HERNANDEZ",
+        "teléfono": "8442-8271 8816-9003",
+        "whatsapp": "8442-8271"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "211,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado pantalla táctil aros de lujo alarma super económico..",
+        "kilometraje_number": 211000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Cierre central",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 22
+}

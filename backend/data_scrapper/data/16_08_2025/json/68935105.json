@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68935105&Kia.SORENTO.2007",
+    "año": 2007,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68935105-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68935105-1.jpg",
+        "https://crautos.com/clasificados/usados/68935105-2.jpg",
+        "https://crautos.com/clasificados/usados/68935105-3.jpg",
+        "https://crautos.com/clasificados/usados/68935105-4.jpg",
+        "https://crautos.com/clasificados/usados/68935105-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALFREDO VARGAS",
+        "teléfono": "8459-7378",
+        "whatsapp": "8459-7378"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "250,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 250000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 18
+}

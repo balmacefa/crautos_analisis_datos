@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54069480&Mitsubishi.MONTERO.2013",
+    "año": 2013,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 21000,
+    "precio_usd": 10542000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54069480-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54069480-1.jpg",
+        "https://crautos.com/clasificados/usados/54069480-2.jpg",
+        "https://crautos.com/clasificados/usados/54069480-3.jpg",
+        "https://crautos.com/clasificados/usados/54069480-4.jpg",
+        "https://crautos.com/clasificados/usados/54069480-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARAD",
+        "teléfono": "6001-9322",
+        "whatsapp": "6001-9322"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "185,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BRONZE",
+        "color_interior": "BLACK",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Many upgrades.",
+        "kilometraje_number": 185000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 12
+}

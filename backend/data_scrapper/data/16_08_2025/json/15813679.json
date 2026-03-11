@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15813679&Mitsubishi.MIRAGE.2015",
+    "año": 2015,
+    "marca": "MITSUBISHI",
+    "modelo": "MIRAGE",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15813679-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15813679-1.jpg",
+        "https://crautos.com/clasificados/usados/15813679-2.jpg",
+        "https://crautos.com/clasificados/usados/15813679-3.jpg",
+        "https://crautos.com/clasificados/usados/15813679-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN ACUÑA",
+        "teléfono": "7004-8499",
+        "whatsapp": "7004-8499"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,500 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "En excelente estado mantenimientos al dia.",
+        "kilometraje_number": 115500,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

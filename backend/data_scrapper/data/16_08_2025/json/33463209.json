@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33463209&BMW.E60%20SERIE%205.2005",
+    "año": 2005,
+    "marca": "BMW",
+    "modelo": "E60 SERIE 5",
+    "precio_crc": 10259,
+    "precio_usd": 5150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33463209-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33463209-1.jpg",
+        "https://crautos.com/clasificados/usados/33463209-2.jpg",
+        "https://crautos.com/clasificados/usados/33463209-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSUE BONILLA",
+        "teléfono": "7059-1486",
+        "whatsapp": "7059-1486"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "220,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "CUERO NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "me quedé sin trabajo. Acepto Elantra..",
+        "kilometraje_number": 220000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Asiento con memoria",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 20
+}

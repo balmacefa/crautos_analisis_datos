@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=81526390&Daihatsu.TERIOS.2009",
+    "año": 2009,
+    "marca": "DAIHATSU",
+    "modelo": "TERIOS",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/81526390-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/81526390-1.jpg",
+        "https://crautos.com/clasificados/usados/81526390-2.jpg",
+        "https://crautos.com/clasificados/usados/81526390-3.jpg",
+        "https://crautos.com/clasificados/usados/81526390-4.jpg",
+        "https://crautos.com/clasificados/usados/81526390-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ENRIQUE JIMÉNEZ",
+        "teléfono": "6034-1223",
+        "whatsapp": "6034-1223"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "163,584 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "RECIÉN PINTADO COMPLETO, LAVADO PROFUNDO INTERIOR ASIENTOS, TECHO, ALFOMBRAS, FOCOS PULIDOS.",
+        "kilometraje_number": 163584,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

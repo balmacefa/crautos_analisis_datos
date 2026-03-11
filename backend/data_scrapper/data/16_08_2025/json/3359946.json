@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=3359946&Mercedes%20Benz.EQE500.2024",
+    "año": 2024,
+    "marca": "MERCEDES BENZ",
+    "modelo": "EQE500",
+    "precio_crc": 35089800,
+    "precio_usd": 69900.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/3359946-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/3359946-1.jpg",
+        "https://crautos.com/clasificados/usados/3359946-2.jpg",
+        "https://crautos.com/clasificados/usados/3359946-3.jpg",
+        "https://crautos.com/clasificados/usados/3359946-4.jpg",
+        "https://crautos.com/clasificados/usados/3359946-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUXURY GARAGE CR",
+        "teléfono": "8619-4260 8847-1826",
+        "whatsapp": "8619-4260",
+        "dirección": "La Uruca, 25 mtrs norte del Taller Romero Fournier"
+    },
+    "informacion_general": {
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Eléctrico",
+        "autonomía": "ND",
+        "batería": "ND",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "180 kms",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Julio del 2025",
+        "comentario_vendedor": "GANGA - ESTRENE.",
+        "kilometraje_number": 180
+    },
+    "equipamiento": [
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 1
+}

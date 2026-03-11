@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90418251&Mitsubishi.MONTERO.2002",
+    "año": 2002,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 10657,
+    "precio_usd": 5350000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90418251-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90418251-1.jpg",
+        "https://crautos.com/clasificados/usados/90418251-2.jpg",
+        "https://crautos.com/clasificados/usados/90418251-3.jpg",
+        "https://crautos.com/clasificados/usados/90418251-4.jpg",
+        "https://crautos.com/clasificados/usados/90418251-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CRISTIAN GAUDENIO SALAS",
+        "teléfono": "8835-9162 6043-2919 2444-0930",
+        "whatsapp": "8835-9162"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "279,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "VINO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "Esta en Grecia. Excelente estado. Gas y Gasolina. Super economica. Todo le funciona excelente..",
+        "kilometraje_number": 279000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 23
+}

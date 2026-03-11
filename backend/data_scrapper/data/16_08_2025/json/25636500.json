@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25636500&Daihatsu.SIRION.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "SIRION",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25636500-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25636500-1.jpg",
+        "https://crautos.com/clasificados/usados/25636500-2.jpg",
+        "https://crautos.com/clasificados/usados/25636500-3.jpg",
+        "https://crautos.com/clasificados/usados/25636500-4.jpg",
+        "https://crautos.com/clasificados/usados/25636500-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELISSA HERNANDEZ",
+        "teléfono": "8367-6436"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "310,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Hay que hacerle unos retoques de pintura por eso el pre.",
+        "kilometraje_number": 310000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 17
+}

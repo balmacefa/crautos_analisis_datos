@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=71816295&Peugeot.206%20BERLINA.2007",
+    "año": 2007,
+    "marca": "PEUGEOT",
+    "modelo": "206 BERLINA",
+    "precio_crc": 3187,
+    "precio_usd": 1600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/71816295-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/71816295-1.jpg",
+        "https://crautos.com/clasificados/usados/71816295-2.jpg",
+        "https://crautos.com/clasificados/usados/71816295-3.jpg",
+        "https://crautos.com/clasificados/usados/71816295-4.jpg",
+        "https://crautos.com/clasificados/usados/71816295-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALBERTO ACUÑA ARCE",
+        "teléfono": "8402-1926 8651-7979",
+        "whatsapp": "8402-1926"
+    },
+    "informacion_general": {
+        "cilindrada": "1587 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "134,187 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "esta en muy buen estado solo dos dueños desde que se saco de agencia, esa en Nicoya, Acoyapa.",
+        "kilometraje_number": 134187,
+        "cilindrada_number": 1587
+    },
+    "equipamiento": [],
+    "antiguedad": 18
+}

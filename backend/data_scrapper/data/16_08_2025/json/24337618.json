@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=24337618&Toyota.HILUX.1988",
+    "año": 1988,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 5677,
+    "precio_usd": 2850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/24337618-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/24337618-1.jpg",
+        "https://crautos.com/clasificados/usados/24337618-2.jpg",
+        "https://crautos.com/clasificados/usados/24337618-3.jpg",
+        "https://crautos.com/clasificados/usados/24337618-4.jpg",
+        "https://crautos.com/clasificados/usados/24337618-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO CHINCHILLA",
+        "teléfono": "6100-3777",
+        "whatsapp": "6100-3777"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "10,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "En perfectas condiciones. A mi nombre todo al dia. Direccion hidraulica caja quinta encendido ele.",
+        "kilometraje_number": 10000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Alarma",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 37
+}

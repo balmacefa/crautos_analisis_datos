@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42539637&Hyundai.ACCENT%20GLS.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT GLS",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42539637-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42539637-1.jpg",
+        "https://crautos.com/clasificados/usados/42539637-2.jpg",
+        "https://crautos.com/clasificados/usados/42539637-3.jpg",
+        "https://crautos.com/clasificados/usados/42539637-4.jpg",
+        "https://crautos.com/clasificados/usados/42539637-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARJORIE GUTIERREZ",
+        "teléfono": "8481-9958",
+        "whatsapp": "8481-9958"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "200,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS PLATA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "kilometraje_number": 200000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 15
+}

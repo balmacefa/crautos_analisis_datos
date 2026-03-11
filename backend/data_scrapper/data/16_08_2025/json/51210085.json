@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51210085&Lada.NIVA.1981",
+    "año": 1981,
+    "marca": "LADA",
+    "modelo": "NIVA",
+    "precio_crc": 7869,
+    "precio_usd": 3950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51210085-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51210085-1.jpg",
+        "https://crautos.com/clasificados/usados/51210085-2.jpg",
+        "https://crautos.com/clasificados/usados/51210085-3.jpg",
+        "https://crautos.com/clasificados/usados/51210085-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANILO SOLANO",
+        "teléfono": "8384-7755 8998-7755"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "De colección Llantas nuevas Tapicería en buen estado Dekra al día Precio negociable 4X4.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 44
+}

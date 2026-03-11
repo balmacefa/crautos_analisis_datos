@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85803895&Mitsubishi.L300.2006",
+    "año": 2006,
+    "marca": "MITSUBISHI",
+    "modelo": "L300",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85803895-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85803895-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER LOTAREV",
+        "teléfono": "8845-2579 6408-7777",
+        "whatsapp": "8845-2579"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "260,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Carrocería de ambulancia. Camilla. Sirena. Luces rojas y blancas de emergencia..",
+        "kilometraje_number": 260000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 19
+}

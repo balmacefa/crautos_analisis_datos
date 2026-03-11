@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95698175&Mitsubishi.LANCER.2009",
+    "año": 2009,
+    "marca": "MITSUBISHI",
+    "modelo": "LANCER",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95698175-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95698175-1.jpg",
+        "https://crautos.com/clasificados/usados/95698175-2.jpg",
+        "https://crautos.com/clasificados/usados/95698175-3.jpg",
+        "https://crautos.com/clasificados/usados/95698175-4.jpg",
+        "https://crautos.com/clasificados/usados/95698175-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "YEUDY FONSECA DÍAZ",
+        "teléfono": "8491-2506",
+        "whatsapp": "8491-2506"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "290,000 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Carro muy bueno .",
+        "kilometraje_number": 290000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

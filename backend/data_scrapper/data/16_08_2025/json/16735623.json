@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=16735623&Chery.TIGGO%202%20SPORT.2022",
+    "año": 2022,
+    "marca": "CHERY",
+    "modelo": "TIGGO 2 SPORT",
+    "precio_crc": 10857,
+    "precio_usd": 5450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/16735623-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/16735623-1.jpg",
+        "https://crautos.com/clasificados/usados/16735623-2.jpg",
+        "https://crautos.com/clasificados/usados/16735623-3.jpg",
+        "https://crautos.com/clasificados/usados/16735623-4.jpg",
+        "https://crautos.com/clasificados/usados/16735623-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HILARY PAOLA OVIEDO ARIAS",
+        "teléfono": "8507-1881"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "16,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "CRIS",
+        "color_interior": "CRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Junio del 2025",
+        "comentario_vendedor": "ESTA EN UPALA .",
+        "kilometraje_number": 16000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 3
+}

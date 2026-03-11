@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70208761&Subaru.IMPREZA%20WRX%20CG8.1999",
+    "año": 1999,
+    "marca": "SUBARU",
+    "modelo": "IMPREZA WRX CG8",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70208761-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70208761-1.jpg",
+        "https://crautos.com/clasificados/usados/70208761-2.jpg",
+        "https://crautos.com/clasificados/usados/70208761-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR GOMEZ",
+        "teléfono": "7109-3699",
+        "whatsapp": "7109-3699"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS-AZUL NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Debe una placa Rótulas de cremallera Ajuste de faja de distribución Y si seteo nuevo a la compu .",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 26
+}

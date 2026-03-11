@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=67242632&BMW.X5.2019",
+    "año": 2019,
+    "marca": "BMW",
+    "modelo": "X5",
+    "precio_crc": 66550,
+    "precio_usd": 33408100.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/67242632-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/67242632-1.jpg",
+        "https://crautos.com/clasificados/usados/67242632-2.jpg",
+        "https://crautos.com/clasificados/usados/67242632-3.jpg",
+        "https://crautos.com/clasificados/usados/67242632-4.jpg",
+        "https://crautos.com/clasificados/usados/67242632-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONNHY ARAYA",
+        "teléfono": "6351-8120",
+        "whatsapp": "6351-8120"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "58,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "kilometraje_number": 58000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cámara de retroceso",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 6
+}

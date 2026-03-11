@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84256279&Toyota.TERCEL.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 4880,
+    "precio_usd": 2450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84256279-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84256279-1.jpg",
+        "https://crautos.com/clasificados/usados/84256279-2.jpg",
+        "https://crautos.com/clasificados/usados/84256279-3.jpg",
+        "https://crautos.com/clasificados/usados/84256279-4.jpg",
+        "https://crautos.com/clasificados/usados/84256279-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIBEL",
+        "teléfono": "7017-0751"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "138,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Está muy bonito automático .",
+        "kilometraje_number": 138000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 29
+}

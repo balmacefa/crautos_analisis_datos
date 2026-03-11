@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84105070&Suzuki.CELERIO.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84105070-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84105070-1.jpg",
+        "https://crautos.com/clasificados/usados/84105070-2.jpg",
+        "https://crautos.com/clasificados/usados/84105070-3.jpg",
+        "https://crautos.com/clasificados/usados/84105070-4.jpg",
+        "https://crautos.com/clasificados/usados/84105070-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VIVIAN DELGADO",
+        "teléfono": "8894-7324",
+        "whatsapp": "8894-7324"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "145,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Sólo dos dueñas, muy cuidado .",
+        "kilometraje_number": 145000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

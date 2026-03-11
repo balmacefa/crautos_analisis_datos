@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79594038",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 13745,
+    "precio_usd": 6900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79594038-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79594038-1.jpg",
+        "https://crautos.com/clasificados/usados/79594038-2.jpg",
+        "https://crautos.com/clasificados/usados/79594038-3.jpg",
+        "https://crautos.com/clasificados/usados/79594038-4.jpg",
+        "https://crautos.com/clasificados/usados/79594038-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OLIVIA RAMÍREZ ARCE",
+        "teléfono": "8793-4971 8334-1211",
+        "whatsapp": "8793-4971"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "105,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS OSCURO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Tapicería e interiores impecable-motor exc.",
+        "kilometraje_number": 105000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

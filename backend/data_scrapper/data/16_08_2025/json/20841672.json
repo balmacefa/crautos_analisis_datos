@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=20841672&Suzuki.SX4%20.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/20841672-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/20841672-1.jpg",
+        "https://crautos.com/clasificados/usados/20841672-2.jpg",
+        "https://crautos.com/clasificados/usados/20841672-3.jpg",
+        "https://crautos.com/clasificados/usados/20841672-4.jpg",
+        "https://crautos.com/clasificados/usados/20841672-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JUAN CARLOS ARAYA",
+        "teléfono": "8834-2410 8520-1902",
+        "whatsapp": "8834-2410"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "207,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Batería nueva llamarás nuevas y el sistema de gas todavía está en garantía .",
+        "kilometraje_number": 207000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=14327621&Kia.SOUL.2015",
+    "año": 2015,
+    "marca": "KIA",
+    "modelo": "SOUL",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/14327621-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/14327621-1.jpg",
+        "https://crautos.com/clasificados/usados/14327621-2.jpg",
+        "https://crautos.com/clasificados/usados/14327621-3.jpg",
+        "https://crautos.com/clasificados/usados/14327621-4.jpg",
+        "https://crautos.com/clasificados/usados/14327621-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NATANAEL CARRANZA",
+        "teléfono": "8604-4097 7268-5526",
+        "whatsapp": "8604-4097"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "164,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "extras impecable muy socado vehículo de cochera de profesora.",
+        "kilometraje_number": 164000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

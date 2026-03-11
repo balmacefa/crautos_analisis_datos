@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65054600&Toyota.ECHO.2001",
+    "año": 2001,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 5956,
+    "precio_usd": 2990000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65054600-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65054600-1.jpg",
+        "https://crautos.com/clasificados/usados/65054600-2.jpg",
+        "https://crautos.com/clasificados/usados/65054600-3.jpg",
+        "https://crautos.com/clasificados/usados/65054600-4.jpg",
+        "https://crautos.com/clasificados/usados/65054600-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HECTOR LARA",
+        "teléfono": "8960-6021",
+        "whatsapp": "8960-6021"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "213,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "DORADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Agosto del 2025",
+        "kilometraje_number": 213000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 24
+}

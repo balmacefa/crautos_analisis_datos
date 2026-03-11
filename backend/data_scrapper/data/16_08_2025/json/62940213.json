@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=62940213&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/62940213-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/62940213-1.jpg",
+        "https://crautos.com/clasificados/usados/62940213-2.jpg",
+        "https://crautos.com/clasificados/usados/62940213-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ARIEL BARRANTES",
+        "teléfono": "8487-7337",
+        "whatsapp": "8487-7337"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "167,800 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Cambio por otro que sea mas alto.",
+        "kilometraje_number": 167800,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

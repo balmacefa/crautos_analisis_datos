@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=50380901",
+    "año": 2016,
+    "marca": "MITSUBISHI",
+    "modelo": "OUTLANDER",
+    "precio_crc": 13944,
+    "precio_usd": 7000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/50380901-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/50380901-1.jpg",
+        "https://crautos.com/clasificados/usados/50380901-2.jpg",
+        "https://crautos.com/clasificados/usados/50380901-3.jpg",
+        "https://crautos.com/clasificados/usados/50380901-4.jpg",
+        "https://crautos.com/clasificados/usados/50380901-5.jpg",
+        "https://crautos.com/clasificados/usados/50380901-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS CASTILLO",
+        "teléfono": "8432-4197 8892-5161",
+        "whatsapp": "8432-4197"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,000 millas",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Esta en perfecto estado americano todos los impuestos cancelados.",
+        "kilometraje_number": 115000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

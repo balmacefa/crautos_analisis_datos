@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41748882&MG.MG3%20COM.2015",
+    "año": 2015,
+    "marca": "MG",
+    "modelo": "MG3 COM",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41748882-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41748882-1.jpg",
+        "https://crautos.com/clasificados/usados/41748882-2.jpg",
+        "https://crautos.com/clasificados/usados/41748882-3.jpg",
+        "https://crautos.com/clasificados/usados/41748882-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAUL SANCHO",
+        "teléfono": "8939-3945",
+        "whatsapp": "8939-3945"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "78,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Mayo del 2025",
+        "comentario_vendedor": "URGE VENDER! económico y cómodo ideal para ciudad. RTV y marchamo al día..",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

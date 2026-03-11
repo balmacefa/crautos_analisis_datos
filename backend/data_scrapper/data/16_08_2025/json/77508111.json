@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77508111&Suzuki.XL7%20GLX%20.2023",
+    "año": 2023,
+    "marca": "SUZUKI",
+    "modelo": "XL7 GLX",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77508111-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77508111-1.jpg",
+        "https://crautos.com/clasificados/usados/77508111-2.jpg",
+        "https://crautos.com/clasificados/usados/77508111-3.jpg",
+        "https://crautos.com/clasificados/usados/77508111-4.jpg",
+        "https://crautos.com/clasificados/usados/77508111-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELISSA FALLAS",
+        "teléfono": "8461-8669",
+        "whatsapp": "8461-8669"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "29,600 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "VEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO GARANTIA AGENCIA HASTA AGOSTO RECORD DE AGENCIA.",
+        "kilometraje_number": 29600,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

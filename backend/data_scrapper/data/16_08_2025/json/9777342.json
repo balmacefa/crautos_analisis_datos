@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9777342&Toyota.MR2.1986",
+    "año": 1986,
+    "marca": "TOYOTA",
+    "modelo": "MR2",
+    "precio_crc": 9761,
+    "precio_usd": 4900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9777342-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9777342-1.jpg",
+        "https://crautos.com/clasificados/usados/9777342-2.jpg",
+        "https://crautos.com/clasificados/usados/9777342-3.jpg",
+        "https://crautos.com/clasificados/usados/9777342-4.jpg",
+        "https://crautos.com/clasificados/usados/9777342-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS ABRE",
+        "teléfono": "8387-8110 8860-4040 2537-5000",
+        "whatsapp": "8387-8110",
+        "dirección": "La Lima de Cartago, 50 metros norte de Wallmart, costado sur de la Dos Pinos. Cartago"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "149,000 kms",
+        "placa": "ND",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "16 de Junio del 2025",
+        "comentario_vendedor": "Es un Clasico, esta muy cuidado, Version Americana, Motor Mil Seiscientos Twin Cam Inyectado,.",
+        "kilometraje_number": 149000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 39
+}

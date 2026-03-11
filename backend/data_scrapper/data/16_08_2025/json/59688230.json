@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=59688230&Suzuki.SX4.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 10359,
+    "precio_usd": 5200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/59688230-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/59688230-1.jpg",
+        "https://crautos.com/clasificados/usados/59688230-2.jpg",
+        "https://crautos.com/clasificados/usados/59688230-3.jpg",
+        "https://crautos.com/clasificados/usados/59688230-4.jpg",
+        "https://crautos.com/clasificados/usados/59688230-5.jpg",
+        "https://crautos.com/clasificados/usados/59688230-6.jpg",
+        "https://crautos.com/clasificados/usados/59688230-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "OSCAR NAVARRO ROJAS",
+        "teléfono": "8822-9274 2766-1921",
+        "whatsapp": "8822-9274"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "91,400 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Usa gasolina regular.",
+        "kilometraje_number": 91400,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

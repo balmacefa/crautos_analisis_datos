@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=75587171&Toyota.YARIS.2008",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/75587171-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/75587171-1.jpg",
+        "https://crautos.com/clasificados/usados/75587171-2.jpg",
+        "https://crautos.com/clasificados/usados/75587171-3.jpg",
+        "https://crautos.com/clasificados/usados/75587171-4.jpg",
+        "https://crautos.com/clasificados/usados/75587171-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GUSTAVO HIDALGO",
+        "teléfono": "8596-3731",
+        "whatsapp": "8596-3731"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "156,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "comentario_vendedor": "Carro muy económico recién pasado dekra con mantenimiento al dia.",
+        "kilometraje_number": 156000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

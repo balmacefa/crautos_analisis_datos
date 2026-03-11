@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90209349&Nissan.SENTRA%20SE.1997",
+    "año": 1997,
+    "marca": "NISSAN",
+    "modelo": "SENTRA SE",
+    "precio_crc": 4183,
+    "precio_usd": 2100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90209349-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90209349-1.jpg",
+        "https://crautos.com/clasificados/usados/90209349-2.jpg",
+        "https://crautos.com/clasificados/usados/90209349-3.jpg",
+        "https://crautos.com/clasificados/usados/90209349-4.jpg",
+        "https://crautos.com/clasificados/usados/90209349-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICK ARIAS",
+        "teléfono": "7224-6796 7205-1981",
+        "whatsapp": "7205-1981"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "244,000 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE CON GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "comentario_vendedor": "Nissan SX SE – Deportivo confiable y bien cuidado Carro estilo deportivo muy fiel económ.",
+        "kilometraje_number": 244000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

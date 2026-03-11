@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18804546",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "YARIS GT",
+    "precio_crc": 14741,
+    "precio_usd": 7400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18804546-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18804546-1.jpg",
+        "https://crautos.com/clasificados/usados/18804546-2.jpg",
+        "https://crautos.com/clasificados/usados/18804546-3.jpg",
+        "https://crautos.com/clasificados/usados/18804546-4.jpg",
+        "https://crautos.com/clasificados/usados/18804546-5.jpg",
+        "https://crautos.com/clasificados/usados/18804546-6.jpg",
+        "https://crautos.com/clasificados/usados/18804546-7.jpg",
+        "https://crautos.com/clasificados/usados/18804546-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WENDY",
+        "teléfono": "8981-3977",
+        "whatsapp": "8981-3977"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "101,517 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "BEIGE METÁLICO",
+        "color_interior": "BEIGE-NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "Récord de agencia. Llantas nuevas. Único dueño .",
+        "kilometraje_number": 101517,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

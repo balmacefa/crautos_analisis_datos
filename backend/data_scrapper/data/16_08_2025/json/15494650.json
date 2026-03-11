@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15494650&Isuzu.TROOPER%20.1999",
+    "año": 1999,
+    "marca": "ISUZU",
+    "modelo": "TROOPER",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL VEGA",
+        "teléfono": "7285-8085",
+        "whatsapp": "7285-8085"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "317,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "kilometraje_number": 317000,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 26
+}

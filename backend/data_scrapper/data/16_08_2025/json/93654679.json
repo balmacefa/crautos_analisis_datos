@@ -1,0 +1,42 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93654679&Toyota.COROLLA.1995",
+    "año": 1995,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 3586,
+    "precio_usd": 1800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93654679-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93654679-1.jpg",
+        "https://crautos.com/clasificados/usados/93654679-2.jpg",
+        "https://crautos.com/clasificados/usados/93654679-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEPHANIE ZUÑIGA",
+        "teléfono": "8614-3214",
+        "whatsapp": "8614-3214"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "253,539 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "Carburado..",
+        "kilometraje_number": 253539,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [],
+    "antiguedad": 30
+}

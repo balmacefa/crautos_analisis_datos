@@ -1,0 +1,45 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80907203&Ford.RANGER%20XLT.2014",
+    "año": 2014,
+    "marca": "FORD",
+    "modelo": "RANGER XLT",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80907203-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80907203-1.jpg",
+        "https://crautos.com/clasificados/usados/80907203-2.jpg",
+        "https://crautos.com/clasificados/usados/80907203-3.jpg",
+        "https://crautos.com/clasificados/usados/80907203-4.jpg",
+        "https://crautos.com/clasificados/usados/80907203-5.jpg",
+        "https://crautos.com/clasificados/usados/80907203-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO LOPEZ PACHECO",
+        "teléfono": "8921-6791 8351-9134",
+        "whatsapp": "8921-6791"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "136,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Carro nunca usado para trabajo EXTRAS.",
+        "kilometraje_number": 136000,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [],
+    "antiguedad": 11
+}

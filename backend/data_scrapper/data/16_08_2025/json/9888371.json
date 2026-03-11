@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9888371&Honda.CITY.2020",
+    "año": 2020,
+    "marca": "HONDA",
+    "modelo": "CITY",
+    "precio_crc": 8785000,
+    "precio_usd": 17500.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9888371-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9888371-1.jpg",
+        "https://crautos.com/clasificados/usados/9888371-2.jpg",
+        "https://crautos.com/clasificados/usados/9888371-3.jpg",
+        "https://crautos.com/clasificados/usados/9888371-4.jpg",
+        "https://crautos.com/clasificados/usados/9888371-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GRUPO QUALITY MOTORS S.A.",
+        "teléfono": "2242-8800",
+        "whatsapp": "2242-8844",
+        "dirección": "La Uruca, contiguo a BCR, Edificio KIA San José"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "53,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Julio del 2025",
+        "comentario_vendedor": "PRECIO MAS TRASPASO. .",
+        "kilometraje_number": 53000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 5
+}

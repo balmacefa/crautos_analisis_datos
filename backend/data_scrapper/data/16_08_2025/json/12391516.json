@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12391516&Hyundai.I10.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12391516-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12391516-1.jpg",
+        "https://crautos.com/clasificados/usados/12391516-2.jpg",
+        "https://crautos.com/clasificados/usados/12391516-3.jpg",
+        "https://crautos.com/clasificados/usados/12391516-4.jpg",
+        "https://crautos.com/clasificados/usados/12391516-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SANDRA PICADO",
+        "teléfono": "8968-1933 8760-8567"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "85,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "DEKRA hasta enero vidrios y espejos electrico radio pantalla táctil.",
+        "kilometraje_number": 85000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

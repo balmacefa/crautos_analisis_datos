@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27005087&Chevrolet.OPTRA%20LS.2008",
+    "año": 2008,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA LS",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27005087-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27005087-1.jpg",
+        "https://crautos.com/clasificados/usados/27005087-2.jpg",
+        "https://crautos.com/clasificados/usados/27005087-3.jpg",
+        "https://crautos.com/clasificados/usados/27005087-4.jpg",
+        "https://crautos.com/clasificados/usados/27005087-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE CUBERO",
+        "teléfono": "8318-4455",
+        "whatsapp": "8318-4455"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "49,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Muy cuidado-kilometraje original-Vendido por Grupo Q-Precio negociable .",
+        "kilometraje_number": 49000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

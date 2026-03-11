@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35858538&Toyota.HIACE.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 17829,
+    "precio_usd": 8950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35858538-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35858538-1.jpg",
+        "https://crautos.com/clasificados/usados/35858538-2.jpg",
+        "https://crautos.com/clasificados/usados/35858538-3.jpg",
+        "https://crautos.com/clasificados/usados/35858538-4.jpg",
+        "https://crautos.com/clasificados/usados/35858538-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREG GORDON",
+        "teléfono": "8432-3223 2524-5456",
+        "whatsapp": "8432-3223"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "705 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "NARANJA",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Se vende con traspaso incluido .",
+        "kilometraje_number": 705,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 11
+}

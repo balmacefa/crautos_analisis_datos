@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=58934864&Toyota.TERCEL.1992",
+    "año": 1992,
+    "marca": "TOYOTA",
+    "modelo": "TERCEL",
+    "precio_crc": 2789,
+    "precio_usd": 1400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/58934864-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/58934864-1.jpg",
+        "https://crautos.com/clasificados/usados/58934864-2.jpg",
+        "https://crautos.com/clasificados/usados/58934864-3.jpg",
+        "https://crautos.com/clasificados/usados/58934864-4.jpg",
+        "https://crautos.com/clasificados/usados/58934864-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANKLIN NAVARRO",
+        "teléfono": "6179-4611",
+        "whatsapp": "6179-4611"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "293,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Carro en buen estado al día sin problemas .",
+        "kilometraje_number": 293000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 33
+}

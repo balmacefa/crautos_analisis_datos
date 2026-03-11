@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63682357&Hyundai.IONIQ%20HYBRID.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "IONIQ HYBRID",
+    "precio_crc": 15538,
+    "precio_usd": 7800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63682357-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63682357-1.jpg",
+        "https://crautos.com/clasificados/usados/63682357-2.jpg",
+        "https://crautos.com/clasificados/usados/63682357-3.jpg",
+        "https://crautos.com/clasificados/usados/63682357-4.jpg",
+        "https://crautos.com/clasificados/usados/63682357-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALVARO DANIEL CARVAJAL ZAMORA",
+        "teléfono": "6407-0705",
+        "whatsapp": "6407-0705"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "47,517 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado.",
+        "kilometraje_number": 47517,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93339264&Hyundai.I10.2009",
+    "año": 2009,
+    "marca": "HYUNDAI",
+    "modelo": "I10",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93339264-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93339264-1.jpg",
+        "https://crautos.com/clasificados/usados/93339264-2.jpg",
+        "https://crautos.com/clasificados/usados/93339264-3.jpg",
+        "https://crautos.com/clasificados/usados/93339264-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEAN CARLO VILCHEZ",
+        "teléfono": "8798-2791 8465-8060 8363-0315",
+        "whatsapp": "8465-8060"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 16
+}

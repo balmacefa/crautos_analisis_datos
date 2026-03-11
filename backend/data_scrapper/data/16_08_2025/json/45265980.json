@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45265980&Hyundai.COUNTY.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "COUNTY",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45265980-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45265980-1.jpg",
+        "https://crautos.com/clasificados/usados/45265980-2.jpg",
+        "https://crautos.com/clasificados/usados/45265980-3.jpg",
+        "https://crautos.com/clasificados/usados/45265980-4.jpg",
+        "https://crautos.com/clasificados/usados/45265980-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN RODRÍGUEZ PIZARRO",
+        "teléfono": "6478-1058 8757-5883",
+        "whatsapp": "6478-1058"
+    },
+    "informacion_general": {
+        "cilindrada": "3990 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "274,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "CELESTE",
+        "color_interior": "CELESTE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Esta en buen estado al día lista para trabajar rotulada para estudiantes.",
+        "kilometraje_number": 274000,
+        "cilindrada_number": 3990
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo"
+    ],
+    "antiguedad": 18
+}

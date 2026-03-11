@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=52770900&Volkswagen.AMAROK.2011",
+    "año": 2011,
+    "marca": "VOLKSWAGEN",
+    "modelo": "AMAROK",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/52770900-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/52770900-1.jpg",
+        "https://crautos.com/clasificados/usados/52770900-2.jpg",
+        "https://crautos.com/clasificados/usados/52770900-3.jpg",
+        "https://crautos.com/clasificados/usados/52770900-4.jpg",
+        "https://crautos.com/clasificados/usados/52770900-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO ARIAS QUIROS",
+        "teléfono": "8605-5538 8821-5693",
+        "whatsapp": "8605-5538"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "230,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "PRECIO NEGOCIABLE SE ESCUCHAN OFERTAS .",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 14
+}

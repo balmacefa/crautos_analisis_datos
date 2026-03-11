@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84613902",
+    "año": 2016,
+    "marca": "HONDA",
+    "modelo": "HRV",
+    "precio_crc": 17331,
+    "precio_usd": 8700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84613902-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84613902-1.jpg",
+        "https://crautos.com/clasificados/usados/84613902-2.jpg",
+        "https://crautos.com/clasificados/usados/84613902-3.jpg",
+        "https://crautos.com/clasificados/usados/84613902-4.jpg",
+        "https://crautos.com/clasificados/usados/84613902-5.jpg",
+        "https://crautos.com/clasificados/usados/84613902-6.jpg",
+        "https://crautos.com/clasificados/usados/84613902-7.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTEBAN ZÚÑIGA",
+        "teléfono": "8883-9424 8310-8391",
+        "whatsapp": "8883-9424"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "147,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "kilometraje_number": 147000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

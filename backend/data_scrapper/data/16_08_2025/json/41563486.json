@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41563486&Toyota.BJ40.1976",
+    "año": 1976,
+    "marca": "TOYOTA",
+    "modelo": "BJ40",
+    "precio_crc": 29880,
+    "precio_usd": 15000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FLORIAN",
+        "teléfono": "6205-4794",
+        "whatsapp": "6205-4794"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "700 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "31 de Julio del 2025",
+        "kilometraje_number": 700,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico"
+    ],
+    "antiguedad": 49
+}

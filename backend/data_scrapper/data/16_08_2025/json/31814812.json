@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31814812&Volkswagen.CROSSFOX.2016",
+    "año": 2016,
+    "marca": "VOLKSWAGEN",
+    "modelo": "CROSSFOX",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31814812-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31814812-1.jpg",
+        "https://crautos.com/clasificados/usados/31814812-2.jpg",
+        "https://crautos.com/clasificados/usados/31814812-3.jpg",
+        "https://crautos.com/clasificados/usados/31814812-4.jpg",
+        "https://crautos.com/clasificados/usados/31814812-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JESUS BOLAÑOS",
+        "teléfono": "8968-1587",
+        "whatsapp": "8968-1587"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "109,436 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "kilometraje_number": 109436,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Asientos eléctricos",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sensores frontales",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57171177&Suzuki.SWIFT%20GL.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT GL",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57171177-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57171177-1.jpg",
+        "https://crautos.com/clasificados/usados/57171177-2.jpg",
+        "https://crautos.com/clasificados/usados/57171177-3.jpg",
+        "https://crautos.com/clasificados/usados/57171177-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JONATAN MONTENEGRO",
+        "teléfono": "6050-1410",
+        "whatsapp": "6050-1410"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "19 de Febrero del 2025",
+        "comentario_vendedor": "Escucho ofertas. .",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

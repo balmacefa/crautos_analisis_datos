@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35988804&Toyota.COROLLA.2004",
+    "año": 2004,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35988804-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35988804-1.jpg",
+        "https://crautos.com/clasificados/usados/35988804-2.jpg",
+        "https://crautos.com/clasificados/usados/35988804-3.jpg",
+        "https://crautos.com/clasificados/usados/35988804-4.jpg",
+        "https://crautos.com/clasificados/usados/35988804-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ESTIVEN ROJAS",
+        "teléfono": "7275-3735 8851-1675",
+        "whatsapp": "7275-3735"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "344,030 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Ganga en perfecto estado para alguien que busque vehiculo económico.",
+        "kilometraje_number": 344030,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 21
+}

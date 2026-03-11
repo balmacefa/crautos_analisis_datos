@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82449275&Kia.CERATO.2011",
+    "año": 2011,
+    "marca": "KIA",
+    "modelo": "CERATO",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/82449275-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/82449275-1.jpg",
+        "https://crautos.com/clasificados/usados/82449275-2.jpg",
+        "https://crautos.com/clasificados/usados/82449275-3.jpg",
+        "https://crautos.com/clasificados/usados/82449275-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTO PACHECO ALFARO",
+        "teléfono": "8334-3029 8801-8496",
+        "whatsapp": "8334-3029"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "191,700 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Julio del 2025",
+        "comentario_vendedor": "En Escazú. Precio Negociable. Alarma. Pantalla. Forros Asientos. Sensores y cámara de reserva. Ect..",
+        "kilometraje_number": 191700,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 14
+}

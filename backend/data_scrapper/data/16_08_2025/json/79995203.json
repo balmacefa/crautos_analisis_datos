@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79995203&Chevrolet.SPARK%20LS.2012",
+    "año": 2012,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK LS",
+    "precio_crc": 5777,
+    "precio_usd": 2900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79995203-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79995203-1.jpg",
+        "https://crautos.com/clasificados/usados/79995203-2.jpg",
+        "https://crautos.com/clasificados/usados/79995203-3.jpg",
+        "https://crautos.com/clasificados/usados/79995203-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "HUGO AGUILAR",
+        "teléfono": "8848-2025 5001-0101",
+        "whatsapp": "5001-0101"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "AZUL REY",
+        "color_interior": "GRIS NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "VENDO POR COMPRA DE AUTO NUEVO ESTA LINDO SOLO LLAVE Y LISTO. SI LO VE SE LO DEJA.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

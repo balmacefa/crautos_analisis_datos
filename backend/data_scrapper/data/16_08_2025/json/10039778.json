@@ -1,0 +1,48 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=10039778&Toyota.RAV4.2023",
+    "año": 2023,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 33665,
+    "precio_usd": 16900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/10039778-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/10039778-1.jpg",
+        "https://crautos.com/clasificados/usados/10039778-2.jpg",
+        "https://crautos.com/clasificados/usados/10039778-3.jpg",
+        "https://crautos.com/clasificados/usados/10039778-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALLAN ARAYA",
+        "teléfono": "6228-4247",
+        "whatsapp": "6228-4247"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "40,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Sensores traseros alojenos camara trasera.",
+        "kilometraje_number": 40000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Caja de cambios dual",
+        "Cámara de retroceso",
+        "Halógenos",
+        "Sensores de retroceso"
+    ],
+    "antiguedad": 2
+}

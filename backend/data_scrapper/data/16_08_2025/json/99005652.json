@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=99005652&Nissan.NAVARA.2010",
+    "año": 2010,
+    "marca": "NISSAN",
+    "modelo": "NAVARA",
+    "precio_crc": 18924,
+    "precio_usd": 9500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/99005652-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/99005652-1.jpg",
+        "https://crautos.com/clasificados/usados/99005652-2.jpg",
+        "https://crautos.com/clasificados/usados/99005652-3.jpg",
+        "https://crautos.com/clasificados/usados/99005652-4.jpg",
+        "https://crautos.com/clasificados/usados/99005652-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS OBANDO",
+        "teléfono": "8412-1794",
+        "whatsapp": "8412-1794"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "218,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Puedo recibir vehiculo .",
+        "kilometraje_number": 218000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 15
+}

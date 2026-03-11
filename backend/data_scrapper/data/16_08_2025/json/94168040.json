@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=94168040&Mitsubishi.L200.2009",
+    "año": 2009,
+    "marca": "MITSUBISHI",
+    "modelo": "L200",
+    "precio_crc": 18327,
+    "precio_usd": 9200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/94168040-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/94168040-1.jpg",
+        "https://crautos.com/clasificados/usados/94168040-2.jpg",
+        "https://crautos.com/clasificados/usados/94168040-3.jpg",
+        "https://crautos.com/clasificados/usados/94168040-4.jpg",
+        "https://crautos.com/clasificados/usados/94168040-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MELVIN HERRERA MENDEZ",
+        "teléfono": "8888-8875 8586-4618"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "197,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "kilometraje_number": 197000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 16
+}

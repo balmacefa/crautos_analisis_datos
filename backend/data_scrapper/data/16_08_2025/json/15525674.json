@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15525674",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "QASHQAI",
+    "precio_crc": 12749,
+    "precio_usd": 6400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15525674-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15525674-1.jpg",
+        "https://crautos.com/clasificados/usados/15525674-2.jpg",
+        "https://crautos.com/clasificados/usados/15525674-3.jpg",
+        "https://crautos.com/clasificados/usados/15525674-4.jpg",
+        "https://crautos.com/clasificados/usados/15525674-5.jpg",
+        "https://crautos.com/clasificados/usados/15525674-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFRI",
+        "teléfono": "7114-1008",
+        "whatsapp": "7114-1008"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "209,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "CAFÉ",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "ÚNICO DUEÑO.",
+        "kilometraje_number": 209000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25979544&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25979544-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25979544-1.jpg",
+        "https://crautos.com/clasificados/usados/25979544-2.jpg",
+        "https://crautos.com/clasificados/usados/25979544-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANDREY STELLER",
+        "teléfono": "6252-8533 6352-7852 8992-5064",
+        "whatsapp": "6252-8533"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Vehiculo en perfecto estado de pintura todo funciona en excelentes condiciones.",
+        "kilometraje_number": null,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Frenos ABS",
+        "Radio con USB/AUX"
+    ],
+    "antiguedad": 25
+}

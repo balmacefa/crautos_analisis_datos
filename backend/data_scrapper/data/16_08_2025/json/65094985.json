@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=65094985&Hyundai.ACCENT.2007",
+    "año": 2007,
+    "marca": "HYUNDAI",
+    "modelo": "ACCENT",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/65094985-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/65094985-1.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRAYAN VINDAS",
+        "teléfono": "8624-0300",
+        "whatsapp": "8624-0300"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "262,600 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "BLANCO Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "Tiene algunos detalles de pintura por ser un auto viejo, AC funcionando perfecto..",
+        "kilometraje_number": 262600,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 18
+}

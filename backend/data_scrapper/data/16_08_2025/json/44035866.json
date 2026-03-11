@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=44035866&Chevrolet.SPARK.2013",
+    "año": 2013,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK",
+    "precio_crc": 8367,
+    "precio_usd": 4200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/44035866-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/44035866-1.jpg",
+        "https://crautos.com/clasificados/usados/44035866-2.jpg",
+        "https://crautos.com/clasificados/usados/44035866-3.jpg",
+        "https://crautos.com/clasificados/usados/44035866-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO BRENES",
+        "teléfono": "6470-6419",
+        "whatsapp": "6470-6419"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "146,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Me puedes escribir por WhatsApp DEKRA dos mil veinte seis.",
+        "kilometraje_number": 146000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

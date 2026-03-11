@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12444010&Kia.RIO%20.2018",
+    "año": 2018,
+    "marca": "KIA",
+    "modelo": "RIO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12444010-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12444010-1.jpg",
+        "https://crautos.com/clasificados/usados/12444010-2.jpg",
+        "https://crautos.com/clasificados/usados/12444010-3.jpg",
+        "https://crautos.com/clasificados/usados/12444010-4.jpg",
+        "https://crautos.com/clasificados/usados/12444010-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KYLE",
+        "teléfono": "7206-2766 8633-6710",
+        "whatsapp": "7206-2766"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "137,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "UN SOLO DUEÑO.",
+        "kilometraje_number": 137000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 7
+}

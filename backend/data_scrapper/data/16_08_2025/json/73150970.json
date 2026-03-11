@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=73150970&Isuzu.AXIOM.2003",
+    "año": 2003,
+    "marca": "ISUZU",
+    "modelo": "AXIOM",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/73150970-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/73150970-1.jpg",
+        "https://crautos.com/clasificados/usados/73150970-2.jpg",
+        "https://crautos.com/clasificados/usados/73150970-3.jpg",
+        "https://crautos.com/clasificados/usados/73150970-4.jpg",
+        "https://crautos.com/clasificados/usados/73150970-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "BRAYAN AZOFEIFA CAMPOS",
+        "teléfono": "8835-9236 8529-1259",
+        "whatsapp": "8835-9236"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS OSCURO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Estado bueno cuidado y tiene gas inyectado muy económico y entero. .",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

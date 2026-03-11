@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=57982670&Jeep.COMPASS.2007",
+    "año": 2007,
+    "marca": "JEEP",
+    "modelo": "COMPASS",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/57982670-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/57982670-1.jpg",
+        "https://crautos.com/clasificados/usados/57982670-2.jpg",
+        "https://crautos.com/clasificados/usados/57982670-3.jpg",
+        "https://crautos.com/clasificados/usados/57982670-4.jpg",
+        "https://crautos.com/clasificados/usados/57982670-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUZ MAYA",
+        "teléfono": "7257-6559",
+        "whatsapp": "7257-6559"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "212 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "comentario_vendedor": "Jeep compas en buen estado hoja de dekra en blanco.recibo vehículo de mi interes.",
+        "kilometraje_number": 212,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 18
+}

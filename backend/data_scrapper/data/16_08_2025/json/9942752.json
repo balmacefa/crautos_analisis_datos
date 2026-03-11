@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=9942752&Kia.BONGO%20III.2013",
+    "año": 2013,
+    "marca": "KIA",
+    "modelo": "BONGO III",
+    "precio_crc": 18426,
+    "precio_usd": 9250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/9942752-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/9942752-1.jpg",
+        "https://crautos.com/clasificados/usados/9942752-2.jpg",
+        "https://crautos.com/clasificados/usados/9942752-3.jpg",
+        "https://crautos.com/clasificados/usados/9942752-4.jpg",
+        "https://crautos.com/clasificados/usados/9942752-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IMPORT CARS CARTAGO",
+        "teléfono": "8487-6959 8431-8551",
+        "whatsapp": "8487-6959",
+        "dirección": "Costado norte del parque de la Basílica de los Ángeles, contiguo al restaurante la Puerta del Sol"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "6",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "81,093 kms",
+        "placa": "ND",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "Financiamiento disponible ,se recibe, garantía y respaldo Facebook y IG Import Cartago .",
+        "kilometraje_number": 81093,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 12
+}

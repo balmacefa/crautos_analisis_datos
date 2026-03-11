@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=43929032&Toyota.COROLLA.2006",
+    "año": 2006,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 9163,
+    "precio_usd": 4600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/43929032-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/43929032-1.jpg",
+        "https://crautos.com/clasificados/usados/43929032-2.jpg",
+        "https://crautos.com/clasificados/usados/43929032-3.jpg",
+        "https://crautos.com/clasificados/usados/43929032-4.jpg",
+        "https://crautos.com/clasificados/usados/43929032-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD VARGAS",
+        "teléfono": "8798-6704",
+        "whatsapp": "8798-6704"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "205,470 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "DORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Agosto del 2025",
+        "comentario_vendedor": "Excelente vehículo..",
+        "kilometraje_number": 205470,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

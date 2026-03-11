@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=12222629",
+    "año": 1999,
+    "marca": "DODGE/RAM",
+    "modelo": "RAM 1500",
+    "precio_crc": 5478,
+    "precio_usd": 2750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/12222629-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/12222629-1.jpg",
+        "https://crautos.com/clasificados/usados/12222629-2.jpg",
+        "https://crautos.com/clasificados/usados/12222629-3.jpg",
+        "https://crautos.com/clasificados/usados/12222629-4.jpg",
+        "https://crautos.com/clasificados/usados/12222629-5.jpg",
+        "https://crautos.com/clasificados/usados/12222629-6.jpg",
+        "https://crautos.com/clasificados/usados/12222629-7.jpg",
+        "https://crautos.com/clasificados/usados/12222629-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JAVIER",
+        "teléfono": "7008-1973",
+        "whatsapp": "7008-1973"
+    },
+    "informacion_general": {
+        "cilindrada": "5200 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "271,048 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "TODO AL DIA MECANICAMENTE PERFECTA..",
+        "kilometraje_number": 271048,
+        "cilindrada_number": 5200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 26
+}

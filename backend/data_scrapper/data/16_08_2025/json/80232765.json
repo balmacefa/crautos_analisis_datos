@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80232765&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 6773,
+    "precio_usd": 3400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80232765-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80232765-1.jpg",
+        "https://crautos.com/clasificados/usados/80232765-2.jpg",
+        "https://crautos.com/clasificados/usados/80232765-3.jpg",
+        "https://crautos.com/clasificados/usados/80232765-4.jpg",
+        "https://crautos.com/clasificados/usados/80232765-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONNY GÓMEZ ESQUIVEL",
+        "teléfono": "8927-4562",
+        "whatsapp": "8927-4562"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "133,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "VERDE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "13 de Junio del 2025",
+        "comentario_vendedor": "Excelente estado precio negociable excelente mantenimiento luz led radio pantalla Pioner .",
+        "kilometraje_number": 133000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

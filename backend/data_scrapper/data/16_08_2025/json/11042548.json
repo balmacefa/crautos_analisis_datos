@@ -1,0 +1,38 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=11042548&Mazda.B2000.1987",
+    "año": 1987,
+    "marca": "MAZDA",
+    "modelo": "B2000",
+    "precio_crc": 4382,
+    "precio_usd": 2200000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORGE MORA",
+        "teléfono": "6103-0530 8990-2090"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "179,769 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "28 de Julio del 2025",
+        "kilometraje_number": 179769,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [],
+    "antiguedad": 38
+}

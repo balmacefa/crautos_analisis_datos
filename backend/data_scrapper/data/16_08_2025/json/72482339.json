@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=72482339&Suzuki.GRAND%20VITARA.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/72482339-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/72482339-1.jpg",
+        "https://crautos.com/clasificados/usados/72482339-2.jpg",
+        "https://crautos.com/clasificados/usados/72482339-3.jpg",
+        "https://crautos.com/clasificados/usados/72482339-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE ASDRUBAL BARRANTES",
+        "teléfono": "8720-7750 8340-3062"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "146,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Muy cuidado económico y confiable. Tiene conjunto de clotch nuevo batería nueva .",
+        "kilometraje_number": 146000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

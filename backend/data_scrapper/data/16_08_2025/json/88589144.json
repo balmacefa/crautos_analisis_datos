@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88589144&Chevrolet.OPTRA.2008",
+    "año": 2008,
+    "marca": "CHEVROLET",
+    "modelo": "OPTRA",
+    "precio_crc": 3685,
+    "precio_usd": 1850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88589144-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88589144-1.jpg",
+        "https://crautos.com/clasificados/usados/88589144-2.jpg",
+        "https://crautos.com/clasificados/usados/88589144-3.jpg",
+        "https://crautos.com/clasificados/usados/88589144-4.jpg",
+        "https://crautos.com/clasificados/usados/88589144-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS CASTRO",
+        "teléfono": "8377-1545 8392-2594",
+        "whatsapp": "8377-1545"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "257,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "comentario_vendedor": "ESTADO BUENO DETALLES MINIMOS .",
+        "kilometraje_number": 257000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

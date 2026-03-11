@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55031404&Chevrolet.SPARK%20CLASSIC%20.2017",
+    "año": 2017,
+    "marca": "CHEVROLET",
+    "modelo": "SPARK CLASSIC",
+    "precio_crc": 9363,
+    "precio_usd": 4700000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55031404-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55031404-1.jpg",
+        "https://crautos.com/clasificados/usados/55031404-2.jpg",
+        "https://crautos.com/clasificados/usados/55031404-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "PAMELA JIMÉNEZ SOLÍS",
+        "teléfono": "8813-4953"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "78,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "ROJO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Un único dueño.",
+        "kilometraje_number": 78000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 8
+}

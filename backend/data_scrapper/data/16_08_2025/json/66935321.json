@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=66935321&Mitsubishi.MONTERO%20.2006",
+    "año": 2006,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/66935321-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/66935321-1.jpg",
+        "https://crautos.com/clasificados/usados/66935321-2.jpg",
+        "https://crautos.com/clasificados/usados/66935321-3.jpg",
+        "https://crautos.com/clasificados/usados/66935321-4.jpg",
+        "https://crautos.com/clasificados/usados/66935321-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FANNY ANDREA AZOFEIFA",
+        "teléfono": "7113-1099",
+        "whatsapp": "6002-8778"
+    },
+    "informacion_general": {
+        "cilindrada": "3800 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "187,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "Conversión a gas. .",
+        "kilometraje_number": 187000,
+        "cilindrada_number": 3800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 19
+}

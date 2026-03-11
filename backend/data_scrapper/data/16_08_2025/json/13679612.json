@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=13679612&Nissan.FRONTIER.2013",
+    "año": 2013,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 22908,
+    "precio_usd": 11500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/13679612-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/13679612-1.jpg",
+        "https://crautos.com/clasificados/usados/13679612-2.jpg",
+        "https://crautos.com/clasificados/usados/13679612-3.jpg",
+        "https://crautos.com/clasificados/usados/13679612-4.jpg",
+        "https://crautos.com/clasificados/usados/13679612-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANIEL BRENES",
+        "teléfono": "7109-0851"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "217,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "17 de Julio del 2025",
+        "kilometraje_number": 217000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

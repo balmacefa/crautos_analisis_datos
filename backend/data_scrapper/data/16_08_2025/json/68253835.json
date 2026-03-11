@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68253835&Hyundai.GRAND%20I10.2017",
+    "año": 2017,
+    "marca": "HYUNDAI",
+    "modelo": "GRAND I10",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68253835-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68253835-1.jpg",
+        "https://crautos.com/clasificados/usados/68253835-2.jpg",
+        "https://crautos.com/clasificados/usados/68253835-3.jpg",
+        "https://crautos.com/clasificados/usados/68253835-4.jpg",
+        "https://crautos.com/clasificados/usados/68253835-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "IGNACIO BARRANTES",
+        "teléfono": "6338-4608",
+        "whatsapp": "6338-4608"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Excelente estado escucho ofertas. .",
+        "kilometraje_number": null,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Sensores de retroceso"
+    ],
+    "antiguedad": 8
+}

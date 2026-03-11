@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=78276076&Mitsubishi.MONTERO.1999",
+    "año": 1999,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/78276076-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/78276076-1.jpg",
+        "https://crautos.com/clasificados/usados/78276076-2.jpg",
+        "https://crautos.com/clasificados/usados/78276076-3.jpg",
+        "https://crautos.com/clasificados/usados/78276076-4.jpg",
+        "https://crautos.com/clasificados/usados/78276076-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JORDAN QUESADA",
+        "teléfono": "6412-7920 8529-2722",
+        "whatsapp": "6412-7920"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "26,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "VERDE",
+        "color_interior": "VERDE",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "03 de Agosto del 2025",
+        "comentario_vendedor": "Carro extras wincher .",
+        "kilometraje_number": 26000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara 360",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

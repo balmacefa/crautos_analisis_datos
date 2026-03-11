@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=31761555&Hyundai.TUCSON.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "TUCSON",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/31761555-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/31761555-1.jpg",
+        "https://crautos.com/clasificados/usados/31761555-2.jpg",
+        "https://crautos.com/clasificados/usados/31761555-3.jpg",
+        "https://crautos.com/clasificados/usados/31761555-4.jpg",
+        "https://crautos.com/clasificados/usados/31761555-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ELIUD AGUILAR MADRIGAL",
+        "teléfono": "8812-4534",
+        "whatsapp": "8812-4534"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "168,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "VINO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Puntarenas",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "se vende por falta de uso llantas nuevas compensadores nuevose.",
+        "kilometraje_number": 168000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

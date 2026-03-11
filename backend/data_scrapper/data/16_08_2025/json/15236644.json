@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15236644&International.4300.2003",
+    "año": 2003,
+    "marca": "INTERNATIONAL",
+    "modelo": "4300",
+    "precio_crc": 20916,
+    "precio_usd": 10500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15236644-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15236644-1.jpg",
+        "https://crautos.com/clasificados/usados/15236644-2.jpg",
+        "https://crautos.com/clasificados/usados/15236644-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ISRAEL CALVO B.",
+        "teléfono": "8884-5210",
+        "whatsapp": "8884-5210"
+    },
+    "informacion_general": {
+        "cilindrada": "7600 cc",
+        "estilo": "Camión 5.0-7.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "23 de Julio del 2025",
+        "comentario_vendedor": "Camión con documentación al día se escucha ofertas. Caja de Cambios de diez..",
+        "kilometraje_number": null,
+        "cilindrada_number": 7600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 22
+}

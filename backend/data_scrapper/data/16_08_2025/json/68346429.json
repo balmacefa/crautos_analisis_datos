@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68346429&Mitsubishi.CANTER%20FUSO.2017",
+    "año": 2017,
+    "marca": "MITSUBISHI",
+    "modelo": "CANTER FUSO",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68346429-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68346429-1.jpg",
+        "https://crautos.com/clasificados/usados/68346429-2.jpg",
+        "https://crautos.com/clasificados/usados/68346429-3.jpg",
+        "https://crautos.com/clasificados/usados/68346429-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO MATARRITA",
+        "teléfono": "6015-4045",
+        "whatsapp": "6015-4045"
+    },
+    "informacion_general": {
+        "cilindrada": "4200 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "274,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Mayo del 2025",
+        "comentario_vendedor": "Tengo otros camiones de más toneladas .",
+        "kilometraje_number": 274000,
+        "cilindrada_number": 4200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 8
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56550853&Kia.SPORTAGE.2005",
+    "año": 2005,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 6574,
+    "precio_usd": 3300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56550853-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56550853-1.jpg",
+        "https://crautos.com/clasificados/usados/56550853-2.jpg",
+        "https://crautos.com/clasificados/usados/56550853-3.jpg",
+        "https://crautos.com/clasificados/usados/56550853-4.jpg",
+        "https://crautos.com/clasificados/usados/56550853-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KATTIA VARGAS",
+        "teléfono": "8883-7950"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "156 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "21 de Julio del 2025",
+        "comentario_vendedor": "Dekra al día mes de Julio.",
+        "kilometraje_number": 156,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 20
+}

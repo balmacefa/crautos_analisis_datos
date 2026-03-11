@@ -1,0 +1,51 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85376970&Toyota.HIACE.1997",
+    "año": 1997,
+    "marca": "TOYOTA",
+    "modelo": "HIACE",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85376970-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85376970-1.jpg",
+        "https://crautos.com/clasificados/usados/85376970-2.jpg",
+        "https://crautos.com/clasificados/usados/85376970-3.jpg",
+        "https://crautos.com/clasificados/usados/85376970-4.jpg",
+        "https://crautos.com/clasificados/usados/85376970-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VICTOR FALLAS CHINCHILLA",
+        "teléfono": "8432-4711 7215-8704",
+        "whatsapp": "8432-4711"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "Microbús/Minivan",
+        "#_de_pasajeros": "10",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "230,000 millas",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "FAN Clutch deficiente .",
+        "kilometraje_number": 230000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Turbo",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 28
+}

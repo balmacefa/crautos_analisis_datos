@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63426504&Toyota.ECHO.2000",
+    "año": 2000,
+    "marca": "TOYOTA",
+    "modelo": "ECHO",
+    "precio_crc": 6175,
+    "precio_usd": 3100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63426504-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63426504-1.jpg",
+        "https://crautos.com/clasificados/usados/63426504-2.jpg",
+        "https://crautos.com/clasificados/usados/63426504-3.jpg",
+        "https://crautos.com/clasificados/usados/63426504-4.jpg",
+        "https://crautos.com/clasificados/usados/63426504-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIOLA ARAYA ROJAS",
+        "teléfono": "8515-2780",
+        "whatsapp": "8515-2780"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "216,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "PLATEADO",
+        "color_interior": "PLATEADO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "kilometraje_number": 216000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Desempañador Trasero",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 25
+}

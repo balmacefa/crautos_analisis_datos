@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=34812823&Kia.SORENTO.2008",
+    "año": 2008,
+    "marca": "KIA",
+    "modelo": "SORENTO",
+    "precio_crc": 9462,
+    "precio_usd": 4750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/34812823-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/34812823-1.jpg",
+        "https://crautos.com/clasificados/usados/34812823-2.jpg",
+        "https://crautos.com/clasificados/usados/34812823-3.jpg",
+        "https://crautos.com/clasificados/usados/34812823-4.jpg",
+        "https://crautos.com/clasificados/usados/34812823-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FABIAN QUESADA ALLUIN",
+        "teléfono": "8634-8676",
+        "whatsapp": "8634-8676"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "227,500 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS PLOMO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Un Solo Dueño - Batería Nueva.",
+        "kilometraje_number": 227500,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

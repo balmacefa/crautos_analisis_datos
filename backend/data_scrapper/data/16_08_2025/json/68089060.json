@@ -1,0 +1,46 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=68089060&Dodge/RAM.COLT.1989",
+    "año": 1989,
+    "marca": "DODGE/RAM",
+    "modelo": "COLT",
+    "precio_crc": 2390,
+    "precio_usd": 1200000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/68089060-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/68089060-1.jpg",
+        "https://crautos.com/clasificados/usados/68089060-2.jpg",
+        "https://crautos.com/clasificados/usados/68089060-3.jpg",
+        "https://crautos.com/clasificados/usados/68089060-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARVIN RODRIGUEZ",
+        "teléfono": "8583-9791",
+        "whatsapp": "8583-9791"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "150,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Urge vender llame y negociamos .",
+        "kilometraje_number": 150000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aros de lujo",
+        "Dirección Hidráulica/Electroasistida"
+    ],
+    "antiguedad": 36
+}

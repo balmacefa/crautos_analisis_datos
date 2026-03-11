@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=51136160&Suzuki.GRAND%20VITARA%20.2004",
+    "año": 2004,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/51136160-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/51136160-1.jpg",
+        "https://crautos.com/clasificados/usados/51136160-2.jpg",
+        "https://crautos.com/clasificados/usados/51136160-3.jpg",
+        "https://crautos.com/clasificados/usados/51136160-4.jpg",
+        "https://crautos.com/clasificados/usados/51136160-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEINER CORDERO MOYA",
+        "teléfono": "8418-5620 6057-4449",
+        "whatsapp": "8418-5620"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "103,000 millas",
+        "placa": "Termina en",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Precio negociable. Doble tracción de Chancha. Versión Full Extras.",
+        "kilometraje_number": 103000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 21
+}

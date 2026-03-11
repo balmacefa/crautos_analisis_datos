@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=29442200",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA",
+    "precio_crc": 14542,
+    "precio_usd": 7300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/29442200-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/29442200-1.jpg",
+        "https://crautos.com/clasificados/usados/29442200-2.jpg",
+        "https://crautos.com/clasificados/usados/29442200-3.jpg",
+        "https://crautos.com/clasificados/usados/29442200-4.jpg",
+        "https://crautos.com/clasificados/usados/29442200-5.jpg",
+        "https://crautos.com/clasificados/usados/29442200-6.jpg",
+        "https://crautos.com/clasificados/usados/29442200-7.jpg",
+        "https://crautos.com/clasificados/usados/29442200-8.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GREGORY GOLOJUCH",
+        "teléfono": "8386-6872",
+        "whatsapp": "8386-6872"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "135,524 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "25 de Julio del 2025",
+        "comentario_vendedor": "PRICE REDUCED Regular maintenance; Dekra no leves-June next year. Call or WhatsApp. English.",
+        "kilometraje_number": 135524,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 9
+}

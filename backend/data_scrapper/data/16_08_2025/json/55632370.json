@@ -1,0 +1,50 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=55632370&Toyota.RAV4.1996",
+    "año": 1996,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 5578,
+    "precio_usd": 2800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/55632370-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/55632370-1.jpg",
+        "https://crautos.com/clasificados/usados/55632370-2.jpg",
+        "https://crautos.com/clasificados/usados/55632370-3.jpg",
+        "https://crautos.com/clasificados/usados/55632370-4.jpg",
+        "https://crautos.com/clasificados/usados/55632370-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VIVIANA ALVAREZ",
+        "teléfono": "8308-0482 6334-7221",
+        "whatsapp": "8308-0482"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "154,000 millas",
+        "placa": "Termina en 2",
+        "color_exterior": "MORADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "29 de Julio del 2025",
+        "kilometraje_number": 154000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 29
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56988355&Kia.SPORTAGE.2016",
+    "año": 2016,
+    "marca": "KIA",
+    "modelo": "SPORTAGE",
+    "precio_crc": 16733,
+    "precio_usd": 8400000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56988355-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56988355-1.jpg",
+        "https://crautos.com/clasificados/usados/56988355-2.jpg",
+        "https://crautos.com/clasificados/usados/56988355-3.jpg",
+        "https://crautos.com/clasificados/usados/56988355-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KEVIN SIBAJA",
+        "teléfono": "8621-1169"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "113,195 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "kilometraje_number": 113195,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

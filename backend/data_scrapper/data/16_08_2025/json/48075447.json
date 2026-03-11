@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48075447&Nissan.NAVARA.2014",
+    "año": 2014,
+    "marca": "NISSAN",
+    "modelo": "NAVARA",
+    "precio_crc": 23904,
+    "precio_usd": 12000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48075447-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48075447-1.jpg",
+        "https://crautos.com/clasificados/usados/48075447-2.jpg",
+        "https://crautos.com/clasificados/usados/48075447-3.jpg",
+        "https://crautos.com/clasificados/usados/48075447-4.jpg",
+        "https://crautos.com/clasificados/usados/48075447-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA AIZA SOLIS HERRERA",
+        "teléfono": "8821-3402 8407-9501",
+        "whatsapp": "8821-3402"
+    },
+    "informacion_general": {
+        "cilindrada": "2488 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "1 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BLANCO",
+        "color_interior": "BLANCO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "09 de Julio del 2025",
+        "comentario_vendedor": "Buen estado en su totalidad del auto.",
+        "kilometraje_number": 1,
+        "cilindrada_number": 2488
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 11
+}

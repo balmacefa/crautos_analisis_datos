@@ -1,0 +1,47 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=41759581&Toyota.LAND%20CRUISER.1987",
+    "año": 1987,
+    "marca": "TOYOTA",
+    "modelo": "LAND CRUISER",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/41759581-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/41759581-1.jpg",
+        "https://crautos.com/clasificados/usados/41759581-2.jpg",
+        "https://crautos.com/clasificados/usados/41759581-3.jpg",
+        "https://crautos.com/clasificados/usados/41759581-4.jpg",
+        "https://crautos.com/clasificados/usados/41759581-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIEL ULATE",
+        "teléfono": "8879-9885",
+        "whatsapp": "8879-9885"
+    },
+    "informacion_general": {
+        "cilindrada": "3500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "VINO",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Motor \"dos mil uno\" en muy buenas condiciones, se debe pintar......... ESCUCHO OFERTAS.",
+        "kilometraje_number": null,
+        "cilindrada_number": 3500
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 38
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=80307079",
+    "año": 2008,
+    "marca": "TOYOTA",
+    "modelo": "PRADO",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/80307079-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/80307079-1.jpg",
+        "https://crautos.com/clasificados/usados/80307079-2.jpg",
+        "https://crautos.com/clasificados/usados/80307079-3.jpg",
+        "https://crautos.com/clasificados/usados/80307079-4.jpg",
+        "https://crautos.com/clasificados/usados/80307079-5.jpg",
+        "https://crautos.com/clasificados/usados/80307079-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DANNY",
+        "teléfono": "8349-5248",
+        "whatsapp": "8349-5248"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "4 kms",
+        "placa": "ND",
+        "color_exterior": "CHAMPAN",
+        "color_interior": "GRIS",
+        "#_de_puertas": "3",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "kilometraje_number": 4,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

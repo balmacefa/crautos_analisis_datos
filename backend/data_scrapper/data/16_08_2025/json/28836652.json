@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=28836652&Nissan.XTRAIL.2023",
+    "año": 2023,
+    "marca": "NISSAN",
+    "modelo": "XTRAIL",
+    "precio_crc": 26673,
+    "precio_usd": 13390000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/28836652-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/28836652-1.jpg",
+        "https://crautos.com/clasificados/usados/28836652-2.jpg",
+        "https://crautos.com/clasificados/usados/28836652-3.jpg",
+        "https://crautos.com/clasificados/usados/28836652-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GIO",
+        "teléfono": "8835-1424",
+        "whatsapp": "8835-1424"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "58,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS CLARO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "todavia en garantia excelentes condiciones cualquier prueba.",
+        "kilometraje_number": 58000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

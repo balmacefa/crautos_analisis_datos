@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70957624&Toyota.HILUX%20.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 27789,
+    "precio_usd": 13950000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70957624-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70957624-1.jpg",
+        "https://crautos.com/clasificados/usados/70957624-2.jpg",
+        "https://crautos.com/clasificados/usados/70957624-3.jpg",
+        "https://crautos.com/clasificados/usados/70957624-4.jpg",
+        "https://crautos.com/clasificados/usados/70957624-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALE ESQUIVEL",
+        "teléfono": "8941-9092",
+        "whatsapp": "8941-9092"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "95,000 kms",
+        "placa": "Termina en 0",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO - FIRMA INMEDIATA - GARANTÍA POR ESCRITO .",
+        "kilometraje_number": 95000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

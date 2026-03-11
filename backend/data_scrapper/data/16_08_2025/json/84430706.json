@@ -1,0 +1,43 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84430706&Toyota.PRIUS%20C.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "PRIUS C",
+    "precio_crc": 9562,
+    "precio_usd": 4800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84430706-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84430706-1.jpg",
+        "https://crautos.com/clasificados/usados/84430706-2.jpg",
+        "https://crautos.com/clasificados/usados/84430706-3.jpg",
+        "https://crautos.com/clasificados/usados/84430706-4.jpg",
+        "https://crautos.com/clasificados/usados/84430706-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ERICKA SILES ARIAS",
+        "teléfono": "8710-2510",
+        "whatsapp": "8710-2510"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "117,000 millas",
+        "placa": "Termina en 1",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "04 de Julio del 2025",
+        "kilometraje_number": 117000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 10
+}

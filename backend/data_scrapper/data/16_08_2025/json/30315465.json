@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=30315465&Hyundai.SANTA%20FE.2008",
+    "año": 2008,
+    "marca": "HYUNDAI",
+    "modelo": "SANTA FE",
+    "precio_crc": 9960,
+    "precio_usd": 5000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/30315465-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/30315465-1.jpg",
+        "https://crautos.com/clasificados/usados/30315465-2.jpg",
+        "https://crautos.com/clasificados/usados/30315465-3.jpg",
+        "https://crautos.com/clasificados/usados/30315465-4.jpg",
+        "https://crautos.com/clasificados/usados/30315465-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "RONALD SALAS MONTERO",
+        "teléfono": "8541-4917 8519-4004"
+    },
+    "informacion_general": {
+        "cilindrada": "2700 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "181,500 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "30 de Junio del 2025",
+        "comentario_vendedor": "Precio negociable de recibe carro de menos de cuatro millones.",
+        "kilometraje_number": 181500,
+        "cilindrada_number": 2700
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=60812467&Isuzu.FVR.2019",
+    "año": 2019,
+    "marca": "ISUZU",
+    "modelo": "FVR",
+    "precio_crc": 69721,
+    "precio_usd": 35000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/60812467-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/60812467-1.jpg",
+        "https://crautos.com/clasificados/usados/60812467-2.jpg",
+        "https://crautos.com/clasificados/usados/60812467-3.jpg",
+        "https://crautos.com/clasificados/usados/60812467-4.jpg",
+        "https://crautos.com/clasificados/usados/60812467-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "VINICIO SOLANO",
+        "teléfono": "6055-7098",
+        "whatsapp": "6055-7098"
+    },
+    "informacion_general": {
+        "cilindrada": "7800 cc",
+        "estilo": "Camión 10.0 ton. o más",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "ND",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO UN ÚNICO DUEÑO JAPONES SE RECIBE Y SE FINANCIA.",
+        "kilometraje_number": null,
+        "cilindrada_number": 7800
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo"
+    ],
+    "antiguedad": 6
+}

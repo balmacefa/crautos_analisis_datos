@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33510336&Hyundai.ELANTRA.2010",
+    "año": 2010,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 8865,
+    "precio_usd": 4450000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/33510336-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/33510336-1.jpg",
+        "https://crautos.com/clasificados/usados/33510336-2.jpg",
+        "https://crautos.com/clasificados/usados/33510336-3.jpg",
+        "https://crautos.com/clasificados/usados/33510336-4.jpg",
+        "https://crautos.com/clasificados/usados/33510336-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GABRIELA VILLALTA",
+        "teléfono": "8860-6328",
+        "whatsapp": "8860-6328"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "126,144 millas",
+        "placa": "Termina en 7",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "Con revisión técnica recién aprobada. Solo ha tenido dos dueños. Auto muy bueno .",
+        "kilometraje_number": 126144,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 15
+}

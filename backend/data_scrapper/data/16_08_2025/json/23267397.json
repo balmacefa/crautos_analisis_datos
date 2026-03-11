@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=23267397&Suzuki.SX4.2009",
+    "año": 2009,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 7470,
+    "precio_usd": 3750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/23267397-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/23267397-1.jpg",
+        "https://crautos.com/clasificados/usados/23267397-2.jpg",
+        "https://crautos.com/clasificados/usados/23267397-3.jpg",
+        "https://crautos.com/clasificados/usados/23267397-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CARLOS TORRES",
+        "teléfono": "8810-9395"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "174,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "04 de Agosto del 2025",
+        "comentario_vendedor": "Urge vender Solo a la plata. Muy económico en buenas condiciones ..",
+        "kilometraje_number": 174000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Luces de Xenón/Bixenón",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 16
+}

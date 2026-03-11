@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8675656&Honda.HRV.2017",
+    "año": 2017,
+    "marca": "HONDA",
+    "modelo": "HRV",
+    "precio_crc": 19920,
+    "precio_usd": 10000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8675656-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8675656-1.jpg",
+        "https://crautos.com/clasificados/usados/8675656-2.jpg",
+        "https://crautos.com/clasificados/usados/8675656-3.jpg",
+        "https://crautos.com/clasificados/usados/8675656-4.jpg",
+        "https://crautos.com/clasificados/usados/8675656-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "CAR SWAP",
+        "teléfono": "7104-6984 7273-9291 7071-9915",
+        "whatsapp": "7104-6984",
+        "dirección": "Centro comercial Santa Verde. La Aurora. Heredia"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "86,500 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "12 de Agosto del 2025",
+        "comentario_vendedor": "Record de Agencia! Poco KM! Asientos de Cuero! Impecable!.",
+        "kilometraje_number": 86500,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

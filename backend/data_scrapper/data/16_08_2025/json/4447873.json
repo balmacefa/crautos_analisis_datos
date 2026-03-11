@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4447873&Toyota.COROLLA.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 15737,
+    "precio_usd": 7900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4447873-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4447873-1.jpg",
+        "https://crautos.com/clasificados/usados/4447873-2.jpg",
+        "https://crautos.com/clasificados/usados/4447873-3.jpg",
+        "https://crautos.com/clasificados/usados/4447873-4.jpg",
+        "https://crautos.com/clasificados/usados/4447873-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTOS BETEL S.A",
+        "teléfono": "8835-5279 8821-3759",
+        "whatsapp": "8835-5279",
+        "dirección": "San Juan de Tres Ríos del Auto Mercado 500 metros oeste sobre calle vieja Tres Ríos"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "122,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS RATON",
+        "color_interior": "GRIS CON NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "EXCELENTE ESTADO, LUCE MUY BIEN, LLANTAS CASI NUEVAS.",
+        "kilometraje_number": 122000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

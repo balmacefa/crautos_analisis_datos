@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=84629307&Hyundai.ELANTRA.2013",
+    "año": 2013,
+    "marca": "HYUNDAI",
+    "modelo": "ELANTRA",
+    "precio_crc": 8566,
+    "precio_usd": 4300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/84629307-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/84629307-1.jpg",
+        "https://crautos.com/clasificados/usados/84629307-2.jpg",
+        "https://crautos.com/clasificados/usados/84629307-3.jpg",
+        "https://crautos.com/clasificados/usados/84629307-4.jpg",
+        "https://crautos.com/clasificados/usados/84629307-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JOSE BOLAÑOS",
+        "teléfono": "6140-2784 2444-1709",
+        "whatsapp": "6140-2784"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "164,500 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "El carro necesita una pintura total en lata y aros requiere reemplazar ambos bumper plásticos..",
+        "kilometraje_number": 164500,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 12
+}

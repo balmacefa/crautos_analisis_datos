@@ -1,0 +1,56 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=46245167&Honda.CIVIC%20SI.2006",
+    "año": 2006,
+    "marca": "HONDA",
+    "modelo": "CIVIC SI",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/46245167-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/46245167-1.jpg",
+        "https://crautos.com/clasificados/usados/46245167-2.jpg",
+        "https://crautos.com/clasificados/usados/46245167-3.jpg",
+        "https://crautos.com/clasificados/usados/46245167-4.jpg",
+        "https://crautos.com/clasificados/usados/46245167-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FERNANDO LOPEZ",
+        "teléfono": "7208-5303",
+        "whatsapp": "7208-5303"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "139,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "NEGRO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "27 de Junio del 2025",
+        "comentario_vendedor": "Version HFP body kit aros originales suspension original. .",
+        "kilometraje_number": 139000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 19
+}

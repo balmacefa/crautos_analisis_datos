@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=88878655&Ford.EXPLORER.1999",
+    "año": 1999,
+    "marca": "FORD",
+    "modelo": "EXPLORER",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/88878655-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/88878655-1.jpg",
+        "https://crautos.com/clasificados/usados/88878655-2.jpg",
+        "https://crautos.com/clasificados/usados/88878655-3.jpg",
+        "https://crautos.com/clasificados/usados/88878655-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ALEXANDER CASCANTE SALAS",
+        "teléfono": "6226-0579"
+    },
+    "informacion_general": {
+        "cilindrada": "4000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Híbrido",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "111,111 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "CHAMPAGNE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "comentario_vendedor": "Hibrido impecable.",
+        "kilometraje_number": 111111,
+        "cilindrada_number": 4000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 26
+}

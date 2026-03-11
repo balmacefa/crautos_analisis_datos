@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=96096628&Daihatsu.SIRION.2008",
+    "año": 2008,
+    "marca": "DAIHATSU",
+    "modelo": "SIRION",
+    "precio_crc": 6076,
+    "precio_usd": 3050000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/96096628-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/96096628-1.jpg",
+        "https://crautos.com/clasificados/usados/96096628-2.jpg",
+        "https://crautos.com/clasificados/usados/96096628-3.jpg",
+        "https://crautos.com/clasificados/usados/96096628-4.jpg",
+        "https://crautos.com/clasificados/usados/96096628-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROLANDO",
+        "teléfono": "8402-0308",
+        "whatsapp": "8402-0308"
+    },
+    "informacion_general": {
+        "cilindrada": "1300 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "107,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BEIGE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "Kilometraje real poco uso excelentes condiciones rtv blanco.",
+        "kilometraje_number": 107000,
+        "cilindrada_number": 1300
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 17
+}

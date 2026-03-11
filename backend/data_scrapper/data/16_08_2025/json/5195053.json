@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=5195053&Suzuki.GRAND%20VITARA%20SE.2018",
+    "año": 2018,
+    "marca": "SUZUKI",
+    "modelo": "GRAND VITARA SE",
+    "precio_crc": 17629,
+    "precio_usd": 8850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/5195053-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/5195053-1.jpg",
+        "https://crautos.com/clasificados/usados/5195053-2.jpg",
+        "https://crautos.com/clasificados/usados/5195053-3.jpg",
+        "https://crautos.com/clasificados/usados/5195053-4.jpg",
+        "https://crautos.com/clasificados/usados/5195053-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "GARAJE46",
+        "teléfono": "8881-2909 7270-3910",
+        "whatsapp": "7270-3910",
+        "dirección": "San Miguel, Santo Domingo"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "165,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Agosto del 2025",
+        "comentario_vendedor": "GARANTÍA POR ESCRITO - FINANCIAMOS - RECIBIMOS DE MENOR VALOR.",
+        "kilometraje_number": 165000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

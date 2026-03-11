@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=18278598&Chevrolet.BEAT.2018",
+    "año": 2018,
+    "marca": "CHEVROLET",
+    "modelo": "BEAT",
+    "precio_crc": 8516,
+    "precio_usd": 4275000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/18278598-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/18278598-1.jpg",
+        "https://crautos.com/clasificados/usados/18278598-2.jpg",
+        "https://crautos.com/clasificados/usados/18278598-3.jpg",
+        "https://crautos.com/clasificados/usados/18278598-4.jpg",
+        "https://crautos.com/clasificados/usados/18278598-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ADRIAN HERNÁNDEZ",
+        "teléfono": "8706-3168",
+        "whatsapp": "8706-3168"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "166,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "25 de Junio del 2025",
+        "comentario_vendedor": "Muy cuidado!!!!! Mantenimiento de Agencia.",
+        "kilometraje_number": 166000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Android Auto",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

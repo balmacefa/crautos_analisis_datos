@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=15263290&Mitsubishi.MONTERO.1999",
+    "año": 1999,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO",
+    "precio_crc": 6275,
+    "precio_usd": 3150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/15263290-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/15263290-1.jpg",
+        "https://crautos.com/clasificados/usados/15263290-2.jpg",
+        "https://crautos.com/clasificados/usados/15263290-3.jpg",
+        "https://crautos.com/clasificados/usados/15263290-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SEBASTIAN VARGAS",
+        "teléfono": "8812-8542",
+        "whatsapp": "8812-8542"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "160,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "GANGA- SE VENDE POR NO USAR.",
+        "kilometraje_number": 160000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 26
+}

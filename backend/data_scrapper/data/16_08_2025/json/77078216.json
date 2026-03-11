@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=77078216&Toyota.RAV4.2002",
+    "año": 2002,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 8564,
+    "precio_usd": 4299000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/77078216-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/77078216-1.jpg",
+        "https://crautos.com/clasificados/usados/77078216-2.jpg",
+        "https://crautos.com/clasificados/usados/77078216-3.jpg",
+        "https://crautos.com/clasificados/usados/77078216-4.jpg",
+        "https://crautos.com/clasificados/usados/77078216-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MILTON COTO",
+        "teléfono": "8892-5195 8377-9369",
+        "whatsapp": "8892-5195"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "217,000 millas",
+        "placa": "Termina en 3",
+        "color_exterior": "PLATEADO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "24 de Junio del 2025",
+        "comentario_vendedor": "Excelente Mantenimiento - Cambio de aceite en agencia - Llanta Bridgestonenuevas .",
+        "kilometraje_number": 217000,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 23
+}

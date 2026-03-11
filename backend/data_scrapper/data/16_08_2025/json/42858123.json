@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=42858123&Suzuki.CELERIO.2013",
+    "año": 2013,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO",
+    "precio_crc": 5677,
+    "precio_usd": 2850000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/42858123-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/42858123-1.jpg",
+        "https://crautos.com/clasificados/usados/42858123-2.jpg",
+        "https://crautos.com/clasificados/usados/42858123-3.jpg",
+        "https://crautos.com/clasificados/usados/42858123-4.jpg",
+        "https://crautos.com/clasificados/usados/42858123-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "WILLIAM QUIRÓS GONZÁLEZ",
+        "teléfono": "6409-9349 8663-3301",
+        "whatsapp": "6409-9349"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Bueno",
+        "kilometraje": "224,000 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Negociable. Detalles estéticos. Incluye Traspaso..",
+        "kilometraje_number": 224000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 12
+}

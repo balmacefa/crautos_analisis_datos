@@ -1,0 +1,57 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35303422&Toyota.FORTUNER.2016",
+    "año": 2016,
+    "marca": "TOYOTA",
+    "modelo": "FORTUNER",
+    "precio_crc": 43775,
+    "precio_usd": 21975000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/35303422-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/35303422-1.jpg",
+        "https://crautos.com/clasificados/usados/35303422-2.jpg",
+        "https://crautos.com/clasificados/usados/35303422-3.jpg",
+        "https://crautos.com/clasificados/usados/35303422-4.jpg",
+        "https://crautos.com/clasificados/usados/35303422-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA CABEZAS",
+        "teléfono": "7032-5153 7245-9259",
+        "whatsapp": "7032-5153"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "96,890 kms",
+        "placa": "ND",
+        "color_exterior": "GRIS",
+        "color_interior": "CAFE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "comentario_vendedor": "TIENE PLACA AGV.",
+        "kilometraje_number": 96890,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cámara de retroceso",
+        "Frenos ABS",
+        "Llave inteligente/botón de arranque",
+        "Revisión Técnica al día",
+        "Sensores de retroceso",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

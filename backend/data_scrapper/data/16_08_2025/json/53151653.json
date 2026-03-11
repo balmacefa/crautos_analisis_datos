@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=53151653&Suzuki.CELERIO%20GL.2015",
+    "año": 2015,
+    "marca": "SUZUKI",
+    "modelo": "CELERIO GL",
+    "precio_crc": 8964,
+    "precio_usd": 4500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/53151653-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/53151653-1.jpg",
+        "https://crautos.com/clasificados/usados/53151653-2.jpg",
+        "https://crautos.com/clasificados/usados/53151653-3.jpg"
+    ],
+    "vendedor": {
+        "nombre": "URIAS ESQUIVEL AGUILAR",
+        "teléfono": "8596-4981",
+        "whatsapp": "8596-4981"
+    },
+    "informacion_general": {
+        "cilindrada": "1000 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "139,000 kms",
+        "placa": "Termina en",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "08 de Julio del 2025",
+        "comentario_vendedor": "Mantenimiento al día nunca usado en plataforma .",
+        "kilometraje_number": 139000,
+        "cilindrada_number": 1000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

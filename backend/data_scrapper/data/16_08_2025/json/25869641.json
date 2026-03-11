@@ -1,0 +1,58 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25869641&Toyota.YARIS.2007",
+    "año": 2007,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25869641-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25869641-1.jpg",
+        "https://crautos.com/clasificados/usados/25869641-2.jpg",
+        "https://crautos.com/clasificados/usados/25869641-3.jpg",
+        "https://crautos.com/clasificados/usados/25869641-4.jpg",
+        "https://crautos.com/clasificados/usados/25869641-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIA MURILLO",
+        "teléfono": "7214-1324 8330-5333",
+        "whatsapp": "8330-5333"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "300,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "03 de Julio del 2025",
+        "comentario_vendedor": "Bien cuidado urge vender por motivo de viaje.",
+        "kilometraje_number": 300000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 18
+}

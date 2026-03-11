@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=4650561&Mitsubishi.MONTERO%20GLS%20DID%20TDI.2008",
+    "año": 2008,
+    "marca": "MITSUBISHI",
+    "modelo": "MONTERO GLS DID TDI",
+    "precio_crc": 17530,
+    "precio_usd": 8799950.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/4650561-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/4650561-1.jpg",
+        "https://crautos.com/clasificados/usados/4650561-2.jpg",
+        "https://crautos.com/clasificados/usados/4650561-3.jpg",
+        "https://crautos.com/clasificados/usados/4650561-4.jpg",
+        "https://crautos.com/clasificados/usados/4650561-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "3200 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "7",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "250,200 kms",
+        "placa": "Termina en 3",
+        "color_exterior": "AZUL",
+        "color_interior": "CUERO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 250200,
+        "cilindrada_number": 3200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Tapicería de cuero",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}

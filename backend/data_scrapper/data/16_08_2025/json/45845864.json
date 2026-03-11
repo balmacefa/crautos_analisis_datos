@@ -1,0 +1,49 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=45845864&Isuzu.NLR.2023",
+    "año": 2023,
+    "marca": "ISUZU",
+    "modelo": "NLR",
+    "precio_crc": 29084,
+    "precio_usd": 14600000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/45845864-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/45845864-1.jpg",
+        "https://crautos.com/clasificados/usados/45845864-2.jpg",
+        "https://crautos.com/clasificados/usados/45845864-3.jpg",
+        "https://crautos.com/clasificados/usados/45845864-4.jpg",
+        "https://crautos.com/clasificados/usados/45845864-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO QUEVEDO",
+        "teléfono": "8714-4490",
+        "whatsapp": "8714-4490"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Camión 1.0-3.5 ton.",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "9,000 kms",
+        "placa": "Termina en 8",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Julio del 2025",
+        "comentario_vendedor": "nueve mil kilometros y cajon de siete mil dolares incluido .",
+        "kilometraje_number": 9000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Dirección Hidráulica/Electroasistida",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 2
+}

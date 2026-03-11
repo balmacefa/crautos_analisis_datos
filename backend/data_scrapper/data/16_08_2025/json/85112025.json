@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=85112025&Toyota.RAV4.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 16235,
+    "precio_usd": 8150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/85112025-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/85112025-1.jpg",
+        "https://crautos.com/clasificados/usados/85112025-2.jpg",
+        "https://crautos.com/clasificados/usados/85112025-3.jpg",
+        "https://crautos.com/clasificados/usados/85112025-4.jpg",
+        "https://crautos.com/clasificados/usados/85112025-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MARIO RAMÍREZ",
+        "teléfono": "8867-1610",
+        "whatsapp": "8867-1610"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "57,500 millas",
+        "placa": "ND",
+        "color_exterior": "PLATEADO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "22 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/Se da inscrito a nombre del comprador. Detalles de pintura precio negociable .",
+        "kilometraje_number": 57500,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

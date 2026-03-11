@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=63256159&Fiat.GRAND%20SIENA%20.2015",
+    "año": 2015,
+    "marca": "FIAT",
+    "modelo": "GRAND SIENA",
+    "precio_crc": 8167,
+    "precio_usd": 4100000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/63256159-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/63256159-1.jpg",
+        "https://crautos.com/clasificados/usados/63256159-2.jpg",
+        "https://crautos.com/clasificados/usados/63256159-3.jpg",
+        "https://crautos.com/clasificados/usados/63256159-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ANGEL VEGA",
+        "teléfono": "8705-3139",
+        "whatsapp": "8705-3139"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "180,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "30 de Julio del 2025",
+        "comentario_vendedor": "UNICO DUEÑO sacado de agencia .",
+        "kilometraje_number": 180000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Asientos eléctricos",
+        "Bolsa de aire",
+        "Cierre central",
+        "Computadora de viaje",
+        "Control crucero",
+        "Control electrónico de estabilidad",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sensor de lluvia",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 10
+}

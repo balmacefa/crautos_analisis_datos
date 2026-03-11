@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=25264184",
+    "año": 2020,
+    "marca": "HYUNDAI",
+    "modelo": "VERNA",
+    "precio_crc": 11952,
+    "precio_usd": 6000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/25264184-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/25264184-1.jpg",
+        "https://crautos.com/clasificados/usados/25264184-2.jpg",
+        "https://crautos.com/clasificados/usados/25264184-3.jpg",
+        "https://crautos.com/clasificados/usados/25264184-4.jpg",
+        "https://crautos.com/clasificados/usados/25264184-5.jpg",
+        "https://crautos.com/clasificados/usados/25264184-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS SALAS",
+        "teléfono": "8323-5687"
+    },
+    "informacion_general": {
+        "cilindrada": "1400 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "109,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "PLATA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "16 de Julio del 2025",
+        "comentario_vendedor": "Hyundai Verna - Super económico único dueño.",
+        "kilometraje_number": 109000,
+        "cilindrada_number": 1400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Android Auto",
+        "Apple CarPlay",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 5
+}

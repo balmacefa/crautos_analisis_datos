@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=26163634&Toyota.HILUX.2017",
+    "año": 2017,
+    "marca": "TOYOTA",
+    "modelo": "HILUX",
+    "precio_crc": 37849,
+    "precio_usd": 19000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/26163634-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/26163634-1.jpg",
+        "https://crautos.com/clasificados/usados/26163634-2.jpg",
+        "https://crautos.com/clasificados/usados/26163634-3.jpg",
+        "https://crautos.com/clasificados/usados/26163634-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NESTOR CHAVES",
+        "teléfono": "8710-0845"
+    },
+    "informacion_general": {
+        "cilindrada": "2800 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "193,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "11 de Agosto del 2025",
+        "comentario_vendedor": "Snorkel Suspension ARB racks thule Pegadero.",
+        "kilometraje_number": 193000,
+        "cilindrada_number": 2800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 8
+}

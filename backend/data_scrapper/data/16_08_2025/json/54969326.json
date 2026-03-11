@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=54969326&Nissan.FRONTIER%20NP300.2016",
+    "año": 2016,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER NP300",
+    "precio_crc": 25896,
+    "precio_usd": 13000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/54969326-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/54969326-1.jpg",
+        "https://crautos.com/clasificados/usados/54969326-2.jpg",
+        "https://crautos.com/clasificados/usados/54969326-3.jpg",
+        "https://crautos.com/clasificados/usados/54969326-4.jpg",
+        "https://crautos.com/clasificados/usados/54969326-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "DIEGO LEITON",
+        "teléfono": "8738-5686 6053-2939",
+        "whatsapp": "8738-5686"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "3",
+        "combustible": "Diesel",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "130,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "llantas nuevas y muy cuidado.",
+        "kilometraje_number": 130000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 9
+}

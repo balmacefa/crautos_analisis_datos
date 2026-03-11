@@ -1,0 +1,52 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48667785&Nissan.FRONTIER.2012",
+    "año": 2012,
+    "marca": "NISSAN",
+    "modelo": "FRONTIER",
+    "precio_crc": 16534,
+    "precio_usd": 8300000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48667785-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48667785-1.jpg",
+        "https://crautos.com/clasificados/usados/48667785-2.jpg",
+        "https://crautos.com/clasificados/usados/48667785-3.jpg",
+        "https://crautos.com/clasificados/usados/48667785-4.jpg",
+        "https://crautos.com/clasificados/usados/48667785-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "KARLA CAMACHO",
+        "teléfono": "8501-6747 8436-1999",
+        "whatsapp": "8501-6747"
+    },
+    "informacion_general": {
+        "cilindrada": "2500 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "178,000 millas",
+        "placa": "ND",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Cartago",
+        "fecha_de_ingreso": "11 de Julio del 2025",
+        "comentario_vendedor": "PARA INSCRIBIR/ EXCELENTE ESTADO LLANTAS NUEVAS AROS ORIGINALES LEVANTADO Y CON CAMPER.",
+        "kilometraje_number": 178000,
+        "cilindrada_number": 2500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bolsa de aire",
+        "Cierre central",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 13
+}

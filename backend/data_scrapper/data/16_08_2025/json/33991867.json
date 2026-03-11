@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=33991867&Datsun.1200.1975",
+    "año": 1975,
+    "marca": "DATSUN",
+    "modelo": "1200",
+    "precio_crc": 3984,
+    "precio_usd": 2000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "LUIS FERNANDO HIDALGO",
+        "teléfono": "6466-6862",
+        "whatsapp": "6466-6862"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Pick Up 2WD",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "211,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "2",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "14 de Julio del 2025",
+        "comentario_vendedor": "detalles de lata motor al cien con frenos de disco.",
+        "kilometraje_number": 211000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Bluetooth",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día"
+    ],
+    "antiguedad": 50
+}

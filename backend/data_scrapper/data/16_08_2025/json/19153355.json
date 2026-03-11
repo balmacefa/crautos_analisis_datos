@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=19153355&Suzuki.SWIFT.2017",
+    "año": 2017,
+    "marca": "SUZUKI",
+    "modelo": "SWIFT",
+    "precio_crc": 10956,
+    "precio_usd": 5500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/19153355-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/19153355-1.jpg",
+        "https://crautos.com/clasificados/usados/19153355-2.jpg",
+        "https://crautos.com/clasificados/usados/19153355-3.jpg",
+        "https://crautos.com/clasificados/usados/19153355-4.jpg",
+        "https://crautos.com/clasificados/usados/19153355-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ASDRUBAL PORRAS CHAVES",
+        "teléfono": "8857-5755 8400-5236",
+        "whatsapp": "8857-5755"
+    },
+    "informacion_general": {
+        "cilindrada": "1200 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Muy Bueno",
+        "kilometraje": "217,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "GRIS",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "Un solo dueño excelente estado. .",
+        "kilometraje_number": 217000,
+        "cilindrada_number": 1200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Cierre central",
+        "Control electrónico de estabilidad",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 8
+}

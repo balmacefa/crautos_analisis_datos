@@ -1,0 +1,54 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=70070066&Honda.CRV.2002",
+    "año": 2002,
+    "marca": "HONDA",
+    "modelo": "CRV",
+    "precio_crc": 7769,
+    "precio_usd": 3900000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/70070066-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/70070066-1.jpg",
+        "https://crautos.com/clasificados/usados/70070066-2.jpg",
+        "https://crautos.com/clasificados/usados/70070066-3.jpg",
+        "https://crautos.com/clasificados/usados/70070066-4.jpg",
+        "https://crautos.com/clasificados/usados/70070066-5.jpg",
+        "https://crautos.com/clasificados/usados/70070066-6.jpg"
+    ],
+    "vendedor": {
+        "nombre": "NESTOR COLMENARES",
+        "teléfono": "8414-3704"
+    },
+    "informacion_general": {
+        "cilindrada": "2400 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Bueno",
+        "kilometraje": "225,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BEIGE",
+        "color_interior": "BEIGE",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Guanacaste",
+        "fecha_de_ingreso": "15 de Julio del 2025",
+        "comentario_vendedor": "Urge vender por motivo de viaje .",
+        "kilometraje_number": 225000,
+        "cilindrada_number": 2400
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Alarma",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 23
+}

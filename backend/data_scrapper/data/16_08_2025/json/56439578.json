@@ -1,0 +1,55 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=56439578&Toyota.YARIS%20.2012",
+    "año": 2012,
+    "marca": "TOYOTA",
+    "modelo": "YARIS",
+    "precio_crc": 10259,
+    "precio_usd": 5150000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/56439578-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/56439578-1.jpg",
+        "https://crautos.com/clasificados/usados/56439578-2.jpg",
+        "https://crautos.com/clasificados/usados/56439578-3.jpg",
+        "https://crautos.com/clasificados/usados/56439578-4.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANKLIN CARRANZA",
+        "teléfono": "6133-3916",
+        "whatsapp": "6133-3916"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "115,570 millas",
+        "placa": "Termina en 5",
+        "color_exterior": "TURQUESA",
+        "color_interior": "NEGRO-GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "01 de Agosto del 2025",
+        "kilometraje_number": 115570,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados"
+    ],
+    "antiguedad": 13
+}

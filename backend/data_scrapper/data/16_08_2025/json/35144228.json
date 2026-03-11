@@ -1,0 +1,53 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=35144228&Nissan.PATHFINDER.1998",
+    "año": 1998,
+    "marca": "NISSAN",
+    "modelo": "PATHFINDER",
+    "precio_crc": 5876,
+    "precio_usd": 2950000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ROBERTH LEON",
+        "teléfono": "8449-1499 7015-8306",
+        "whatsapp": "8449-1499"
+    },
+    "informacion_general": {
+        "cilindrada": "30000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Muy Bueno",
+        "kilometraje": "300,000 kms",
+        "placa": "Termina en 9",
+        "color_exterior": "CHAMPAGE",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Alajuela",
+        "fecha_de_ingreso": "14 de Agosto del 2025",
+        "comentario_vendedor": "LLANTAS MT ACEITES RECIEN CAMBIADOS CAJA Y TRANSMISIONES .",
+        "kilometraje_number": 300000,
+        "cilindrada_number": 30000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 27
+}

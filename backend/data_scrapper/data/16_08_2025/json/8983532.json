@@ -1,0 +1,61 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8983532&Mazda.BT50.2018",
+    "año": 2018,
+    "marca": "MAZDA",
+    "modelo": "BT50",
+    "precio_crc": 33367,
+    "precio_usd": 16750000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8983532-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8983532-1.jpg",
+        "https://crautos.com/clasificados/usados/8983532-2.jpg",
+        "https://crautos.com/clasificados/usados/8983532-3.jpg",
+        "https://crautos.com/clasificados/usados/8983532-4.jpg",
+        "https://crautos.com/clasificados/usados/8983532-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "AUTONORTE S.A.",
+        "teléfono": "8359-3130 8308-3750 2240-5613",
+        "whatsapp": "8308-3750",
+        "dirección": "Diagonal Agencia ICE Florida de Tibás San José"
+    },
+    "informacion_general": {
+        "cilindrada": "2200 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "56,000 kms",
+        "placa": "Termina en 6",
+        "color_exterior": "BRONCE",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "06 de Agosto del 2025",
+        "comentario_vendedor": "UN SOLO DUEÑO. FINANCIAMIENTO, GARANTÍA, SE RECIBE..",
+        "kilometraje_number": 56000,
+        "cilindrada_number": 2200
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 7
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=8399975&Suzuki.VITARA%20GLX%20A.2016",
+    "año": 2016,
+    "marca": "SUZUKI",
+    "modelo": "VITARA GLX A",
+    "precio_crc": 8534000,
+    "precio_usd": 17000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/8399975-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/8399975-1.jpg",
+        "https://crautos.com/clasificados/usados/8399975-2.jpg",
+        "https://crautos.com/clasificados/usados/8399975-3.jpg",
+        "https://crautos.com/clasificados/usados/8399975-4.jpg",
+        "https://crautos.com/clasificados/usados/8399975-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "MOACYR Z MOTORS",
+        "teléfono": "6040-3050 6195-4459 6421-1381",
+        "whatsapp": "6040-3050",
+        "dirección": "Santo Domingo, de la Basílica 200 mts Norte y 200 mts Este / San Francisco, detrás de Wal-Mart. Contiguo Gasolinera NASA"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "SUV 2WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "97,000 kms",
+        "placa": "Termina en 2",
+        "color_exterior": "BITONO",
+        "color_interior": "CUERO Y GAMUZA",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "18 de Julio del 2025",
+        "comentario_vendedor": "ENGLISH SPOKEN, IG: ZMOTORSCR FB: Z MOTORS. Contáctenos x WhatsApp..",
+        "kilometraje_number": 97000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Cámara de retroceso",
+        "Dirección Hidráulica/Electroasistida",
+        "Halógenos",
+        "Llave inteligente/botón de arranque",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Sunroof/techo panorámico",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 9
+}

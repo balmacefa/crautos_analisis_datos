@@ -1,0 +1,62 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=90374216&Suzuki.SX4.2012",
+    "año": 2012,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 8466,
+    "precio_usd": 4250000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/90374216-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/90374216-1.jpg",
+        "https://crautos.com/clasificados/usados/90374216-2.jpg",
+        "https://crautos.com/clasificados/usados/90374216-3.jpg",
+        "https://crautos.com/clasificados/usados/90374216-4.jpg",
+        "https://crautos.com/clasificados/usados/90374216-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JEFF BUZAINZ",
+        "teléfono": "8720-4444"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Hatchback",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "162,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "NARANJA",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "07 de Julio del 2025",
+        "comentario_vendedor": "PRECIOSO LED PRICIPAL ESPECIAL CAMARA SUPER CUIDADO JAPONES HIPER ECONOMICO ESPACIOSO DISCOS ATRAS.",
+        "kilometraje_number": 162000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara 360",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 13
+}

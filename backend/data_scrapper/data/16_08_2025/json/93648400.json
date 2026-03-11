@@ -1,0 +1,44 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=93648400&Donfeng%20(ZNA).GLORY%20C35.2023",
+    "año": 2023,
+    "marca": "DONFENG",
+    "modelo": "(ZNA) GLORY C35",
+    "precio_crc": 7450,
+    "precio_usd": 3740000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/93648400-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/93648400-1.jpg",
+        "https://crautos.com/clasificados/usados/93648400-2.jpg",
+        "https://crautos.com/clasificados/usados/93648400-3.jpg",
+        "https://crautos.com/clasificados/usados/93648400-4.jpg",
+        "https://crautos.com/clasificados/usados/93648400-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "SHELLCIE SEGURA",
+        "teléfono": "8972-4271",
+        "whatsapp": "8972-4271"
+    },
+    "informacion_general": {
+        "cilindrada": "1500 cc",
+        "estilo": "Pánel",
+        "#_de_pasajeros": "2",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Regular",
+        "kilometraje": "79,000 kms",
+        "placa": "Termina en 4",
+        "color_exterior": "BLANCO",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "26 de Junio del 2025",
+        "comentario_vendedor": "Estado regular con defectos de carrocería y daños en interiores. .",
+        "kilometraje_number": 79000,
+        "cilindrada_number": 1500
+    },
+    "equipamiento": [],
+    "antiguedad": 2
+}

@@ -1,0 +1,63 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=95489488&Toyota.COROLLA.2015",
+    "año": 2015,
+    "marca": "TOYOTA",
+    "modelo": "COROLLA",
+    "precio_crc": 16932,
+    "precio_usd": 8500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/95489488-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/95489488-1.jpg",
+        "https://crautos.com/clasificados/usados/95489488-2.jpg",
+        "https://crautos.com/clasificados/usados/95489488-3.jpg",
+        "https://crautos.com/clasificados/usados/95489488-4.jpg",
+        "https://crautos.com/clasificados/usados/95489488-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "JULIETTE VARGAS",
+        "teléfono": "6481-1941 8312-5290",
+        "whatsapp": "6481-1941"
+    },
+    "informacion_general": {
+        "cilindrada": "1800 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "106,000 millas",
+        "placa": "Termina en 9",
+        "color_exterior": "AZUL",
+        "color_interior": "NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Limón",
+        "fecha_de_ingreso": "02 de Julio del 2025",
+        "comentario_vendedor": "Corolla versión Sport shiftronic cambio en paletas en volante o en palanca .",
+        "kilometraje_number": 106000,
+        "cilindrada_number": 1800
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aros de lujo",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Caja de cambios dual",
+        "Cierre central",
+        "Control de radio en el volante",
+        "Cámara de retroceso",
+        "Desempañador Trasero",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable",
+        "Volante multifuncional"
+    ],
+    "antiguedad": 10
+}

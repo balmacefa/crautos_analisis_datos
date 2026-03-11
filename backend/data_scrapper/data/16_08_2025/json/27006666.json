@@ -1,0 +1,59 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=27006666&Toyota.4RUNNER.1992",
+    "año": 1992,
+    "marca": "TOYOTA",
+    "modelo": "4RUNNER",
+    "precio_crc": 6972,
+    "precio_usd": 3500000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/27006666-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/27006666-1.jpg",
+        "https://crautos.com/clasificados/usados/27006666-2.jpg",
+        "https://crautos.com/clasificados/usados/27006666-3.jpg",
+        "https://crautos.com/clasificados/usados/27006666-4.jpg",
+        "https://crautos.com/clasificados/usados/27006666-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "FRANCISCO CAMPOS JIMÉNEZ",
+        "teléfono": "6413-4650",
+        "whatsapp": "6413-4650"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "192,000 kms",
+        "placa": "Termina en 5",
+        "color_exterior": "GRIS",
+        "color_interior": "GRIS Y NEGRO",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "Heredia",
+        "fecha_de_ingreso": "02 de Junio del 2025",
+        "comentario_vendedor": "se vende por motivos de viaje .",
+        "kilometraje_number": 192000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Bluetooth",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Tapicería de cuero",
+        "Vidrios eléctricos"
+    ],
+    "antiguedad": 33
+}

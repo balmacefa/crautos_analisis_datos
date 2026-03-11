@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=79581437&Toyota.HILUX%20SRV.2014",
+    "año": 2014,
+    "marca": "TOYOTA",
+    "modelo": "HILUX SRV",
+    "precio_crc": 31873,
+    "precio_usd": 16000000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/79581437-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/79581437-1.jpg",
+        "https://crautos.com/clasificados/usados/79581437-2.jpg",
+        "https://crautos.com/clasificados/usados/79581437-3.jpg",
+        "https://crautos.com/clasificados/usados/79581437-4.jpg",
+        "https://crautos.com/clasificados/usados/79581437-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "EDGAR MORALES",
+        "teléfono": "8374-8624",
+        "whatsapp": "8374-8624"
+    },
+    "informacion_general": {
+        "cilindrada": "3000 cc",
+        "estilo": "Pick Up 4WD",
+        "#_de_pasajeros": "5",
+        "combustible": "Diesel",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "135,000 kms",
+        "placa": "Termina en 1",
+        "color_exterior": "BLANCO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "4",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "05 de Agosto del 2025",
+        "comentario_vendedor": "Excelente estado. .",
+        "kilometraje_number": 135000,
+        "cilindrada_number": 3000
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Alarma",
+        "Aros de lujo",
+        "Cierre central",
+        "Computadora de viaje",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Frenos ABS",
+        "Halógenos",
+        "Radio con USB/AUX",
+        "Revisión Técnica al día",
+        "Turbo",
+        "Vidrios eléctricos",
+        "Vidrios tintados",
+        "Volante ajustable"
+    ],
+    "antiguedad": 11
+}

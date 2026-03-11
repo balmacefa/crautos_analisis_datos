@@ -1,0 +1,39 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=82022845&Toyota.RAV4.2003",
+    "año": 2003,
+    "marca": "TOYOTA",
+    "modelo": "RAV4",
+    "precio_crc": 7968,
+    "precio_usd": 4000000.0,
+    "imagen_principal": null,
+    "galeria_imagenes": [
+        "images/nopiclg.jpg"
+    ],
+    "vendedor": {
+        "nombre": "STEVEN GILROY",
+        "teléfono": "8886-0337",
+        "whatsapp": "8886-0337"
+    },
+    "informacion_general": {
+        "cilindrada": "2000 cc",
+        "estilo": "SUV 4WD/AWD",
+        "#_de_pasajeros": "4",
+        "combustible": "Gasolina",
+        "transmisión": "Automática/Dual",
+        "estado": "Excelente",
+        "kilometraje": "154,600 millas",
+        "placa": "Termina en 6",
+        "color_exterior": "AZUL",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "NO",
+        "se_recibe_vehículo": "SI",
+        "provincia": "San José",
+        "fecha_de_ingreso": "01 de Julio del 2025",
+        "kilometraje_number": 154600,
+        "cilindrada_number": 2000
+    },
+    "equipamiento": [],
+    "antiguedad": 22
+}

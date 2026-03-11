@@ -1,0 +1,60 @@
+{
+    "url": "https://crautos.com/autosusados/cardetail.cfm?c=48698478&Suzuki.SX4.2008",
+    "año": 2008,
+    "marca": "SUZUKI",
+    "modelo": "SX4",
+    "precio_crc": 7570,
+    "precio_usd": 3800000.0,
+    "imagen_principal": "https://crautos.com/clasificados/usados/48698478-1.jpg",
+    "galeria_imagenes": [
+        "https://crautos.com/clasificados/usados/48698478-1.jpg",
+        "https://crautos.com/clasificados/usados/48698478-2.jpg",
+        "https://crautos.com/clasificados/usados/48698478-3.jpg",
+        "https://crautos.com/clasificados/usados/48698478-4.jpg",
+        "https://crautos.com/clasificados/usados/48698478-5.jpg"
+    ],
+    "vendedor": {
+        "nombre": "ÁLVARO AGÜERO",
+        "teléfono": "8366-0295",
+        "whatsapp": "8366-0295"
+    },
+    "informacion_general": {
+        "cilindrada": "1600 cc",
+        "estilo": "Sedán",
+        "#_de_pasajeros": "5",
+        "combustible": "Gasolina",
+        "transmisión": "Manual",
+        "estado": "Excelente",
+        "kilometraje": "140,000 kms",
+        "placa": "Termina en 7",
+        "color_exterior": "NEGRO",
+        "color_interior": "GRIS",
+        "#_de_puertas": "5",
+        "ya_pagó_impuestos": "SI",
+        "precio_negociable": "SI",
+        "se_recibe_vehículo": "NO",
+        "provincia": "San José",
+        "fecha_de_ingreso": "13 de Agosto del 2025",
+        "comentario_vendedor": "Recién pasó DEKRA, único dueño registral..",
+        "kilometraje_number": 140000,
+        "cilindrada_number": 1600
+    },
+    "equipamiento": [
+        "Aire acondicionado",
+        "Aire acondicionado climatizado",
+        "Aros de lujo",
+        "Bolsa de aire",
+        "Cierre central",
+        "Control crucero",
+        "Control de radio en el volante",
+        "Desempañador Trasero",
+        "Dirección Hidráulica/Electroasistida",
+        "Espejos eléctricos",
+        "Frenos ABS",
+        "Retrovisores auto-retractibles",
+        "Revisión Técnica al día",
+        "Vidrios eléctricos",
+        "Volante ajustable"
+    ],
+    "antiguedad": 17
+}
