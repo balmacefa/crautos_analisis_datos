@@ -1,5 +1,24 @@
+# Python
 .venv/
-datos_vehiculos/
-urls.json
+venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Scraper output (legacy JSON)
+datos_vehiculos/
+urls.json
+data_scrapper/data/
+
+# SQLite database (mounted via Docker volume to ./data/)
+data/
+
+# Environment secrets
+.env
+
+# IDE
+.vscode/settings.json

@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  scraper:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.dev
+    container_name: crautos_scraper_dev
+    env_file:
+      - .env
+    environment:
+      # Override or set defaults here; .env takes precedence for secrets
+      SCRAPER_HEADLESS: "${SCRAPER_HEADLESS:-true}"
+      SCRAPER_DB_PATH: "${SCRAPER_DB_PATH:-/app/data/crautos.db}"
+      SCRAPER_INITIAL_CONCURRENCY: "${SCRAPER_INITIAL_CONCURRENCY:-3}"
+      SCRAPER_MIN_CONCURRENCY: "${SCRAPER_MIN_CONCURRENCY:-1}"
+      SCRAPER_MAX_CONCURRENCY: "${SCRAPER_MAX_CONCURRENCY:-10}"
+    volumes:
+      # Live code reload during development
+      - ./backend:/app
+      # Persist SQLite database on the host
+      - ./data:/app/data
+    # Container stays idle until you trigger a scraper step:
+    #   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper urls
+    #   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper details
+    #   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper all
+    restart: "no"
+    # Keeps container attachable for interactive exec sessions
+    stdin_open: true
+    tty: true
+    stop_grace_period: 30s
