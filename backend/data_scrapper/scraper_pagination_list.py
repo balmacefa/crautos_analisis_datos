@@ -12,7 +12,7 @@ results fall back to JSON files in data_scrapper/data/<today>/.
 
 Pause / Resume behaviour
 ------------------------
-- If shutdown_event is set between pages, the function returns "paused"
+- If shutdown_event is set between batches, the function returns "paused"
   without losing progress (the DB checkpoint was already written).
 - On the next run, _collect_all_urls detects the existing checkpoint via
   repository.get_latest_pagination_progress() and skips already-done pages.
@@ -24,7 +24,8 @@ import json
 import re
 import logging
 import os
-from datetime import datetime
+import time
+from datetime import datetime, timedelta
 from urllib.parse import urljoin
 
 from playwright.async_api import (
@@ -77,7 +78,8 @@ def _append_failed_url(url):
 # ---------------------------------------------------------------------------
 
 async def _collect_all_urls(
-    page,
+    context,
+    concurrency: int = 5,
     repository=None,
     run_id: int | None = None,
     shutdown_event: asyncio.Event | None = None,
@@ -87,7 +89,8 @@ async def _collect_all_urls(
 
     Parameters
     ----------
-    page        : Playwright page object
+    context     : Playwright BrowserContext
+    concurrency : int — number of concurrent tabs to open
     repository  : ScraperRepository | None — when provided, URLs are upserted
                   into SQLite and progress is check-pointed after every page.
     run_id      : int | None — required when repository is provided.
@@ -98,6 +101,7 @@ async def _collect_all_urls(
     -------
     "done"   — all pages scraped successfully.
     "paused" — shutdown_event was set; progress has been saved.
+    "failed" — unrecoverable error.
     """
     if shutdown_event is None:
         shutdown_event = asyncio.Event()  # never fires in standalone mode
@@ -109,8 +113,6 @@ async def _collect_all_urls(
 
     if repository is not None:
         # Look for a checkpoint from a previously interrupted run.
-        # Note: we look for ANY latest paused/interrupted checkpoint, not just
-        # this run_id, because after a crash we get a fresh run_id.
         checkpoint = repository.get_latest_pagination_progress()
         if checkpoint:
             start_page = checkpoint["last_page"] + 1
@@ -127,18 +129,41 @@ async def _collect_all_urls(
         logger.info("'%s' exists — skipping URL collection.", URLS_FILE)
         return "done"
 
-    logger.info("Starting URL collection from crautos.com...")
-    await page.goto(
-        "https://crautos.com/autosusados/",
-        timeout=60000,
-        wait_until="domcontentloaded",
-    )
-    await page.locator(".btn.btn-lg.btn-success").click()
+    logger.info("Initializing pool of %d worker tabs...", concurrency)
+    worker_pages = []
+
+    async def init_worker_tab():
+        try:
+            p = await context.new_page()
+            await p.goto(
+                "https://crautos.com/autosusados/",
+                timeout=60000,
+                wait_until="domcontentloaded",
+            )
+            await p.locator(".btn.btn-lg.btn-success").click(timeout=30000)
+            await p.wait_for_selector('a[href^="cardetail.cfm"]', timeout=30000)
+            return p
+        except Exception as exc:
+            logger.error("Error initializing worker tab: %s", exc)
+            return None
+
+    # Sequence initialization to avoiding spamming connection or navigation limits all at once
+    for i in range(concurrency):
+        wp = await init_worker_tab()
+        if wp:
+            worker_pages.append(wp)
+
+    if not worker_pages:
+        logger.error("Could not initialize any worker tabs. Aborting.")
+        return "failed"
+
+    actual_concurrency = len(worker_pages)
+    base_page = worker_pages[0]
 
     # --- Determine total pages ---
     if known_total_pages is None:
         try:
-            last_page_link = page.locator('a:has-text("Última Página")')
+            last_page_link = base_page.locator('a:has-text("Última Página")')
             href = await last_page_link.get_attribute("href", timeout=5000)
             match = re.search(r"p\('(\d+)'\)", href)
             if not match:
@@ -155,65 +180,136 @@ async def _collect_all_urls(
 
     last_page_number = known_total_pages
 
-    # --- Page loop ---
-    for page_num in range(start_page, last_page_number + 1):
-
-        # Check for shutdown before navigating to the next page
+    # --- Page Batch Loop ---
+    start_time = time.time()
+    for batch_start in range(start_page, last_page_number + 1, actual_concurrency):
         if shutdown_event.is_set():
             logger.info(
-                "Shutdown requested at page %d/%d — saving progress and pausing.",
-                page_num,
-                last_page_number,
+                "Shutdown requested at batch %d — saving progress and pausing.",
+                batch_start,
             )
             if repository is not None and run_id is not None:
                 repository.save_pagination_progress(
-                    run_id, page_num - 1, last_page_number, list(detail_urls)
+                    run_id, batch_start - 1, last_page_number, list(detail_urls)
                 )
+            for p in worker_pages:
+                try:
+                    if p:
+                        await p.close()
+                except:
+                    pass
             return "paused"
 
-        logger.info("Processing page %d/%d...", page_num, last_page_number)
+        batch_end = min(batch_start + actual_concurrency - 1, last_page_number)
+        batch_pages = list(range(batch_start, batch_end + 1))
 
-        if page_num > 1:
-            try:
-                async with page.expect_navigation(wait_until="domcontentloaded"):
-                    await page.evaluate(f"p('{page_num}')")
-            except Exception as exc:
-                logger.error("Failed to navigate to page %d: %s", page_num, exc)
+        logger.info("Processing batch of pages %s to %s (out of %d)...", batch_start, batch_end, last_page_number)
+
+        async def scrape_single_page(worker_index: int, page_num: int):
+            max_retries = 5
+            for attempt in range(max_retries):
+                wp = worker_pages[worker_index]
+                
+                # If worker page is broken/closed, attempt to re-initialize it
+                if wp is None or wp.is_closed():
+                    if attempt > 0:
+                        logger.info("Re-initializing worker %d for page %d (attempt %d/%d)...", worker_index, page_num, attempt + 1, max_retries)
+                    wp = await init_worker_tab()
+                    worker_pages[worker_index] = wp
+                    if not wp:
+                        if attempt == max_retries - 1:
+                            return page_num, False, 0
+                        await asyncio.sleep(2)
+                        continue
+                    
+                page_new_count = 0
+
+                # It's possible the context doesn't have `p` if it navigated away or threw an error earlier.
+                if page_num > 1:
+                    try:
+                        await wp.wait_for_function("typeof p === 'function'", timeout=15000)
+                        async with wp.expect_navigation(wait_until="domcontentloaded", timeout=45000):
+                            await wp.evaluate(f"p('{page_num}')")
+                    except Exception as exc:
+                        logger.warning("Failed to navigate to page %d on attempt %d/%d: %s", page_num, attempt + 1, max_retries, exc)
+                        # Close page so it's re-initialized next time
+                        try:
+                            await wp.close()
+                        except:
+                            pass
+                        worker_pages[worker_index] = None
+                        if attempt == max_retries - 1:
+                            return page_num, False, 0
+                        continue
+
+                try:
+                    await wp.wait_for_selector('a[href^="cardetail.cfm"]', timeout=30000)
+                    links = await wp.locator('a[href^="cardetail.cfm"]').all()
+                    for link in links:
+                        href = await link.get_attribute("href")
+                        if href:
+                            absolute_url = urljoin(wp.url, href)
+                            if absolute_url not in detail_urls:
+                                detail_urls.add(absolute_url)
+                                page_new_count += 1
+                    return page_num, True, page_new_count
+                except PlaywrightTimeoutError:
+                    logger.warning("No links found on page %d (attempt %d/%d).", page_num, attempt + 1, max_retries)
+                    if attempt == max_retries - 1:
+                        return page_num, False, 0
+                except Exception as exc:
+                    logger.error("Error extracting links on page %d (attempt %d/%d): %s", page_num, attempt + 1, max_retries, exc)
+                    try:
+                        await wp.close()
+                    except:
+                        pass
+                    worker_pages[worker_index] = None
+                    if attempt == max_retries - 1:
+                        return page_num, False, 0
+
+            return page_num, False, 0
+
+        # Run tasks concurrently
+        tasks = []
+        for i, p_num in enumerate(batch_pages):
+            tasks.append(scrape_single_page(i, p_num))
+
+        results = await asyncio.gather(*tasks)
+
+        # Process results
+        for p_num, success, p_new in results:
+            if not success:
                 if repository is None:
-                    _append_failed_url(f"PAGE::{page_num}")
+                    _append_failed_url(f"PAGE::{p_num}")
                 else:
-                    logger.warning("Skipping failed page %d (will not retry).", page_num)
-                # Save progress so we can at least skip done pages on next run
-                if repository is not None and run_id is not None:
-                    repository.save_pagination_progress(
-                        run_id, page_num - 1, last_page_number, list(detail_urls)
-                    )
-                continue
+                    logger.warning("Skipping failed page %d (will not retry).", p_num)
+            else:
+                logger.debug("Page %d: +%d URLs", p_num, p_new)
 
-        try:
-            await page.wait_for_selector('a[href^="cardetail.cfm"]', timeout=10000)
-            links = await page.locator('a[href^="cardetail.cfm"]').all()
-            page_new = 0
-            for link in links:
-                href = await link.get_attribute("href")
-                if href:
-                    absolute_url = urljoin(page.url, href)
-                    if absolute_url not in detail_urls:
-                        detail_urls.add(absolute_url)
-                        page_new += 1
-            logger.info(
-                "Page %d: +%d URLs (total %d)", page_num, page_new, len(detail_urls)
-            )
-        except PlaywrightTimeoutError:
-            logger.warning("No links found on page %d — skipping.", page_num)
-            if repository is None:
-                _append_failed_url(f"PAGE::{page_num}")
+        elapsed_time = time.time() - start_time
+        pages_processed = batch_end - start_page + 1
+        avg_speed = pages_processed / elapsed_time if elapsed_time > 0 else 0
+        pages_left = last_page_number - batch_end
+        eta_seconds = pages_left / avg_speed if avg_speed > 0 else 0
+        eta_str = str(timedelta(seconds=int(eta_seconds)))
 
-        # Save checkpoint to DB after every successfully attempted page
+        logger.info(
+            "Batch %s-%s done. Total URLs so far: %d. ETA: %s (%.2f pages/sec)",
+            batch_start, batch_end, len(detail_urls), eta_str, avg_speed
+        )
+
+        # Save checkpoint to DB after every successfully attempted batch
         if repository is not None and run_id is not None:
             repository.save_pagination_progress(
-                run_id, page_num, last_page_number, list(detail_urls)
+                run_id, batch_end, last_page_number, list(detail_urls)
             )
+
+    # --- Cleanup workers ---
+    for p in worker_pages:
+        try:
+            await p.close()
+        except:
+            pass
 
     # --- All pages done ---
     url_list = list(detail_urls)
@@ -231,7 +327,7 @@ async def _collect_all_urls(
     return "done"
 
 
-async def _retry_failed_pages(page, repository=None):
+async def _retry_failed_pages(context, repository=None):
     """Retry pages that failed during the initial collection pass (standalone mode only)."""
     if repository is not None:
         return  # Repository mode: retries are handled at URL level, not page level
@@ -250,6 +346,7 @@ async def _retry_failed_pages(page, repository=None):
 
     logger.info("Retrying %d failed pages...", len(failed_items))
 
+    page = await context.new_page()
     try:
         await page.goto(
             "https://crautos.com/autosusados/",
@@ -259,6 +356,7 @@ async def _retry_failed_pages(page, repository=None):
         await page.locator(".btn.btn-lg.btn-success").click()
     except Exception as exc:
         logger.error("Could not navigate to base page for retries: %s", exc)
+        await page.close()
         return
 
     existing_urls: set[str] = set()
@@ -304,6 +402,8 @@ async def _retry_failed_pages(page, repository=None):
         os.remove(FAILED_URLS_FILE)
         logger.info("All failed pages retried successfully.")
 
+    await page.close()
+
 
 # ---------------------------------------------------------------------------
 # Public entry point
@@ -314,6 +414,7 @@ async def main(
     headless: bool = False,
     run_id: int | None = None,
     shutdown_event: asyncio.Event | None = None,
+    concurrency: int = 5,
 ) -> str:
     """
     Orchestrate URL collection.
@@ -330,7 +431,9 @@ async def main(
     shutdown_event : asyncio.Event | None
         When set, the scraper exits gracefully after the current page and
         returns "paused" so the run can be resumed later.
-
+    concurrency : int
+        Number of tabs to keep open simultaneously for checking pagination grid.
+        
     Returns
     -------
     "done"   — completed successfully.
@@ -341,21 +444,24 @@ async def main(
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=headless)
         context = await browser.new_context()
-        page = await context.new_page()
 
-        await _retry_failed_pages(page, repository)
+        await _retry_failed_pages(context, repository)
         result = await _collect_all_urls(
-            page,
+            context,
+            concurrency=concurrency,
             repository=repository,
             run_id=run_id,
             shutdown_event=shutdown_event,
         )
 
-        await browser.close()
+        try:
+            await browser.close()
+        except:
+            pass
 
     logger.info("URL collection finished with status: %s", result)
     return result
 
 
 if __name__ == "__main__":
-    asyncio.run(main(headless=False))
+    asyncio.run(main(headless=False, concurrency=5))

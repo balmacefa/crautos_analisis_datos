@@ -40,7 +40,9 @@ CREATE TABLE IF NOT EXISTS car_urls (
     status       TEXT    NOT NULL DEFAULT 'pending',  -- pending | done | failed
     retry_count  INTEGER NOT NULL DEFAULT 0,
     created_at   TEXT    NOT NULL,
-    scraped_at   TEXT
+    scraped_at   TEXT,
+    is_active    INTEGER NOT NULL DEFAULT 1,
+    last_seen_at TEXT
 );
 
 CREATE TABLE IF NOT EXISTS car_details (
@@ -100,6 +102,12 @@ class ScraperRepository:
     def _init_db(self) -> None:
         with self._conn() as conn:
             conn.executescript(_DDL)
+            # Migration for soft deletes (adds columns if they don't exist)
+            try:
+                conn.execute("ALTER TABLE car_urls ADD COLUMN is_active INTEGER NOT NULL DEFAULT 1")
+                conn.execute("ALTER TABLE car_urls ADD COLUMN last_seen_at TEXT")
+            except sqlite3.OperationalError:
+                pass
         logger.info("SQLite DB initialised at %s", self.db_path)
 
     @staticmethod
@@ -240,27 +248,39 @@ class ScraperRepository:
     # ------------------------------------------------------------------
 
     def upsert_urls(self, urls: list[str]) -> int:
-        """Insert new URLs as 'pending'; skip already-known URLs. Returns count inserted."""
+        """Insert new URLs as 'pending'; update last_seen_at for existing. Revives soft-deleted URLs."""
         now = self._now()
         inserted = 0
         with self._conn() as conn:
             for url in urls:
                 cur = conn.execute(
                     """
-                    INSERT OR IGNORE INTO car_urls (url, status, retry_count, created_at)
-                    VALUES (?, 'pending', 0, ?)
+                    INSERT INTO car_urls (url, status, retry_count, created_at, is_active, last_seen_at)
+                    VALUES (?, 'pending', 0, ?, 1, ?)
+                    ON CONFLICT(url) DO UPDATE SET
+                        is_active = 1,
+                        last_seen_at = excluded.last_seen_at
                     """,
-                    (url, now),
+                    (url, now, now),
                 )
-                inserted += cur.rowcount
-        logger.info("upsert_urls: %d new URLs inserted (of %d provided)", inserted, len(urls))
+                inserted += 1
+        logger.info("upsert_urls: %d URLs processed", len(urls))
         return inserted
 
+    def mark_all_inactive_before(self, timestamp: str) -> int:
+        """Soft-delete cars that weren't seen during the current scrape run."""
+        with self._conn() as conn:
+            cur = conn.execute(
+                "UPDATE car_urls SET is_active = 0 WHERE last_seen_at < ? OR last_seen_at IS NULL",
+                (timestamp,)
+            )
+            return cur.rowcount
+
     def get_pending_urls(self, limit: int = 500) -> list[str]:
-        """Return up to *limit* pending URLs. These are the next ones to scrape (resume-safe)."""
+        """Return up to *limit* active, pending URLs. These are the next ones to scrape (resume-safe)."""
         with self._conn() as conn:
             rows = conn.execute(
-                "SELECT url FROM car_urls WHERE status='pending' ORDER BY created_at LIMIT ?",
+                "SELECT url FROM car_urls WHERE status='pending' AND is_active=1 ORDER BY created_at LIMIT ?",
                 (limit,),
             ).fetchall()
         return [r["url"] for r in rows]
@@ -311,16 +331,20 @@ class ScraperRepository:
     # ------------------------------------------------------------------
 
     def get_run_stats(self) -> dict:
-        """Return a dict with counts per status."""
+        """Return a dict with counts per status for active cars."""
         with self._conn() as conn:
             rows = conn.execute(
-                "SELECT status, COUNT(*) AS cnt FROM car_urls GROUP BY status"
+                "SELECT status, COUNT(*) AS cnt FROM car_urls WHERE is_active=1 GROUP BY status"
             ).fetchall()
+            inactive = conn.execute("SELECT COUNT(*) FROM car_urls WHERE is_active=0").fetchone()[0]
+
         stats = {r["status"]: r["cnt"] for r in rows}
         stats.setdefault("pending", 0)
         stats.setdefault("done", 0)
         stats.setdefault("failed", 0)
-        stats["total"] = sum(stats.values())
+        stats["total_active"] = sum(stats.values())
+        stats["inactive"] = inactive
+        stats["total"] = stats["total_active"] + inactive
         return stats
 
     def get_all_cars(self) -> list[dict]:

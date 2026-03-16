@@ -93,17 +93,10 @@ def _register_signals():
 async def run_urls(repo: ScraperRepository, run_id: int) -> str:
     """Step 1: discover and seed all car URLs into SQLite (resume-safe)."""
     from data_scrapper import scraper_pagination_list as step1  # noqa: PLC0415
+    from datetime import datetime, timezone
 
-    # If URLs are already fully seeded AND there's no pending pagination
-    # checkpoint, there's nothing to do.
-    if repo.has_urls() and repo.get_latest_pagination_progress() is None:
-        stats = repo.get_run_stats()
-        logger.info(
-            "URLs already seeded — total:%d done:%d pending:%d failed:%d",
-            stats["total"], stats["done"], stats["pending"], stats["failed"],
-        )
-        logger.info("Delete the DB (data/crautos.db) to re-seed from scratch.")
-        return "done"
+    # Record the start time so we can soft-delete cars that aren't seen in this run
+    run_start_time = datetime.now(timezone.utc).isoformat()
 
     logger.info("Starting Step 1: collecting car URLs...")
     try:
@@ -118,8 +111,12 @@ async def run_urls(repo: ScraperRepository, run_id: int) -> str:
         return "failed"
 
     if status == "done":
+        inactive_count = repo.mark_all_inactive_before(run_start_time)
         stats = repo.get_run_stats()
-        logger.info("Step 1 complete. Seeded %d URLs.", stats["total"])
+        logger.info(
+            "Step 1 complete. URLs: %d active (%d new/pending), %d marked sold/inactive.",
+            stats["total_active"], stats["pending"], inactive_count
+        )
     else:
         logger.info("Step 1 %s.", status)
     return status
@@ -135,8 +132,8 @@ async def run_details(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG
 
     stats = repo.get_run_stats()
     logger.info(
-        "Starting Step 2 — total:%d done:%d pending:%d failed:%d",
-        stats["total"], stats["done"], stats["pending"], stats["failed"],
+        "Starting Step 2 — Active: %d (done:%d, pending:%d, failed:%d). Inactive: %d",
+        stats["total_active"], stats["done"], stats["pending"], stats["failed"], stats["inactive"]
     )
 
     if _shutdown_event.is_set():
@@ -219,9 +216,9 @@ async def main(command: str):
         repo.finish_run(run_id, status=final_status)
         stats = repo.get_run_stats()
         logger.info(
-            "Run #%d [%s] finished — total:%d done:%d pending:%d failed:%d",
+            "Run #%d [%s] finished — Active: %d (done:%d, pending:%d, failed:%d). Inactive: %d",
             run_id, final_status,
-            stats["total"], stats["done"], stats["pending"], stats["failed"],
+            stats["total_active"], stats["done"], stats["pending"], stats["failed"], stats["inactive"]
         )
 
     sys.exit(1 if final_status == "failed" else 0)
