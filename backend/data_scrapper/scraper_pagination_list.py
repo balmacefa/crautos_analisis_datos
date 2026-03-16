@@ -128,7 +128,11 @@ async def _collect_all_urls(
         return "done"
 
     logger.info("Starting URL collection from crautos.com...")
-    await page.goto("https://crautos.com/autosusados/")
+    await page.goto(
+        "https://crautos.com/autosusados/",
+        timeout=60000,
+        wait_until="domcontentloaded",
+    )
     await page.locator(".btn.btn-lg.btn-success").click()
 
     # --- Determine total pages ---
@@ -247,7 +251,11 @@ async def _retry_failed_pages(page, repository=None):
     logger.info("Retrying %d failed pages...", len(failed_items))
 
     try:
-        await page.goto("https://crautos.com/autosusados/")
+        await page.goto(
+            "https://crautos.com/autosusados/",
+            timeout=60000,
+            wait_until="domcontentloaded",
+        )
         await page.locator(".btn.btn-lg.btn-success").click()
     except Exception as exc:
         logger.error("Could not navigate to base page for retries: %s", exc)
