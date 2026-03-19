@@ -109,7 +109,7 @@ class ConcurrencyManager:
             throughput = self._success_count / elapsed
 
             logger.info(
-                "[ADJUSTER] target=%d throughput=%.2f url/s error_rate=%.2%%",
+                "[ADJUSTER] target=%d throughput=%.2f url/s error_rate=%.2f%%",
                 self.target_concurrency, throughput, error_rate * 100,
             )
 
@@ -190,6 +190,7 @@ def _log_eta(completed: int, total: int, start: float):
 
 async def _scrape_detail_page(page) -> dict:
     data: dict = {"url": page.url}
+    
     try:
         title_el = page.locator("div.header-text h1").first
         full_title = (await title_el.inner_text()).strip()
@@ -204,26 +205,30 @@ async def _scrape_detail_page(page) -> dict:
                 break
         if "modelo" not in data:
             data["modelo"] = remaining
-    except Exception:
-        pass
+    except Exception as e:
+        logger.debug("Failed to extract title/year/make for %s: %s", page.url, e)
+
     try:
         price_usd_text = await page.locator("div.header-text h1").nth(1).inner_text()
         data["precio_crc"] = float(re.sub(r"[^\d.]", "", price_usd_text))
-    except Exception:
-        pass
+    except Exception as e:
+        logger.debug("Failed to extract precio_crc for %s: %s", page.url, e)
+
     try:
         price_crc_text = await page.locator("div.header-text h3").first.inner_text()
         data["precio_usd"] = int(re.sub(r"[^\d]", "", price_crc_text))
-    except Exception:
-        pass
+    except Exception as e:
+        logger.debug("Failed to extract precio_usd for %s: %s", page.url, e)
+
     try:
         data["imagen_principal"] = await page.locator("div.bannerimg").get_attribute("data-image-src")
         data["galeria_imagenes"] = [
             await img.get_attribute("src")
             for img in await page.locator("div.ws_images ul li img").all()
         ]
-    except Exception:
-        pass
+    except Exception as e:
+        logger.debug("Failed to extract images for %s: %s", page.url, e)
+
     try:
         seller_info: dict = {}
         seller_table = page.locator('//table[.//td[contains(., "Vendedor")]]')
@@ -235,8 +240,9 @@ async def _scrape_detail_page(page) -> dict:
                 if k and v:
                     seller_info[k] = re.sub(r"\s+", " ", v)
         data["vendedor"] = seller_info
-    except Exception:
-        pass
+    except Exception as e:
+        logger.debug("Failed to extract seller info for %s: %s", page.url, e)
+
     try:
         general: dict = {}
         for row in await page.locator("table.mytext2 tbody tr").all():
@@ -248,15 +254,17 @@ async def _scrape_detail_page(page) -> dict:
             elif len(cells) == 1 and await cells[0].get_attribute("bgcolor") == "#FAF7B4":
                 general["comentario_vendedor"] = (await cells[0].inner_text()).strip()
         data["informacion_general"] = general
-    except Exception:
-        pass
+    except Exception as e:
+        logger.debug("Failed to extract general info for %s: %s", page.url, e)
+
     for field, dest in [("kilometraje", "kilometraje_number"), ("cilindrada", "cilindrada_number")]:
         if field in data.get("informacion_general", {}):
             try:
                 val = re.sub(r"[^\d]", "", data["informacion_general"][field])
                 data["informacion_general"][dest] = int(val) if val else None
-            except ValueError:
-                pass
+            except ValueError as e:
+                logger.debug("Failed to parse numeric %s for %s: %s", field, page.url, e)
+
     try:
         equip: list[str] = []
         tables = page.locator('//table[@class="table table-bordered border-top table-striped"]')
@@ -265,8 +273,9 @@ async def _scrape_detail_page(page) -> dict:
             if len(cells) == 2 and await cells[1].locator("i.icon-check").count() > 0:
                 equip.append((await cells[0].inner_text()).strip())
         data["equipamiento"] = sorted(equip)
-    except Exception:
-        pass
+    except Exception as e:
+        logger.debug("Failed to extract equipment for %s: %s", page.url, e)
+
     return data
 
 
@@ -301,16 +310,24 @@ async def _scrape_single_url(
         page = None
         for attempt in range(TRIES):
             if shutdown_event and shutdown_event.is_set():
-                return
+                break
             try:
                 page = await context.new_page()
                 await _block_unnecessary(page)
                 logger.info("Scraping ID %s (attempt %d/%d)", car_id, attempt + 1, TRIES)
-                await page.goto(url, wait_until="domcontentloaded", timeout=45000)
+                
+                response = await page.goto(url, wait_until="domcontentloaded", timeout=45000)
+                if response and response.status >= 400:
+                    logger.warning("Network warning: URL %s returned status %s", url, response.status)
+
                 car_data = await _scrape_detail_page(page)
 
                 if repository is not None:
-                    repository.mark_url_done(url, car_id, car_data)
+                    try:
+                        repository.mark_url_done(url, car_id, car_data)
+                    except Exception as db_exc:
+                        logger.error("❌ DB Error marking ID %s as done: %s", car_id, db_exc)
+                        raise  # Re-raise to trigger retry
                 else:
                     os.makedirs(OUTPUT_DIR, exist_ok=True)
                     with open(os.path.join(OUTPUT_DIR, f"{car_id}.json"), "w", encoding="utf-8") as f:
@@ -321,17 +338,25 @@ async def _scrape_single_url(
                 await asyncio.sleep(random.uniform(1, 4))
                 return
             except Exception as exc:
-                logger.warning("⚠️ Attempt %d failed for ID %s: %s", attempt + 1, car_id, type(exc).__name__)
+                logger.warning("⚠️ Attempt %d failed for ID %s: [%s] %s", attempt + 1, car_id, type(exc).__name__, exc)
                 if attempt == TRIES - 1:
                     logger.error("❌ Giving up on ID %s after %d attempts.", car_id, TRIES)
                     if repository is not None:
-                        repository.mark_url_failed(url)
+                        try:
+                            repository.mark_url_failed(url)
+                        except Exception as db_exc:
+                            logger.error("❌ DB Error marking ID %s as failed: %s", car_id, db_exc)
                     await manager.record_error()
                 else:
                     await asyncio.sleep(3 + attempt * 2)
             finally:
                 if page:
-                    await page.close()
+                    try:
+                        await page.close()
+                    except Exception as close_exc:
+                        logger.debug("Failed to close page for ID %s: %s", car_id, close_exc)
+                    finally:
+                        page = None
 
 
 # ---------------------------------------------------------------------------

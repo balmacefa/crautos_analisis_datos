@@ -72,13 +72,23 @@ _shutdown_event = asyncio.Event()
 
 
 def _handle_signal(signum, frame):  # noqa: ARG001
-    sig_name = signal.Signals(signum).name
+    try:
+        sig_name = signal.Signals(signum).name
+    except Exception:
+        sig_name = f"Signal {signum}"
     logger.warning("Received %s — initiating graceful shutdown (pause)...", sig_name)
-    _shutdown_event.set()
+    try:
+        loop = asyncio.get_running_loop()
+        loop.call_soon_threadsafe(_shutdown_event.set)
+    except RuntimeError:
+        _shutdown_event.set()
 
 
 def _register_signals():
-    loop = asyncio.get_event_loop()
+    try:
+        loop = asyncio.get_running_loop()
+    except RuntimeError:
+        return
     for sig in (signal.SIGINT, signal.SIGTERM):
         try:
             loop.add_signal_handler(sig, lambda s=sig: _handle_signal(s, None))
@@ -239,4 +249,8 @@ if __name__ == "__main__":
         ),
     )
     args = parser.parse_args()
-    asyncio.run(main(args.command))
+    try:
+        asyncio.run(main(args.command))
+    except KeyboardInterrupt:
+        logger.info("Gracefully exited after KeyboardInterrupt (Ctrl+C).")
+        sys.exit(0)
