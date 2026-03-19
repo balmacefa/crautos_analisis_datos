@@ -1,0 +1,30 @@
+version: "3.9"
+
+services:
+  scraper:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.dev
+    container_name: crautos_scraper_prod
+    env_file:
+      - .env
+    environment:
+      SCRAPER_HEADLESS: "true"
+      SCRAPER_DB_PATH: "/app/data/crautos.db"
+    volumes:
+      # Data persistence for SQLite in production
+      - ./data:/app/data
+    restart: "no"
+    stop_grace_period: 30s
+
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.api
+    container_name: crautos_api_prod
+    ports:
+      - "8000:8000"
+    volumes:
+      # Read DB access
+      - ./data:/app/data
+    restart: always

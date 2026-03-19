@@ -64,6 +64,9 @@ CREATE TABLE IF NOT EXISTS pagination_progress (
 );
 
 CREATE INDEX IF NOT EXISTS idx_car_urls_status ON car_urls(status);
+CREATE INDEX IF NOT EXISTS idx_car_details_marca ON car_details(json_extract(raw_json, '$.marca'));
+CREATE INDEX IF NOT EXISTS idx_car_details_modelo ON car_details(json_extract(raw_json, '$.modelo'));
+CREATE INDEX IF NOT EXISTS idx_car_details_ano ON car_details(json_extract(raw_json, '$.año'));
 """
 
 

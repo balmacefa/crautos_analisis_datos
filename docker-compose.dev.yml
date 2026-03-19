@@ -29,3 +29,17 @@ services:
     stdin_open: true
     tty: true
     stop_grace_period: 30s
+
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.api
+    container_name: crautos_api_dev
+    ports:
+      - "8000:8000"
+    volumes:
+      # Live code reload
+      - ./backend:/app/backend
+      # Read DB
+      - ./data:/app/data
+    restart: always

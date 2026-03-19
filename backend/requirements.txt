@@ -8,3 +8,12 @@ dash
 plotly
 playwright
 dash-bootstrap-components
+fastapi
+uvicorn
+pydantic
+aiosqlite
+asyncache
+cachetools
+pytest
+httpx
+pytest-asyncio
