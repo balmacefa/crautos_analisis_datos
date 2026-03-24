@@ -1,0 +1,478 @@
+/* ============================================================
+   CrAutos — Light Commercial UI Design System
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+/* ---- Tokens ---- */
+:root {
+  --bg-base:       #f4f6f9;
+  --bg-white:      #ffffff;
+  --bg-nav:        rgba(255,255,255,0.95);
+  --bg-card:       #ffffff;
+  --accent-1:      #1a6fff;
+  --accent-2:      #0050cc;
+  --accent-light:  #e8f0ff;
+  --text-primary:  #111827;
+  --text-muted:    #6b7280;
+  --border:        #e5e7eb;
+  --shadow-sm:     0 1px 3px rgba(0,0,0,0.08);
+  --shadow-card:   0 8px 24px rgba(0,0,0,0.10);
+  --radius-card:   14px;
+  --radius-btn:    10px;
+  --transition:    0.2s ease;
+}
+
+/* ---- Reset / Base ---- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--bg-base);
+  color: var(--text-primary);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ---- Utility ---- */
+.gradient-text {
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============================================================
+   NAVBAR
+   ============================================================ */
+.cr-navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: var(--bg-nav);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+  padding: 0 2rem;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cr-logo {
+  font-size: 1.6rem;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.cr-nav-links {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  align-items: center;
+}
+
+.cr-nav-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color var(--transition);
+}
+.cr-nav-links a:hover { color: var(--text-primary); }
+
+.cr-nav-badge {
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  color: #fff !important;
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 5px 14px;
+  border-radius: 20px;
+  text-decoration: none !important;
+}
+
+/* ============================================================
+   HERO
+   ============================================================ */
+.cr-hero {
+  background:
+    radial-gradient(ellipse 70% 50% at 50% -10%, rgba(26,111,255,0.08) 0%, transparent 65%),
+    var(--bg-base);
+  padding: 5rem 2rem 3.5rem;
+  text-align: center;
+}
+
+.cr-hero-eyebrow {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--accent-1);
+  margin-bottom: 1rem;
+}
+
+.cr-hero h1 {
+  font-size: clamp(2rem, 5vw, 3.4rem);
+  font-weight: 900;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+.cr-hero-sub {
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  max-width: 540px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.6;
+}
+
+/* ============================================================
+   SEARCH BOX
+   ============================================================ */
+.cr-search-box {
+  background: var(--bg-white);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 1.5rem 2rem;
+  max-width: 1020px;
+  margin: 0 auto;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+
+.cr-search-row {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.cr-search-field {
+  flex: 1;
+  min-width: 155px;
+}
+
+.cr-search-field label {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.cr-search-field input {
+  width: 100%;
+  background: var(--bg-white) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 9px !important;
+  color: var(--text-primary) !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  padding: 10px 14px;
+  transition: border-color var(--transition), box-shadow var(--transition);
+  outline: none;
+}
+
+.cr-search-field input:focus {
+  border-color: var(--accent-1) !important;
+  box-shadow: 0 0 0 3px rgba(26,111,255,0.12) !important;
+}
+
+/* Light Dropdown overrides */
+.cr-search-field .Select-control {
+  background: var(--bg-white) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 9px !important;
+  color: var(--text-primary) !important;
+}
+.cr-search-field .Select-menu-outer {
+  background: var(--bg-white) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  box-shadow: var(--shadow-card) !important;
+}
+.cr-search-field .Select-option {
+  background: transparent !important;
+  color: var(--text-primary) !important;
+}
+.cr-search-field .Select-option:hover,
+.cr-search-field .Select-option.is-focused {
+  background: var(--accent-light) !important;
+  color: var(--accent-1) !important;
+}
+.cr-search-field .Select-placeholder { color: var(--text-muted) !important; }
+.cr-search-field .Select-value-label  { color: var(--text-primary) !important; }
+
+.cr-search-btn {
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  border: none;
+  border-radius: var(--radius-btn);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.95rem;
+  padding: 12px 32px;
+  cursor: pointer;
+  transition: opacity var(--transition), transform var(--transition), box-shadow var(--transition);
+  white-space: nowrap;
+  align-self: flex-end;
+  box-shadow: 0 4px 16px rgba(26,111,255,0.3);
+  font-family: 'Inter', sans-serif;
+}
+.cr-search-btn:hover {
+  opacity: 0.92;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(26,111,255,0.38);
+}
+.cr-search-btn:active { transform: translateY(0); }
+
+/* ============================================================
+   STATS BAR
+   ============================================================ */
+.cr-stats {
+  display: flex;
+  justify-content: center;
+  gap: 1px;
+  margin: 3rem auto 0;
+  max-width: 680px;
+  background: var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.cr-stat-item {
+  flex: 1;
+  text-align: center;
+  background: var(--bg-white);
+  padding: 1.15rem 0.5rem;
+}
+
+.cr-stat-value {
+  font-size: 1.55rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: block;
+}
+
+.cr-stat-label {
+  font-size: 0.73rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  margin-top: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ============================================================
+   RESULTS SECTION
+   ============================================================ */
+.cr-results-section {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 3rem 2rem 4rem;
+}
+
+.cr-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.75rem;
+}
+
+.cr-section-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.cr-result-count {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* Card Grid */
+.cr-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 1.4rem;
+}
+
+/* Car Card */
+.cr-car-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  overflow: hidden;
+  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-sm);
+}
+
+.cr-car-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-card);
+  border-color: rgba(26,111,255,0.25);
+}
+
+.cr-car-img {
+  background: linear-gradient(135deg, #eef4ff, #f0f5ff);
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid var(--border);
+}
+
+.cr-car-body {
+  padding: 1.2rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.cr-car-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+.cr-car-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.85rem;
+}
+
+.cr-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.3px;
+}
+
+.cr-badge-province {
+  background: var(--accent-light);
+  color: var(--accent-1);
+  border: 1px solid rgba(26,111,255,0.2);
+}
+
+.cr-badge-year {
+  background: #f3f4f6;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+
+.cr-car-price {
+  font-size: 1.3rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-top: auto;
+  margin-bottom: 1rem;
+}
+
+.cr-card-btn {
+  display: block;
+  text-align: center;
+  background: var(--accent-light);
+  border: 1px solid rgba(26,111,255,0.2);
+  border-radius: 8px;
+  color: var(--accent-1);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 9px;
+  text-decoration: none;
+  transition: background var(--transition), color var(--transition), border-color var(--transition);
+  font-family: 'Inter', sans-serif;
+  cursor: pointer;
+  width: 100%;
+}
+.cr-card-btn:hover {
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  color: #fff;
+  border-color: transparent;
+}
+
+/* ============================================================
+   EMPTY / ERROR STATES
+   ============================================================ */
+.cr-empty-state {
+  text-align: center;
+  padding: 5rem 2rem;
+  grid-column: 1 / -1;
+}
+.cr-empty-icon {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+}
+.cr-empty-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.4rem;
+}
+.cr-empty-sub {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.cr-footer {
+  border-top: 1px solid var(--border);
+  background: var(--bg-white);
+  padding: 2.5rem 2rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
+.cr-footer-brand {
+  font-size: 1.1rem;
+  font-weight: 800;
+  margin-bottom: 0.4rem;
+  color: var(--text-primary);
+}
+
+.cr-footer-copy {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  margin-top: 0.5rem;
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 768px) {
+  .cr-nav-links { display: none; }
+  .cr-hero { padding: 3.5rem 1.25rem 2.5rem; }
+  .cr-search-box { padding: 1.2rem 1.25rem; }
+  .cr-search-row { flex-direction: column; }
+  .cr-search-btn { width: 100%; }
+  .cr-stats { flex-direction: column; gap: 0; }
+  .cr-results-section { padding: 2rem 1.25rem 3rem; }
+}
+
+/* ============================================================
+   DASH OVERRIDES
+   ============================================================ */
+.dash-spinner--default { display: none !important; }
+#react-entry-point { background: var(--bg-base); }
