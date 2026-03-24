@@ -1,6 +1,6 @@
 import pytest
 from httpx import ASGITransport, AsyncClient
-from backend.api.main import app
+from ..api.main import app
 
 @pytest.mark.asyncio
 async def test_api_cars_endpoint():

@@ -28,3 +28,11 @@ services:
       # Read DB access
       - ./data:/app/data
     restart: always
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: crautos_frontend_prod
+    ports:
+      - "8050:8050"
+    restart: always

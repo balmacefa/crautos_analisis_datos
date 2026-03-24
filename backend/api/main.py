@@ -82,6 +82,49 @@ async def get_cars(
         cars=cars
     )
 
+@app.get("/api/search", response_model=CarsResponse)
+async def search_cars(
+    q: str = Query(..., min_length=2),
+    page: int = Query(1, ge=1),
+    limit: int = Query(50, ge=1, le=100)
+):
+    offset = (page - 1) * limit
+    
+    # Use SQLite FTS5 for native blazing-fast text searches
+    count_query = "SELECT count(*) as c FROM car_details_fts WHERE car_details_fts MATCH ?"
+    total_rows = await execute_query(count_query, (q,))
+    total = total_rows[0]["c"] if total_rows else 0
+    
+    query = """
+        SELECT car_id, raw_json
+        FROM car_details_fts
+        WHERE car_details_fts MATCH ?
+        ORDER BY rank
+        LIMIT ? OFFSET ?
+    """
+    rows = await execute_query(query, (q, limit, offset))
+    
+    cars = []
+    for r in rows:
+        raw_json = json.loads(r["raw_json"])
+        if "informacion_general" in raw_json:
+            gen_info = raw_json["informacion_general"]
+            if "#_de_pasajeros" in gen_info:
+                gen_info["pasajeros"] = gen_info.pop("#_de_pasajeros")
+            if "#_de_puertas" in gen_info:
+                gen_info["puertas"] = gen_info.pop("#_de_puertas")
+        
+        car_dict = {"car_id": r["car_id"], "scraped_at": ""}
+        car_dict.update(raw_json)
+        cars.append(car_dict)
+        
+    return CarsResponse(
+        total=total,
+        page=page,
+        limit=limit,
+        cars=cars
+    )
+
 @app.get("/api/cars/{car_id}", response_model=CarDetail)
 async def get_car(car_id: str):
     rows = await execute_query("SELECT car_id, raw_json, scraped_at FROM car_details WHERE car_id=?", (car_id,))
