@@ -180,6 +180,29 @@ async def _block_unnecessary(page):
     )
 
 
+async def handle_consent(p):
+    """Try to click the 'Consent' button if it overlays the page."""
+    try:
+        # Funding Choices (Google) consent dialog
+        consent_selectors = [
+            "button.fc-cta-consent",
+            "button.fc-primary-button",
+            "button:has-text('Consent')",
+            "button:has-text('Accept')",
+            "button:has-text('Acepto')",
+            "button:has-text('AGREE')",
+        ]
+        for selector in consent_selectors:
+            btn = p.locator(selector)
+            if await btn.is_visible(timeout=2000):
+                logger.debug("Consent dialog detected on %s. Clicking '%s'...", p.url, selector)
+                await btn.click(timeout=5000)
+                return True
+    except Exception:
+        pass
+    return False
+
+
 def _log_eta(completed: int, total: int, start: float):
     if completed == 0:
         return
@@ -319,6 +342,9 @@ async def _scrape_single_url(
                 response = await page.goto(url, wait_until="domcontentloaded", timeout=45000)
                 if response and response.status >= 400:
                     logger.warning("Network warning: URL %s returned status %s", url, response.status)
+
+                # Handle possible consent overlay
+                await handle_consent(page)
 
                 car_data = await _scrape_detail_page(page)
 

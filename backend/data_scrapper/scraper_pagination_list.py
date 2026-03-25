@@ -132,6 +132,28 @@ async def _collect_all_urls(
     logger.info("Initializing pool of %d worker tabs...", concurrency)
     worker_pages = []
 
+    async def handle_consent(p):
+        """Try to click the 'Consent' button if it overlays the page."""
+        try:
+            # Funding Choices (Google) consent dialog
+            consent_selectors = [
+                "button.fc-cta-consent",
+                "button.fc-primary-button",
+                "button:has-text('Consent')",
+                "button:has-text('Accept')",
+                "button:has-text('Acepto')",
+                "button:has-text('AGREE')",
+            ]
+            for selector in consent_selectors:
+                btn = p.locator(selector)
+                if await btn.is_visible(timeout=2000):
+                    logger.info("Consent dialog detected. Clicking '%s'...", selector)
+                    await btn.click(timeout=5000)
+                    return True
+        except Exception:
+            pass
+        return False
+
     async def init_worker_tab():
         try:
             p = await context.new_page()
@@ -140,6 +162,10 @@ async def _collect_all_urls(
                 timeout=60000,
                 wait_until="domcontentloaded",
             )
+            
+            # Handle possible consent overlay
+            await handle_consent(p)
+
             await p.locator(".btn.btn-lg.btn-success").click(timeout=30000)
             await p.wait_for_selector('a[href^="cardetail.cfm"]', timeout=30000)
             return p
