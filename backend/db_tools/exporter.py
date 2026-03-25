@@ -26,6 +26,19 @@ ExportFormat = Literal["json", "csv", "sqlite"]
 # Tables included in full exports
 _TABLES = ["scrape_runs", "car_urls", "car_details", "pagination_progress"]
 
+_MIGRATION_DIR = Path("migration_data")
+
+
+def get_default_export_path(fmt: ExportFormat) -> Path:
+    """
+    Return a default output path in migration_data/ with a Unix timestamp.
+    Example: migration_data/backup_1616584200.db
+    """
+    _MIGRATION_DIR.mkdir(parents=True, exist_ok=True)
+    ts = int(datetime.now(timezone.utc).timestamp())
+    ext = "json" if fmt == "json" else "csv" if fmt == "csv" else "db"
+    return _MIGRATION_DIR / f"backup_{ts}.{ext}"
+
 
 # ---------------------------------------------------------------------------
 # Internal helpers
@@ -161,6 +174,53 @@ def export_sqlite(db_path: Path, out_path: Path) -> None:
     finally:
         dst.close()
         src.close()
+
+    # --- Verification Step ---
+    if not validate_sqlite_backup(db_path, out_path):
+        logger.error("SQLite backup verification FAILED for %s", out_path)
+        raise RuntimeError(f"Backup verification failed: {out_path}")
+    logger.info("SQLite backup verification PASSED.")
+
+
+def validate_sqlite_backup(src_path: Path, dst_path: Path) -> bool:
+    """
+    Compare row counts and run integrity check on the backup.
+    Returns True if valid, False otherwise.
+    """
+
+    def get_stats(path: Path) -> dict[str, int]:
+        conn = sqlite3.connect(path)
+        try:
+            # Check integrity
+            res = conn.execute("PRAGMA integrity_check").fetchone()
+            if not res or res[0] != "ok":
+                logger.error("Integrity check failed for %s: %s", path, res)
+                return {}
+
+            # Count rows per table
+            tabs = conn.execute(
+                "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'"
+            ).fetchall()
+            stats = {}
+            for (tname,) in tabs:
+                stats[tname] = conn.execute(f'SELECT COUNT(*) FROM "{tname}"').fetchone()[0]
+            return stats
+        finally:
+            conn.close()
+
+    src_stats = get_stats(src_path)
+    dst_stats = get_stats(dst_path)
+
+    if not src_stats or not dst_stats:
+        return False
+
+    if src_stats != dst_stats:
+        logger.error("Row count mismatch between source and backup!")
+        logger.error("Source: %s", src_stats)
+        logger.error("Backup: %s", dst_stats)
+        return False
+
+    return True
 
 
 # ---------------------------------------------------------------------------

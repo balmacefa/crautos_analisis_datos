@@ -33,6 +33,34 @@ logger = logging.getLogger(__name__)
 
 ImportFormat = Literal["json", "csv", "sqlite"]
 
+
+def ensure_migration_table(conn: sqlite3.Connection) -> None:
+    """Ensure the migrations table exists."""
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS migrations (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            timestamp TEXT NOT NULL UNIQUE,
+            filename TEXT NOT NULL,
+            applied_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        )
+        """
+    )
+
+
+def is_migration_applied(conn: sqlite3.Connection, timestamp: str) -> bool:
+    """Check if a migration with the given timestamp has already been applied."""
+    res = conn.execute("SELECT 1 FROM migrations WHERE timestamp = ?", (timestamp,)).fetchone()
+    return res is not None
+
+
+def record_migration(conn: sqlite3.Connection, timestamp: str, filename: str) -> None:
+    """Record a successful migration application."""
+    conn.execute(
+        "INSERT INTO migrations (timestamp, filename) VALUES (?, ?)",
+        (timestamp, filename),
+    )
+
 # Columns that live outside raw_json in car_details
 _DETAIL_FIXED_COLS = {"car_id", "url", "scraped_at"}
 # Columns that live in car_urls

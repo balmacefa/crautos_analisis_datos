@@ -54,11 +54,13 @@ RUN playwright install --with-deps chromium
 # Copy source code
 COPY . .
 
+# Make entrypoint executable
+RUN chmod +x /app/entrypoint.sh
+
 # Create data directory for SQLite DB persistence
 RUN mkdir -p /app/data
 
-# Container starts idle — trigger scraper steps manually:
-#   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper urls
-#   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper details
-#   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper all
+ENTRYPOINT ["/app/entrypoint.sh"]
+
+# Container starts idle
 CMD ["sleep", "infinity"]

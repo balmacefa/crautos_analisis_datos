@@ -69,9 +69,10 @@ Examples
     )
     exp.add_argument(
         "--out", "-o",
-        required=True,
+        required=False,
+        default=None,
         metavar="PATH",
-        help="Output file path.",
+        help="Output file path. Defaults to migration_data/backup_<timestamp>.<ext>.",
     )
     exp.add_argument(
         "--tables",
@@ -142,8 +143,12 @@ def main(argv: list[str] | None = None) -> None:
 
 
 def _run_export(args: argparse.Namespace) -> None:
-    db   = Path(args.db)
-    out  = Path(args.out)
+    db  = Path(args.db)
+    out = Path(args.out) if args.out else None
+
+    if not out:
+        from db_tools.exporter import get_default_export_path
+        out = get_default_export_path(fmt=args.fmt)
 
     print(f"[db_tools] EXPORT  format={args.fmt}  db={db}  out={out}")
 
