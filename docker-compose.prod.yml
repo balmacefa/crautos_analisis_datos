@@ -22,8 +22,10 @@ services:
       context: ./backend
       dockerfile: Dockerfile.api
     container_name: crautos_api_prod
-    ports:
-      - "8000:8000"
+    # No host port mapping to avoid conflicts with other apps;
+    # Internal communication via http://api:8000 still works.
+    expose:
+      - "8000"
     volumes:
       # Read DB access
       - ./data:/app/data
