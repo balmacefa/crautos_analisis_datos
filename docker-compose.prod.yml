@@ -35,6 +35,9 @@ services:
     container_name: crautos_frontend_prod
     ports:
       - "8050:8050"
+    environment:
+      - SERVICE_URL_FRONTEND=$SERVICE_URL_FRONTEND
+      - API_BASE=http://api:8000
     restart: always
 
   scheduler:
