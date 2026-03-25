@@ -63,3 +63,14 @@ class YearStat(BaseModel):
     año: int
     count: int
     avg_price_usd: float
+
+class ProvinceStat(BaseModel):
+    provincia: str
+    count: int
+    avg_price_usd: float
+
+class ModelStat(BaseModel):
+    marca: str
+    modelo: str
+    count: int
+    avg_price_usd: float

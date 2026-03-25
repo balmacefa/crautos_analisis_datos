@@ -44,3 +44,26 @@ async def test_api_insights_years():
     if len(data) > 0:
         assert "año" in data[0]
         assert "count" in data[0]
+
+@pytest.mark.asyncio
+async def test_api_insights_provinces():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/provinces")
+    assert response.status_code == 200
+    data = response.json()
+    assert isinstance(data, list)
+    if len(data) > 0:
+        assert "provincia" in data[0]
+        assert "count" in data[0]
+
+@pytest.mark.asyncio
+async def test_api_insights_models():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/models")
+    assert response.status_code == 200
+    data = response.json()
+    assert isinstance(data, list)
+    if len(data) > 0:
+        assert "marca" in data[0]
+        assert "modelo" in data[0]
+        assert "count" in data[0]

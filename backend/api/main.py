@@ -5,7 +5,7 @@ import json
 from cachetools import TTLCache
 from asyncache import cached
 from .database import execute_query
-from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat
+from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat
 
 app = FastAPI(title="Crautos Async Data API")
 
@@ -212,6 +212,60 @@ async def get_years_insight():
     for r in rows:
         res.append(YearStat(
             año=r["año"], 
+            count=r["count"], 
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2)
+        ))
+        
+    return res
+
+# Cache the response for 1 hour
+@app.get("/api/insights/provinces", response_model=List[ProvinceStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_provinces_insight():
+    rows = await execute_query("""
+        SELECT 
+            json_extract(raw_json, '$.informacion_general.provincia') as provincia, 
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd
+        FROM car_details
+        WHERE json_extract(raw_json, '$.informacion_general.provincia') IS NOT NULL
+        GROUP BY provincia
+        ORDER BY count DESC
+    """)
+    
+    res = []
+    for r in rows:
+        res.append(ProvinceStat(
+            provincia=r["provincia"], 
+            count=r["count"], 
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2)
+        ))
+        
+    return res
+
+# Cache the response for 1 hour
+@app.get("/api/insights/models", response_model=List[ModelStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_models_insight():
+    rows = await execute_query("""
+        SELECT 
+            json_extract(raw_json, '$.marca') as marca, 
+            json_extract(raw_json, '$.modelo') as modelo, 
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IS NOT NULL 
+          AND json_extract(raw_json, '$.modelo') IS NOT NULL
+        GROUP BY marca, modelo
+        ORDER BY count DESC
+        LIMIT 50
+    """)
+    
+    res = []
+    for r in rows:
+        res.append(ModelStat(
+            marca=r["marca"], 
+            modelo=r["modelo"], 
             count=r["count"], 
             avg_price_usd=round(r["avg_price_usd"] or 0.0, 2)
         ))

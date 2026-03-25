@@ -476,3 +476,115 @@ body {
    ============================================================ */
 .dash-spinner--default { display: none !important; }
 #react-entry-point { background: var(--bg-base); }
+
+/* ============================================================
+   TABS & MAIN CONTENT
+   ============================================================ */
+.cr-main-content {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.cr-tabs {
+  border-bottom: 2px solid var(--border) !important;
+  margin-bottom: 2rem;
+  margin-top: -30px;
+  position: relative;
+  z-index: 101;
+  background: var(--bg-white);
+  border-radius: 12px 12px 0 0;
+  padding: 0 1rem;
+}
+
+.cr-tab-label {
+  color: var(--text-muted) !important;
+  font-weight: 600 !important;
+  font-size: 0.95rem !important;
+  border: none !important;
+  padding: 1rem 1.5rem !important;
+  transition: color var(--transition) !important;
+}
+
+.cr-tab-active {
+  color: var(--accent-1) !important;
+  border-bottom: 3px solid var(--accent-1) !important;
+  background: transparent !important;
+}
+
+.cr-tab-content {
+  min-height: 400px;
+}
+
+/* ============================================================
+   MODAL STYLES
+   ============================================================ */
+.modal-content {
+  border-radius: 20px !important;
+  border: none !important;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important;
+}
+
+.modal-header {
+  border-bottom: 1px solid var(--border) !important;
+  padding: 1.5rem 2rem !important;
+}
+
+.cr-modal-body {
+  padding: 2rem !important;
+}
+
+.cr-modal-img-placeholder {
+  background: linear-gradient(135deg, #eef4ff, #f0f5ff);
+  height: 280px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+}
+
+.cr-modal-price {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: var(--accent-1);
+  margin-bottom: 1.5rem;
+}
+
+.cr-modal-specs p {
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+  font-size: 0.95rem;
+}
+
+/* ============================================================
+   DASHBOARD / STATS
+   ============================================================ */
+.cr-stats-dashboard {
+  padding: 2rem 0 4rem;
+}
+
+.cr-dashboard-title {
+  font-size: 1.8rem;
+  font-weight: 800;
+  margin-bottom: 2rem;
+  color: var(--text-primary);
+}
+
+.cr-chart-card {
+  background: var(--bg-white);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.cr-chart-card h4 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
