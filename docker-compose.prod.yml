@@ -48,9 +48,11 @@ services:
     depends_on:
       - scraper
     command: daemon --docker
+    environment:
+      - TZ=America/Costa_Rica
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock:ro
     labels:
-      ofelia.job-exec.crautos-scraper-daily.schedule: "@daily"
+      ofelia.job-exec.crautos-scraper-daily.schedule: "0 7,13,19 * * *"
       ofelia.job-exec.crautos-scraper-daily.container: "crautos_scraper_prod"
       ofelia.job-exec.crautos-scraper-daily.command: "python -m data_scrapper.run_scraper all"
