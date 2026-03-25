@@ -36,3 +36,16 @@ services:
     ports:
       - "8050:8050"
     restart: always
+
+  scheduler:
+    image: mcuadros/ofelia:latest
+    container_name: crautos_scheduler_prod
+    depends_on:
+      - scraper
+    command: daemon --docker
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    labels:
+      ofelia.job-exec.crautos-scraper-daily.schedule: "@daily"
+      ofelia.job-exec.crautos-scraper-daily.container: "crautos_scraper_prod"
+      ofelia.job-exec.crautos-scraper-daily.command: "python -m data_scrapper.run_scraper all"
