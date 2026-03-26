@@ -1,4 +1,5 @@
 import os
+import json
 import dash
 import dash_bootstrap_components as dbc
 from dash import html, dcc, Input, Output, State, callback_context, ALL
@@ -119,9 +120,12 @@ def make_car_card(car: dict) -> html.Div:
     title = f"{marca} {modelo}" + (f" {year}" if year else "")
     price_str = f"${price:,.0f}" if price else "Precio a consultar"
 
+    imagen_principal = car.get("imagen_principal")
+    img_component = html.Img(src=imagen_principal, className="cr-car-img") if imagen_principal else html.Div(className="cr-car-img", children=[CAR_SVG], style={"fontSize": "3.5rem"})
+
     return html.Div(className="cr-car-card", children=[
         # Image placeholder
-        html.Div(className="cr-car-img", children=[CAR_SVG], style={"fontSize": "3.5rem"}),
+        img_component,
         # Body
         html.Div(className="cr-car-body", children=[
             html.H3(title, className="cr-car-title"),
@@ -379,10 +383,13 @@ def toggle_modal(n_btns, n_close, is_open):
             info = car.get("informacion_general", {})
             vendedor = car.get("vendedor", {})
             
+            imagen_principal = car.get("imagen_principal")
+            img_modal_component = html.Img(src=imagen_principal, style={"width": "100%", "borderRadius": "8px"}) if imagen_principal else CAR_SVG
+
             body = html.Div([
                 dbc.Row([
                     dbc.Col([
-                        html.Div(className="cr-modal-img-placeholder", children=[CAR_SVG]),
+                        html.Div(className="cr-modal-img-placeholder", children=[img_modal_component]),
                     ], md=5),
                     dbc.Col([
                         html.Div(className="cr-modal-specs", children=[
@@ -402,7 +409,14 @@ def toggle_modal(n_btns, n_close, is_open):
                 html.Div(style={"marginTop": "20px"}, children=[
                     html.H5("Comentario del vendedor"),
                     html.P(info.get("comentario_vendedor", "Sin comentarios."), style={"fontStyle": "italic"})
-                ])
+                ]),
+                html.Hr(),
+                html.Button("Mostrar Datos Crudos", id="collapse-btn", n_clicks=0, className="cr-card-btn", style={"marginBottom": "10px", "width": "auto", "padding": "5px 15px"}),
+                dbc.Collapse(
+                    html.Pre(json.dumps(car, indent=2, ensure_ascii=False), style={"backgroundColor": "#f8f9fa", "padding": "10px", "borderRadius": "5px", "maxHeight": "300px", "overflowY": "auto"}),
+                    id="collapse-data",
+                    is_open=False,
+                )
             ])
             
             return True, title, body
@@ -478,6 +492,20 @@ def on_init(n):
     except:
         return "—", "—"
 
+
+# ---------------------------------------------------------------------------
+# Callback: Toggle Raw Data Collapse
+# ---------------------------------------------------------------------------
+@app.callback(
+    Output("collapse-data", "is_open"),
+    Input("collapse-btn", "n_clicks"),
+    State("collapse-data", "is_open"),
+    prevent_initial_call=True
+)
+def toggle_collapse(n, is_open):
+    if n:
+        return not is_open
+    return is_open
 
 # ---------------------------------------------------------------------------
 # Entry point
