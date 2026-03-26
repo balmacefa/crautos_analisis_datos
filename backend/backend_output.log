@@ -1,0 +1,104 @@
+INFO:     Started server process [14534]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:49464 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49476 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:49480 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36004 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36010 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:36012 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:36020 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38754 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38766 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:38768 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43050 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:37468 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37474 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:37480 - "GET /api/search?q=Toyota&page=1&limit=48 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/uvicorn/protocols/http/h11_impl.py", line 410, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/middleware/cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/fastapi/routing.py", line 328, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/api/main.py", line 95, in search_cars
+    total_rows = await execute_query(count_query, (q,))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/backend/api/database.py", line 24, in execute_query
+    async with conn.execute(query, parameters) as cursor:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/aiosqlite/context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/aiosqlite/core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/aiosqlite/core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/aiosqlite/core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such table: car_details_fts
+INFO:     127.0.0.1:37494 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52366 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52374 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:52382 - "GET /api/search?q=Toyota&page=1&limit=48 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52384 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59118 - "GET /api/search?q=Toyota&page=1&limit=48 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53466 - "GET /api/search?q=Toyota&page=1&limit=48 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38818 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38824 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:38840 - "GET /api/search?q=Toyota&page=1&limit=48 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39570 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39578 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:39594 - "GET /api/search?q=Toyota&page=1&limit=48 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39598 - "GET /api/cars/72930204 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39608 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53974 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53984 - "GET /api/search?q=&page=1&limit=48 HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:54000 - "GET /api/search?q=Toyota&page=1&limit=48 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54008 - "GET /api/insights/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54016 - "GET /api/cars/72930204 HTTP/1.1" 200 OK
