@@ -8,6 +8,8 @@ services:
     container_name: crautos_scraper_dev
     env_file:
       - .env
+    ports:
+      - "8081:8081"
     environment:
       # Override or set defaults here; .env takes precedence for secrets
       SCRAPER_HEADLESS: "${SCRAPER_HEADLESS:-true}"
@@ -15,16 +17,17 @@ services:
       SCRAPER_INITIAL_CONCURRENCY: "${SCRAPER_INITIAL_CONCURRENCY:-3}"
       SCRAPER_MIN_CONCURRENCY: "${SCRAPER_MIN_CONCURRENCY:-1}"
       SCRAPER_MAX_CONCURRENCY: "${SCRAPER_MAX_CONCURRENCY:-10}"
+      AUTH_USERNAME: "${AUTH_USERNAME:-admin}"
+      AUTH_PASSWORD: "${AUTH_PASSWORD:-admin}"
+      SCRAPER_CRON: "0 0 * * *"
     volumes:
       # Live code reload during development
       - ./backend:/app
       # Persist SQLite database on the host
       - ./data:/app/data
-    # Container stays idle until you trigger a scraper step:
-    #   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper urls
-    #   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper details
-    #   docker compose -f docker-compose.dev.yml exec scraper python -m data_scrapper.run_scraper all
-    restart: "no"
+    # Replaces the idle loop with the gunicorn scheduler
+    command: gunicorn --bind 0.0.0.0:8081 --workers 1 --timeout 120 --access-logfile - --error-logfile - --log-level info cron.devops_job_orchestrator:server
+    restart: always
     # Keeps container attachable for interactive exec sessions
     stdin_open: true
     tty: true
@@ -54,23 +57,4 @@ services:
       - API_BASE=http://api:8000
     volumes:
       - ./frontend:/app
-    restart: always
-
-
-  scheduler:
-    build:
-      context: ./backend
-      dockerfile: cron/Dockerfile
-    container_name: crautos_scheduler
-    depends_on:
-      - scraper
-    ports:
-      - "8081:8081"
-    environment:
-      - AUTH_USERNAME=${AUTH_USERNAME:-admin}
-      - AUTH_PASSWORD=${AUTH_PASSWORD:-admin}
-      - SCRAPER_CONTAINER_NAME=crautos_scraper_dev
-      - SCRAPER_CRON="0 0 * * *"
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
     restart: always
