@@ -80,6 +80,11 @@ The backend includes several scripts and tools for database migration, data clea
 - `03_modeling.py`: Trains a `RandomForestRegressor` to predict car prices using the cleaned CSV data (`output/data/cleaned_cars.csv`), saving the model to `models/car_price_model.pkl` and a feature importance plot to `output/plots/`.
 - `04_reporting_dashboard.py`: A standalone Dash application that provides a dashboard specifically for the trained prediction model and historical price depreciation insights.
 
+### DevOps Job Orchestrator (`cron/`)
+- `devops_job_orchestrator.py`: A production-grade web application built with Dash and Flask. It provides a real-time GUI for managing, scheduling, and monitoring cron jobs. Features include PTY-based unbuffered I/O, secure HTTP Basic Auth, and interactive real-time logging.
+- `job_definitions.py`: Configuration file that returns the list of `JobModel` instances to be registered and scheduled by the orchestrator.
+- `job_model.py`: Defines the `JobModel` dataclass used to represent the state, metadata, and subprocess details of each scheduled job.
+
 ### Shell Scripts (`sh_scripts/`)
 - `entrypoint.sh`: Used as the main Docker entrypoint script.
 - `setup.sh`: Used for setting up the Docker images.
