@@ -73,7 +73,7 @@ from croniter import croniter
 from dash import html, dcc, dash_table, Input, Output, State
 import dash_bootstrap_components as dbc
 
-from cron_jobs.job_model import JobModel
+from cron.job_model import JobModel
 
 
 # ===================== CONSTANTS & HELPERS =====================
@@ -517,7 +517,7 @@ class JobController:
 controller = JobController()
 
 # Load job definitions from external file for separation of concerns
-from cron_jobs.job_definitions import get_job_definitions
+from cron.job_definitions import get_job_definitions
 
 for job in get_job_definitions():
     controller.add_job(job)

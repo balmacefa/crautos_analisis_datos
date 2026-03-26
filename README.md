@@ -9,7 +9,7 @@ The project consists of several components, all containerized and orchestrated v
 1. **Backend API (FastAPI)**: Serves the scraped car data and analytical insights via REST endpoints. Found in the `backend/` directory.
 2. **Frontend Dashboard (Dash)**: A Python Dash application that provides a user interface to search for cars and view market statistics. Found in the `frontend/` directory.
 3. **Data Scraper (Playwright)**: An asynchronous web scraper built with Playwright that periodically extracts data from the target website. Located within the `backend/` directory.
-4. **Task Scheduler (Ofelia)**: A Docker-native job scheduler that automates the daily execution of the data scraper.
+4. **Task Scheduler (Cron)**: A Python-based cron job scheduler that automates the daily execution of the data scraper.
 5. **Database (SQLite)**: A shared SQLite database used to store the scraped data, accessible by both the scraper and the API.
 
 ## Running the Project

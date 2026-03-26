@@ -1,24 +1,20 @@
 # job_definitions.py
 # Job definitions for the DevOps Job Orchestrator
 
-from cron_jobs.job_model import JobModel
+from cron.job_model import JobModel
 
+
+import os
 
 def get_job_definitions():
     """Returns a list of JobModel instances to be added to the controller"""
+    # Removing surrounding quotes from environment variables if present
+    cron_schedule = os.getenv("SCRAPER_CRON", "0 0 * * *").strip('"\'')
+
     return [
         JobModel(
-            "Test_job executed every minute",
-            "echo 'Starting Test_job...' && sleep 3 && echo 'Test_job complete!'",
-            "* * * * *",  # Every minute
+            "CrAutos Data Scraper",
+            "python -m data_scrapper.run_scraper all",
+            cron_schedule,
         ),
-        # ----------------------------------------------
-        # CRON JOBS SECTION
-        # ----------------------------------------------
-        #  🤖‼️ 
-        # JobModel(
-        #     "sps_cr_pr_merge_automation_sprint_158",
-        #     "python script.py --yes",
-        #     "0 * * * *",  # At the hour every hour
-        # ),
     ]

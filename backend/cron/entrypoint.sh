@@ -60,4 +60,4 @@ exec gunicorn --bind 0.0.0.0:8081 \
     --access-logfile - \
     --error-logfile - \
     --log-level info \
-    cron_jobs.devops_job_orchestrator:server
+    cron.devops_job_orchestrator:server
