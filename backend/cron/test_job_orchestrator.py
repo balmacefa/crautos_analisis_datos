@@ -7,8 +7,8 @@ import time
 import unittest
 from datetime import datetime, timedelta
 from threading import Event, Thread
-from cron_jobs.job_model import JobModel
-from cron_jobs.devops_job_orchestrator import JobController
+from cron.job_model import JobModel
+from cron.devops_job_orchestrator import JobController
 
 
 class TestJobOrchestrator(unittest.TestCase):
@@ -571,7 +571,7 @@ class TestJobOrchestrator(unittest.TestCase):
             "cron_enabled should be True after re-enabling",
         )
 
-    def test_cron_jobs_dont_trigger_when_disabled(self):
+    def test_cron_dont_trigger_when_disabled(self):
         """Test that cron jobs don't execute when cron is disabled"""
         # Create a job that should trigger every minute
         job = JobModel(

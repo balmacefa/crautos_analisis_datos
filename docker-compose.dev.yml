@@ -56,15 +56,21 @@ services:
       - ./frontend:/app
     restart: always
 
+
   scheduler:
-    image: mcuadros/ofelia:latest
+    build:
+      context: ./backend
+      dockerfile: cron/Dockerfile
     container_name: crautos_scheduler
     depends_on:
       - scraper
-    command: daemon --docker
+    ports:
+      - "8081:8081"
+    environment:
+      - AUTH_USERNAME=${AUTH_USERNAME:-admin}
+      - AUTH_PASSWORD=${AUTH_PASSWORD:-admin}
+      - SCRAPER_CONTAINER_NAME=crautos_scraper_dev
+      - SCRAPER_CRON="0 0 * * *"
     volumes:
-      - /var/run/docker.sock:/var/run/docker.sock:ro
-    labels:
-      ofelia.job-exec.crautos-scraper-daily.schedule: "@daily"
-      ofelia.job-exec.crautos-scraper-daily.container: "crautos_scraper_dev"
-      ofelia.job-exec.crautos-scraper-daily.command: "python -m data_scrapper.run_scraper all"
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: always
