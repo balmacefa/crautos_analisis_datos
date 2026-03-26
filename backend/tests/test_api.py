@@ -67,3 +67,25 @@ async def test_api_insights_models():
         assert "marca" in data[0]
         assert "modelo" in data[0]
         assert "count" in data[0]
+
+@pytest.mark.asyncio
+async def test_api_insights_price_ranges_crc():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/price-ranges-crc")
+    assert response.status_code == 200
+    data = response.json()
+    assert isinstance(data, list)
+    if len(data) > 0:
+        assert "marca" in data[0]
+        assert "rango_m_crc" in data[0]
+
+@pytest.mark.asyncio
+async def test_api_insights_mileage():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/mileage")
+    assert response.status_code == 200
+    data = response.json()
+    assert isinstance(data, list)
+    if len(data) > 0:
+        assert "marca" in data[0]
+        assert "kilometraje_number" in data[0]

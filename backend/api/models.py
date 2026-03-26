@@ -58,19 +58,23 @@ class BrandStat(BaseModel):
     marca: str
     count: int
     avg_price_usd: float
+    avg_price_crc: float
 
 class YearStat(BaseModel):
     año: int
     count: int
     avg_price_usd: float
+    avg_price_crc: float
 
 class ProvinceStat(BaseModel):
     provincia: str
     count: int
     avg_price_usd: float
+    avg_price_crc: float
 
 class ModelStat(BaseModel):
     marca: str
     modelo: str
     count: int
     avg_price_usd: float
+    avg_price_crc: float

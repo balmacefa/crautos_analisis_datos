@@ -176,7 +176,8 @@ async def get_brands_insight():
         SELECT 
             json_extract(raw_json, '$.marca') as marca, 
             COUNT(*) as count,
-            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
         FROM car_details
         WHERE json_extract(raw_json, '$.marca') IS NOT NULL
         GROUP BY marca
@@ -188,7 +189,8 @@ async def get_brands_insight():
         res.append(BrandStat(
             marca=r["marca"], 
             count=r["count"], 
-            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2)
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2)
         ))
         
     return res
@@ -201,7 +203,8 @@ async def get_years_insight():
         SELECT 
             json_extract(raw_json, '$.año') as año, 
             COUNT(*) as count,
-            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
         FROM car_details
         WHERE json_extract(raw_json, '$.año') IS NOT NULL
         GROUP BY año
@@ -213,7 +216,8 @@ async def get_years_insight():
         res.append(YearStat(
             año=r["año"], 
             count=r["count"], 
-            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2)
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2)
         ))
         
     return res
@@ -226,7 +230,8 @@ async def get_provinces_insight():
         SELECT 
             json_extract(raw_json, '$.informacion_general.provincia') as provincia, 
             COUNT(*) as count,
-            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
         FROM car_details
         WHERE json_extract(raw_json, '$.informacion_general.provincia') IS NOT NULL
         GROUP BY provincia
@@ -238,7 +243,8 @@ async def get_provinces_insight():
         res.append(ProvinceStat(
             provincia=r["provincia"], 
             count=r["count"], 
-            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2)
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2)
         ))
         
     return res
@@ -252,7 +258,8 @@ async def get_models_insight():
             json_extract(raw_json, '$.marca') as marca, 
             json_extract(raw_json, '$.modelo') as modelo, 
             COUNT(*) as count,
-            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
         FROM car_details
         WHERE json_extract(raw_json, '$.marca') IS NOT NULL 
           AND json_extract(raw_json, '$.modelo') IS NOT NULL
@@ -267,7 +274,77 @@ async def get_models_insight():
             marca=r["marca"], 
             modelo=r["modelo"], 
             count=r["count"], 
-            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2)
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2)
         ))
         
     return res
+
+@app.get("/api/insights/price-ranges-crc")
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_price_ranges_crc():
+    query = """
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            json_extract(raw_json, '$.año') as año,
+            json_extract(raw_json, '$.precio_crc') as precio_crc
+        FROM car_details
+        WHERE json_extract(raw_json, '$.precio_crc') IS NOT NULL
+        AND json_extract(raw_json, '$.marca') IS NOT NULL
+        AND json_extract(raw_json, '$.modelo') IS NOT NULL
+        AND json_extract(raw_json, '$.año') IS NOT NULL
+    """
+    rows = await execute_query(query)
+
+    # We will process ranges in frontend or return raw data. For analytical flexibility,
+    # returning the filtered records to allow frontend to group into ranges is best.
+    # To keep response small, maybe we can group them here.
+
+    # Let's create an aggregation directly
+    import math
+    results = []
+    for r in rows:
+        if not r["precio_crc"]: continue
+        price_crc = r["precio_crc"]
+        # Determine the range: 0.5M, 1M, 1.5M, etc.
+        # We can calculate the range bucket by multiplying and dividing.
+        # Bucket = ceil(price_crc / 500000) * 0.5
+        bucket = math.ceil(price_crc / 500000.0) * 0.5
+        results.append({
+            "marca": r["marca"],
+            "modelo": r["modelo"],
+            "año": r["año"],
+            "precio_crc": price_crc,
+            "rango_m_crc": bucket
+        })
+    return results
+
+@app.get("/api/insights/mileage")
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_mileage_insight():
+    query = """
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            json_extract(raw_json, '$.año') as año,
+            json_extract(raw_json, '$.precio_crc') as precio_crc,
+            json_extract(raw_json, '$.precio_usd') as precio_usd,
+            json_extract(raw_json, '$.informacion_general.kilometraje_number') as kilometraje_number
+        FROM car_details
+        WHERE json_extract(raw_json, '$.informacion_general.kilometraje_number') IS NOT NULL
+        AND json_extract(raw_json, '$.informacion_general.kilometraje_number') > 0
+    """
+    rows = await execute_query(query)
+
+    results = []
+    for r in rows:
+        results.append({
+            "marca": r["marca"],
+            "modelo": r["modelo"],
+            "año": r["año"],
+            "precio_crc": r["precio_crc"],
+            "precio_usd": r["precio_usd"],
+            "kilometraje_number": r["kilometraje_number"]
+        })
+    return results

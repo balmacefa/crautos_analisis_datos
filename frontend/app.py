@@ -156,7 +156,7 @@ app.layout = html.Div([
         dbc.Tabs([
             dbc.Tab(label="Búsqueda de Autos", tab_id="tab-search", label_class_name="cr-tab-label", active_label_class_name="cr-tab-active"),
             dbc.Tab(label="Estadísticas / Insights", tab_id="tab-stats", label_class_name="cr-tab-label", active_label_class_name="cr-tab-active"),
-        ], id="main-tabs", active_tab="tab-search", className="cr-tabs"),
+        ], id="main-tabs", active_tab="tab-stats", className="cr-tabs"),
         
         html.Div(id="tab-content", className="cr-tab-content")
     ]),
@@ -243,7 +243,7 @@ def layout_stats():
             ], lg=6),
             dbc.Col([
                 html.Div(className="cr-chart-card", children=[
-                    html.H4("Precio Promedio por Marca (Top 10)"),
+                    html.H4("Precio Promedio por Marca (Top 10) - CRC"),
                     dcc.Graph(id="chart-brands"),
                 ])
             ], lg=6),
@@ -256,6 +256,38 @@ def layout_stats():
                 ])
             ], width=12),
         ]),
+        html.H2("Análisis por Rango de Precio (CRC)", className="cr-dashboard-title", style={"marginTop": "2rem"}),
+        dbc.Row([
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Distribución por Rango de Precio (Millones CRC)"),
+                    dcc.Graph(id="chart-price-ranges"),
+                ])
+            ], width=12),
+        ]),
+        html.H2("Analítica por Kilometraje", className="cr-dashboard-title", style={"marginTop": "2rem"}),
+        dbc.Row([
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Kilometraje vs Precio (CRC)"),
+                    dcc.Graph(id="chart-mileage-price"),
+                ])
+            ], lg=6),
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Kilometraje Promedio por Marca"),
+                    dcc.Graph(id="chart-mileage-brand"),
+                ])
+            ], lg=6),
+        ]),
+        dbc.Row([
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Kilometraje vs Año"),
+                    dcc.Graph(id="chart-mileage-year"),
+                ])
+            ], width=12),
+        ])
     ])
 
 
@@ -434,40 +466,99 @@ def toggle_modal(n_btns, n_close, is_open):
     Output("chart-provinces", "figure"),
     Output("chart-brands", "figure"),
     Output("chart-models", "figure"),
+    Output("chart-price-ranges", "figure"),
+    Output("chart-mileage-price", "figure"),
+    Output("chart-mileage-brand", "figure"),
+    Output("chart-mileage-year", "figure"),
     Input("main-tabs", "active_tab"),
 )
 def update_charts(active_tab):
     if active_tab != "tab-stats":
-        return {}, {}, {}
+        return {}, {}, {}, {}, {}, {}, {}
     
     try:
         # Provinces
         r_p = httpx.get(f"{API_BASE}/api/insights/provinces", timeout=5).json()
         df_p = pd.DataFrame(r_p)
-        fig_p = px.bar(df_p, x="provincia", y="count", color="avg_price_usd",
-                       labels={"count": "Cantidad", "provincia": "Provincia", "avg_price_usd": "Precio Avg ($)"},
-                       color_continuous_scale="Viridis", template="plotly_white")
-        fig_p.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=300)
+        if not df_p.empty:
+            fig_p = px.bar(df_p, x="provincia", y="count", color="avg_price_crc",
+                           labels={"count": "Cantidad", "provincia": "Provincia", "avg_price_crc": "Precio Avg (CRC)"},
+                           color_continuous_scale="Viridis", template="plotly_white")
+            fig_p.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=300)
+        else:
+            fig_p = {}
 
         # Brands
         r_b = httpx.get(f"{API_BASE}/api/insights/brands", timeout=5).json()
         df_b = pd.DataFrame(r_b).head(10)
-        fig_b = px.bar(df_b, x="marca", y="avg_price_usd", color="count",
-                       labels={"count": "Cantidad", "marca": "Marca", "avg_price_usd": "Precio Avg ($)"},
-                       color_continuous_scale="Bluered", template="plotly_white")
-        fig_b.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=300)
+        if not df_b.empty:
+            fig_b = px.bar(df_b, x="marca", y="avg_price_crc", color="count",
+                           labels={"count": "Cantidad", "marca": "Marca", "avg_price_crc": "Precio Avg (CRC)"},
+                           color_continuous_scale="Bluered", template="plotly_white")
+            fig_b.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=300)
+        else:
+            fig_b = {}
 
         # Models (Treemap)
         r_m = httpx.get(f"{API_BASE}/api/insights/models", timeout=5).json()
         df_m = pd.DataFrame(r_m)
-        fig_m = px.treemap(df_m, path=["marca", "modelo"], values="count", color="avg_price_usd",
-                           color_continuous_scale="RdBu_r", template="plotly_white")
-        fig_m.update_layout(margin=dict(l=10, r=10, t=10, b=10), height=500)
+        if not df_m.empty:
+            fig_m = px.treemap(df_m, path=["marca", "modelo"], values="count", color="avg_price_crc",
+                               color_continuous_scale="RdBu_r", template="plotly_white")
+            fig_m.update_layout(margin=dict(l=10, r=10, t=10, b=10), height=500)
+        else:
+            fig_m = {}
 
-        return fig_p, fig_b, fig_m
+        # Price Ranges CRC
+        r_pr = httpx.get(f"{API_BASE}/api/insights/price-ranges-crc", timeout=5).json()
+        df_pr = pd.DataFrame(r_pr)
+        # Create a formatted label like "0.5 M", "1.0 M", etc.
+        if not df_pr.empty:
+            df_pr = df_pr.sort_values("rango_m_crc")
+            df_pr["Rango"] = df_pr["rango_m_crc"].apply(lambda x: f"{x:.1f} M")
+
+            # Use treemap or sunburst to visualize ranges, brands, and models
+            df_pr_grouped = df_pr.groupby(["Rango", "marca", "modelo"]).size().reset_index(name="count")
+            fig_pr = px.treemap(df_pr_grouped, path=["Rango", "marca", "modelo"], values="count",
+                                  labels={"Rango": "Rango de Precio (CRC)", "count": "Cantidad", "marca": "Marca", "modelo": "Modelo"},
+                                  template="plotly_white")
+
+            fig_pr.update_layout(margin=dict(l=10, r=10, t=10, b=10), height=500)
+        else:
+            fig_pr = {}
+
+        # Mileage Analytics
+        r_mil = httpx.get(f"{API_BASE}/api/insights/mileage", timeout=5).json()
+        df_mil = pd.DataFrame(r_mil)
+
+        if not df_mil.empty:
+            # Mileage vs Price
+            fig_mil_price = px.scatter(df_mil, x="kilometraje_number", y="precio_crc", color="marca",
+                                       labels={"kilometraje_number": "Kilometraje", "precio_crc": "Precio (CRC)", "marca": "Marca"},
+                                       template="plotly_white", opacity=0.7)
+            fig_mil_price.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=300)
+
+            # Average Mileage by Brand
+            df_mil_brand = df_mil.groupby("marca")["kilometraje_number"].mean().reset_index().sort_values("kilometraje_number", ascending=False).head(15)
+            fig_mil_brand = px.bar(df_mil_brand, x="marca", y="kilometraje_number", color="kilometraje_number",
+                                   labels={"marca": "Marca", "kilometraje_number": "Kilometraje Avg"},
+                                   color_continuous_scale="Oranges", template="plotly_white")
+            fig_mil_brand.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=300)
+
+            # Mileage vs Year
+            fig_mil_year = px.box(df_mil, x="año", y="kilometraje_number",
+                                  labels={"año": "Año", "kilometraje_number": "Kilometraje"},
+                                  template="plotly_white")
+            fig_mil_year.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=300)
+        else:
+            fig_mil_price = {}
+            fig_mil_brand = {}
+            fig_mil_year = {}
+
+        return fig_p, fig_b, fig_m, fig_pr, fig_mil_price, fig_mil_brand, fig_mil_year
     except Exception as e:
         print(f"Stats error: {e}")
-        return {}, {}, {}
+        return {}, {}, {}, {}, {}, {}, {}
 
 
 # ---------------------------------------------------------------------------
