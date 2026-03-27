@@ -755,9 +755,9 @@ def on_init(n, current_style):
         if last_updated:
             # last_updated is an ISO timestamp, e.g., '2023-10-27T14:30:00Z'
             try:
-                # Basic extraction of date to keep it simple
-                date_part = str(last_updated).split("T")[0]
-                banner_text = f"Última actualización de la base de datos: {date_part}"
+                # Basic extraction of date and time
+                date_time_part = str(last_updated).replace("T", " ").split(".")[0].replace("Z", "")
+                banner_text = f"Última actualización de la base de datos: {date_time_part}"
                 banner_style["display"] = "block"
             except:
                 banner_style["display"] = "none"
