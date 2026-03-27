@@ -5,7 +5,7 @@ import json
 from cachetools import TTLCache
 from asyncache import cached
 from .database import execute_query
-from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat
+from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData
 
 app = FastAPI(title="Crautos Async Data API")
 
@@ -347,4 +347,146 @@ async def get_mileage_insight():
             "precio_usd": r["precio_usd"],
             "kilometraje_number": r["kilometraje_number"]
         })
+    return results
+
+
+@app.get("/api/insights/curiosities", response_model=CuriositiesResponse)
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_curiosities():
+    query_most_expensive = """
+        SELECT car_id, raw_json
+        FROM car_details
+        WHERE json_extract(raw_json, '$.precio_usd') IS NOT NULL
+        ORDER BY json_extract(raw_json, '$.precio_usd') DESC
+        LIMIT 1
+    """
+
+    query_cheapest = """
+        SELECT car_id, raw_json
+        FROM car_details
+        WHERE json_extract(raw_json, '$.precio_usd') IS NOT NULL
+          AND json_extract(raw_json, '$.precio_usd') > 500
+        ORDER BY json_extract(raw_json, '$.precio_usd') ASC
+        LIMIT 1
+    """
+
+    query_oldest = """
+        SELECT car_id, raw_json
+        FROM car_details
+        WHERE json_extract(raw_json, '$.año') IS NOT NULL
+          AND json_extract(raw_json, '$.año') > 1900
+        ORDER BY json_extract(raw_json, '$.año') ASC
+        LIMIT 1
+    """
+
+    query_highest_mileage = """
+        SELECT car_id, raw_json
+        FROM car_details
+        WHERE json_extract(raw_json, '$.informacion_general.kilometraje_number') IS NOT NULL
+          AND json_extract(raw_json, '$.informacion_general.kilometraje_number') > 0
+          AND json_extract(raw_json, '$.informacion_general.kilometraje_number') < 10000000
+        ORDER BY json_extract(raw_json, '$.informacion_general.kilometraje_number') DESC
+        LIMIT 1
+    """
+
+    async def fetch_curiosity(query, title_fmt, desc_fmt):
+        rows = await execute_query(query)
+        if not rows:
+            return None
+        r = rows[0]
+        rj = json.loads(r["raw_json"])
+
+        # default fallbacks
+        marca = rj.get("marca", "Desconocida")
+        modelo = rj.get("modelo", "Desconocido")
+        año = rj.get("año", 0)
+        precio_usd = rj.get("precio_usd", 0.0) or 0.0
+        precio_crc = rj.get("precio_crc", 0.0) or 0.0
+        imagen_principal = rj.get("imagen_principal")
+
+        gen_info = rj.get("informacion_general", {})
+        kilometraje_number = gen_info.get("kilometraje_number")
+
+        return CuriosityCar(
+            car_id=r["car_id"],
+            marca=marca,
+            modelo=modelo,
+            año=año,
+            precio_usd=precio_usd,
+            precio_crc=precio_crc,
+            kilometraje_number=kilometraje_number,
+            imagen_principal=imagen_principal,
+            title=title_fmt.format(marca=marca, modelo=modelo, año=año),
+            description=desc_fmt.format(
+                precio_usd=precio_usd,
+                precio_crc=precio_crc,
+                año=año,
+                km=kilometraje_number
+            )
+        )
+
+    most_expensive = await fetch_curiosity(
+        query_most_expensive,
+        "El más caro: {marca} {modelo} {año}",
+        "${precio_usd:,.0f} USD"
+    )
+
+    cheapest = await fetch_curiosity(
+        query_cheapest,
+        "El más económico: {marca} {modelo} {año}",
+        "${precio_usd:,.0f} USD"
+    )
+
+    oldest = await fetch_curiosity(
+        query_oldest,
+        "El más antiguo: {marca} {modelo} {año}",
+        "Año {año}"
+    )
+
+    highest_mileage = await fetch_curiosity(
+        query_highest_mileage,
+        "Mayor kilometraje: {marca} {modelo} {año}",
+        "{km:,} km"
+    )
+
+    return CuriositiesResponse(
+        most_expensive=most_expensive,
+        cheapest=cheapest,
+        oldest=oldest,
+        highest_mileage=highest_mileage
+    )
+
+@app.get("/api/insights/explorer", response_model=List[ExplorerData])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_explorer_data():
+    query = """
+        SELECT
+            car_id,
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            json_extract(raw_json, '$.año') as año,
+            json_extract(raw_json, '$.precio_crc') as precio_crc,
+            json_extract(raw_json, '$.precio_usd') as precio_usd,
+            json_extract(raw_json, '$.informacion_general.kilometraje_number') as kilometraje_number,
+            json_extract(raw_json, '$.informacion_general.provincia') as provincia,
+            json_extract(raw_json, '$.informacion_general.combustible') as combustible,
+            json_extract(raw_json, '$.informacion_general.transmisión') as transmisión
+        FROM car_details
+    """
+    rows = await execute_query(query)
+
+    results = []
+    for r in rows:
+        results.append(ExplorerData(
+            car_id=r["car_id"],
+            marca=r["marca"],
+            modelo=r["modelo"],
+            año=r["año"],
+            precio_crc=r["precio_crc"],
+            precio_usd=r["precio_usd"],
+            kilometraje_number=r["kilometraje_number"],
+            provincia=r["provincia"],
+            combustible=r["combustible"],
+            transmisión=r["transmisión"]
+        ))
     return results
