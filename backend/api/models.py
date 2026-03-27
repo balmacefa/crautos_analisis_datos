@@ -53,6 +53,7 @@ class SummaryStats(BaseModel):
     avg_price_usd: float
     avg_price_crc: float
     top_brands: List[dict]
+    last_updated: Optional[str] = None
 
 class BrandStat(BaseModel):
     marca: str

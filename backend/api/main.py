@@ -136,8 +136,9 @@ async def get_car(car_id: str):
 @app.get("/api/insights/summary", response_model=SummaryStats)
 @cached(cache=TTLCache(maxsize=1, ttl=3600))
 async def get_summary():
-    total_cars_row = await execute_query("SELECT count(*) as c FROM car_details")
-    total_cars = total_cars_row[0]["c"]
+    total_cars_row = await execute_query("SELECT count(*) as c, MAX(scraped_at) as last_updated FROM car_details")
+    total_cars = total_cars_row[0]["c"] if total_cars_row else 0
+    last_updated = total_cars_row[0]["last_updated"] if total_cars_row else None
     
     avg_row = await execute_query("""
         SELECT 
@@ -146,8 +147,8 @@ async def get_summary():
         FROM car_details
     """)
     
-    avg_usd = avg_row[0]["avg_usd"] or 0.0
-    avg_crc = avg_row[0]["avg_crc"] or 0.0
+    avg_usd = avg_row[0]["avg_usd"] or 0.0 if avg_row else 0.0
+    avg_crc = avg_row[0]["avg_crc"] or 0.0 if avg_row else 0.0
     
     top_brands_rows = await execute_query("""
         SELECT 
@@ -165,7 +166,8 @@ async def get_summary():
         total_cars=total_cars,
         avg_price_usd=round(avg_usd, 2),
         avg_price_crc=round(avg_crc, 2),
-        top_brands=top_brands
+        top_brands=top_brands,
+        last_updated=last_updated
     )
 
 # Cache the response for 1 hour

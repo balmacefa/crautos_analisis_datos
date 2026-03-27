@@ -149,6 +149,13 @@ def make_car_card(car: dict) -> html.Div:
 # ---------------------------------------------------------------------------
 app.layout = html.Div([
     dcc.Location(id="url", refresh=False),
+
+    # Update banner
+    html.Div(
+        id="update-banner",
+        style={"display": "none", "backgroundColor": "#e3f2fd", "color": "#0d47a1", "padding": "8px", "textAlign": "center", "fontSize": "0.9rem", "fontWeight": "bold"}
+    ),
+
     make_navbar(),
     make_hero(),
     
@@ -722,21 +729,47 @@ def update_charts(active_tab):
 @app.callback(
     Output("stat-total", "children"),
     Output("stat-price", "children"),
+    Output("update-banner", "children"),
+    Output("update-banner", "style"),
     Input("init-trigger", "n_intervals"),
+    State("update-banner", "style"),
 )
-def on_init(n):
+def on_init(n, current_style):
+    if current_style is None:
+        current_style = {}
+
     try:
         resp = httpx.get(f"{API_BASE}/api/insights/summary", timeout=5)
         resp.raise_for_status()
         data = resp.json()
         total = data.get("total_cars", 0)
         avg_usd = data.get("avg_price_usd", 0)
+        last_updated = data.get("last_updated")
         
         total_str = f"{total:,}+" if total > 0 else "—"
         price_str = f"${avg_usd:,.0f}" if avg_usd > 0 else "—"
-        return total_str, price_str
-    except:
-        return "—", "—"
+
+        banner_text = ""
+        banner_style = dict(current_style)
+
+        if last_updated:
+            # last_updated is an ISO timestamp, e.g., '2023-10-27T14:30:00Z'
+            try:
+                # Basic extraction of date to keep it simple
+                date_part = str(last_updated).split("T")[0]
+                banner_text = f"Última actualización de la base de datos: {date_part}"
+                banner_style["display"] = "block"
+            except:
+                banner_style["display"] = "none"
+        else:
+            banner_style["display"] = "none"
+
+        return total_str, price_str, banner_text, banner_style
+    except Exception as e:
+        print(f"on_init error: {e}")
+        banner_style = dict(current_style)
+        banner_style["display"] = "none"
+        return "—", "—", "", banner_style
 
 
 # ---------------------------------------------------------------------------

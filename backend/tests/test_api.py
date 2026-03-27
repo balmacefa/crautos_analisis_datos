@@ -22,6 +22,7 @@ async def test_api_insights_summary():
     assert "total_cars" in data
     assert "avg_price_usd" in data
     assert "top_brands" in data
+    assert "last_updated" in data
 
 @pytest.mark.asyncio
 async def test_api_insights_brands():
