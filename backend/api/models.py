@@ -53,12 +53,43 @@ class SummaryStats(BaseModel):
     avg_price_usd: float
     avg_price_crc: float
     top_brands: List[dict]
+    last_updated: Optional[str] = None
 
 class BrandStat(BaseModel):
     marca: str
     count: int
     avg_price_usd: float
     avg_price_crc: float
+
+class CuriosityCar(BaseModel):
+    car_id: str
+    marca: str
+    modelo: str
+    año: int
+    precio_usd: float
+    precio_crc: float
+    kilometraje_number: Optional[int] = None
+    imagen_principal: Optional[str] = None
+    title: str
+    description: str
+
+class CuriositiesResponse(BaseModel):
+    most_expensive: Optional[CuriosityCar] = None
+    cheapest: Optional[CuriosityCar] = None
+    oldest: Optional[CuriosityCar] = None
+    highest_mileage: Optional[CuriosityCar] = None
+
+class ExplorerData(BaseModel):
+    car_id: str
+    marca: Optional[str] = None
+    modelo: Optional[str] = None
+    año: Optional[int] = None
+    precio_crc: Optional[float] = None
+    precio_usd: Optional[float] = None
+    kilometraje_number: Optional[int] = None
+    provincia: Optional[str] = None
+    combustible: Optional[str] = None
+    transmisión: Optional[str] = None
 
 class YearStat(BaseModel):
     año: int

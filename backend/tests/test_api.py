@@ -22,6 +22,7 @@ async def test_api_insights_summary():
     assert "total_cars" in data
     assert "avg_price_usd" in data
     assert "top_brands" in data
+    assert "last_updated" in data
 
 @pytest.mark.asyncio
 async def test_api_insights_brands():
@@ -88,4 +89,27 @@ async def test_api_insights_mileage():
     assert isinstance(data, list)
     if len(data) > 0:
         assert "marca" in data[0]
+        assert "kilometraje_number" in data[0]
+
+@pytest.mark.asyncio
+async def test_api_insights_curiosities():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/curiosities")
+    assert response.status_code == 200
+    data = response.json()
+    assert "most_expensive" in data
+    assert "cheapest" in data
+    assert "oldest" in data
+    assert "highest_mileage" in data
+
+@pytest.mark.asyncio
+async def test_api_insights_explorer():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/explorer")
+    assert response.status_code == 200
+    data = response.json()
+    assert isinstance(data, list)
+    if len(data) > 0:
+        assert "car_id" in data[0]
+        assert "precio_usd" in data[0]
         assert "kilometraje_number" in data[0]

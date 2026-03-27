@@ -149,6 +149,13 @@ def make_car_card(car: dict) -> html.Div:
 # ---------------------------------------------------------------------------
 app.layout = html.Div([
     dcc.Location(id="url", refresh=False),
+
+    # Update banner
+    html.Div(
+        id="update-banner",
+        style={"display": "none", "backgroundColor": "#e3f2fd", "color": "#0d47a1", "padding": "8px", "textAlign": "center", "fontSize": "0.9rem", "fontWeight": "bold"}
+    ),
+
     make_navbar(),
     make_hero(),
     
@@ -233,6 +240,19 @@ def layout_search():
 # ---------------------------------------------------------------------------
 def layout_stats():
     return html.Div(className="cr-stats-dashboard", children=[
+        html.H2("Curiosidades del Mercado", className="cr-dashboard-title", style={"marginBottom": "20px"}),
+        dcc.Loading(
+            id="loading-curiosities",
+            type="circle",
+            color="var(--accent-1)",
+            children=html.Div(id="curiosities-container", className="cr-curiosities-grid", style={
+                "display": "grid",
+                "gridTemplateColumns": "repeat(auto-fit, minmax(250px, 1fr))",
+                "gap": "20px",
+                "marginBottom": "40px"
+            })
+        ),
+
         html.H2("Análisis del Mercado Automotriz", className="cr-dashboard-title"),
         dbc.Row([
             dbc.Col([
@@ -287,6 +307,55 @@ def layout_stats():
                     dcc.Graph(id="chart-mileage-year"),
                 ])
             ], width=12),
+        ]),
+
+        html.H2("Explorador Interactivo de Datos", className="cr-dashboard-title", style={"marginTop": "3rem"}),
+        html.Div(className="cr-chart-card", style={"padding": "2rem"}, children=[
+            dbc.Row([
+                dbc.Col([
+                    html.Label("Eje X"),
+                    dcc.Dropdown(
+                        id="explorer-x",
+                        options=[
+                            {"label": "Año", "value": "año"},
+                            {"label": "Kilometraje", "value": "kilometraje_number"},
+                            {"label": "Precio CRC", "value": "precio_crc"},
+                            {"label": "Precio USD", "value": "precio_usd"}
+                        ],
+                        value="año",
+                        clearable=False
+                    ),
+                ], md=4),
+                dbc.Col([
+                    html.Label("Eje Y"),
+                    dcc.Dropdown(
+                        id="explorer-y",
+                        options=[
+                            {"label": "Precio CRC", "value": "precio_crc"},
+                            {"label": "Precio USD", "value": "precio_usd"},
+                            {"label": "Kilometraje", "value": "kilometraje_number"},
+                            {"label": "Año", "value": "año"}
+                        ],
+                        value="precio_usd",
+                        clearable=False
+                    ),
+                ], md=4),
+                dbc.Col([
+                    html.Label("Agrupar por (Color)"),
+                    dcc.Dropdown(
+                        id="explorer-color",
+                        options=[
+                            {"label": "Marca", "value": "marca"},
+                            {"label": "Transmisión", "value": "transmisión"},
+                            {"label": "Combustible", "value": "combustible"},
+                            {"label": "Provincia", "value": "provincia"}
+                        ],
+                        value="transmisión",
+                        clearable=False
+                    ),
+                ], md=4),
+            ], style={"marginBottom": "20px"}),
+            dcc.Graph(id="chart-explorer")
         ])
     ])
 
@@ -460,8 +529,101 @@ def toggle_modal(n_btns, n_close, is_open):
 
 
 # ---------------------------------------------------------------------------
-# Callbacks: Statistics Graphs
+# Callbacks: Statistics Graphs & Explorer & Curiosities
 # ---------------------------------------------------------------------------
+def make_curiosity_card(title, curiosity_data):
+    if not curiosity_data:
+        return html.Div(className="cr-chart-card", children=[html.H4(title), html.P("Sin datos")])
+
+    img_src = curiosity_data.get("imagen_principal")
+    img_component = html.Img(src=img_src, style={"width": "100%", "height": "150px", "objectFit": "cover", "borderRadius": "8px"}) if img_src else CAR_SVG
+
+    return html.Div(className="cr-chart-card", style={"padding": "1rem", "textAlign": "center"}, children=[
+        html.H4(title, style={"fontSize": "1.1rem", "color": "var(--text-secondary)"}),
+        html.Div(img_component, style={"margin": "10px 0"}),
+        html.H3(curiosity_data.get("title"), style={"fontSize": "1.2rem", "margin": "10px 0"}),
+        html.P(curiosity_data.get("description"), style={"fontWeight": "bold", "color": "var(--accent-1)"}),
+        html.Button(
+            "Ver Auto",
+            className="cr-card-btn",
+            id={"type": "card-btn", "index": str(curiosity_data.get("car_id"))},
+            n_clicks=0,
+            style={"marginTop": "10px", "padding": "5px 15px", "fontSize": "0.9rem", "width": "auto"}
+        )
+    ])
+
+
+@app.callback(
+    Output("curiosities-container", "children"),
+    Input("main-tabs", "active_tab"),
+)
+def update_curiosities(active_tab):
+    if active_tab != "tab-stats":
+        return dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/curiosities", timeout=5).json()
+        cards = [
+            make_curiosity_card("El Más Caro", r.get("most_expensive")),
+            make_curiosity_card("El Más Económico", r.get("cheapest")),
+            make_curiosity_card("El Más Antiguo", r.get("oldest")),
+            make_curiosity_card("Mayor Kilometraje", r.get("highest_mileage"))
+        ]
+        return cards
+    except Exception as e:
+        print(f"Curiosities error: {e}")
+        return html.Div("No se pudieron cargar las curiosidades.")
+
+
+@app.callback(
+    Output("chart-explorer", "figure"),
+    Input("main-tabs", "active_tab"),
+    Input("explorer-x", "value"),
+    Input("explorer-y", "value"),
+    Input("explorer-color", "value")
+)
+def update_explorer(active_tab, x_col, y_col, color_col):
+    if active_tab != "tab-stats":
+        return dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/explorer", timeout=10).json()
+        df = pd.DataFrame(r)
+
+        if df.empty:
+            return {}
+
+        # Clean NaNs depending on selections
+        df = df.dropna(subset=[x_col, y_col])
+
+        labels_map = {
+            "año": "Año",
+            "kilometraje_number": "Kilometraje",
+            "precio_crc": "Precio (CRC)",
+            "precio_usd": "Precio (USD)",
+            "marca": "Marca",
+            "transmisión": "Transmisión",
+            "combustible": "Combustible",
+            "provincia": "Provincia"
+        }
+
+        fig = px.scatter(
+            df,
+            x=x_col,
+            y=y_col,
+            color=color_col,
+            hover_data=["marca", "modelo", "año"],
+            labels=labels_map,
+            template="plotly_white",
+            opacity=0.7
+        )
+        fig.update_layout(margin=dict(l=20, r=20, t=40, b=20), height=500)
+        return fig
+    except Exception as e:
+        print(f"Explorer error: {e}")
+        return {}
+
+
 @app.callback(
     Output("chart-provinces", "figure"),
     Output("chart-brands", "figure"),
@@ -474,7 +636,7 @@ def toggle_modal(n_btns, n_close, is_open):
 )
 def update_charts(active_tab):
     if active_tab != "tab-stats":
-        return {}, {}, {}, {}, {}, {}, {}
+        return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
     
     try:
         # Provinces
@@ -567,21 +729,47 @@ def update_charts(active_tab):
 @app.callback(
     Output("stat-total", "children"),
     Output("stat-price", "children"),
+    Output("update-banner", "children"),
+    Output("update-banner", "style"),
     Input("init-trigger", "n_intervals"),
+    State("update-banner", "style"),
 )
-def on_init(n):
+def on_init(n, current_style):
+    if current_style is None:
+        current_style = {}
+
     try:
         resp = httpx.get(f"{API_BASE}/api/insights/summary", timeout=5)
         resp.raise_for_status()
         data = resp.json()
         total = data.get("total_cars", 0)
         avg_usd = data.get("avg_price_usd", 0)
+        last_updated = data.get("last_updated")
         
         total_str = f"{total:,}+" if total > 0 else "—"
         price_str = f"${avg_usd:,.0f}" if avg_usd > 0 else "—"
-        return total_str, price_str
-    except:
-        return "—", "—"
+
+        banner_text = ""
+        banner_style = dict(current_style)
+
+        if last_updated:
+            # last_updated is an ISO timestamp, e.g., '2023-10-27T14:30:00Z'
+            try:
+                # Basic extraction of date to keep it simple
+                date_part = str(last_updated).split("T")[0]
+                banner_text = f"Última actualización de la base de datos: {date_part}"
+                banner_style["display"] = "block"
+            except:
+                banner_style["display"] = "none"
+        else:
+            banner_style["display"] = "none"
+
+        return total_str, price_str, banner_text, banner_style
+    except Exception as e:
+        print(f"on_init error: {e}")
+        banner_style = dict(current_style)
+        banner_style["display"] = "none"
+        return "—", "—", "", banner_style
 
 
 # ---------------------------------------------------------------------------
