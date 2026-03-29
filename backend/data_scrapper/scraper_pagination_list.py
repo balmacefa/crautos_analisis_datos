@@ -112,18 +112,10 @@ async def _collect_all_urls(
     known_total_pages: int | None = None
 
     if repository is not None:
-        # Look for a checkpoint from a previously interrupted run.
-        checkpoint = repository.get_latest_pagination_progress()
-        if checkpoint:
-            start_page = checkpoint["last_page"] + 1
-            detail_urls = set(checkpoint["urls"])
-            known_total_pages = checkpoint["total_pages"] or None
-            logger.info(
-                "Resuming pagination from page %d (checkpoint had %d URLs, total_pages=%s)",
-                start_page,
-                len(detail_urls),
-                known_total_pages,
-            )
+        # For step 1, by default we start from the beginning unless explicitly told otherwise.
+        # Checkpoints are intentionally ignored here to conform to the new requirement.
+        # We start from page 1 and collect all URLs from scratch.
+        pass
     elif os.path.exists(URLS_FILE):
         # Standalone fallback: already done
         logger.info("'%s' exists — skipping URL collection.", URLS_FILE)
@@ -324,11 +316,9 @@ async def _collect_all_urls(
             batch_start, batch_end, len(detail_urls), eta_str, avg_speed
         )
 
-        # Save checkpoint to DB after every successfully attempted batch
-        if repository is not None and run_id is not None:
-            repository.save_pagination_progress(
-                run_id, batch_end, last_page_number, list(detail_urls)
-            )
+        # We no longer save pagination progress mid-run by default as Step 1
+        # always restarts from the beginning.
+        pass
 
     # --- Cleanup workers ---
     for p in worker_pages:
