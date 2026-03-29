@@ -1,0 +1,7 @@
+INFO:     Started server process [17979]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:56586 - "GET /api/insights/brands/compare?brands=Toyota&brands=Hyundai HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42416 - "GET /api/insights/ratios/top HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60048 - "GET /api/insights/brands/compare?brands=Toyota,Hyundai HTTP/1.1" 200 OK

@@ -5,7 +5,7 @@ import json
 from cachetools import TTLCache
 from asyncache import cached
 from .database import execute_query
-from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData
+from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData, DepreciationStat, OpportunityCar, FuelStat, TransmissionStat, RatioStat, BrandComparisonStat
 
 app = FastAPI(title="Crautos Async Data API")
 
@@ -198,6 +198,83 @@ async def get_brands_insight():
     return res
 
 # Cache the response for 1 hour
+@app.get("/api/insights/ratios/top", response_model=List[RatioStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_top_ratios():
+    rows = await execute_query("""
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc,
+            AVG(NULLIF(json_extract(raw_json, '$.informacion_general.kilometraje_number'), 0)) as avg_mileage
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IS NOT NULL
+          AND json_extract(raw_json, '$.modelo') IS NOT NULL
+          AND json_extract(raw_json, '$.informacion_general.kilometraje_number') IS NOT NULL
+          AND json_extract(raw_json, '$.precio_usd') IS NOT NULL
+        GROUP BY marca, modelo
+        HAVING count >= 3
+    """)
+
+    res = []
+    for r in rows:
+        if not r["avg_price_usd"] or not r["avg_mileage"]:
+            continue
+        ratio_usd = r["avg_price_usd"] / r["avg_mileage"]
+        ratio_crc = (r["avg_price_crc"] or 0) / r["avg_mileage"]
+
+        res.append(RatioStat(
+            marca=r["marca"],
+            modelo=r["modelo"],
+            count=r["count"],
+            avg_price_usd=round(r["avg_price_usd"], 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0, 2),
+            avg_mileage=round(r["avg_mileage"], 2),
+            ratio_usd=round(ratio_usd, 4),
+            ratio_crc=round(ratio_crc, 4)
+        ))
+
+    return res
+
+@app.get("/api/insights/brands/compare", response_model=List[BrandComparisonStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_brand_comparison(brands: str = Query(..., description="Comma separated list of brands")):
+    brand_list = [b.strip() for b in brands.split(",")]
+    if not brand_list:
+        return []
+
+    placeholders = ",".join(["?"] * len(brand_list))
+
+    query = f"""
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc,
+            AVG(NULLIF(json_extract(raw_json, '$.informacion_general.kilometraje_number'), 0)) as avg_mileage,
+            AVG(NULLIF(json_extract(raw_json, '$.año'), 0)) as avg_year
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IN ({placeholders})
+        GROUP BY marca
+    """
+
+    rows = await execute_query(query, tuple(brand_list))
+
+    res = []
+    for r in rows:
+        res.append(BrandComparisonStat(
+            marca=r["marca"],
+            count=r["count"],
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2),
+            avg_mileage=round(r["avg_mileage"] or 0.0, 2),
+            avg_year=round(r["avg_year"] or 0.0, 1)
+        ))
+
+    return res
+
 @app.get("/api/insights/years", response_model=List[YearStat])
 @cached(cache=TTLCache(maxsize=1, ttl=3600))
 async def get_years_insight():
@@ -252,6 +329,159 @@ async def get_provinces_insight():
     return res
 
 # Cache the response for 1 hour
+@app.get("/api/insights/depreciation", response_model=List[DepreciationStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_depreciation_insight():
+    rows = await execute_query("""
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            json_extract(raw_json, '$.año') as año,
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IS NOT NULL
+          AND json_extract(raw_json, '$.modelo') IS NOT NULL
+          AND json_extract(raw_json, '$.año') IS NOT NULL
+        GROUP BY marca, modelo, año
+        HAVING count >= 3
+        ORDER BY año DESC
+    """)
+
+    res = []
+    for r in rows:
+        res.append(DepreciationStat(
+            marca=r["marca"],
+            modelo=r["modelo"],
+            año=r["año"],
+            count=r["count"],
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2)
+        ))
+
+    return res
+
+@app.get("/api/insights/distribution/fuel", response_model=List[FuelStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_fuel_distribution():
+    rows = await execute_query("""
+        SELECT
+            json_extract(raw_json, '$.informacion_general.combustible') as combustible,
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
+        FROM car_details
+        WHERE json_extract(raw_json, '$.informacion_general.combustible') IS NOT NULL
+        GROUP BY combustible
+        ORDER BY count DESC
+    """)
+
+    res = []
+    for r in rows:
+        res.append(FuelStat(
+            combustible=r["combustible"],
+            count=r["count"],
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2)
+        ))
+
+    return res
+
+@app.get("/api/insights/distribution/transmission", response_model=List[TransmissionStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_transmission_distribution():
+    rows = await execute_query("""
+        SELECT
+            json_extract(raw_json, '$.informacion_general.transmisión') as transmisión,
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
+        FROM car_details
+        WHERE json_extract(raw_json, '$.informacion_general.transmisión') IS NOT NULL
+        GROUP BY transmisión
+        ORDER BY count DESC
+    """)
+
+    res = []
+    for r in rows:
+        res.append(TransmissionStat(
+            transmisión=r["transmisión"],
+            count=r["count"],
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2)
+        ))
+
+    return res
+
+@app.get("/api/insights/opportunities", response_model=List[OpportunityCar])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_opportunities():
+    # Encuentra autos que estén al menos un 15% por debajo del precio promedio de su marca, modelo y año
+    # Limitando a los grupos con al menos 3 vehículos para tener un promedio válido
+    query = """
+    WITH Averages AS (
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            json_extract(raw_json, '$.año') as año,
+            COUNT(*) as group_count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IS NOT NULL
+          AND json_extract(raw_json, '$.modelo') IS NOT NULL
+          AND json_extract(raw_json, '$.año') IS NOT NULL
+        GROUP BY marca, modelo, año
+        HAVING group_count >= 3
+    )
+    SELECT
+        c.car_id,
+        json_extract(c.raw_json, '$.url') as url,
+        json_extract(c.raw_json, '$.marca') as marca,
+        json_extract(c.raw_json, '$.modelo') as modelo,
+        json_extract(c.raw_json, '$.año') as año,
+        json_extract(c.raw_json, '$.precio_usd') as precio_usd,
+        json_extract(c.raw_json, '$.precio_crc') as precio_crc,
+        json_extract(c.raw_json, '$.informacion_general.kilometraje_number') as kilometraje_number,
+        json_extract(c.raw_json, '$.imagen_principal') as imagen_principal,
+        a.avg_price_usd,
+        a.avg_price_crc,
+        -- Calculate deviation
+        ((a.avg_price_usd - json_extract(c.raw_json, '$.precio_usd')) / a.avg_price_usd) * 100 as deviation_percent
+    FROM car_details c
+    JOIN Averages a
+      ON json_extract(c.raw_json, '$.marca') = a.marca
+     AND json_extract(c.raw_json, '$.modelo') = a.modelo
+     AND json_extract(c.raw_json, '$.año') = a.año
+    WHERE json_extract(c.raw_json, '$.precio_usd') > 0
+      AND ((a.avg_price_usd - json_extract(c.raw_json, '$.precio_usd')) / a.avg_price_usd) >= 0.15
+      AND json_extract(c.raw_json, '$.informacion_general.kilometraje_number') < 150000
+    ORDER BY deviation_percent DESC
+    LIMIT 20
+    """
+
+    rows = await execute_query(query)
+
+    res = []
+    for r in rows:
+        res.append(OpportunityCar(
+            car_id=r["car_id"],
+            url=r["url"] or "",
+            marca=r["marca"],
+            modelo=r["modelo"],
+            año=r["año"],
+            precio_usd=r["precio_usd"] or 0.0,
+            precio_crc=r["precio_crc"] or 0.0,
+            kilometraje_number=r["kilometraje_number"],
+            avg_price_usd=round(r["avg_price_usd"] or 0.0, 2),
+            avg_price_crc=round(r["avg_price_crc"] or 0.0, 2),
+            deviation_percent=round(r["deviation_percent"] or 0.0, 2),
+            imagen_principal=r["imagen_principal"]
+        ))
+
+    return res
+
 @app.get("/api/insights/models", response_model=List[ModelStat])
 @cached(cache=TTLCache(maxsize=1, ttl=3600))
 async def get_models_insight():

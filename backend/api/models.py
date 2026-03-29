@@ -61,6 +61,58 @@ class BrandStat(BaseModel):
     avg_price_usd: float
     avg_price_crc: float
 
+class DepreciationStat(BaseModel):
+    marca: str
+    modelo: str
+    año: int
+    count: int
+    avg_price_usd: float
+    avg_price_crc: float
+
+class OpportunityCar(BaseModel):
+    car_id: str
+    url: str
+    marca: str
+    modelo: str
+    año: int
+    precio_usd: float
+    precio_crc: float
+    kilometraje_number: Optional[int] = None
+    avg_price_usd: float
+    avg_price_crc: float
+    deviation_percent: float
+    imagen_principal: Optional[str] = None
+
+class FuelStat(BaseModel):
+    combustible: str
+    count: int
+    avg_price_usd: float
+    avg_price_crc: float
+
+class TransmissionStat(BaseModel):
+    transmisión: str
+    count: int
+    avg_price_usd: float
+    avg_price_crc: float
+
+class RatioStat(BaseModel):
+    marca: str
+    modelo: str
+    avg_price_usd: float
+    avg_price_crc: float
+    avg_mileage: float
+    ratio_usd: float
+    ratio_crc: float
+    count: int
+
+class BrandComparisonStat(BaseModel):
+    marca: str
+    avg_price_usd: float
+    avg_price_crc: float
+    avg_mileage: float
+    avg_year: float
+    count: int
+
 class CuriosityCar(BaseModel):
     car_id: str
     marca: str

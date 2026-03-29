@@ -13,6 +13,26 @@ import pandas as pd
 API_BASE = os.environ.get("API_BASE", "http://localhost:8000")
 
 # ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+def empty_fig():
+    fig = px.line(title="Sin datos")
+    fig.update_layout(
+        xaxis={"visible": False},
+        yaxis={"visible": False},
+        annotations=[
+            {
+                "text": "No hay datos disponibles para la selección actual.",
+                "xref": "paper",
+                "yref": "paper",
+                "showarrow": False,
+                "font": {"size": 16},
+            }
+        ],
+    )
+    return fig
+
+# ---------------------------------------------------------------------------
 # App init — serve Google Fonts + Bootstrap for grid utilities only
 # ---------------------------------------------------------------------------
 app = dash.Dash(
@@ -253,7 +273,70 @@ def layout_stats():
             })
         ),
 
-        html.H2("Análisis del Mercado Automotriz", className="cr-dashboard-title"),
+        html.H2("Vehículos Ganga / Oportunidades", className="cr-dashboard-title"),
+        html.P("Vehículos que se encuentran por lo menos un 15% por debajo del precio promedio para su modelo y año."),
+        dcc.Loading(
+            id="loading-opportunities",
+            type="circle",
+            color="var(--accent-1)",
+            children=html.Div(id="opportunities-container", className="cr-card-grid", style={"marginBottom": "40px"})
+        ),
+
+        html.H2("Top 10 Modelos por Relación Precio / Kilometraje", className="cr-dashboard-title"),
+        html.P("El ratio ($ / km) muestra cuánto estás pagando por cada kilómetro de uso. Un ratio bajo suele indicar un auto muy depreciado (barato relativo a su alto desgaste), mientras que un ratio alto indica que retiene su valor o tiene muy poco kilometraje."),
+        dbc.Row([
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Mejores Relaciones (Menor $/km)"),
+                    html.P("Suelen ser autos económicos pero con alto desgaste. Ideales para presupuestos ajustados."),
+                    dcc.Graph(id="chart-ratio-bottom"),
+                ])
+            ], lg=6),
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Relaciones Más Costosas (Mayor $/km)"),
+                    html.P("Suelen ser modelos que retienen mucho su valor comercial o autos casi nuevos."),
+                    dcc.Graph(id="chart-ratio-top"),
+                ])
+            ], lg=6),
+        ]),
+
+        html.H2("Análisis de Pérdida de Valor (Depreciación)", className="cr-dashboard-title"),
+        dbc.Row([
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Depreciación Promedio por Año de Fabricación (Top Marcas) - USD"),
+                    html.P("Muestra cómo decae el precio promedio según el año del vehículo."),
+                    dcc.Dropdown(
+                        id="depreciation-brands",
+                        options=[{"label": m, "value": m} for m in MARCAS],
+                        value=["Toyota", "Hyundai", "Nissan"],
+                        multi=True,
+                        placeholder="Selecciona marcas para comparar",
+                        style={"marginBottom": "10px"}
+                    ),
+                    dcc.Graph(id="chart-depreciation"),
+                ])
+            ], width=12),
+        ]),
+
+        html.H2("Distribución de Combustible y Transmisión", className="cr-dashboard-title", style={"marginTop": "2rem"}),
+        dbc.Row([
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Tipos de Combustible"),
+                    dcc.Graph(id="chart-fuel"),
+                ])
+            ], lg=6),
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Tipos de Transmisión"),
+                    dcc.Graph(id="chart-transmission"),
+                ])
+            ], lg=6),
+        ]),
+
+        html.H2("Análisis del Mercado Automotriz", className="cr-dashboard-title", style={"marginTop": "2rem"}),
         dbc.Row([
             dbc.Col([
                 html.Div(className="cr-chart-card", children=[
@@ -307,6 +390,33 @@ def layout_stats():
                     dcc.Graph(id="chart-mileage-year"),
                 ])
             ], width=12),
+        ]),
+
+        html.H2("Comparativa Rápida de Marcas", className="cr-dashboard-title", style={"marginTop": "2rem"}),
+        html.Div(className="cr-chart-card", children=[
+            html.P("Selecciona dos marcas para comparar sus estadísticas promedio generales."),
+            dbc.Row([
+                dbc.Col([
+                    html.Label("Marca 1"),
+                    dcc.Dropdown(
+                        id="compare-brand-1",
+                        options=[{"label": m, "value": m} for m in MARCAS],
+                        value="Toyota",
+                        clearable=False
+                    ),
+                    html.Div(id="compare-results-1", style={"marginTop": "15px"})
+                ], md=6),
+                dbc.Col([
+                    html.Label("Marca 2"),
+                    dcc.Dropdown(
+                        id="compare-brand-2",
+                        options=[{"label": m, "value": m} for m in MARCAS],
+                        value="Hyundai",
+                        clearable=False
+                    ),
+                    html.Div(id="compare-results-2", style={"marginTop": "15px"})
+                ], md=6),
+            ])
         ]),
 
         html.H2("Explorador Interactivo de Datos", className="cr-dashboard-title", style={"marginTop": "3rem"}),
@@ -552,6 +662,196 @@ def make_curiosity_card(title, curiosity_data):
         )
     ])
 
+
+def make_opportunity_card(car: dict) -> html.Div:
+    marca   = car.get("marca", "—")
+    modelo  = car.get("modelo", "—")
+    year    = car.get("año", "")
+    price   = car.get("precio_usd")
+    avg_price = car.get("avg_price_usd", 0)
+    dev_percent = car.get("deviation_percent", 0)
+    car_id  = car.get("car_id", "")
+
+    title = f"{marca} {modelo}" + (f" {year}" if year else "")
+    price_str = f"${price:,.0f}" if price else "Precio a consultar"
+
+    imagen_principal = car.get("imagen_principal")
+    img_component = html.Img(src=imagen_principal, className="cr-car-img") if imagen_principal else html.Div(className="cr-car-img", children=[CAR_SVG], style={"fontSize": "3.5rem"})
+
+    return html.Div(className="cr-car-card", style={"border": "2px solid var(--accent-1)"}, children=[
+        # Image placeholder
+        img_component,
+        html.Div(f"¡{dev_percent:.0f}% más barato!", style={"position": "absolute", "top": "10px", "right": "10px", "background": "var(--accent-1)", "color": "white", "padding": "5px 10px", "borderRadius": "4px", "fontWeight": "bold", "fontSize": "0.8rem", "zIndex": "10"}),
+        # Body
+        html.Div(className="cr-car-body", children=[
+            html.H3(title, className="cr-car-title"),
+            html.Div(className="cr-car-meta", children=[
+                html.Span(f"Promedio: ${avg_price:,.0f}", className="cr-badge cr-badge-year", style={"background": "#f0f0f0", "color": "#666"}),
+            ]),
+            html.Div(price_str, className="cr-car-price", style={"color": "var(--accent-1)"}),
+            html.Button(
+                "Ver detalles →",
+                className="cr-card-btn",
+                id={"type": "card-btn", "index": str(car_id)},
+                n_clicks=0,
+            ),
+        ]),
+    ])
+
+@app.callback(
+    Output("opportunities-container", "children"),
+    Input("main-tabs", "active_tab"),
+)
+def update_opportunities(active_tab):
+    if active_tab != "tab-stats":
+        return dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/opportunities", timeout=10).json()
+        if not r:
+            return html.Div("No se encontraron oportunidades destacadas.", className="cr-empty-state")
+        return [make_opportunity_card(c) for c in r[:8]] # Show top 8
+    except Exception as e:
+        print(f"Opportunities error: {e}")
+        return html.Div("No se pudieron cargar las oportunidades.")
+
+@app.callback(
+    Output("chart-ratio-bottom", "figure"),
+    Output("chart-ratio-top", "figure"),
+    Input("main-tabs", "active_tab"),
+)
+def update_price_mileage_chart(active_tab):
+    if active_tab != "tab-stats":
+        return dash.no_update, dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/ratios/top", timeout=10).json()
+        df = pd.DataFrame(r)
+
+        if df.empty:
+            return empty_fig(), empty_fig()
+
+        df["modelo_completo"] = df["marca"] + " " + df["modelo"]
+        df_bottom = df.sort_values("ratio_usd", ascending=True).head(10)
+        df_top = df.sort_values("ratio_usd", ascending=False).head(10)
+
+        fig_bottom = px.bar(
+            df_bottom, x="ratio_usd", y="modelo_completo", orientation="h",
+            color="ratio_usd", template="plotly_white",
+            labels={"ratio_usd": "Ratio ($ / km)", "modelo_completo": "Modelo"}
+        )
+        fig_bottom.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=350, yaxis={'categoryorder':'total descending'})
+
+        fig_top = px.bar(
+            df_top, x="ratio_usd", y="modelo_completo", orientation="h",
+            color="ratio_usd", template="plotly_white",
+            labels={"ratio_usd": "Ratio ($ / km)", "modelo_completo": "Modelo"}
+        )
+        fig_top.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=350, yaxis={'categoryorder':'total ascending'})
+
+        return fig_bottom, fig_top
+    except Exception as e:
+        print(f"Ratios error: {e}")
+        return empty_fig(), empty_fig()
+
+@app.callback(
+    Output("compare-results-1", "children"),
+    Output("compare-results-2", "children"),
+    Input("compare-brand-1", "value"),
+    Input("compare-brand-2", "value"),
+    Input("main-tabs", "active_tab"),
+)
+def update_brand_comparison(brand1, brand2, active_tab):
+    if active_tab != "tab-stats" or not brand1 or not brand2:
+        return dash.no_update, dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/brands/compare", params={"brands": f"{brand1},{brand2}"}, timeout=10).json()
+
+        res1, res2 = html.Div("Sin datos suficientes para la marca."), html.Div("Sin datos suficientes para la marca.")
+
+        for item in r:
+            body = html.Div([
+                html.P([html.Strong("Autos analizados: "), f"{item.get('count', 0)}"]),
+                html.P([html.Strong("Precio Promedio: "), f"${item.get('avg_price_usd', 0):,.0f} USD"]),
+                html.P([html.Strong("Kilometraje Promedio: "), f"{item.get('avg_mileage', 0):,.0f} km"]),
+                html.P([html.Strong("Año Promedio: "), f"{item.get('avg_year', 0):.0f}"]),
+            ], style={"padding": "10px", "backgroundColor": "#f8f9fa", "borderRadius": "5px"})
+
+            if item["marca"] == brand1:
+                res1 = body
+            elif item["marca"] == brand2:
+                res2 = body
+
+        return res1, res2
+    except Exception as e:
+        print(f"Compare error: {e}")
+        return html.Div("Error"), html.Div("Error")
+
+
+@app.callback(
+    Output("chart-fuel", "figure"),
+    Output("chart-transmission", "figure"),
+    Input("main-tabs", "active_tab"),
+)
+def update_distribution_charts(active_tab):
+    if active_tab != "tab-stats":
+        return dash.no_update, dash.no_update
+
+    try:
+        r_f = httpx.get(f"{API_BASE}/api/insights/distribution/fuel", timeout=5).json()
+        df_f = pd.DataFrame(r_f)
+        fig_f = px.pie(df_f, names="combustible", values="count", title="Combustible", template="plotly_white", hole=0.3) if not df_f.empty else empty_fig()
+        if not df_f.empty: fig_f.update_traces(textposition='inside', textinfo='percent+label')
+
+        r_t = httpx.get(f"{API_BASE}/api/insights/distribution/transmission", timeout=5).json()
+        df_t = pd.DataFrame(r_t)
+        fig_t = px.pie(df_t, names="transmisión", values="count", title="Transmisión", template="plotly_white", hole=0.3) if not df_t.empty else empty_fig()
+        if not df_t.empty: fig_t.update_traces(textposition='inside', textinfo='percent+label')
+
+        return fig_f, fig_t
+    except Exception as e:
+        print(f"Distribution error: {e}")
+        return empty_fig(), empty_fig()
+
+
+@app.callback(
+    Output("chart-depreciation", "figure"),
+    Input("main-tabs", "active_tab"),
+    Input("depreciation-brands", "value")
+)
+def update_depreciation_chart(active_tab, selected_brands):
+    if active_tab != "tab-stats":
+        return dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/depreciation", timeout=10).json()
+        df = pd.DataFrame(r)
+
+        if df.empty or not selected_brands:
+            return {}
+
+        df_filtered = df[df["marca"].isin(selected_brands)]
+
+        # Agrupar solo por marca y año para el gráfico de líneas (promediando los modelos)
+        df_grouped = df_filtered.groupby(["marca", "año"])["avg_price_usd"].mean().reset_index()
+        df_grouped = df_grouped[df_grouped["año"] >= 2005] # Filtrar para una gráfica más limpia
+        df_grouped = df_grouped.sort_values("año")
+
+        fig = px.line(
+            df_grouped,
+            x="año",
+            y="avg_price_usd",
+            color="marca",
+            markers=True,
+            labels={"año": "Año de Fabricación", "avg_price_usd": "Precio Promedio (USD)", "marca": "Marca"},
+            template="plotly_white"
+        )
+        fig.update_layout(margin=dict(l=20, r=20, t=20, b=20), height=400)
+        return fig
+    except Exception as e:
+        print(f"Depreciation error: {e}")
+        return {}
 
 @app.callback(
     Output("curiosities-container", "children"),
