@@ -61,6 +61,28 @@ class BrandStat(BaseModel):
     avg_price_usd: float
     avg_price_crc: float
 
+class MarketExtremeBrand(BaseModel):
+    marca: str
+    count: int
+
+class MarketExtremeModel(BaseModel):
+    marca: str
+    modelo: str
+    avg_price_crc: float
+    count: int
+
+class MarketExtremesResponse(BaseModel):
+    most_popular_brand: Optional[MarketExtremeBrand] = None
+    least_popular_brand: Optional[MarketExtremeBrand] = None
+    highest_value_model: Optional[MarketExtremeModel] = None
+    lowest_value_model: Optional[MarketExtremeModel] = None
+
+class ModelTransmissionStat(BaseModel):
+    marca: str
+    modelo: str
+    transmisión: str
+    count: int
+
 class DepreciationStat(BaseModel):
     marca: str
     modelo: str

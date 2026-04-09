@@ -113,3 +113,32 @@ async def test_api_insights_explorer():
         assert "car_id" in data[0]
         assert "precio_usd" in data[0]
         assert "kilometraje_number" in data[0]
+
+
+@pytest.mark.asyncio
+async def test_market_extremes_endpoint():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/market-extremes")
+    assert response.status_code == 200
+    data = response.json()
+    assert "most_popular_brand" in data
+    assert "least_popular_brand" in data
+    assert "highest_value_model" in data
+    assert "lowest_value_model" in data
+
+    if data["most_popular_brand"]:
+        assert "marca" in data["most_popular_brand"]
+        assert "count" in data["most_popular_brand"]
+
+@pytest.mark.asyncio
+async def test_models_transmissions_endpoint():
+    async with AsyncClient(transport=ASGITransport(app=app), base_url="http://test") as ac:
+        response = await ac.get("/api/insights/models/transmissions")
+    assert response.status_code == 200
+    data = response.json()
+    assert isinstance(data, list)
+    if len(data) > 0:
+        assert "marca" in data[0]
+        assert "modelo" in data[0]
+        assert "transmisión" in data[0]
+        assert "count" in data[0]
