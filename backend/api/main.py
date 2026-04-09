@@ -5,7 +5,7 @@ import json
 from cachetools import TTLCache
 from asyncache import cached
 from .database import execute_query
-from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData, DepreciationStat, OpportunityCar, FuelStat, TransmissionStat, RatioStat, BrandComparisonStat
+from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData, DepreciationStat, OpportunityCar, FuelStat, TransmissionStat, RatioStat, BrandComparisonStat, MarketExtremeBrand, MarketExtremeModel, MarketExtremesResponse, ModelTransmissionStat
 
 app = FastAPI(title="Crautos Async Data API")
 
@@ -720,5 +720,96 @@ async def get_explorer_data():
             provincia=r["provincia"],
             combustible=r["combustible"],
             transmisión=r["transmisión"]
+        ))
+    return results
+
+@app.get("/api/insights/market-extremes", response_model=MarketExtremesResponse)
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_market_extremes():
+    query_brands = """
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            COUNT(*) as count
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IS NOT NULL
+        GROUP BY marca
+        ORDER BY count DESC
+    """
+    brands = await execute_query(query_brands)
+
+    most_popular_brand = None
+    least_popular_brand = None
+    if brands:
+        most_popular_brand = MarketExtremeBrand(marca=brands[0]["marca"], count=brands[0]["count"])
+        least_popular_brand = MarketExtremeBrand(marca=brands[-1]["marca"], count=brands[-1]["count"])
+
+    query_models = """
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc,
+            COUNT(*) as count
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IS NOT NULL
+          AND json_extract(raw_json, '$.modelo') IS NOT NULL
+          AND json_extract(raw_json, '$.precio_crc') IS NOT NULL
+        GROUP BY marca, modelo
+        HAVING count >= 5 -- Only consider models with at least a few listings to avoid outliers
+        ORDER BY avg_price_crc DESC
+    """
+    models = await execute_query(query_models)
+
+    highest_value_model = None
+    lowest_value_model = None
+    if models:
+        highest_value_model = MarketExtremeModel(
+            marca=models[0]["marca"],
+            modelo=models[0]["modelo"],
+            avg_price_crc=models[0]["avg_price_crc"],
+            count=models[0]["count"]
+        )
+
+        # Filter out models with 0 avg price just in case
+        valid_low_models = [m for m in models if m["avg_price_crc"] and m["avg_price_crc"] > 0]
+        if valid_low_models:
+            lowest_value_model = MarketExtremeModel(
+                marca=valid_low_models[-1]["marca"],
+                modelo=valid_low_models[-1]["modelo"],
+                avg_price_crc=valid_low_models[-1]["avg_price_crc"],
+                count=valid_low_models[-1]["count"]
+            )
+
+    return MarketExtremesResponse(
+        most_popular_brand=most_popular_brand,
+        least_popular_brand=least_popular_brand,
+        highest_value_model=highest_value_model,
+        lowest_value_model=lowest_value_model
+    )
+
+@app.get("/api/insights/models/transmissions", response_model=List[ModelTransmissionStat])
+@cached(cache=TTLCache(maxsize=1, ttl=3600))
+async def get_models_transmissions():
+    query = """
+        SELECT
+            json_extract(raw_json, '$.marca') as marca,
+            json_extract(raw_json, '$.modelo') as modelo,
+            json_extract(raw_json, '$.informacion_general.transmisión') as transmisión,
+            COUNT(*) as count
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') IS NOT NULL
+          AND json_extract(raw_json, '$.modelo') IS NOT NULL
+          AND json_extract(raw_json, '$.informacion_general.transmisión') IS NOT NULL
+        GROUP BY marca, modelo, transmisión
+        ORDER BY count DESC
+    """
+    rows = await execute_query(query)
+
+    results = []
+    for r in rows:
+        results.append(ModelTransmissionStat(
+            marca=r["marca"],
+            modelo=r["modelo"],
+            transmisión=r["transmisión"],
+            count=r["count"]
         ))
     return results

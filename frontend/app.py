@@ -260,7 +260,22 @@ def layout_search():
 # ---------------------------------------------------------------------------
 def layout_stats():
     return html.Div(className="cr-stats-dashboard", children=[
+
+        html.H2("Extremos del Mercado", className="cr-dashboard-title", style={"marginBottom": "20px"}),
+        dcc.Loading(
+            id="loading-market-extremes",
+            type="circle",
+            color="var(--accent-1)",
+            children=html.Div(id="market-extremes-container", className="cr-curiosities-grid", style={
+                "display": "grid",
+                "gridTemplateColumns": "repeat(auto-fit, minmax(250px, 1fr))",
+                "gap": "20px",
+                "marginBottom": "40px"
+            })
+        ),
+
         html.H2("Curiosidades del Mercado", className="cr-dashboard-title", style={"marginBottom": "20px"}),
+
         dcc.Loading(
             id="loading-curiosities",
             type="circle",
@@ -336,7 +351,33 @@ def layout_stats():
             ], lg=6),
         ]),
 
+
+        html.H2("Distribución de Transmisión por Modelo", className="cr-dashboard-title", style={"marginTop": "2rem"}),
+        dbc.Row([
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Top Modelos (Manual vs Automático)"),
+                    html.P("Desglose de la cantidad de vehículos manuales y automáticos para los modelos más populares."),
+                    dcc.Graph(id="chart-models-transmissions"),
+                ])
+            ], lg=7),
+            dbc.Col([
+                html.Div(className="cr-chart-card", children=[
+                    html.H4("Buscador Específico"),
+                    html.P("Selecciona un modelo para ver su distribución exacta."),
+                    dcc.Dropdown(
+                        id="transmission-model-select",
+                        placeholder="Cargando modelos...",
+                        clearable=False,
+                        style={"marginBottom": "15px"}
+                    ),
+                    html.Div(id="transmission-model-details", style={"marginTop": "15px", "minHeight": "150px"})
+                ])
+            ], lg=5),
+        ]),
+
         html.H2("Análisis del Mercado Automotriz", className="cr-dashboard-title", style={"marginTop": "2rem"}),
+
         dbc.Row([
             dbc.Col([
                 html.Div(className="cr-chart-card", children=[
@@ -1091,3 +1132,158 @@ def toggle_collapse(n, is_open):
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8050, debug=False)
+
+# ---------------------------------------------------------------------------
+# Callbacks: Market Extremes and Transmissions
+# ---------------------------------------------------------------------------
+@app.callback(
+    Output("market-extremes-container", "children"),
+    Input("main-tabs", "active_tab"),
+)
+def update_market_extremes(active_tab):
+    if active_tab != "tab-stats":
+        return dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/market-extremes", timeout=5).json()
+
+        def make_extreme_card(title, desc_label, data, is_price=False):
+            if not data:
+                return html.Div(className="cr-chart-card", children=[html.H4(title), html.P("Sin datos")])
+
+            main_text = data.get("marca")
+            if "modelo" in data:
+                main_text = f"{data['marca']} {data['modelo']}"
+
+            val_text = ""
+            if is_price:
+                val_text = f"₡{data.get('avg_price_crc', 0):,.0f}"
+            else:
+                val_text = f"{data.get('count', 0):,} anuncios"
+
+            return html.Div(className="cr-chart-card", style={"padding": "1.5rem", "textAlign": "center", "border": "1px solid var(--accent-1)"}, children=[
+                html.H4(title, style={"fontSize": "1rem", "color": "var(--text-secondary)", "textTransform": "uppercase", "letterSpacing": "1px"}),
+                html.H3(main_text, style={"fontSize": "1.5rem", "margin": "15px 0", "color": "var(--text-primary)"}),
+                html.Div([
+                    html.Span(desc_label, style={"fontSize": "0.9rem", "color": "#666", "display": "block"}),
+                    html.Strong(val_text, style={"fontSize": "1.2rem", "color": "var(--accent-1)"})
+                ])
+            ])
+
+        cards = [
+            make_extreme_card("Marca Más Común", "Volumen:", r.get("most_popular_brand")),
+            make_extreme_card("Marca Menos Común", "Volumen:", r.get("least_popular_brand")),
+            make_extreme_card("Modelo Mayor Valor", "Precio Promedio:", r.get("highest_value_model"), is_price=True),
+            make_extreme_card("Modelo Menor Valor", "Precio Promedio:", r.get("lowest_value_model"), is_price=True)
+        ]
+        return cards
+    except Exception as e:
+        print(f"Market Extremes error: {e}")
+        return html.Div("No se pudieron cargar los extremos del mercado.")
+
+@app.callback(
+    Output("chart-models-transmissions", "figure"),
+    Output("transmission-model-select", "options"),
+    Output("transmission-model-select", "value"),
+    Input("main-tabs", "active_tab"),
+)
+def update_transmissions_chart(active_tab):
+    if active_tab != "tab-stats":
+        return dash.no_update, dash.no_update, dash.no_update
+
+    try:
+        r = httpx.get(f"{API_BASE}/api/insights/models/transmissions", timeout=5).json()
+        df = pd.DataFrame(r)
+
+        if df.empty:
+            return empty_fig(), [], None
+
+        df["modelo_completo"] = df["marca"] + " " + df["modelo"]
+
+        # Options for dropdown
+        models_unique = df["modelo_completo"].unique().tolist()
+        options = [{"label": m, "value": m} for m in sorted(models_unique)]
+
+        # Calculate total counts to find top models for chart
+        top_models = df.groupby("modelo_completo")["count"].sum().nlargest(15).index
+        df_top = df[df["modelo_completo"].isin(top_models)]
+
+        # Group similar transmissions to simplify (Automática vs Manual)
+        def simplify_trans(t):
+            t_lower = t.lower() if t else ""
+            if "manual" in t_lower: return "Manual"
+            if "automática" in t_lower or "automatica" in t_lower: return "Automática"
+            return "Otra/No Especifica"
+
+        df_top["trans_simple"] = df_top["transmisión"].apply(simplify_trans)
+        df_chart = df_top.groupby(["modelo_completo", "trans_simple"])["count"].sum().reset_index()
+
+        fig = px.bar(
+            df_chart,
+            x="modelo_completo",
+            y="count",
+            color="trans_simple",
+            title="Distribución en Top 15 Modelos",
+            labels={"modelo_completo": "Modelo", "count": "Cantidad", "trans_simple": "Transmisión"},
+            template="plotly_white",
+            barmode="stack"
+        )
+        fig.update_layout(margin=dict(l=20, r=20, t=40, b=80), height=400, xaxis={'categoryorder':'total descending'}, xaxis_tickangle=-45)
+
+        default_val = options[0]["value"] if options else None
+        return fig, options, default_val
+    except Exception as e:
+        print(f"Transmissions chart error: {e}")
+        return empty_fig(), [], None
+
+@app.callback(
+    Output("transmission-model-details", "children"),
+    Input("transmission-model-select", "value"),
+    State("main-tabs", "active_tab"),
+)
+def update_transmission_details(selected_model, active_tab):
+    if active_tab != "tab-stats" or not selected_model:
+        return dash.no_update
+
+    try:
+        # Fetch all transmission data to filter by selected
+        # In a real large scale app, this might be a dedicated endpoint like /api/insights/models/transmissions?model=...
+        # For our purposes, we'll fetch all and filter in memory or we can query the backend.
+        # Since it's cached, fetching all is fine.
+        r = httpx.get(f"{API_BASE}/api/insights/models/transmissions", timeout=5).json()
+        df = pd.DataFrame(r)
+
+        if df.empty:
+            return html.Div("Sin datos")
+
+        df["modelo_completo"] = df["marca"] + " " + df["modelo"]
+        df_model = df[df["modelo_completo"] == selected_model]
+
+        if df_model.empty:
+            return html.Div("No se encontraron registros para este modelo.")
+
+        total = df_model["count"].sum()
+
+        # Create visual breakdown
+        bars = []
+        for _, row in df_model.iterrows():
+            pct = (row["count"] / total) * 100
+            t_name = row["transmisión"].capitalize() if row["transmisión"] else "Desconocida"
+
+            bars.append(html.Div(style={"marginBottom": "10px"}, children=[
+                html.Div([
+                    html.Span(t_name, style={"fontWeight": "bold"}),
+                    html.Span(f" {row['count']} ({pct:.1f}%)", style={"float": "right", "color": "#666"})
+                ]),
+                html.Div(style={"width": "100%", "backgroundColor": "#e9ecef", "height": "10px", "borderRadius": "5px", "marginTop": "5px"}, children=[
+                    html.Div(style={"width": f"{pct}%", "backgroundColor": "var(--accent-1)", "height": "100%", "borderRadius": "5px"})
+                ])
+            ]))
+
+        return html.Div([
+            html.H5(f"Total publicados: {total}", style={"marginBottom": "20px"}),
+            html.Div(bars)
+        ])
+    except Exception as e:
+        print(f"Transmission details error: {e}")
+        return html.Div("Error cargando detalles.")
