@@ -20,3 +20,5 @@ pytest-asyncio
 gunicorn
 flask_session
 croniter
+python-dotenv
+typesense

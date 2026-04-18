@@ -2,10 +2,12 @@ from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional, List
 import json
+import os
+import typesense
 from cachetools import TTLCache
 from asyncache import cached
 from .database import execute_query
-from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData, DepreciationStat, OpportunityCar, FuelStat, TransmissionStat, RatioStat, BrandComparisonStat, MarketExtremeBrand, MarketExtremeModel, MarketExtremesResponse, ModelTransmissionStat
+from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData, DepreciationStat, OpportunityCar, FuelStat, TransmissionStat, RatioStat, BrandComparisonStat, MarketExtremeBrand, MarketExtremeModel, MarketExtremesResponse, ModelTransmissionStat, VerdictResponse
 
 app = FastAPI(title="Crautos Async Data API")
 
@@ -17,6 +19,17 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Typesense Client Configuration
+ts_client = typesense.Client({
+    'nodes': [{
+        'host': os.getenv("TYPESENSE_HOST", "typesense"),
+        'port': os.getenv("TYPESENSE_PORT", "8108"),
+        'protocol': os.getenv("TYPESENSE_PROTOCOL", "http")
+    }],
+    'api_key': os.getenv("TYPESENSE_API_KEY", "xyz123abc456"),
+    'connection_timeout_seconds': 2
+})
 
 def _parse_car_row(row: dict) -> dict:
     raw_json = json.loads(row["raw_json"])
@@ -813,3 +826,174 @@ async def get_models_transmissions():
             count=r["count"]
         ))
     return results
+
+@app.get("/api/insights/verdict", response_model=VerdictResponse)
+async def get_verdict(
+    marca: str = Query(...),
+    modelo: str = Query(...),
+    combustible: str = Query(...)
+):
+    # Total cars for market share
+    total_row = await execute_query("SELECT count(*) as c FROM car_details")
+    total_market = total_row[0]["c"] if total_row else 1
+
+    # Specific stats
+    query = """
+        SELECT 
+            COUNT(*) as count,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+            AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc,
+            AVG(NULLIF(json_extract(raw_json, '$.informacion_general.kilometraje_number'), 0)) as avg_mileage
+        FROM car_details
+        WHERE json_extract(raw_json, '$.marca') COLLATE NOCASE = ?
+          AND json_extract(raw_json, '$.modelo') COLLATE NOCASE = ?
+          AND json_extract(raw_json, '$.informacion_general.combustible') COLLATE NOCASE = ?
+    """
+    rows = await execute_query(query, (marca, modelo, combustible))
+    
+    if not rows or rows[0]["count"] == 0:
+        # If no specific match, maybe try just brand/model
+        query_general = """
+            SELECT 
+                COUNT(*) as count,
+                AVG(NULLIF(json_extract(raw_json, '$.precio_usd'), 0)) as avg_price_usd,
+                AVG(NULLIF(json_extract(raw_json, '$.precio_crc'), 0)) as avg_price_crc,
+                AVG(NULLIF(json_extract(raw_json, '$.informacion_general.kilometraje_number'), 0)) as avg_mileage
+            FROM car_details
+            WHERE json_extract(raw_json, '$.marca') COLLATE NOCASE = ?
+              AND json_extract(raw_json, '$.modelo') COLLATE NOCASE = ?
+        """
+        rows_gen = await execute_query(query_general, (marca, modelo))
+        if not rows_gen or rows_gen[0]["count"] == 0:
+             raise HTTPException(status_code=404, detail="No se encontraron datos para esta combinación.")
+        
+        r = rows_gen[0]
+        verdict_title = f"Datos limitados para {marca} {modelo}"
+        verdict_text = f"No tenemos suficientes datos específicos de la versión {combustible}, pero en general el {marca} {modelo} tiene un precio promedio de ${r['avg_price_usd']:,.0f} USD."
+        is_good_option = True # Neutral
+    else:
+        r = rows[0]
+        count = r["count"]
+        market_share = (count / total_market) * 100
+        
+        # Heuristics for verdict
+        if market_share > 0.5:
+            verdict_title = "Una opción muy popular"
+            verdict_text = f"El {marca} {modelo} {combustible} es uno de los vehículos más comunes en el mercado. Esto suele significar buena disponibilidad de repuestos y facilidad de reventa."
+            is_good_option = True
+        elif r["avg_mileage"] and r["avg_mileage"] < 80000:
+            verdict_title = "Joyas de bajo kilometraje"
+            verdict_text = f"Los {marca} {modelo} {combustible} listados tienen un kilometraje promedio bajo ({int(r['avg_mileage']):,} km), lo que indica que podrías encontrar unidades en muy buen estado."
+            is_good_option = True
+        else:
+            verdict_title = "Una elección de nicho"
+            verdict_text = f"Hay pocas unidades de {marca} {modelo} {combustible} ({count} encontradas). Asegúrate de revisar bien el historial de mantenimiento ya que son menos comunes."
+            is_good_option = True
+
+    return VerdictResponse(
+        marca=marca,
+        modelo=modelo,
+        combustible=combustible,
+        count=r["count"],
+        avg_price_usd=round(r["avg_price_usd"] or 0, 2),
+        avg_price_crc=round(r["avg_price_crc"] or 0, 2),
+        avg_mileage=r["avg_mileage"],
+        verdict_title=verdict_title,
+        verdict_text=verdict_text,
+        is_good_option=is_good_option,
+        market_share_percent=round((r["count"] / total_market) * 100, 4)
+    )
+
+@app.get("/api/v2/cars", response_model=CarsResponse)
+async def get_cars_v2(
+    q: str = Query("*"),
+    page: int = Query(1, ge=1),
+    limit: int = Query(50, ge=1, le=100),
+    brands: Optional[str] = None,
+    models: Optional[str] = None,
+    year_min: Optional[int] = None,
+    year_max: Optional[int] = None,
+    price_min: Optional[float] = None,
+    price_max: Optional[float] = None,
+    km_min: Optional[int] = None,
+    km_max: Optional[int] = None,
+    provinces: Optional[str] = None,
+    fuels: Optional[str] = None,
+    transmissions: Optional[str] = None,
+    sort_by: Optional[str] = "año:desc"
+):
+    search_parameters = {
+        'q': q,
+        'query_by': 'marca,modelo',
+        'page': page,
+        'per_page': limit,
+        'sort_by': sort_by
+    }
+
+    filter_by = []
+    if brands:
+        brand_list = [b.strip() for b in brands.split(",")]
+        filter_by.append(f"marca:[{','.join(brand_list)}]")
+    if models:
+        model_list = [m.strip() for m in models.split(",")]
+        filter_by.append(f"modelo:[{','.join(model_list)}]")
+    
+    if year_min is not None or year_max is not None:
+        y_min = year_min if year_min is not None else 0
+        y_max = year_max if year_max is not None else 2100
+        filter_by.append(f"año:[{y_min}..{y_max}]")
+        
+    if price_min is not None or price_max is not None:
+        p_min = price_min if price_min is not None else 0
+        p_max = price_max if price_max is not None else 1000000000
+        filter_by.append(f"precio_usd:[{p_min}..{p_max}]")
+
+        filter_by.append(f"kilometraje_number:[{k_min}..{k_max}]")
+
+    if provinces:
+        list_val = [v.strip() for v in provinces.split(",")]
+        filter_by.append(f"provincia:[{','.join(list_val)}]")
+    
+    if fuels:
+        list_val = [v.strip() for v in fuels.split(",")]
+        filter_by.append(f"combustible:[{','.join(list_val)}]")
+        
+    if transmissions:
+        list_val = [v.strip() for v in transmissions.split(",")]
+        filter_by.append(f"transmisión:[{','.join(list_val)}]")
+
+    if filter_by:
+        search_parameters['filter_by'] = " && ".join(filter_by)
+
+    try:
+        search_results = ts_client.collections['cars'].documents.search(search_parameters)
+        
+        cars = []
+        for hit in search_results.get('hits', []):
+            doc = hit['document']
+            cars.append({
+                "car_id": doc.get("car_id"),
+                "url": doc.get("url"),
+                "marca": doc.get("marca"),
+                "modelo": doc.get("modelo"),
+                "año": doc.get("año"),
+                "precio_usd": doc.get("precio_usd"),
+                "precio_crc": doc.get("precio_crc"),
+                "imagen_principal": doc.get("imagen_principal"),
+                "scraped_at": doc.get("scraped_at", ""),
+                "informacion_general": {
+                    "kilometraje_number": doc.get("kilometraje_number"),
+                    "provincia": doc.get("provincia"),
+                    "combustible": doc.get("combustible"),
+                    "transmisión": doc.get("transmisión")
+                }
+            })
+
+        return CarsResponse(
+            total=search_results.get('found', 0),
+            page=page,
+            limit=limit,
+            cars=cars
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Typesense search error: {str(e)}")

@@ -183,3 +183,16 @@ class ModelStat(BaseModel):
     count: int
     avg_price_usd: float
     avg_price_crc: float
+
+class VerdictResponse(BaseModel):
+    marca: str
+    modelo: str
+    combustible: str
+    count: int
+    avg_price_usd: float
+    avg_price_crc: float
+    avg_mileage: Optional[float] = None
+    verdict_title: str
+    verdict_text: str
+    is_good_option: bool
+    market_share_percent: float

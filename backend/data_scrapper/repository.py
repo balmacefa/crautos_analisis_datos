@@ -15,6 +15,8 @@ from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterator
+import os
+import typesense
 
 logger = logging.getLogger(__name__)
 
@@ -83,6 +85,29 @@ class ScraperRepository:
         self.db_path = Path(db_path)
         self.db_path.parent.mkdir(parents=True, exist_ok=True)
         self._init_db()
+        self._init_typesense()
+
+    def _init_typesense(self):
+        """Initialize Typesense client from environment variables."""
+        try:
+            host = os.getenv("TYPESENSE_HOST", "typesense")
+            port = os.getenv("TYPESENSE_PORT", "8108")
+            protocol = os.getenv("TYPESENSE_PROTOCOL", "http")
+            api_key = os.getenv("TYPESENSE_API_KEY", "xyz123abc456")
+            
+            self.ts_client = typesense.Client({
+                'nodes': [{
+                    'host': host,
+                    'port': port,
+                    'protocol': protocol
+                }],
+                'api_key': api_key,
+                'connection_timeout_seconds': 2
+            })
+            logger.info("Typesense client initialized (host: %s, port: %s)", host, port)
+        except Exception as e:
+            logger.error("Failed to initialize Typesense client: %s", e)
+            self.ts_client = None
 
     # ------------------------------------------------------------------
     # Internal helpers
@@ -309,6 +334,56 @@ class ScraperRepository:
                 """,
                 (car_id, url, json.dumps(data, ensure_ascii=False), now),
             )
+        
+        self._sync_to_typesense(car_id, data, now, url)
+
+    def _sync_to_typesense(self, car_id: str, data: dict, scraped_at: str, url: str):
+        """Helper to sync a single car record to Typesense."""
+        if not self.ts_client:
+            return
+        
+        try:
+            gen_info = data.get('informacion_general', {})
+            # Sanitize price and numeric fields
+            def to_float(val):
+                try:
+                    if isinstance(val, (int, float)): return float(val)
+                    if not val: return 0.0
+                    clean = str(val).replace(",", "").replace("$", "").split()[0]
+                    return float(clean)
+                except (ValueError, IndexError):
+                    return 0.0
+
+            def to_int(val):
+                try:
+                    if isinstance(val, int): return val
+                    if not val: return 0
+                    if isinstance(val, float): return int(val)
+                    clean = "".join(filter(str.isdigit, str(val)))
+                    return int(clean) if clean else 0
+                except (ValueError, TypeError):
+                    return 0
+
+            document = {
+                'id': car_id,
+                'car_id': car_id,
+                'marca': data.get('marca', 'Desconocida'),
+                'modelo': data.get('modelo', 'Desconocido'),
+                'año': to_int(data.get('año', 0)),
+                'precio_usd': to_float(data.get('precio_usd', 0)),
+                'precio_crc': to_float(data.get('precio_crc', 0)),
+                'kilometraje_number': to_int(gen_info.get('kilometraje_number', 0)),
+                'provincia': gen_info.get('provincia', 'Desconocida'),
+                'combustible': gen_info.get('combustible', 'Desconocido'),
+                'transmisión': gen_info.get('transmisión', 'Desconocida'),
+                'url': url,
+                'imagen_principal': data.get('imagen_principal', ''),
+                'scraped_at': scraped_at
+            }
+            self.ts_client.collections['cars'].documents.upsert(document)
+            logger.info("Synced car %s to Typesense", car_id)
+        except Exception as e:
+            logger.warning("Failed to sync car %s to Typesense: %s", car_id, e)
 
     def mark_url_failed(self, url: str) -> None:
         """Increment retry counter; permanently fail after MAX_RETRIES."""

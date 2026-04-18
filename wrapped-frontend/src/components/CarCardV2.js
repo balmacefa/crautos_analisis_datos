@@ -1,0 +1,98 @@
+"use client"
+import React from 'react';
+import { motion } from 'framer-motion';
+import { Fuel, Gauge, Calendar, ExternalLink, MapPin } from 'lucide-react';
+
+export default function CarCardV2({ car }) {
+  const { 
+    marca, 
+    modelo, 
+    año, 
+    precio_usd, 
+    transmisión, 
+    combustible, 
+    kilometraje,
+    url,
+    informacion_general
+  } = car;
+
+  const provincia = informacion_general?.provincia || "Costa Rica";
+
+  return (
+    <motion.div 
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      whileHover={{ y: -5 }}
+      className="group relative bg-[#1a1c1e] border border-white/5 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 flex flex-col h-full"
+    >
+      {/* Decorative Gradient Background for Image Placeholder */}
+      <div className="h-48 w-full bg-gradient-to-br from-blue-600/20 to-indigo-900/40 relative flex items-center justify-center overflow-hidden border-b border-white/5">
+        <div className="absolute inset-0 group-hover:scale-110 transition-transform duration-500 opacity-30">
+          <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500 rounded-full blur-[60px]" />
+          <div className="absolute bottom-0 left-0 w-32 h-32 bg-indigo-500 rounded-full blur-[60px]" />
+        </div>
+        
+        <span className="text-4xl font-black text-white/10 uppercase tracking-tighter group-hover:text-blue-400/20 transition-colors">
+          {marca}
+        </span>
+      </div>
+
+      <div className="p-5 flex flex-col flex-1">
+        <div className="flex justify-between items-start mb-2">
+          <div>
+            <span className="text-[10px] text-blue-400 font-bold uppercase tracking-widest">{marca}</span>
+            <h3 className="text-xl font-bold text-white group-hover:text-blue-400 transition-colors leading-tight">
+              {modelo}
+            </h3>
+          </div>
+          <motion.div whileTap={{ scale: 0.9 }}>
+            <a 
+              href={url} 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="p-2 bg-white/5 hover:bg-blue-600 rounded-full transition-colors text-white/50 hover:text-white"
+            >
+              <ExternalLink size={16} />
+            </a>
+          </motion.div>
+        </div>
+
+        <div className="flex flex-wrap gap-2 mb-4">
+          <Badge icon={<Calendar size={12} />} text={año} />
+          <Badge icon={<MapPin size={12} />} text={provincia} />
+          {transmisión && <Badge text={transmisión} />}
+        </div>
+
+        <div className="grid grid-cols-2 gap-3 mb-6">
+          <div className="space-y-1">
+            <p className="text-[10px] text-white/30 uppercase font-bold flex items-center gap-1">
+              <Fuel size={10} /> Combustible
+            </p>
+            <p className="text-sm font-semibold">{combustible || 'N/A'}</p>
+          </div>
+          <div className="space-y-1 text-right">
+            <p className="text-[10px] text-white/30 uppercase font-bold flex items-center gap-1 justify-end">
+              <Gauge size={10} /> Kilometraje
+            </p>
+            <p className="text-sm font-semibold">{kilometraje || 'Consultar'}</p>
+          </div>
+        </div>
+
+        <div className="mt-auto pt-4 border-t border-white/5 flex items-center justify-between">
+          <p className="text-2xl font-black text-white tracking-tighter">
+            ${precio_usd?.toLocaleString() || '---'} <span className="text-xs text-white/40 font-bold ml-1 uppercase">USD</span>
+          </p>
+        </div>
+      </div>
+    </motion.div>
+  );
+}
+
+function Badge({ icon, text }) {
+  return (
+    <div className="flex items-center gap-1.5 px-2.5 py-1 bg-white/5 border border-white/10 rounded-lg text-xs font-medium text-white/70">
+      {icon}
+      {text}
+    </div>
+  );
+}

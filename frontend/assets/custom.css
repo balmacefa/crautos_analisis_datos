@@ -588,3 +588,65 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
+
+/* ============================================================
+   ADVANCED SEARCH LAYOUT (SIDEBAR + GRID)
+   ============================================================ */
+.cr-search-container {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.cr-search-sidebar {
+  background: var(--bg-white);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 84px; /* offset for navbar */
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+
+.cr-filter-group {
+  margin-bottom: 2rem;
+}
+
+.cr-filter-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+.cr-slider-container {
+  padding: 0 10px 15px;
+}
+
+/* Dash RangeSlider adjustments */
+.rc-slider-track {
+  background-color: var(--accent-1) !important;
+}
+.rc-slider-handle {
+  border: solid 2px var(--accent-1) !important;
+  background-color: #fff !important;
+}
+.rc-slider-dot-active {
+  border-color: var(--accent-1) !important;
+}
+
+@media (max-width: 992px) {
+  .cr-search-container {
+    grid-template-columns: 1fr;
+  }
+  .cr-search-sidebar {
+    position: static;
+    max-height: none;
+  }
+}

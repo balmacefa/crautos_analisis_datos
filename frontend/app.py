@@ -212,44 +212,95 @@ app.layout = html.Div([
 # Layout: Search Tab
 # ---------------------------------------------------------------------------
 def layout_search():
-    return html.Div([
-        # Search box
-        html.Div(className="cr-search-box", style={"marginTop": "-40px", "position": "relative", "zIndex": "100"}, children=[
-            html.Div(className="cr-search-row", children=[
-                html.Div(className="cr-search-field", style={"flex": "2", "minWidth": "200px"}, children=[
-                    html.Label("Búsqueda", htmlFor="search-input"),
-                    dcc.Input(id="search-input", type="text", placeholder="Ej. Toyota Corolla 2020…", n_submit=0),
-                ]),
-                html.Div(className="cr-search-field", children=[
-                    html.Label("Marca"),
-                    dcc.Dropdown(id="filter-marca", options=[{"label": m, "value": m} for m in MARCAS], placeholder="Todas", clearable=True),
-                ]),
-                html.Div(className="cr-search-field", children=[
-                    html.Label("Año mín."),
-                    dcc.Dropdown(id="filter-year", options=[{"label": y, "value": y} for y in YEARS], placeholder="Cualquiera", clearable=True),
-                ]),
-                html.Div(className="cr-search-field", children=[
-                    html.Label("Precio máx."),
-                    dcc.Dropdown(id="filter-price", options=PRICE_RANGES, placeholder="Sin límite", clearable=True),
-                ]),
-                html.Div(className="cr-search-field", children=[
-                    html.Label("Provincia"),
-                    dcc.Dropdown(id="filter-province", options=[{"label": p, "value": p} for p in PROVINCIES], placeholder="Todo CR", clearable=True),
-                ]),
-                html.Button("Buscar autos", id="search-button", n_clicks=0, className="cr-search-btn"),
+    return html.Div(className="cr-search-container", children=[
+        # Sidebar Filters
+        html.Aside(className="cr-search-sidebar", children=[
+            html.Div(className="cr-filter-group", children=[
+                html.Label("Búsqueda Libre", className="cr-filter-label"),
+                dcc.Input(id="search-input-v2", type="text", placeholder="Toyota, 4x4, etc.", className="cr-filter-input", style={"width": "100%", "padding": "10px", "borderRadius": "8px", "border": "1px solid var(--border)"}),
             ]),
+
+            html.Div(className="cr-filter-group", children=[
+                html.Label("Marcas", className="cr-filter-label"),
+                dcc.Dropdown(id="filter-brands-v2", options=[{"label": m, "value": m} for m in MARCAS], multi=True, placeholder="Seleccionar marcas"),
+            ]),
+
+            html.Div(className="cr-filter-group", children=[
+                html.Label("Modelos", className="cr-filter-label"),
+                dcc.Dropdown(id="filter-models-v2", multi=True, placeholder="Seleccionar modelos"),
+            ]),
+
+            html.Div(className="cr-filter-group", children=[
+                html.Label("Rango de Año", className="cr-filter-label"),
+                html.Div(className="cr-slider-container", children=[
+                    dcc.RangeSlider(
+                        id="filter-year-range",
+                        min=1990, max=2025, step=1,
+                        value=[1990, 2025],
+                        marks={y: str(y) for y in [1990, 2000, 2010, 2020, 2025]},
+                        tooltip={"always_visible": False, "placement": "bottom"}
+                    )
+                ]),
+            ]),
+
+            html.Div(className="cr-filter-group", children=[
+                html.Label("Precio (USD)", className="cr-filter-label"),
+                html.Div(className="cr-slider-container", children=[
+                    dcc.RangeSlider(
+                        id="filter-price-range",
+                        min=0, max=100000, step=5000,
+                        value=[0, 100000],
+                        marks={p: f"${p//1000}k" for p in [0, 25000, 50000, 75000, 100000]},
+                        tooltip={"always_visible": False, "placement": "bottom"}
+                    )
+                ]),
+            ]),
+
+            html.Div(className="cr-filter-group", children=[
+                html.Label("Kilometraje (km)", className="cr-filter-label"),
+                html.Div(className="cr-slider-container", children=[
+                    dcc.RangeSlider(
+                        id="filter-km-range",
+                        min=0, max=300000, step=10000,
+                        value=[0, 300000],
+                        marks={k: f"{k//1000}k" for k in [0, 100000, 200000, 300000]},
+                        tooltip={"always_visible": False, "placement": "bottom"}
+                    )
+                ]),
+            ]),
+
+            html.Button("Limpiar Filtros", id="clear-filters-btn", className="cr-card-btn", style={"width": "100%", "marginTop": "1rem"}),
         ]),
-        # Results
-        html.Section(className="cr-results-section", children=[
+
+        # Results Area
+        html.Div(className="cr-results-area", children=[
             html.Div(className="cr-section-header", children=[
-                html.Span("Resultados", className="cr-section-title", id="result-section-title"),
-                html.Span("", className="cr-result-count", id="result-count"),
-            ]),
+                html.Div([
+                    html.H2("Explorar Autos", className="cr-section-title", style={"margin": "0"}),
+                    html.Span("Cargando...", className="cr-result-count", id="result-count-v2"),
+                ]),
+                html.Div(className="cr-sort-select", children=[
+                    html.Label("Ordenar por", style={"fontSize": "0.75rem", "marginRight": "10px", "fontWeight": "600"}),
+                    dcc.Dropdown(
+                        id="sort-by-v2",
+                        options=[
+                            {"label": "Más recientes", "value": "año:desc"},
+                            {"label": "Menor precio", "value": "precio_usd:asc"},
+                            {"label": "Mayor precio", "value": "precio_usd:desc"},
+                            {"label": "Menor kilometraje", "value": "kilometraje_number:asc"},
+                        ],
+                        value="año:desc",
+                        clearable=False,
+                        style={"width": "180px"}
+                    )
+                ], style={"display": "flex", "alignItems": "center"})
+            ], style={"marginBottom": "2rem"}),
+
             dcc.Loading(
-                id="loading-results",
+                id="loading-results-v2",
                 type="circle",
                 color="var(--accent-1)",
-                children=html.Div(id="results-container"),
+                children=html.Div(id="results-container-v2"),
             ),
         ]),
     ])
@@ -543,61 +594,80 @@ def build_query(keyword, marca, year, price, province):
     return " ".join(parts) if parts else ""
 
 
-def fetch_cars(q: str, max_price: str = "", province: str = "", year: str = ""):
-    params = {"q": q, "page": 1, "limit": 48}
-    try:
-        resp = httpx.get(f"{API_BASE}/api/search", params=params, timeout=10)
-        resp.raise_for_status()
-        cars = resp.json().get("cars", [])
-    except Exception as e:
-        print(f"[CrAutos] API error: {e}")
-        return []
+def fetch_cars_v2(q: str = "*", brands: list = None, models: list = None, year_min: int = None, year_max: int = None, price_min: float = None, price_max: float = None, km_min: int = None, km_max: int = None, page: int = 1, limit: int = 40):
+    params = {
+        "q": q,
+        "page": page,
+        "limit": limit
+    }
+    if brands: params["brands"] = ",".join(brands)
+    if models: params["models"] = ",".join(models)
+    if year_min is not None: params["year_min"] = year_min
+    if year_max is not None: params["year_max"] = year_max
+    if price_min is not None: params["price_min"] = price_min
+    if price_max is not None: params["price_max"] = price_max
+    if km_min is not None: params["km_min"] = km_min
+    if km_max is not None: params["km_max"] = km_max
 
-    filtered = []
-    for c in cars:
-        if max_price:
-            try:
-                if (c.get("precio_usd") or 0) > float(max_price): continue
-            except: pass
-        if province:
-            car_prov = (c.get("informacion_general") or {}).get("provincia", "")
-            if province.lower() not in car_prov.lower(): continue
-        if year:
-            try:
-                if int(c.get("año") or 0) < int(year): continue
-            except: pass
-        filtered.append(c)
-    return filtered
+    try:
+        resp = httpx.get(f"{API_BASE}/api/v2/cars", params=params, timeout=10)
+        resp.raise_for_status()
+        return resp.json()
+    except Exception as e:
+        print(f"[CrAutos] API V2 error: {e}")
+        return {"total": 0, "cars": []}
 
 
 @app.callback(
-    Output("results-container", "children"),
-    Output("result-count", "children"),
-    Output("result-section-title", "children"),
-    Input("search-button", "n_clicks"),
-    Input("search-input", "n_submit"),
-    State("search-input", "value"),
-    State("filter-marca", "value"),
-    State("filter-year", "value"),
-    State("filter-price", "value"),
-    State("filter-province", "value"),
-    prevent_initial_call=False,
+    Output("results-container-v2", "children"),
+    Output("result-count-v2", "children"),
+    Input("search-input-v2", "value"),
+    Input("filter-brands-v2", "value"),
+    Input("filter-models-v2", "value"),
+    Input("filter-year-range", "value"),
+    Input("filter-price-range", "value"),
+    Input("filter-km-range", "value"),
+    Input("sort-by-v2", "value"),
 )
-def on_search(n_clicks, n_submit, keyword, marca, year, price, province):
-    q = build_query(keyword, marca, year, price, province)
-    cars = fetch_cars(q, max_price=price or "", province=province or "", year=year or "")
-    count_str = f"{len(cars)} autos"
+def on_search_v2(q, brands, models, year_range, price_range, km_range, sort_by):
+    results = fetch_cars_v2(
+        q=q or "*",
+        brands=brands,
+        models=models,
+        year_min=year_range[0],
+        year_max=year_range[1],
+        price_min=price_range[0],
+        price_max=price_range[1],
+        km_min=km_range[0],
+        km_max=km_range[1],
+        sort_by=sort_by
+    )
+    
+    cars = results.get("cars", [])
+    total = results.get("total", 0)
+    count_str = f"{total} vehículos encontrados"
     
     if not cars:
-        results = html.Div(className="cr-empty-state", children=[
+        return html.Div(className="cr-empty-state", children=[
             html.Div("🚗", className="cr-empty-icon"),
             html.Div("No encontramos resultados", className="cr-empty-title"),
-            html.Div("Prueba con otros filtros o una búsqueda diferente.", className="cr-empty-sub"),
-        ])
-    else:
-        results = html.Div(className="cr-card-grid", children=[make_car_card(c) for c in cars])
-        
-    return results, count_str, "Resultados de búsqueda"
+            html.Div("Prueba ajustando los filtros.", className="cr-empty-sub"),
+        ]), count_str
+
+    return html.Div(className="cr-card-grid", children=[make_car_card(c) for c in cars]), count_str
+
+@app.callback(
+    Output("filter-models-v2", "options"),
+    Input("filter-brands-v2", "value"),
+)
+def update_model_options(selected_brands):
+    if not selected_brands:
+        return []
+    
+    # Ideally fetch models from API based on brands, but for now we can filter a static list 
+    # or just return a placeholder. Let's try to fetch if possible or just use a generic list.
+    # For now, let's keep it simple or return an empty list until we have a brand->model mapping.
+    return [{"label": f"Modelo de {b}", "value": b} for b in selected_brands] # Placeholder
 
 
 # ---------------------------------------------------------------------------

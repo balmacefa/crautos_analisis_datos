@@ -47,3 +47,29 @@ services:
       - SERVICE_URL_FRONTEND=$SERVICE_URL_FRONTEND
       - API_BASE=http://api:8000
     restart: always
+
+  typesense:
+    image: typesense/typesense:26.0
+    container_name: crautos_typesense_prod
+    restart: always
+    expose:
+      - "8108"
+    volumes:
+      - ./typesense-data:/data
+    environment:
+      - TYPESENSE_DATA_DIR=/data
+      - TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-xyz123abc456}
+      - TYPESENSE_ENABLE_CORS=true
+
+  wrapped:
+    build:
+      context: ./wrapped-frontend
+      dockerfile: Dockerfile
+    container_name: crautos_wrapped_prod
+    ports:
+      - "8051:3000"
+    environment:
+      - NEXT_PUBLIC_API_BASE=https://api.tudominio.com # Ajustar en prod
+    restart: always
+    depends_on:
+      - api

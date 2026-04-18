@@ -38,11 +38,13 @@ services:
       context: ./backend
       dockerfile: Dockerfile.api
     container_name: crautos_api_dev
+    env_file:
+      - .env
     ports:
       - "8000:8000"
     volumes:
       # Live code reload
-      - ./backend:/app/backend
+      - ./backend:/app
       # Read DB
       - ./data:/app/data
     restart: always
@@ -57,4 +59,31 @@ services:
       - API_BASE=http://api:8000
     volumes:
       - ./frontend:/app
+    restart: always
+
+  typesense:
+    image: typesense/typesense:26.0
+    container_name: crautos_typesense_dev
+    restart: always
+    ports:
+      - "8108:8108"
+    volumes:
+      - ./typesense-data:/data
+    environment:
+      - TYPESENSE_DATA_DIR=/data
+      - TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-xyz123abc456}
+      - TYPESENSE_ENABLE_CORS=true
+
+  wrapped:
+    build:
+      context: ./wrapped-frontend
+      dockerfile: Dockerfile
+    container_name: crautos_wrapped_dev
+    ports:
+      - "3001:3000"
+    environment:
+      - NEXT_PUBLIC_API_BASE=http://localhost:8000
+    volumes:
+      - ./wrapped-frontend:/app
+      - /app/node_modules
     restart: always
