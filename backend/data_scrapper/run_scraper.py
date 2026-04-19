@@ -176,6 +176,49 @@ async def run_all(repo: ScraperRepository, run_id: int) -> str:
     return await run_details(repo, run_id)
 
 
+async def run_evmarket(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG001
+    """Run the evmarket.cr scraper."""
+    from data_scrapper.evmarket_scrapper import EVMarketScraper  # noqa: PLC0415
+    
+    logger.info("Starting evmarket.cr scraper...")
+    scraper = EVMarketScraper(repository=repo, headless=HEADLESS)
+    try:
+        # Run a full crawl with default settings
+        await scraper.run()
+        return "done"
+    except Exception as exc:
+        logger.error("evmarket scraper failed: %s", exc, exc_info=True)
+        return "failed"
+
+
+async def run_corimotors(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG001
+    """Run the Corimotors (usadoscori.com) scraper."""
+    from data_scrapper.corimotors_scrapper import CorimotorsScraper  # noqa: PLC0415
+    
+    logger.info("Starting Corimotors scraper...")
+    scraper = CorimotorsScraper(repository=repo, headless=HEADLESS)
+    try:
+        await scraper.run()
+        return "done"
+    except Exception as exc:
+        logger.error("Corimotors scraper failed: %s", exc, exc_info=True)
+        return "failed"
+
+
+async def run_veinsa(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG001
+    """Run the Veinsa (veinsausados.com) scraper."""
+    from data_scrapper.veinsa_scrapper import VeinsaScraper  # noqa: PLC0415
+    
+    logger.info("Starting Veinsa scraper...")
+    scraper = VeinsaScraper(repository=repo, headless=HEADLESS)
+    try:
+        await scraper.run()
+        return "done"
+    except Exception as exc:
+        logger.error("Veinsa scraper failed: %s", exc, exc_info=True)
+        return "failed"
+
+
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
@@ -184,6 +227,9 @@ COMMANDS = {
     "urls": run_urls,
     "details": run_details,
     "all": run_all,
+    "evmarket": run_evmarket,
+    "cori": run_corimotors,
+    "veinsa": run_veinsa,
 }
 
 

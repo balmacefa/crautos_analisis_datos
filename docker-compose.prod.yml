@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   scraper:
     build:
@@ -15,7 +13,10 @@ services:
       SCRAPER_DB_PATH: "/app/data/crautos.db"
       AUTH_USERNAME: "${AUTH_USERNAME:-admin}"
       AUTH_PASSWORD: "${AUTH_PASSWORD:-admin}"
-      SCRAPER_CRON: "0 7,13,19 * * *"
+      SCRAPER_CRON: "0 7,19 * * *"
+      EV_SCRAPER_CRON: "0 8,20 * * *"
+      CORI_SCRAPER_CRON: "0 9,21 * * *"
+      VEINSA_SCRAPER_CRON: "0 10,22 * * *"
     volumes:
       - ./data:/app/data
     command: gunicorn --bind 0.0.0.0:8081 --workers 1 --timeout 120 --access-logfile - --error-logfile - --log-level info cron.devops_job_orchestrator:server
@@ -42,11 +43,15 @@ services:
     volumes:
       - ./data:/app/data
     restart: unless-stopped
+    depends_on:
+      typesense:
+        condition: service_healthy
     healthcheck:
       test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/docs')"]
       interval: 30s
       timeout: 10s
       retries: 3
+      start_period: 20s
     logging:
       driver: "json-file"
       options:
@@ -79,7 +84,7 @@ services:
       dockerfile: Dockerfile.prod
     container_name: crautos_typesense_prod
     restart: unless-stopped
-    command: ["/opt/typesense", "--config", "/etc/typesense/config.ini"]
+    command: ["/opt/typesense-server", "--config", "/etc/typesense/config.ini"]
     expose:
       - "8108"
     volumes:
@@ -89,8 +94,9 @@ services:
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8108/health"]
       interval: 30s
-      timeout: 10s
+      timeout: 5s
       retries: 3
+      start_period: 10s
     deploy:
       resources:
         limits:

@@ -9,7 +9,7 @@ python -m db_tools.auto_migrate
 
 # 2. Sync data to Typesense
 echo "[entrypoint] Syncing data to Typesense..."
-python -m data_ops.sync_typesense
+python -m data_ops.sync_typesense || echo "[entrypoint] Warning: Typesense sync failed. Is Typesense running?"
 
 # 3. Start the main process (as defined in CMD or passed via docker run)
 exec "$@"

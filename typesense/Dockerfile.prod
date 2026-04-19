@@ -1,16 +1,18 @@
 FROM typesense/typesense:26.0
 
-# Create a directory for the config if it doesn't exist
-# The official image usually doesn't have a specific config path by default,
-# but we can pass --config as an argument.
-# We'll copy our custom config into the image.
+# Install curl for health checks
+RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
+
+# Create a directory for the config and logs
+# We use /var/log/typesense for logs
+RUN mkdir -p /etc/typesense /var/log/typesense /data
 
 COPY config.ini /etc/typesense/config.ini
 
-# Ensure correct permissions
-RUN mkdir -p /data && chown -R 1000:1000 /data
-
 EXPOSE 8108
 
-# The official entrypoint will still be used, but we'll override the CMD in docker-compose
-# to point to the config file.
+# Data Persistence
+VOLUME ["/data"]
+
+# Note: Inheriting ENTRYPOINT from the base image. 
+# We'll override the CMD in docker-compose to point to our config.ini.
