@@ -1,4 +1,5 @@
 "use client"
+import { getApiBaseUrl } from '@/lib/api';
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
@@ -129,7 +130,8 @@ export default function DynamicExplorer() {
     if (filters.fuels) params.append('fuels', filters.fuels);
     if (filters.transmissions) params.append('transmissions', filters.transmissions);
 
-    return `http://localhost:8000/api/v2/cars?${params.toString()}`;
+    const baseUrl = getApiBaseUrl();
+    return `${baseUrl}/api/v2/cars?${params.toString()}`;
   }, [debouncedQuery, filters, page]);
 
   const { data, isLoading, error } = useSWR(queryUrl, fetcher, {

@@ -14,7 +14,12 @@ app = FastAPI(title="Crautos Async Data API")
 # Setup CORS so frontends can consume this API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:3001",
+        "http://localhost:8050",
+        "http://127.0.0.1:3001",
+        "http://127.0.0.1:8050"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

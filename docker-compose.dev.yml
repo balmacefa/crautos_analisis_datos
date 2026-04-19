@@ -42,6 +42,8 @@ services:
       - .env
     ports:
       - "8000:8000"
+    environment:
+      - SCRAPER_DB_PATH=/app/data/crautos.db
     volumes:
       # Live code reload
       - ./backend:/app

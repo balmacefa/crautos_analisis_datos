@@ -1,4 +1,5 @@
 "use client"
+import { getApiBaseUrl } from '@/lib/api';
 import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
@@ -105,16 +106,17 @@ export default function WrappedStory() {
 
   useEffect(() => {
     async function fetchData() {
+      const baseUrl = getApiBaseUrl();
       try {
         const [summaryRes, curiosRes, brandsRes, fuelRes, oppRes, provinceRes, yearRes, transRes] = await Promise.all([
-          fetch('http://localhost:8000/api/insights/summary'),
-          fetch('http://localhost:8000/api/insights/curiosities'),
-          fetch('http://localhost:8000/api/insights/brands'),
-          fetch('http://localhost:8000/api/insights/distribution/fuel'),
-          fetch('http://localhost:8000/api/insights/opportunities'),
-          fetch('http://localhost:8000/api/insights/provinces'),
-          fetch('http://localhost:8000/api/insights/years'),
-          fetch('http://localhost:8000/api/insights/distribution/transmission')
+          fetch(`${baseUrl}/api/insights/summary`),
+          fetch(`${baseUrl}/api/insights/curiosities`),
+          fetch(`${baseUrl}/api/insights/brands`),
+          fetch(`${baseUrl}/api/insights/distribution/fuel`),
+          fetch(`${baseUrl}/api/insights/opportunities`),
+          fetch(`${baseUrl}/api/insights/provinces`),
+          fetch(`${baseUrl}/api/insights/years`),
+          fetch(`${baseUrl}/api/insights/distribution/transmission`)
         ]);
         
         setGlobalStats(await summaryRes.json());
@@ -170,7 +172,8 @@ export default function WrappedStory() {
 
   const handleBrandSelect = (brand) => {
     setUserChoice(prev => ({ ...prev, marca: brand, modelo: '', combustible: '' }));
-    fetch(`http://localhost:8000/api/cars?marca=${brand}&limit=100`)
+    const baseUrl = getApiBaseUrl();
+    fetch(`${baseUrl}/api/cars?marca=${brand}&limit=100`)
       .then(res => res.json())
       .then(data => {
         const uniqueModels = [...new Set(data.cars.map(c => c.modelo))];
@@ -187,8 +190,9 @@ export default function WrappedStory() {
   const handleVerdictFetch = async (fuel) => {
     setLoading(true);
     setUserChoice(prev => ({ ...prev, combustible: fuel }));
+    const baseUrl = getApiBaseUrl();
     try {
-      const res = await fetch(`http://localhost:8000/api/insights/verdict?marca=${userChoice.marca}&modelo=${userChoice.modelo}&combustible=${fuel}`);
+      const res = await fetch(`${baseUrl}/api/insights/verdict?marca=${userChoice.marca}&modelo=${userChoice.modelo}&combustible=${fuel}`);
       const data = await res.json();
       setVerdict(data);
       nextSlide();

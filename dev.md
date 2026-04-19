@@ -22,6 +22,7 @@ docker compose -f docker-compose.dev.yml  exec scraper python -m db_tools.auto_m
 
 ----
 
+https://coolify.io/docs/knowledge-base/environment-variables
 
 Magic Environment Variables
 For Docker Compose / Service Stack deployments, Coolify can auto-generate dynamic values using the SERVICE_<TYPE>_<IDENTIFIER> syntax. These let you generate URLs, FQDNs, passwords, and random strings that stay consistent across all services in a stack.
