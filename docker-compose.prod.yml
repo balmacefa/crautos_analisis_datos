@@ -17,25 +17,42 @@ services:
       AUTH_PASSWORD: "${AUTH_PASSWORD:-admin}"
       SCRAPER_CRON: "0 7,13,19 * * *"
     volumes:
-      # Data persistence for SQLite in production
       - ./data:/app/data
     command: gunicorn --bind 0.0.0.0:8081 --workers 1 --timeout 120 --access-logfile - --error-logfile - --log-level info cron.devops_job_orchestrator:server
-    restart: always
+    restart: unless-stopped
     stop_grace_period: 30s
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8081/')"]
+      interval: 1m
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 
   api:
     build:
       context: ./backend
       dockerfile: Dockerfile.api
     container_name: crautos_api_prod
-    # No host port mapping to avoid conflicts with other apps;
-    # Internal communication via http://api:8000 still works.
     expose:
       - "8000"
     volumes:
-      # Read DB access
       - ./data:/app/data
-    restart: always
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/docs')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
   frontend:
     build:
       context: ./frontend
@@ -46,30 +63,76 @@ services:
     environment:
       - SERVICE_URL_FRONTEND=$SERVICE_URL_FRONTEND
       - API_BASE=http://api:8000
-    restart: always
+    restart: unless-stopped
+    depends_on:
+      api:
+        condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 
   typesense:
-    image: typesense/typesense:26.0
+    build:
+      context: ./typesense
+      dockerfile: Dockerfile.prod
     container_name: crautos_typesense_prod
-    restart: always
+    restart: unless-stopped
+    command: ["/opt/typesense", "--config", "/etc/typesense/config.ini"]
     expose:
       - "8108"
     volumes:
       - ./typesense-data:/data
     environment:
-      - TYPESENSE_DATA_DIR=/data
       - TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-xyz123abc456}
-      - TYPESENSE_ENABLE_CORS=true
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8108/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    deploy:
+      resources:
+        limits:
+          memory: 1G
+          cpus: '0.50'
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 
   wrapped:
     build:
       context: ./wrapped-frontend
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.prod
     container_name: crautos_wrapped_prod
     ports:
       - "8051:3000"
     environment:
-      - NEXT_PUBLIC_API_BASE=https://api.tudominio.com # Ajustar en prod
-    restart: always
+      - NEXT_PUBLIC_API_BASE=${NEXT_PUBLIC_API_BASE:-http://api:8000}
+    restart: unless-stopped
     depends_on:
-      - api
+      api:
+        condition: service_healthy
+      typesense:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: '0.25'
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  default:
+    name: crautos_prod_network

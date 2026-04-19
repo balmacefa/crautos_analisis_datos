@@ -17,8 +17,13 @@ data_scrapper/data/
 # SQLite database (mounted via Docker volume to ./data/)
 data/
 
+# Typesense data (mounted via Docker volume)
+typesense-data*/
+
 # Environment secrets
 .env
+.env.local
+.env.*.local
 
 # IDE
 .vscode/settings.json
