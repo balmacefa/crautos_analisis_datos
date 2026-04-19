@@ -920,14 +920,16 @@ async def get_cars_v2(
     provinces: Optional[str] = None,
     fuels: Optional[str] = None,
     transmissions: Optional[str] = None,
-    sort_by: Optional[str] = "año:desc"
+    sort_by: Optional[str] = "año:desc",
+    facet_by: Optional[str] = Query("marca,año,combustible,transmisión,provincia")
 ):
     search_parameters = {
         'q': q,
         'query_by': 'marca,modelo',
         'page': page,
         'per_page': limit,
-        'sort_by': sort_by
+        'sort_by': sort_by,
+        'facet_by': facet_by
     }
 
     filter_by = []
@@ -948,6 +950,9 @@ async def get_cars_v2(
         p_max = price_max if price_max is not None else 1000000000
         filter_by.append(f"precio_usd:[{p_min}..{p_max}]")
 
+    if km_min is not None or km_max is not None:
+        k_min = km_min if km_min is not None else 0
+        k_max = km_max if km_max is not None else 1000000
         filter_by.append(f"kilometraje_number:[{k_min}..{k_max}]")
 
     if provinces:
@@ -989,11 +994,20 @@ async def get_cars_v2(
                 }
             })
 
+        facets = []
+        for f in search_results.get('facet_counts', []):
+            facet_result = {
+                "field_name": f.get("field_name"),
+                "counts": [{"value": v["value"], "count": v["count"]} for v in f.get("counts", [])]
+            }
+            facets.append(facet_result)
+
         return CarsResponse(
             total=search_results.get('found', 0),
             page=page,
             limit=limit,
-            cars=cars
+            cars=cars,
+            facets=facets
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Typesense search error: {str(e)}")

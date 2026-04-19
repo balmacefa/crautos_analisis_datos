@@ -42,11 +42,20 @@ class CarDetail(BaseModel):
     equipamiento: List[str] = []
     scraped_at: str
 
+class FacetValue(BaseModel):
+    value: str
+    count: int
+
+class FacetResult(BaseModel):
+    field_name: str
+    counts: List[FacetValue]
+
 class CarsResponse(BaseModel):
     total: int
     page: int
     limit: int
     cars: List[CarDetail]
+    facets: Optional[List[FacetResult]] = None
 
 class SummaryStats(BaseModel):
     total_cars: int

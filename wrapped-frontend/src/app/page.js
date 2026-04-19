@@ -273,12 +273,19 @@ export default function WrappedStory() {
                 <p className="text-lg text-white/50">Tu historia con el mercado automotriz en tiempo real</p>
                 <div className="pt-8">
                    <p className="text-[10px] text-white/20 uppercase tracking-[0.3em] mb-4">Mantén presionado para pausar</p>
-                   <button 
+                    <button 
                     onClick={nextSlide}
-                    className="px-8 py-4 bg-blue-600 hover:bg-blue-500 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 shadow-lg shadow-blue-900/40"
+                    className="w-full px-8 py-4 bg-blue-600 hover:bg-blue-500 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 shadow-lg shadow-blue-900/40 text-white"
                   >
                     Descubrir ahora
                   </button>
+                  <Link 
+                    href="/explorer"
+                    className="w-full mt-4 px-8 py-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 flex items-center justify-center gap-3 group"
+                  >
+                    <BarChart size={20} className="text-blue-400 group-hover:scale-110 transition-transform" />
+                    Market Explorer
+                  </Link>
                 </div>
               </div>
             )}
@@ -410,7 +417,7 @@ export default function WrappedStory() {
                 <motion.div variants={itemVariants}><MousePointer2 size={48} className="text-purple-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-4xl font-black leading-none uppercase tracking-tighter italic">
                    ¿Manual o <br /> <span className="text-purple-400">Automático?</span>
-                </h2>
+                </motion.h2>
                 <motion.div variants={itemVariants} className="flex items-center gap-1 h-12 rounded-2xl overflow-hidden border border-white/10 p-1 bg-white/5">
                    {transmissionStats.slice(0,2).map((t, i) => (
                       <motion.div 
@@ -424,7 +431,7 @@ export default function WrappedStory() {
                         )}
                       >
                          <p className="text-[10px] font-black uppercase text-center px-2 truncate">{t.transmisión}</p>
-                      </div>
+                      </motion.div>
                    ))}
                 </motion.div>
                 <p className="text-sm text-white/40 italic text-center">"La comodidad parece estar ganando la carrera en las calles ticas."</p>

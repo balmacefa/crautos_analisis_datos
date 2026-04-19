@@ -86,4 +86,5 @@ services:
     volumes:
       - ./wrapped-frontend:/app
       - /app/node_modules
+    command: npm run dev
     restart: always

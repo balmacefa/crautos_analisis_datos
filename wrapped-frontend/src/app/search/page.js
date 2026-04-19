@@ -207,9 +207,6 @@ export default function SearchExplorer() {
                 </div>
               </div>
 
-                </select>
-              </div>
-
               <div className="space-y-3">
                 <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Provincia</label>
                 <select 
