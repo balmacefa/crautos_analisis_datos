@@ -1,0 +1,2288 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Crautos Async Data API",
+    "version": "0.1.0"
+  },
+  "paths": {
+    "/api/cars": {
+      "get": {
+        "summary": "Get Cars",
+        "operationId": "get_cars_api_cars_get",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 1,
+              "title": "Page"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 100,
+              "minimum": 1,
+              "default": 50,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "marca",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Marca"
+            }
+          },
+          {
+            "name": "modelo",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Modelo"
+            }
+          },
+          {
+            "name": "year_min",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Year Min"
+            }
+          },
+          {
+            "name": "year_max",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Year Max"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CarsResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/search": {
+      "get": {
+        "summary": "Search Cars",
+        "operationId": "search_cars_api_search_get",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "minLength": 2,
+              "title": "Q"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 1,
+              "title": "Page"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 100,
+              "minimum": 1,
+              "default": 50,
+              "title": "Limit"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CarsResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/cars/{car_id}": {
+      "get": {
+        "summary": "Get Car",
+        "operationId": "get_car_api_cars__car_id__get",
+        "parameters": [
+          {
+            "name": "car_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Car Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CarDetail"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/summary": {
+      "get": {
+        "summary": "Get Summary",
+        "operationId": "get_summary_api_insights_summary_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryStats"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/brands": {
+      "get": {
+        "summary": "Get Brands Insight",
+        "operationId": "get_brands_insight_api_insights_brands_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/BrandStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Brands Insight Api Insights Brands Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/ratios/top": {
+      "get": {
+        "summary": "Get Top Ratios",
+        "operationId": "get_top_ratios_api_insights_ratios_top_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/RatioStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Top Ratios Api Insights Ratios Top Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/brands/compare": {
+      "get": {
+        "summary": "Get Brand Comparison",
+        "operationId": "get_brand_comparison_api_insights_brands_compare_get",
+        "parameters": [
+          {
+            "name": "brands",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Comma separated list of brands",
+              "title": "Brands"
+            },
+            "description": "Comma separated list of brands"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BrandComparisonStat"
+                  },
+                  "title": "Response Get Brand Comparison Api Insights Brands Compare Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/years": {
+      "get": {
+        "summary": "Get Years Insight",
+        "operationId": "get_years_insight_api_insights_years_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/YearStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Years Insight Api Insights Years Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/provinces": {
+      "get": {
+        "summary": "Get Provinces Insight",
+        "operationId": "get_provinces_insight_api_insights_provinces_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/ProvinceStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Provinces Insight Api Insights Provinces Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/depreciation": {
+      "get": {
+        "summary": "Get Depreciation Insight",
+        "operationId": "get_depreciation_insight_api_insights_depreciation_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/DepreciationStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Depreciation Insight Api Insights Depreciation Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/distribution/fuel": {
+      "get": {
+        "summary": "Get Fuel Distribution",
+        "operationId": "get_fuel_distribution_api_insights_distribution_fuel_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/FuelStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Fuel Distribution Api Insights Distribution Fuel Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/distribution/transmission": {
+      "get": {
+        "summary": "Get Transmission Distribution",
+        "operationId": "get_transmission_distribution_api_insights_distribution_transmission_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/TransmissionStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Transmission Distribution Api Insights Distribution Transmission Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/opportunities": {
+      "get": {
+        "summary": "Get Opportunities",
+        "operationId": "get_opportunities_api_insights_opportunities_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/OpportunityCar"
+                  },
+                  "type": "array",
+                  "title": "Response Get Opportunities Api Insights Opportunities Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/models": {
+      "get": {
+        "summary": "Get Models Insight",
+        "operationId": "get_models_insight_api_insights_models_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/ModelStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Models Insight Api Insights Models Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/price-ranges-crc": {
+      "get": {
+        "summary": "Get Price Ranges Crc",
+        "operationId": "get_price_ranges_crc_api_insights_price_ranges_crc_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/mileage": {
+      "get": {
+        "summary": "Get Mileage Insight",
+        "operationId": "get_mileage_insight_api_insights_mileage_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/curiosities": {
+      "get": {
+        "summary": "Get Curiosities",
+        "operationId": "get_curiosities_api_insights_curiosities_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CuriositiesResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/explorer": {
+      "get": {
+        "summary": "Get Explorer Data",
+        "operationId": "get_explorer_data_api_insights_explorer_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/ExplorerData"
+                  },
+                  "type": "array",
+                  "title": "Response Get Explorer Data Api Insights Explorer Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/market-extremes": {
+      "get": {
+        "summary": "Get Market Extremes",
+        "operationId": "get_market_extremes_api_insights_market_extremes_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MarketExtremesResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/models/transmissions": {
+      "get": {
+        "summary": "Get Models Transmissions",
+        "operationId": "get_models_transmissions_api_insights_models_transmissions_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/ModelTransmissionStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Models Transmissions Api Insights Models Transmissions Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/insights/verdict": {
+      "get": {
+        "summary": "Get Verdict",
+        "operationId": "get_verdict_api_insights_verdict_get",
+        "parameters": [
+          {
+            "name": "marca",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Marca"
+            }
+          },
+          {
+            "name": "modelo",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Modelo"
+            }
+          },
+          {
+            "name": "combustible",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Combustible"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/VerdictResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v2/cars": {
+      "get": {
+        "summary": "Get Cars V2",
+        "operationId": "get_cars_v2_api_v2_cars_get",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "default": "*",
+              "title": "Q"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 1,
+              "title": "Page"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 100,
+              "minimum": 1,
+              "default": 50,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "brands",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Brands"
+            }
+          },
+          {
+            "name": "models",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Models"
+            }
+          },
+          {
+            "name": "year_min",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Year Min"
+            }
+          },
+          {
+            "name": "year_max",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Year Max"
+            }
+          },
+          {
+            "name": "price_min",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Price Min"
+            }
+          },
+          {
+            "name": "price_max",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Price Max"
+            }
+          },
+          {
+            "name": "km_min",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Km Min"
+            }
+          },
+          {
+            "name": "km_max",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Km Max"
+            }
+          },
+          {
+            "name": "provinces",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Provinces"
+            }
+          },
+          {
+            "name": "fuels",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Fuels"
+            }
+          },
+          {
+            "name": "transmissions",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Transmissions"
+            }
+          },
+          {
+            "name": "sort_by",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": "a\u00f1o:desc",
+              "title": "Sort By"
+            }
+          },
+          {
+            "name": "facet_by",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": "marca,a\u00f1o,combustible,transmisi\u00f3n,provincia",
+              "title": "Facet By"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CarsResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BrandComparisonStat": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          },
+          "avg_mileage": {
+            "type": "number",
+            "title": "Avg Mileage"
+          },
+          "avg_year": {
+            "type": "number",
+            "title": "Avg Year"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "avg_price_usd",
+          "avg_price_crc",
+          "avg_mileage",
+          "avg_year",
+          "count"
+        ],
+        "title": "BrandComparisonStat"
+      },
+      "BrandStat": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc"
+        ],
+        "title": "BrandStat"
+      },
+      "CarDetail": {
+        "properties": {
+          "car_id": {
+            "type": "string",
+            "title": "Car Id"
+          },
+          "url": {
+            "type": "string",
+            "title": "Url"
+          },
+          "a\u00f1o": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "A\u00f1o"
+          },
+          "marca": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Marca"
+          },
+          "modelo": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Modelo"
+          },
+          "precio_crc": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Precio Crc"
+          },
+          "precio_usd": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Precio Usd"
+          },
+          "imagen_principal": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Imagen Principal"
+          },
+          "galeria_imagenes": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Galeria Imagenes",
+            "default": []
+          },
+          "vendedor": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/SellerInfo"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "informacion_general": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/GeneralInfo"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "equipamiento": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Equipamiento",
+            "default": []
+          },
+          "scraped_at": {
+            "type": "string",
+            "title": "Scraped At"
+          }
+        },
+        "type": "object",
+        "required": [
+          "car_id",
+          "url",
+          "scraped_at"
+        ],
+        "title": "CarDetail"
+      },
+      "CarsResponse": {
+        "properties": {
+          "total": {
+            "type": "integer",
+            "title": "Total"
+          },
+          "page": {
+            "type": "integer",
+            "title": "Page"
+          },
+          "limit": {
+            "type": "integer",
+            "title": "Limit"
+          },
+          "cars": {
+            "items": {
+              "$ref": "#/components/schemas/CarDetail"
+            },
+            "type": "array",
+            "title": "Cars"
+          },
+          "facets": {
+            "anyOf": [
+              {
+                "items": {
+                  "$ref": "#/components/schemas/FacetResult"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Facets"
+          }
+        },
+        "type": "object",
+        "required": [
+          "total",
+          "page",
+          "limit",
+          "cars"
+        ],
+        "title": "CarsResponse"
+      },
+      "CuriositiesResponse": {
+        "properties": {
+          "most_expensive": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/CuriosityCar"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "cheapest": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/CuriosityCar"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "oldest": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/CuriosityCar"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "highest_mileage": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/CuriosityCar"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "type": "object",
+        "title": "CuriositiesResponse"
+      },
+      "CuriosityCar": {
+        "properties": {
+          "car_id": {
+            "type": "string",
+            "title": "Car Id"
+          },
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "a\u00f1o": {
+            "type": "integer",
+            "title": "A\u00f1o"
+          },
+          "precio_usd": {
+            "type": "number",
+            "title": "Precio Usd"
+          },
+          "precio_crc": {
+            "type": "number",
+            "title": "Precio Crc"
+          },
+          "kilometraje_number": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kilometraje Number"
+          },
+          "imagen_principal": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Imagen Principal"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "description": {
+            "type": "string",
+            "title": "Description"
+          }
+        },
+        "type": "object",
+        "required": [
+          "car_id",
+          "marca",
+          "modelo",
+          "a\u00f1o",
+          "precio_usd",
+          "precio_crc",
+          "title",
+          "description"
+        ],
+        "title": "CuriosityCar"
+      },
+      "DepreciationStat": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "a\u00f1o": {
+            "type": "integer",
+            "title": "A\u00f1o"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "modelo",
+          "a\u00f1o",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc"
+        ],
+        "title": "DepreciationStat"
+      },
+      "ExplorerData": {
+        "properties": {
+          "car_id": {
+            "type": "string",
+            "title": "Car Id"
+          },
+          "marca": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Marca"
+          },
+          "modelo": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Modelo"
+          },
+          "a\u00f1o": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "A\u00f1o"
+          },
+          "precio_crc": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Precio Crc"
+          },
+          "precio_usd": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Precio Usd"
+          },
+          "kilometraje_number": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kilometraje Number"
+          },
+          "provincia": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Provincia"
+          },
+          "combustible": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Combustible"
+          },
+          "transmisi\u00f3n": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Transmisi\u00f3n"
+          }
+        },
+        "type": "object",
+        "required": [
+          "car_id"
+        ],
+        "title": "ExplorerData"
+      },
+      "FacetResult": {
+        "properties": {
+          "field_name": {
+            "type": "string",
+            "title": "Field Name"
+          },
+          "counts": {
+            "items": {
+              "$ref": "#/components/schemas/FacetValue"
+            },
+            "type": "array",
+            "title": "Counts"
+          }
+        },
+        "type": "object",
+        "required": [
+          "field_name",
+          "counts"
+        ],
+        "title": "FacetResult"
+      },
+      "FacetValue": {
+        "properties": {
+          "value": {
+            "type": "string",
+            "title": "Value"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "value",
+          "count"
+        ],
+        "title": "FacetValue"
+      },
+      "FuelStat": {
+        "properties": {
+          "combustible": {
+            "type": "string",
+            "title": "Combustible"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          }
+        },
+        "type": "object",
+        "required": [
+          "combustible",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc"
+        ],
+        "title": "FuelStat"
+      },
+      "GeneralInfo": {
+        "properties": {
+          "cilindrada": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Cilindrada"
+          },
+          "estilo": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Estilo"
+          },
+          "pasajeros": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Pasajeros"
+          },
+          "combustible": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Combustible"
+          },
+          "transmisi\u00f3n": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Transmisi\u00f3n"
+          },
+          "estado": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Estado"
+          },
+          "kilometraje": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kilometraje"
+          },
+          "placa": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Placa"
+          },
+          "color_exterior": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Color Exterior"
+          },
+          "color_interior": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Color Interior"
+          },
+          "puertas": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Puertas"
+          },
+          "ya_pag\u00f3_impuestos": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Ya Pag\u00f3 Impuestos"
+          },
+          "precio_negociable": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Precio Negociable"
+          },
+          "se_recibe_veh\u00edculo": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Se Recibe Veh\u00edculo"
+          },
+          "provincia": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Provincia"
+          },
+          "fecha_de_ingreso": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Fecha De Ingreso"
+          },
+          "comentario_vendedor": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Comentario Vendedor"
+          },
+          "kilometraje_number": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kilometraje Number"
+          },
+          "cilindrada_number": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Cilindrada Number"
+          }
+        },
+        "type": "object",
+        "title": "GeneralInfo"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "MarketExtremeBrand": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "count"
+        ],
+        "title": "MarketExtremeBrand"
+      },
+      "MarketExtremeModel": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "modelo",
+          "avg_price_crc",
+          "count"
+        ],
+        "title": "MarketExtremeModel"
+      },
+      "MarketExtremesResponse": {
+        "properties": {
+          "most_popular_brand": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/MarketExtremeBrand"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "least_popular_brand": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/MarketExtremeBrand"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "highest_value_model": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/MarketExtremeModel"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "lowest_value_model": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/MarketExtremeModel"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "type": "object",
+        "title": "MarketExtremesResponse"
+      },
+      "ModelStat": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "modelo",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc"
+        ],
+        "title": "ModelStat"
+      },
+      "ModelTransmissionStat": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "transmisi\u00f3n": {
+            "type": "string",
+            "title": "Transmisi\u00f3n"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "modelo",
+          "transmisi\u00f3n",
+          "count"
+        ],
+        "title": "ModelTransmissionStat"
+      },
+      "OpportunityCar": {
+        "properties": {
+          "car_id": {
+            "type": "string",
+            "title": "Car Id"
+          },
+          "url": {
+            "type": "string",
+            "title": "Url"
+          },
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "a\u00f1o": {
+            "type": "integer",
+            "title": "A\u00f1o"
+          },
+          "precio_usd": {
+            "type": "number",
+            "title": "Precio Usd"
+          },
+          "precio_crc": {
+            "type": "number",
+            "title": "Precio Crc"
+          },
+          "kilometraje_number": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kilometraje Number"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          },
+          "deviation_percent": {
+            "type": "number",
+            "title": "Deviation Percent"
+          },
+          "imagen_principal": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Imagen Principal"
+          }
+        },
+        "type": "object",
+        "required": [
+          "car_id",
+          "url",
+          "marca",
+          "modelo",
+          "a\u00f1o",
+          "precio_usd",
+          "precio_crc",
+          "avg_price_usd",
+          "avg_price_crc",
+          "deviation_percent"
+        ],
+        "title": "OpportunityCar"
+      },
+      "ProvinceStat": {
+        "properties": {
+          "provincia": {
+            "type": "string",
+            "title": "Provincia"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          }
+        },
+        "type": "object",
+        "required": [
+          "provincia",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc"
+        ],
+        "title": "ProvinceStat"
+      },
+      "RatioStat": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          },
+          "avg_mileage": {
+            "type": "number",
+            "title": "Avg Mileage"
+          },
+          "ratio_usd": {
+            "type": "number",
+            "title": "Ratio Usd"
+          },
+          "ratio_crc": {
+            "type": "number",
+            "title": "Ratio Crc"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "modelo",
+          "avg_price_usd",
+          "avg_price_crc",
+          "avg_mileage",
+          "ratio_usd",
+          "ratio_crc",
+          "count"
+        ],
+        "title": "RatioStat"
+      },
+      "SellerInfo": {
+        "properties": {
+          "nombre": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Nombre"
+          },
+          "tel\u00e9fono": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Tel\u00e9fono"
+          },
+          "whatsapp": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Whatsapp"
+          }
+        },
+        "type": "object",
+        "title": "SellerInfo"
+      },
+      "SummaryStats": {
+        "properties": {
+          "total_cars": {
+            "type": "integer",
+            "title": "Total Cars"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          },
+          "top_brands": {
+            "items": {
+              "additionalProperties": true,
+              "type": "object"
+            },
+            "type": "array",
+            "title": "Top Brands"
+          },
+          "last_updated": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Last Updated"
+          }
+        },
+        "type": "object",
+        "required": [
+          "total_cars",
+          "avg_price_usd",
+          "avg_price_crc",
+          "top_brands"
+        ],
+        "title": "SummaryStats"
+      },
+      "TransmissionStat": {
+        "properties": {
+          "transmisi\u00f3n": {
+            "type": "string",
+            "title": "Transmisi\u00f3n"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          }
+        },
+        "type": "object",
+        "required": [
+          "transmisi\u00f3n",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc"
+        ],
+        "title": "TransmissionStat"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      },
+      "VerdictResponse": {
+        "properties": {
+          "marca": {
+            "type": "string",
+            "title": "Marca"
+          },
+          "modelo": {
+            "type": "string",
+            "title": "Modelo"
+          },
+          "combustible": {
+            "type": "string",
+            "title": "Combustible"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          },
+          "avg_mileage": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Avg Mileage"
+          },
+          "verdict_title": {
+            "type": "string",
+            "title": "Verdict Title"
+          },
+          "verdict_text": {
+            "type": "string",
+            "title": "Verdict Text"
+          },
+          "is_good_option": {
+            "type": "boolean",
+            "title": "Is Good Option"
+          },
+          "market_share_percent": {
+            "type": "number",
+            "title": "Market Share Percent"
+          }
+        },
+        "type": "object",
+        "required": [
+          "marca",
+          "modelo",
+          "combustible",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc",
+          "verdict_title",
+          "verdict_text",
+          "is_good_option",
+          "market_share_percent"
+        ],
+        "title": "VerdictResponse"
+      },
+      "YearStat": {
+        "properties": {
+          "a\u00f1o": {
+            "type": "integer",
+            "title": "A\u00f1o"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "avg_price_usd": {
+            "type": "number",
+            "title": "Avg Price Usd"
+          },
+          "avg_price_crc": {
+            "type": "number",
+            "title": "Avg Price Crc"
+          }
+        },
+        "type": "object",
+        "required": [
+          "a\u00f1o",
+          "count",
+          "avg_price_usd",
+          "avg_price_crc"
+        ],
+        "title": "YearStat"
+      }
+    }
+  }
+}

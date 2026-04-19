@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "sync-api": "node scripts/sync-api.js"
   },
   "dependencies": {
     "canvas-confetti": "^1.9.3",
@@ -25,6 +26,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
+    "swagger-typescript-api": "^13.6.10",
     "tailwindcss": "^4"
   }
 }
