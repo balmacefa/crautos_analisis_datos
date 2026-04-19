@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚗 Crautos Wrapped
 
-## Getting Started
+Crautos Wrapped is a premium, data-driven storytelling experience that analyzes the Costa Rican automotive market. It transforms complex marketplace statistics into an interactive, visual narrative—much like Spotify Wrapped—allowing users to explore trends, prices, and insights with high-fidelity animations.
 
-First, run the development server:
+## ✨ Key Features
+
+- **Interactive Stories**: A cinematic walkthrough of yearly market data (Total listings, investment averages, geographical density).
+- **Market Insights Dashboard**: Advanced analytics including depreciation curves, bargain detections, and vehicle-specific comparisons.
+- **Premium UI/UX**:
+  - Dark mode glassmorphism aesthetics.
+  - Fluid animations powered by **Framer Motion**.
+  - Interactive confetti celebrations with **Canvas-Confetti**.
+- **Real-time Search**: Powered by **Typesense** for lightning-fast model and brand lookups.
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org) (App Router)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Data Fetching**: [SWR](https://swr.vercel.app/)
+- **Icons**: [Lucide React](https://lucide.dev)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have the full stack running (API + Scraper) or access to the production endpoints.
+
+### Option 1: Docker (Recommended)
+
+The easiest way to run the frontend is through the root project's Docker setup:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# From the root directory
+docker compose -f docker-compose.dev.yml up -d --build
+```
+The application will be available at [http://localhost:3001](http://localhost:3001).
+
+### Option 2: Local Development
+
+If you prefer to run it manually:
+
+1.  **Install dependencies**:
+    ```bash
+    npm install
+    ```
+2.  **Configure environment**: Create a `.env.local` file (see `.env.example` if available).
+3.  **Run the dev server**:
+    ```bash
+    npm run dev
+    ```
+    Access it at [http://localhost:3000](http://localhost:3000).
+
+## 📊 Environment Variables
+
+| Variable | Description |
+| :--- | :--- |
+| `NEXT_PUBLIC_API_URL` | Base URL for the FastAPI backend. |
+| `NEXT_PUBLIC_TYPESENSE_URL` | Endpoint for the Typesense search engine. |
+| `NEXT_PUBLIC_TYPESENSE_API_KEY` | Public key for search operations. |
+
+## 🧪 Testing
+
+The project uses Playwright for End-to-End testing.
+
+```bash
+npx playwright test
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Developed as part of the **Crautos Analisis Datos** ecosystem.

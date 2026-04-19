@@ -284,11 +284,18 @@ export default function WrappedStory() {
                     Descubrir ahora
                   </button>
                   <Link 
-                    href="/explorer"
+                    href="/search"
                     className="w-full mt-4 px-8 py-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 flex items-center justify-center gap-3 group"
                   >
-                    <BarChart size={20} className="text-blue-400 group-hover:scale-110 transition-transform" />
+                    <Search size={20} className="text-blue-400 group-hover:scale-110 transition-transform" />
                     Market Explorer
+                  </Link>
+                  <Link 
+                    href="/insights"
+                    className="w-full mt-4 px-8 py-4 bg-blue-600/20 hover:bg-blue-600/30 border border-blue-500/30 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 flex items-center justify-center gap-3 group"
+                  >
+                    <TrendingUp size={20} className="text-blue-400 group-hover:scale-110 transition-transform" />
+                    Market Insights Dashboard
                   </Link>
                 </div>
               </div>
@@ -438,7 +445,7 @@ export default function WrappedStory() {
                       </motion.div>
                    ))}
                 </motion.div>
-                <p className="text-sm text-white/40 italic text-center">"La comodidad parece estar ganando la carrera en las calles ticas."</p>
+                <p className="text-sm text-white/40 italic text-center">&quot;La comodidad parece estar ganando la carrera en las calles ticas.&quot;</p>
               </motion.div>
             )}
 
@@ -544,7 +551,7 @@ export default function WrappedStory() {
                        </h2>
                        
                        <p className="text-lg text-white/80 leading-snug italic font-medium mb-6">
-                         "{verdict.verdict_text}"
+                         &quot;{verdict.verdict_text}&quot;
                        </p>
 
                        <div className="grid grid-cols-2 gap-4 pt-6 border-t border-white/10">
