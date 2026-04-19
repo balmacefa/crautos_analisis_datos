@@ -40,15 +40,13 @@ import {
 } from 'lucide-react';
 import Link from 'next/link';
 import useSWR from 'swr';
-import { getApiBaseUrl } from '@/lib/api';
+import { getApiBaseUrl, robustFetcher as fetcher } from '@/lib/api';
 import { clsx } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 
 function cn(...inputs) {
   return twMerge(clsx(inputs));
 }
-
-const fetcher = (url) => fetch(url).then((res) => res.json());
 
 // --- Components ---
 
@@ -125,16 +123,15 @@ export default function InsightsDashboard() {
   const { data: provinceStats } = useSWR(`${baseUrl}/api/insights/provinces`, fetcher);
   const { data: explorerData } = useSWR(`${baseUrl}/api/insights/explorer`, fetcher);
 
-  // Filter & Logic for Ratios
   const topRatios = useMemo(() => {
-    if (!ratiosData) return [];
+    if (!Array.isArray(ratiosData)) return [];
     return [...ratiosData]
       .sort((a, b) => b.ratio_usd - a.ratio_usd)
       .slice(0, 10);
   }, [ratiosData]);
 
   const bestValueRatios = useMemo(() => {
-    if (!ratiosData) return [];
+    if (!Array.isArray(ratiosData)) return [];
     return [...ratiosData]
       .sort((a, b) => a.ratio_usd - b.ratio_usd)
       .slice(0, 10);
@@ -143,7 +140,7 @@ export default function InsightsDashboard() {
   // Logic for Depreciation Comparison
   const [selectedBrands, setSelectedBrands] = useState(['Toyota', 'Hyundai', 'Nissan']);
   const depreciationChartData = useMemo(() => {
-    if (!depreciation) return [];
+    if (!Array.isArray(depreciation)) return [];
     // Group by year and filter selected brands
     const years = [...new Set(depreciation.map(d => d.año))].sort((a, b) => a - b);
     return years.map(year => {
@@ -403,7 +400,7 @@ export default function InsightsDashboard() {
                     <ResponsiveContainer width="100%" height="100%">
                        <PieChart>
                           <Pie
-                            data={fuelStats}
+                            data={fuelStats || []}
                             cx="50%"
                             cy="50%"
                             innerRadius={60}
@@ -412,7 +409,7 @@ export default function InsightsDashboard() {
                             dataKey="count"
                             nameKey="combustible"
                           >
-                            {fuelStats?.map((entry, index) => (
+                            {(fuelStats || []).map((entry, index) => (
                               <Cell key={`cell-${index}`} fill={COLORS_PIE[index % COLORS_PIE.length]} stroke="none" />
                             ))}
                           </Pie>
@@ -428,6 +425,41 @@ export default function InsightsDashboard() {
                           <span className="text-white/40 uppercase">{f.combustible}</span>
                         </div>
                         <span>{Math.round((f.count / (summary?.total_cars || 1)) * 100)}%</span>
+                      </div>
+                    ))}
+                 </div>
+              </GlassCard>
+
+              <GlassCard title="Transmisiones" subtitle="Distribución por tipo de caja" icon={Target}>
+                 <div className="h-[200px] w-full">
+                    <ResponsiveContainer width="100%" height="100%">
+                       <PieChart>
+                          <Pie
+                            data={transStats || []}
+                            cx="50%"
+                            cy="50%"
+                            innerRadius={60}
+                            outerRadius={80}
+                            paddingAngle={5}
+                            dataKey="count"
+                            nameKey="transmisión"
+                          >
+                            {(transStats || []).map((entry, index) => (
+                              <Cell key={`cell-${index}`} fill={COLORS_PIE[(index + 2) % COLORS_PIE.length]} stroke="none" />
+                            ))}
+                          </Pie>
+                          <Tooltip contentStyle={{ backgroundColor: '#111', border: 'none', borderRadius: '1rem', fontSize: '10px' }} />
+                       </PieChart>
+                    </ResponsiveContainer>
+                 </div>
+                 <div className="grid grid-cols-1 gap-2 mt-4">
+                    {transStats?.slice(0, 4).map((t, i) => (
+                      <div key={t.transmisión} className="flex justify-between items-center text-[10px] font-bold">
+                        <div className="flex items-center gap-2">
+                          <div className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: COLORS_PIE[(i + 2) % COLORS_PIE.length] }} />
+                          <span className="text-white/40 uppercase">{t.transmisión}</span>
+                        </div>
+                        <span>{Math.round((t.count / (summary?.total_cars || 1)) * 100)}%</span>
                       </div>
                     ))}
                  </div>

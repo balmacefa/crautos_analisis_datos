@@ -1,5 +1,5 @@
 "use client"
-import { getApiBaseUrl } from '@/lib/api';
+import { getApiBaseUrl, robustFetcher as fetcher } from '@/lib/api';
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
@@ -29,7 +29,7 @@ function cn(...inputs) {
   return twMerge(clsx(inputs));
 }
 
-const fetcher = (url) => fetch(url).then((res) => res.json());
+
 
 // --- Custom Premium Components ---
 

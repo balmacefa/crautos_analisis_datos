@@ -31,7 +31,7 @@ function cn(...inputs) {
   return twMerge(clsx(inputs));
 }
 
-const fetcher = (url) => fetch(url).then((res) => res.json());
+import { getApiBaseUrl, robustFetcher as fetcher } from '@/lib/api';
 
 export default function SearchExplorer() {
   const [searchQuery, setSearchQuery] = useState('');
@@ -61,11 +61,13 @@ export default function SearchExplorer() {
     return () => clearTimeout(timer);
   }, [searchQuery]);
 
+  const baseUrl = getApiBaseUrl();
+
   // SWR for filters data
-  const { data: brandsData } = useSWR('http://localhost:8000/api/insights/brands', fetcher);
-  const { data: provincesData } = useSWR('http://localhost:8000/api/insights/provinces', fetcher);
-  const { data: fuelsData } = useSWR('http://localhost:8000/api/insights/distribution/fuel', fetcher);
-  const { data: transmissionsData } = useSWR('http://localhost:8000/api/insights/distribution/transmission', fetcher);
+  const { data: brandsData } = useSWR(`${baseUrl}/api/insights/brands`, fetcher);
+  const { data: provincesData } = useSWR(`${baseUrl}/api/insights/provinces`, fetcher);
+  const { data: fuelsData } = useSWR(`${baseUrl}/api/insights/distribution/fuel`, fetcher);
+  const { data: transmissionsData } = useSWR(`${baseUrl}/api/insights/distribution/transmission`, fetcher);
 
   const brands = useMemo(() => brandsData?.slice(0, 30) || [], [brandsData]);
   const provinces = useMemo(() => provincesData || [], [provincesData]);
@@ -90,7 +92,7 @@ export default function SearchExplorer() {
     if (filters.fuels) params.append('fuels', filters.fuels);
     if (filters.transmissions) params.append('transmissions', filters.transmissions);
 
-    return `http://localhost:8000/api/v2/cars?${params.toString()}`;
+    return `${baseUrl}/api/v2/cars?${params.toString()}`;
   }, [debouncedQuery, filters]);
 
   const { data: initialData, isLoading: initialLoading } = useSWR(queryUrl, fetcher, {

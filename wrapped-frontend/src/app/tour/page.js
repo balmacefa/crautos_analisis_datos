@@ -1,5 +1,5 @@
 "use client"
-import { getApiBaseUrl } from '@/lib/api';
+import { getApiBaseUrl, robustFetcher as fetcher } from '@/lib/api';
 import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
@@ -108,25 +108,25 @@ export default function WrappedStory() {
     async function fetchData() {
       const baseUrl = getApiBaseUrl();
       try {
-        const [summaryRes, curiosRes, brandsRes, fuelRes, oppRes, provinceRes, yearRes, transRes] = await Promise.all([
-          fetch(`${baseUrl}/api/insights/summary`),
-          fetch(`${baseUrl}/api/insights/curiosities`),
-          fetch(`${baseUrl}/api/insights/brands`),
-          fetch(`${baseUrl}/api/insights/distribution/fuel`),
-          fetch(`${baseUrl}/api/insights/opportunities`),
-          fetch(`${baseUrl}/api/insights/provinces`),
-          fetch(`${baseUrl}/api/insights/years`),
-          fetch(`${baseUrl}/api/insights/distribution/transmission`)
+        const [summaryData, curiosData, brandsData, fuelData, oppData, provinceData, yearData, transData] = await Promise.all([
+          fetcher(`${baseUrl}/api/insights/summary`),
+          fetcher(`${baseUrl}/api/insights/curiosities`),
+          fetcher(`${baseUrl}/api/insights/brands`),
+          fetcher(`${baseUrl}/api/insights/distribution/fuel`),
+          fetcher(`${baseUrl}/api/insights/opportunities`),
+          fetcher(`${baseUrl}/api/insights/provinces`),
+          fetcher(`${baseUrl}/api/insights/years`),
+          fetcher(`${baseUrl}/api/insights/distribution/transmission`)
         ]);
         
-        setGlobalStats(await summaryRes.json());
-        setCuriosities(await curiosRes.json());
-        setBrands(await brandsRes.json());
-        setFuelStats(await fuelRes.json());
-        setOpportunities(await oppRes.json());
-        setProvinceStats(await provinceRes.json());
-        setYearStats(await yearRes.json());
-        setTransmissionStats(await transRes.json());
+        if (summaryData) setGlobalStats(summaryData);
+        if (curiosData) setCuriosities(curiosData);
+        if (brandsData) setBrands(brandsData);
+        if (fuelData) setFuelStats(fuelData);
+        if (oppData) setOpportunities(oppData);
+        if (provinceData) setProvinceStats(provinceData);
+        if (yearData) setYearStats(yearData);
+        if (transData) setTransmissionStats(transData);
       } catch (error) {
         console.error("Error fetching data:", error);
       }
@@ -173,12 +173,13 @@ export default function WrappedStory() {
   const handleBrandSelect = (brand) => {
     setUserChoice(prev => ({ ...prev, marca: brand, modelo: '', combustible: '' }));
     const baseUrl = getApiBaseUrl();
-    fetch(`${baseUrl}/api/cars?marca=${brand}&limit=100`)
-      .then(res => res.json())
+    fetcher(`${baseUrl}/api/cars?marca=${brand}&limit=100`)
       .then(data => {
-        const uniqueModels = [...new Set(data.cars.map(c => c.modelo))];
-        setModels(uniqueModels);
-        nextSlide();
+        if (data && data.cars) {
+          const uniqueModels = [...new Set(data.cars.map(c => c.modelo))];
+          setModels(uniqueModels);
+          nextSlide();
+        }
       });
   };
 
@@ -192,11 +193,12 @@ export default function WrappedStory() {
     setUserChoice(prev => ({ ...prev, combustible: fuel }));
     const baseUrl = getApiBaseUrl();
     try {
-      const res = await fetch(`${baseUrl}/api/insights/verdict?marca=${userChoice.marca}&modelo=${userChoice.modelo}&combustible=${fuel}`);
-      const data = await res.json();
-      setVerdict(data);
-      nextSlide();
-      setTimeout(triggerConfetti, 500);
+      const data = await fetcher(`${baseUrl}/api/insights/verdict?marca=${userChoice.marca}&modelo=${userChoice.modelo}&combustible=${fuel}`);
+      if (data) {
+        setVerdict(data);
+        nextSlide();
+        setTimeout(triggerConfetti, 500);
+      }
     } catch (e) {
       console.error(e);
     } finally {
