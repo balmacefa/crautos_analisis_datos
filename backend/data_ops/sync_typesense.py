@@ -23,7 +23,7 @@ client = typesense.Client({
         'protocol': TYPESENSE_PROTOCOL
     }],
     'api_key': TYPESENSE_API_KEY,
-    'connection_timeout_seconds': 5
+    'connection_timeout_seconds': 60
 })
 
 COLLECTION_NAME = 'cars'
@@ -50,16 +50,25 @@ def create_collection():
         'default_sorting_field': 'año'
     }
 
+    print(f"Ensuring collection '{COLLECTION_NAME}' is ready...")
     try:
-        # Check if collection exists and has the same schema version (optional optimization)
-        # For simplicity, we'll just delete and recreate if we want to ensure fresh schema
+        # We try to delete the collection first to ensure we have the latest schema.
+        # This might fail if the collection doesn't exist, which is fine.
         client.collections[COLLECTION_NAME].delete()
         print(f"Deleted existing collection '{COLLECTION_NAME}'")
-    except Exception:
-        pass
+    except Exception as e:
+        # Ignore failure if it doesn't exist, but log other issues
+        if "not found" not in str(e).lower():
+            print(f"Notice: Deletion of collection failed (might not exist): {e}")
 
-    client.collections.create(schema)
-    print(f"Created collection '{COLLECTION_NAME}' with version {SYNC_VERSION}")
+    try:
+        client.collections.create(schema)
+        print(f"Created collection '{COLLECTION_NAME}' with version {SYNC_VERSION}")
+    except Exception as e:
+        if "already exists" in str(e).lower():
+            print(f"Warning: Collection '{COLLECTION_NAME}' already exists. Skipping creation.")
+        else:
+            raise e
 
 def sync_data():
     if not Path(DB_PATH).exists():

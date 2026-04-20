@@ -33,7 +33,7 @@ ts_client = typesense.Client({
         'protocol': os.getenv("TYPESENSE_PROTOCOL", "http")
     }],
     'api_key': os.getenv("TYPESENSE_API_KEY", "xyz123abc456"),
-    'connection_timeout_seconds': 2
+    'connection_timeout_seconds': 10
 })
 
 def _parse_car_row(row: dict) -> dict:
