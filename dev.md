@@ -99,3 +99,53 @@ For Service Stack deployments, Coolify can generate dynamic values:
 
 > [!IMPORTANT]
 > Always check your `.env` file. If using Typesense, ensure `TYPESENSE_API_KEY` matches between the server and the frontend environment variables.
+
+---
+
+---
+
+## 🤖 LLM_MANIFEST (v2 - High Density)
+*Token-optimized context for AI onboarding. Load legend first.*
+
+### 🔑 LEGEND
+`:S:` Symbol | `:D:` Definition
+- `$` : Logic_Node/Service
+- `@` : FS_Path (Relative to root)
+- `{}`: Entrypoint/CMD
+- `&` : Stack/Dependency
+- `!` : Feature/Meta
+- `->`: Flow/Dependency
+- `[T]`: Compressed_Dir_Tree
+
+### 🧱 TOPOGRAPHY ($)
+- **$BE_API**: `@/backend/api` {main.py} &FastAPI &SQLAlchemy !Swagger:/docs
+- **$BE_SC**: `@/backend/data_scrapper` {run_scraper.py} &Playwright !ResumeSafe -> $SQL
+- **$BE_OPS**: `@/backend/data_ops` {sync_typesense.py} !SQLite2Typesense !Cleaning
+- **$FE_PR**: `@/wrapped-frontend` &NextJS &Tailwind !Premium_UI !Typesense_Search
+- **$FE_LG**: `@/frontend` {app.py} &Dash &Plotly !Internal_Dashboard
+- **$DB_SRC**: `@/backend/data/crautos.db` !SQLite_Source
+- **$DB_VEC**: `@/typesense` &Typesense !Vector_Search_Engine
+
+### 🌳 TREE_MAP [T] (90% Coverage)
+- **/**: config:[.env, docker-compose.*.yml]
+  - **backend/**:
+    - **api/**: [{main,models,database}.py]
+    - **data_scrapper/**: [{run_scraper,repository}.py, *_{scrapper.py,strategy.md}]
+    - **data_ops/**: [sync_typesense,data_cleaner,03_modeling,04_reporting].py
+    - **db_tools/**: [auto_migrate.py, migration_data/]
+    - **tests/**: [test_*.py]
+  - **frontend/**: [app.py, assets/]
+  - **wrapped-frontend/**: [src/{app,components,lib}, scripts/, Dockerfile*]
+  - **typesense/**: [Dockerfile.prod]
+
+### 🔄 LIFECYCLE
+1. **$BE_SC** -> **$DB_SRC** (Store raw/parsed listings)
+2. **$BE_OPS** [sync_typesense] <- **$DB_SRC** -> **$DB_VEC** (Normalize & Vectorize)
+3. **$FE_PR** <-> **$DB_VEC** (Fast Search/Filter)
+4. **$FE_LG** <- **$DB_SRC** (Static Reporting)
+
+### 🏁 EXECS
+- **SCRAPE_ALL**: `docker exec -it scraper python -m data_scrapper.run_scraper all`
+- **SYNC_SEARCH**: `python -m data_ops.sync_typesense`
+- **MIGRATE**: `python -m db_tools.auto_migrate`
+- **DEV_SH**: `docker compose -f docker-compose.dev.yml up`
