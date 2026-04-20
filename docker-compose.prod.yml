@@ -26,7 +26,7 @@ services:
     restart: unless-stopped
     stop_grace_period: 30s
     healthcheck:
-      test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8081/')" ]
+      test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8081/health')" ]
       interval: 1m
       timeout: 10s
       retries: 3
@@ -125,7 +125,8 @@ services:
     # Port mapping removed to avoid host-level conflict (0.0.0.0:3000 allocated).
     # Coolify routes via 'expose' and internal networking.
     environment:
-      - NEXT_PUBLIC_API_BASE=${NEXT_PUBLIC_API_BASE:-https://crautos.balmacefa.com}
+      - NEXT_PUBLIC_API_BASE=/
+      - INTERNAL_API_URL=http://api:8000
       - SERVICE_URL_WRAPPED_FRONTEND=$SERVICE_URL_WRAPPED_FRONTEND
     restart: unless-stopped
     depends_on:
