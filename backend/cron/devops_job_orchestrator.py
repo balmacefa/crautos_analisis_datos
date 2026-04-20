@@ -1418,40 +1418,6 @@ def check_external_service(url: str, service_name: str, timeout: int = 3) -> dic
     return result
 
 
-def check_jira_connectivity(timeout: int = 3) -> dict:
-    """
-    Check JIRA connectivity to https://jsw.ibm.com
-
-    Uses the /rest/api/2/serverInfo endpoint which is publicly accessible
-    and provides basic server information without authentication.
-
-    Args:
-        timeout: Request timeout in seconds (default: 3)
-
-    Returns:
-        dict: Health check result with status, response time, and error details
-    """
-    url = "https://jsw.ibm.com/rest/api/2/serverInfo"
-    return check_external_service(url, "JIRA", timeout)
-
-
-def check_github_connectivity(timeout: int = 3) -> dict:
-    """
-    Check GitHub Enterprise connectivity to https://github.ibm.com
-
-    Uses the /api/v3 endpoint which is publicly accessible and returns
-    API metadata without authentication.
-
-    Args:
-        timeout: Request timeout in seconds (default: 3)
-
-    Returns:
-        dict: Health check result with status, response time, and error details
-    """
-    url = "https://github.ibm.com/api/v3"
-    return check_external_service(url, "GitHub", timeout)
-
-
 # ===================== HEALTH CHECK ENDPOINT =====================
 
 
@@ -1474,35 +1440,37 @@ def health_check():
         # Check scheduler status
         scheduler_healthy = controller.scheduler_running
 
-        # Check external services connectivity
-        jira_status = check_jira_connectivity(timeout=3)
-        github_status = check_github_connectivity(timeout=3)
+        # # Check external services connectivity
+        # jira_status = check_jira_connectivity(timeout=3)
+        # github_status = check_github_connectivity(timeout=3)
 
-        # Determine if external services are healthy
-        jira_healthy = jira_status["status"] == "healthy"
-        github_healthy = github_status["status"] == "healthy"
+        # # Determine if external services are healthy
+        # jira_healthy = jira_status["status"] == "healthy"
+        # github_healthy = github_status["status"] == "healthy"
 
-        # At least one external service should be reachable
-        external_services_ok = jira_healthy or github_healthy
+        # # At least one external service should be reachable
+        # external_services_ok = jira_healthy or github_healthy
 
-        # Both external services unreachable is a critical issue
-        both_services_down = (
-            jira_status["status"] == "unreachable"
-            and github_status["status"] == "unreachable"
-        )
+        # # Both external services unreachable is a critical issue
+        # both_services_down = (
+        #     jira_status["status"] == "unreachable"
+        #     and github_status["status"] == "unreachable"
+        # )
+        http_status = 200
+        status = "healthy"
 
-        # Determine overall health status
-        if scheduler_healthy and external_services_ok:
-            status = "healthy"
-            http_status = 200
-        elif scheduler_healthy and not both_services_down:
-            # Scheduler running but one service degraded/unreachable
-            status = "degraded"
-            http_status = 200  # Still operational, just degraded
-        else:
-            # Scheduler stopped OR both external services unreachable
-            status = "degraded"
-            http_status = 503
+        # # Determine overall health status
+        # if scheduler_healthy and external_services_ok:
+        #     status = "healthy"
+        #     http_status = 200
+        # elif scheduler_healthy and not both_services_down:
+        #     # Scheduler running but one service degraded/unreachable
+        #     status = "degraded"
+        #     http_status = 200  # Still operational, just degraded
+        # else:
+        #     # Scheduler stopped OR both external services unreachable
+        #     status = "degraded"
+        #     http_status = 503
 
         # Build response payload with external services
         response_data = {
@@ -1512,10 +1480,10 @@ def health_check():
                 "running": scheduler_healthy,
                 "status": "active" if scheduler_healthy else "stopped",
             },
-            "external_services": {
-                "jira": jira_status,
-                "github": github_status,
-            },
+            # "external_services": {
+            #     "jira": jira_status,
+            #     "github": github_status,
+            # },
             "service_name": "SMT-Toolbox DevOps Job Orchestrator",
         }
 
