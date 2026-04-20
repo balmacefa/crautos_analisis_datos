@@ -113,10 +113,8 @@ services:
       context: ./wrapped-frontend
       dockerfile: Dockerfile.prod
     container_name: crautos_wrapped_prod
-    ports:
-      - "8051:8051"
     expose:
-      - "8108"
+      - "3000"
     environment:
       - NEXT_PUBLIC_API_BASE=$SERVICE_URL_WRAPPED_FRONTEND
       - SERVICE_URL_WRAPPED_FRONTEND=$SERVICE_URL_WRAPPED_FRONTEND
