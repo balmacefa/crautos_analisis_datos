@@ -23,7 +23,7 @@ services:
     restart: unless-stopped
     stop_grace_period: 30s
     healthcheck:
-      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8081/')"]
+      test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8081/')" ]
       interval: 1m
       timeout: 10s
       retries: 3
@@ -47,7 +47,7 @@ services:
       typesense:
         condition: service_healthy
     healthcheck:
-      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/docs')"]
+      test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/docs')" ]
       interval: 30s
       timeout: 10s
       retries: 3
@@ -58,25 +58,25 @@ services:
         max-size: "10m"
         max-file: "3"
 
-  frontend:
-    build:
-      context: ./frontend
-      dockerfile: Dockerfile
-    container_name: crautos_frontend_prod
-    ports:
-      - "8050:8050"
-    environment:
-      - SERVICE_URL_FRONTEND=$SERVICE_URL_FRONTEND
-      - API_BASE=http://api:8000
-    restart: unless-stopped
-    depends_on:
-      api:
-        condition: service_healthy
-    logging:
-      driver: "json-file"
-      options:
-        max-size: "10m"
-        max-file: "3"
+  # frontend:
+  #   build:
+  #     context: ./frontend
+  #     dockerfile: Dockerfile
+  #   container_name: crautos_frontend_prod
+  #   ports:
+  #     - "8050:8050"
+  #   environment:
+  #     - SERVICE_URL_FRONTEND=$SERVICE_URL_FRONTEND
+  #     - API_BASE=http://api:8000
+  #   restart: unless-stopped
+  #   depends_on:
+  #     api:
+  #       condition: service_healthy
+  #   logging:
+  #     driver: "json-file"
+  #     options:
+  #       max-size: "10m"
+  #       max-file: "3"
 
   typesense:
     build:
@@ -84,7 +84,7 @@ services:
       dockerfile: Dockerfile.prod
     container_name: crautos_typesense_prod
     restart: unless-stopped
-    command: ["/opt/typesense-server", "--config", "/etc/typesense/config.ini"]
+    command: [ "/opt/typesense-server", "--config", "/etc/typesense/config.ini" ]
     expose:
       - "8108"
     volumes:
@@ -92,7 +92,7 @@ services:
     environment:
       - TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-xyz123abc456}
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8108/health"]
+      test: [ "CMD", "curl", "-f", "http://localhost:8108/health" ]
       interval: 30s
       timeout: 5s
       retries: 3
@@ -116,7 +116,9 @@ services:
     ports:
       - "8051:3000"
     environment:
-      - NEXT_PUBLIC_API_BASE=${NEXT_PUBLIC_API_BASE:-http://api:8000}
+      - NEXT_PUBLIC_API_BASE=$SERVICE_URL_FRONTEND
+      - SERVICE_URL_FRONTEND=$SERVICE_URL_FRONTEND
+
     restart: unless-stopped
     depends_on:
       api:
@@ -124,7 +126,7 @@ services:
       typesense:
         condition: service_healthy
     healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/api/health"]
+      test: [ "CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/api/health" ]
       interval: 30s
       timeout: 10s
       retries: 3
