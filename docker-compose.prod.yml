@@ -24,6 +24,9 @@ services:
       - ./data:/app/data
     command: gunicorn --bind 0.0.0.0:8081 --workers 1 --timeout 120 --access-logfile - --error-logfile - --log-level info cron.devops_job_orchestrator:server
     restart: unless-stopped
+    networks:
+      - default
+      - coolify
     stop_grace_period: 30s
     healthcheck:
       test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8081/health')" ]
@@ -129,6 +132,9 @@ services:
       - INTERNAL_API_URL=http://api:8000
       - SERVICE_URL_WRAPPED_FRONTEND=$SERVICE_URL_WRAPPED_FRONTEND
     restart: unless-stopped
+    networks:
+      - default
+      - coolify
     depends_on:
       - api
       - typesense
@@ -137,6 +143,7 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
+      start_period: 30s
     deploy:
       resources:
         limits:
@@ -151,3 +158,5 @@ services:
 networks:
   default:
     name: crautos_prod_network
+  coolify:
+    external: true
