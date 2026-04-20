@@ -45,7 +45,7 @@ services:
       - TYPESENSE_HOST=typesense
       - TYPESENSE_PORT=8108
       - TYPESENSE_PROTOCOL=http
-      # - SCRAPER_DB_PATH=/app/data/crautos.db
+      - SCRAPER_DB_PATH=/app/data/crautos.db
     expose:
       - "8000"
     volumes:
@@ -122,11 +122,11 @@ services:
     container_name: crautos_wrapped_prod
     expose:
       - "3000"
-    ports:
-      - "3000:3000"
+    # Port mapping removed to avoid host-level conflict (0.0.0.0:3000 allocated).
+    # Coolify routes via 'expose' and internal networking.
     environment:
-      - NEXT_PUBLIC_API_BASE=${SERVICE_URL_WRAPPEDFRONTEND:-https://crautos.balmacefa.com}
-      - SERVICE_URL_WRAPPEDFRONTEND=$SERVICE_URL_WRAPPEDFRONTEND
+      - NEXT_PUBLIC_API_BASE=${NEXT_PUBLIC_API_BASE:-https://crautos.balmacefa.com}
+      - SERVICE_URL_WRAPPED_FRONTEND=$SERVICE_URL_WRAPPED_FRONTEND
     restart: unless-stopped
     depends_on:
       - api
