@@ -2,31 +2,37 @@ services:
   scraper:
     build:
       context: ./backend
-      dockerfile: Dockerfile.api
+      dockerfile: Dockerfile.dev
     container_name: crautos_scraper_prod
     environment:
       - SERVICE_URL_SCRAPER_8081
-      - SCRAPER_HEADLESS=true
-      - SCRAPER_DB_PATH=/app/data/crautos.db
-      - TYPESENSE_HOST=typesense
-      - TYPESENSE_PORT=8108
-      - TYPESENSE_PROTOCOL=http
+      - 'TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-xyz123abc456}'
+      - 'SCRAPER_HEADLESS=true'
+      - 'SCRAPER_DB_PATH=/app/data/crautos.db'
+      - 'TYPESENSE_HOST=typesense'
+      - 'TYPESENSE_PORT=8108'
+      - 'TYPESENSE_PROTOCOL=http'
       - 'AUTH_USERNAME=${AUTH_USERNAME:-admin}'
       - 'AUTH_PASSWORD=${AUTH_PASSWORD:-admin}'
-      - SCRAPER_CRON=0 7,19 * * *
-      - EV_SCRAPER_CRON=0 8,20 * * *
-      - CORI_SCRAPER_CRON=0 9,21 * * *
-      - VEINSA_SCRAPER_CRON=0 10,22 * * *
+      - 'SCRAPER_CRON=0 7,19 * * *'
+      - 'EV_SCRAPER_CRON=0 8,20 * * *'
+      - 'CORI_SCRAPER_CRON=0 9,21 * * *'
+      - 'VEINSA_SCRAPER_CRON=0 10,22 * * *'
+      - 'TRUST_PROXY_HEADER=1'
     volumes:
       - ./data:/app/data
     command: gunicorn --bind 0.0.0.0:8081 --workers 1 --timeout 120 --access-logfile - --error-logfile - --log-level info cron.devops_job_orchestrator:server
     restart: unless-stopped
     stop_grace_period: 30s
     healthcheck:
-      test: ["CMD-SHELL", "curl -f http://127.0.0.1:8081/health || exit 1"]
+      test:
+        - CMD
+        - curl
+        - "-f"
+        - "http://127.0.0.1:8081/health"
       interval: 5s
       timeout: 10s
-      retries: 10
+      retries: 20
     logging:
       driver: "json-file"
       options:
@@ -40,6 +46,7 @@ services:
     container_name: crautos_api_prod
     environment:
       - SERVICE_URL_API_8000
+      - 'TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-xyz123abc456}'
       - 'TYPESENSE_HOST=typesense'
       - 'TYPESENSE_PORT=8108'
       - 'TYPESENSE_PROTOCOL=http'
@@ -54,11 +61,15 @@ services:
       typesense:
         condition: service_healthy
     healthcheck:
-      test: ["CMD-SHELL", "curl -f http://127.0.0.1:8000/docs || exit 1"]
+      test:
+        - CMD
+        - curl
+        - "-f"
+        - "http://127.0.0.1:8000/docs"
       interval: 5s
       timeout: 10s
-      retries: 10
-      start_period: 20s
+      retries: 50
+      start_period: 60s
     logging:
       driver: "json-file"
       options:
@@ -71,7 +82,7 @@ services:
       dockerfile: Dockerfile.prod
     container_name: crautos_typesense_prod
     restart: unless-stopped
-    command: [ "/opt/typesense-server", "--config", "/etc/typesense/config.ini" ]
+    command: ["/opt/typesense-server", "--config", "/etc/typesense/config.ini"]
     expose:
       - "8108"
     volumes:
@@ -79,7 +90,11 @@ services:
     environment:
       - 'TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-xyz123abc456}'
     healthcheck:
-      test: ["CMD-SHELL", "curl -f http://127.0.0.1:8108/health || exit 1"]
+      test:
+        - CMD
+        - curl
+        - "-f"
+        - "http://127.0.0.1:8108/health"
       interval: 2s
       timeout: 10s
       retries: 30
@@ -88,7 +103,7 @@ services:
       resources:
         limits:
           memory: 1G
-          cpus: '0.50'
+          cpus: "0.50"
     logging:
       driver: "json-file"
       options:
@@ -114,16 +129,20 @@ services:
       typesense:
         condition: service_healthy
     healthcheck:
-      test: ["CMD-SHELL", "curl -f http://127.0.0.1:3000/api/health || exit 1"]
-      interval: 5s
+      test:
+        - CMD
+        - curl
+        - "-f"
+        - "http://127.0.0.1:3000/api/health"
+      interval: 2s
       timeout: 10s
-      retries: 10
+      retries: 30
       start_period: 10s
     deploy:
       resources:
         limits:
           memory: 512M
-          cpus: '0.25'
+          cpus: "0.25"
     logging:
       driver: "json-file"
       options:
