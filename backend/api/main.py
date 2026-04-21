@@ -12,14 +12,24 @@ from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, 
 app = FastAPI(title="Crautos Async Data API")
 
 # Setup CORS so frontends can consume this API
+allowed_origins = [
+    "http://localhost:3001",
+    "http://localhost:8050",
+    "http://127.0.0.1:3001",
+    "http://127.0.0.1:8050",
+    "https://autoscr.balmacefa.com",
+    "https://crautos.balmacefa.com"
+]
+
+# Allow additional origins from environment variable
+env_origins = os.getenv("CORS_ALLOWED_ORIGINS")
+if env_origins:
+    allowed_origins.extend([o.strip() for o in env_origins.split(",") if o.strip()])
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3001",
-        "http://localhost:8050",
-        "http://127.0.0.1:3001",
-        "http://127.0.0.1:8050"
-    ],
+    allow_origins=allowed_origins,
+    allow_origin_regex=r"https://.*\.balmacefa\.com",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

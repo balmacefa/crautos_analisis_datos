@@ -1,0 +1,16 @@
+services:
+  scraper:
+    ports:
+      - "8081:8081"
+
+  api:
+    ports:
+      - "8000:8000"
+
+  typesense:
+    ports:
+      - "8108:8108"
+
+  wrapped_frontend:
+    ports:
+      - "3000:3000"
