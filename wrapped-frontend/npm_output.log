@@ -1,0 +1,102 @@
+
+> wrapped-frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 558ms
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+
+○ Compiling / ...
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 6.2s (next.js: 5.6s, application-code: 541ms)
+⚠ Unsupported metadata viewport is configured in metadata export in /tour. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /tour 200 in 1602ms (next.js: 1319ms, application-code: 283ms)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/summary @ Failed to fetch (53ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/curiosities @ Failed to fetch (30ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/brands @ Failed to fetch (122ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/distribution/fuel @ Failed to fetch (119ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/opportunities @ Failed to fetch (118ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/provinces @ Failed to fetch (115ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/years @ Failed to fetch (112ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
+[browser] [Network Error] Could not connect to http://localhost:8000/api/insights/distribution/transmission @ Failed to fetch (111ms)
+    at robustFetcher (src/lib/api.js:62:13)
+    at async fetchData (src/app/tour/page.js:110:109)
+  60 |   } catch (err) {
+  61 |     const duration = Date.now() - start;
+> 62 |     console.error(`%c[Network Error] %cCould not connect to %c${url} %c@ ${err.message} (%...
+     |             ^
+  63 |       'color: #ef4444; font-weight: bold',
+  64 |       'color: #f87171',
+  65 |       'color: #94a3b8', (src/lib/api.js:62:13)
