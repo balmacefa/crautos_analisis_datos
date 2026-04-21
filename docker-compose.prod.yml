@@ -52,7 +52,6 @@ services:
       - 'TYPESENSE_PROTOCOL=http'
       - 'SCRAPER_DB_PATH=/app/data/crautos.db'
       - 'TRUST_PROXY_HEADER=1'
-      - "CORS_ALLOWED_ORIGINS=${CORS_ALLOWED_ORIGINS:-https://autoscr.balmacefa.com,https://crautos.balmacefa.com}"
     expose:
       - "8000"
     volumes:
