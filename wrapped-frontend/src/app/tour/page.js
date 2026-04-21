@@ -23,7 +23,8 @@ import {
   Key,
   Navigation,
   Flag,
-  Settings2
+  Settings2,
+  X
 } from 'lucide-react';
 import Link from 'next/link';
 import { clsx } from 'clsx';
@@ -36,7 +37,6 @@ function cn(...inputs) {
 
 // Slides Configuration
 const SLIDES = [
-  'welcome',
   'global-stats',
   'market-leaders',
   'provinces',
@@ -51,7 +51,6 @@ const SLIDES = [
 ];
 
 const THEMES = {
-  welcome: 'from-blue-900 to-indigo-950',
   'global-stats': 'from-blue-900 to-indigo-950',
   'market-leaders': 'from-blue-900 to-indigo-950',
   provinces: 'from-indigo-900 to-purple-950',
@@ -222,6 +221,13 @@ export default function WrappedStory() {
       onTouchStart={() => setIsPaused(true)}
       onTouchEnd={() => setIsPaused(false)}
     >
+      <Link
+        href="/"
+        className="absolute top-6 right-6 z-50 p-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-full transition-all text-white backdrop-blur-md"
+      >
+        <X size={24} />
+      </Link>
+
       {/* Kinetic Background Elements */}
       <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
         <div className="absolute top-[10%] left-[5%] animate-floating opacity-10"><Key size={80} className="text-white" /></div>
@@ -265,45 +271,6 @@ export default function WrappedStory() {
             className="flex-1 flex flex-col justify-center gap-6 overflow-hidden pt-4"
           >
             {currentSlideIndex === 0 && (
-              <div className="text-center space-y-6">
-                <motion.div 
-                  initial={{ rotate: -10, scale: 0 }}
-                  animate={{ rotate: 0, scale: 1 }}
-                  className="w-24 h-24 bg-blue-500/20 rounded-3xl flex items-center justify-center mx-auto mb-4 border border-blue-500/30 shadow-2xl shadow-blue-500/20"
-                >
-                  <Car size={48} className="text-blue-400" />
-                </motion.div>
-                <h1 className="text-5xl font-extrabold tracking-tight bg-gradient-to-br from-white to-white/60 bg-clip-text text-transparent italic leading-[1.1]">
-                  Crautos <br/><span className="text-blue-400">Wrapped</span>
-                </h1>
-                <p className="text-lg text-white/50">Tu historia con el mercado automotriz en tiempo real</p>
-                <div className="pt-8">
-                   <p className="text-[10px] text-white/20 uppercase tracking-[0.3em] mb-4">Mantén presionado para pausar</p>
-                    <button 
-                    onClick={nextSlide}
-                    className="w-full px-8 py-4 bg-blue-600 hover:bg-blue-500 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 shadow-lg shadow-blue-900/40 text-white"
-                  >
-                    Descubrir ahora
-                  </button>
-                  <Link 
-                    href="/search"
-                    className="w-full mt-4 px-8 py-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 flex items-center justify-center gap-3 group"
-                  >
-                    <Search size={20} className="text-blue-400 group-hover:scale-110 transition-transform" />
-                    Market Explorer
-                  </Link>
-                  <Link 
-                    href="/insights"
-                    className="w-full mt-4 px-8 py-4 bg-blue-600/20 hover:bg-blue-600/30 border border-blue-500/30 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 flex items-center justify-center gap-3 group"
-                  >
-                    <TrendingUp size={20} className="text-blue-400 group-hover:scale-110 transition-transform" />
-                    Market Insights Dashboard
-                  </Link>
-                </div>
-              </div>
-            )}
-
-            {currentSlideIndex === 1 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-8">
                 <motion.div variants={itemVariants}><TrendingUp size={48} className="text-blue-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-4xl font-bold leading-tight">El mercado está vibrando.</motion.h2>
@@ -320,7 +287,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 2 && (
+            {currentSlideIndex === 1 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-8">
                 <motion.div variants={itemVariants}><Crown size={48} className="text-yellow-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-4xl font-black italic tracking-tighter leading-none">Los <span className="text-blue-400">Reyes</span> <br/>del Camino</motion.h2>
@@ -338,7 +305,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 3 && (
+            {currentSlideIndex === 2 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-6">
                 <motion.div variants={itemVariants}><MapPin size={48} className="text-indigo-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-4xl font-black italic tracking-tighter leading-none">Concentración <br/><span className="text-indigo-400">Geográfica</span></motion.h2>
@@ -356,7 +323,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 4 && (
+            {currentSlideIndex === 3 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-6">
                 <motion.div variants={itemVariants}><BarChart size={48} className="text-blue-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-3xl font-bold italic">Hallazgos únicos...</motion.h2>
@@ -379,7 +346,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 5 && (
+            {currentSlideIndex === 4 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-6">
                 <motion.div variants={itemVariants}><Fuel size={48} className="text-purple-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-3xl font-bold leading-tight">¿Qué mueve a <br/><span className="text-purple-400">Costa Rica?</span></motion.h2>
@@ -402,7 +369,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 6 && (
+            {currentSlideIndex === 5 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-6">
                 <motion.div variants={itemVariants}><Calendar size={48} className="text-purple-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-4xl font-black italic tracking-tighter leading-none">Años de <br/><span className="text-purple-400">Evolución</span></motion.h2>
@@ -425,7 +392,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 7 && (
+            {currentSlideIndex === 6 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-10 py-10">
                 <motion.div variants={itemVariants}><MousePointer2 size={48} className="text-purple-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-4xl font-black leading-none uppercase tracking-tighter italic">
@@ -451,7 +418,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 8 && (
+            {currentSlideIndex === 7 && (
               <motion.div variants={containerVariants} initial="hidden" animate="visible" className="space-y-6">
                 <motion.div variants={itemVariants}><Award size={48} className="text-emerald-400" /></motion.div>
                 <motion.h2 variants={itemVariants} className="text-3xl font-bold leading-tight uppercase italic text-emerald-400">Oportunidades <br/><span className="text-white">Relámpago</span></motion.h2>
@@ -472,7 +439,7 @@ export default function WrappedStory() {
               </motion.div>
             )}
 
-            {currentSlideIndex === 9 && (
+            {currentSlideIndex === 8 && (
               <div className="flex-1 flex flex-col pt-8">
                 <motion.h2 initial={{ y: -20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} className="text-3xl font-bold mb-6">Tu turno. <br/>¿Qué marca te interesa?</motion.h2>
                 <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar grid grid-cols-2 gap-3">
@@ -493,7 +460,7 @@ export default function WrappedStory() {
               </div>
             )}
 
-            {currentSlideIndex === 10 && (
+            {currentSlideIndex === 9 && (
               <div className="flex-1 flex flex-col pt-8 space-y-6">
                 <motion.div initial={{ y: -20, opacity: 0 }} animate={{ y: 0, opacity: 1 }}>
                   <h2 className="text-3xl font-bold mb-2">Escogiste <span className="text-blue-400 uppercase italic tracking-tighter">{userChoice.marca}</span></h2>
@@ -531,7 +498,7 @@ export default function WrappedStory() {
               </div>
             )}
 
-            {currentSlideIndex === 11 && (
+            {currentSlideIndex === 10 && (
               <div className="flex-1 flex flex-col justify-center space-y-8">
                 {loading ? (
                   <div className="text-center space-y-4">
