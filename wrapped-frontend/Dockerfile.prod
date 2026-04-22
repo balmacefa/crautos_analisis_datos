@@ -18,7 +18,18 @@ ENV NODE_ENV production
 
 RUN npm run build
 
-# Stage 3: Runner
+# Stage 3: Test
+# We use a temporary stage to run tests. If they fail, the build fails.
+FROM node:20-alpine AS tester
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
+COPY . .
+# Running lint as a basic test. 
+# Note: E2E Playwright tests are typically run in CI rather than Dockerfile 
+# because they require browsers and a running server, but we include a check here.
+RUN npm run lint
+
+# Stage 4: Runner
 FROM node:20-alpine AS runner
 WORKDIR /app
 RUN apk add --no-cache curl

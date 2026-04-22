@@ -11,6 +11,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy source code
 COPY . .
 
+# Run unit tests during build
+RUN export PYTHONPATH=$PYTHONPATH:. && pytest tests/test_api_v2.py
+
 # Make entrypoint executable
 RUN chmod +x entrypoint.sh
 

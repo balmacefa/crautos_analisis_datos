@@ -1,0 +1,68 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [ main, master, develop ]
+  pull_request:
+    branches: [ main, master, develop ]
+
+jobs:
+  backend-tests:
+    name: Backend Unit Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+          
+      - name: Install dependencies
+        run: |
+          cd backend
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Run Pytest
+        run: |
+          cd backend
+          export PYTHONPATH=$PYTHONPATH:.
+          pytest tests/test_api_v2.py
+
+  frontend-tests:
+    name: Frontend E2E Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: wrapped-frontend/package-lock.json
+          
+      - name: Install dependencies
+        run: |
+          cd wrapped-frontend
+          npm ci
+          
+      - name: Install Playwright Browsers
+        run: |
+          cd wrapped-frontend
+          npx playwright install --with-deps
+          
+      - name: Run Playwright tests
+        run: |
+          cd wrapped-frontend
+          npm test
+          
+      - name: Upload Playwright Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: wrapped-frontend/playwright-report/
+          retention-days: 30

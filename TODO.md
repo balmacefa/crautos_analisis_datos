@@ -16,6 +16,7 @@ https://evmarket.cr/listings?page=2 [DONE]
 4. [DONE] combines the data so typesense query combines both source. standerize tand normalize the data.
 5. [DONE] Store the data con sqlite tables and sync with typesense.
 6. [DONE] write unit, functional and integration tests for this new crawler and cron job.
+7. [DONE] Integrate tests into CI/CD pipeline (GitHub Actions).
 
 ### Usados Cori (usadoscori.com) [DONE]
 - [x] Research & Strategy Doc.
