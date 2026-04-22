@@ -1,5 +1,5 @@
-"use client"
-import React, { useState, useEffect, useMemo } from 'react';
+"use client";
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Search as SearchIcon, 
@@ -15,7 +15,11 @@ import {
   ShieldCheck,
   Check,
   ArrowRightLeft,
-  DollarSign
+  DollarSign,
+  Droplets,
+  Zap,
+  Layers,
+  Calendar
 } from 'lucide-react';
 import Link from 'next/link';
 import useSWR from 'swr';
@@ -39,17 +43,17 @@ export default function SearchExplorer() {
   const [selectedCar, setSelectedCar] = useState(null);
   const [comparisonList, setComparisonList] = useState([]);
   const [isComparing, setIsComparing] = useState(false);
-  
+
   const [filters, setFilters] = useState({
-    brands: '',
-    year_min: '',
-    year_max: '',
-    price_min: '',
-    price_max: '',
-    provinces: '',
-    fuels: '',
-    transmissions: '',
-    sort_by: 'año:desc'
+    brands: "",
+    year_min: "",
+    year_max: "",
+    price_min: "",
+    price_max: "",
+    provinces: "",
+    fuels: "",
+    transmissions: "",
+    sort_by: "año:desc",
   });
 
   // Debounce search query
@@ -73,28 +77,29 @@ export default function SearchExplorer() {
   // Construct URL for V2 API
   const queryUrl = useMemo(() => {
     const params = new URLSearchParams({
-      q: debouncedQuery || '*',
-      page: '1',
-      limit: '20',
-      sort_by: filters.sort_by
+      q: debouncedQuery || "*",
+      page: "1",
+      limit: "20",
+      sort_by: filters.sort_by,
     });
 
-    if (filters.brands) params.append('brands', filters.brands);
-    if (filters.year_min) params.append('year_min', filters.year_min);
-    if (filters.year_max) params.append('year_max', filters.year_max);
-    if (filters.price_min) params.append('price_min', filters.price_min);
-    if (filters.price_max) params.append('price_max', filters.price_max);
-    if (filters.provinces) params.append('provinces', filters.provinces);
-    if (filters.fuels) params.append('fuels', filters.fuels);
-    if (filters.transmissions) params.append('transmissions', filters.transmissions);
+    if (filters.brands) params.append("brands", filters.brands);
+    if (filters.year_min) params.append("year_min", filters.year_min);
+    if (filters.year_max) params.append("year_max", filters.year_max);
+    if (filters.price_min) params.append("price_min", filters.price_min);
+    if (filters.price_max) params.append("price_max", filters.price_max);
+    if (filters.provinces) params.append("provinces", filters.provinces);
+    if (filters.fuels) params.append("fuels", filters.fuels);
+    if (filters.transmissions) params.append("transmissions", filters.transmissions);
 
     return `${baseUrl}/api/v2/cars?${params.toString()}`;
-  }, [debouncedQuery, filters]);
+  }, [debouncedQuery, filters, baseUrl]);
 
-  const { data: initialData, isLoading: initialLoading } = useSWR(queryUrl, fetcher, {
-    revalidateOnFocus: false,
-    keepPreviousData: true
-  });
+  const { data: initialData, isLoading: initialLoading } = useSWR(
+    queryUrl,
+    fetcher,
+    { revalidateOnFocus: false, keepPreviousData: true }
+  );
 
   useEffect(() => {
     setExtraCars([]);
@@ -103,10 +108,10 @@ export default function SearchExplorer() {
 
   const fetchMore = async () => {
     const nextPage = page + 1;
-    let url = queryUrl.replace('page=1', `page=${nextPage}`);
+    let url = queryUrl.replace("page=1", `page=${nextPage}`);
     const data = await fetcher(url);
     if (data.cars) {
-      setExtraCars(prev => [...prev, ...data.cars]);
+      setExtraCars((prev) => [...prev, ...data.cars]);
       setPage(nextPage);
     }
   };
@@ -128,7 +133,7 @@ export default function SearchExplorer() {
     });
   };
 
-  const isCarInComparison = (carId) => comparisonList.some(c => c.car_id === carId);
+  const isCarInComparison = (carId) => comparisonList.some((c) => c.car_id === carId);
 
   return (
     <main className="min-h-screen w-full relative pb-20">
@@ -173,7 +178,6 @@ export default function SearchExplorer() {
 
       {/* Sidebar & Grid Layout */}
       <div className="max-w-7xl mx-auto px-4 py-8 md:px-8 flex flex-col lg:flex-row gap-8">
-        
         {/* Desktop Sidebar Filters */}
         <aside className="hidden lg:block w-72 shrink-0 space-y-8">
           <Card className="p-6 space-y-6" hover={false}>
@@ -181,23 +185,27 @@ export default function SearchExplorer() {
               <TrendingUp size={16} className="text-cyan-400" />
               Parámetros
             </h3>
-            
+
             <div className="space-y-6">
               <div className="space-y-3">
                 <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Rango de Precio (USD)</label>
                 <div className="flex gap-2">
-                   <Input type="number" placeholder="Min" value={filters.price_min} onChange={e => setFilters(p => ({...p, price_min: e.target.value}))} className="h-10" />
-                   <Input type="number" placeholder="Max" value={filters.price_max} onChange={e => setFilters(p => ({...p, price_max: e.target.value}))} className="h-10" />
+                   <Input type="number" placeholder="Min" value={filters.price_min} onChange={e => setFilters(p => ({...p, price_min: e.target.value}))} className="h-10 text-xs" />
+                   <Input type="number" placeholder="Max" value={filters.price_max} onChange={e => setFilters(p => ({...p, price_max: e.target.value}))} className="h-10 text-xs" />
+                </div>
+              </div>
+
+              <div className="space-y-3">
+                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Años</label>
+                <div className="flex gap-2">
+                  <Input type="number" placeholder="Desde" value={filters.year_min} onChange={e => setFilters(p => ({...p, year_min: e.target.value}))} className="h-10 text-xs" />
+                  <Input type="number" placeholder="Hasta" value={filters.year_max} onChange={e => setFilters(p => ({...p, year_max: e.target.value}))} className="h-10 text-xs" />
                 </div>
               </div>
 
               <div className="space-y-3">
                 <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Provincia</label>
-                <Select 
-                  value={filters.provincias} 
-                  onChange={e => setFilters(p => ({...p, provinces: e.target.value}))}
-                  className="h-10"
-                >
+                <Select value={filters.provincias} onChange={e => setFilters(p => ({...p, provinces: e.target.value}))} className="h-10">
                   <option value="">Todas las provincias</option>
                   {provinces.map(p => (
                     <option key={p.provincia} value={p.provincia}>{p.provincia}</option>
@@ -206,12 +214,28 @@ export default function SearchExplorer() {
               </div>
 
               <div className="space-y-3">
+                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Combustible</label>
+                <div className="flex flex-wrap gap-2">
+                  {fuels.map((f) => (
+                    <button
+                      key={f.combustible}
+                      onClick={() => setFilters((p) => ({ ...p, fuels: p.fuels === f.combustible ? "" : f.combustible }))}
+                      className={cn(
+                        "px-3 py-1.5 rounded-lg text-[10px] font-bold uppercase transition-all border",
+                        filters.fuels === f.combustible
+                          ? "bg-cyan-600 border-cyan-400 text-white"
+                          : "bg-white/5 border-white/5 text-white/40 hover:text-white",
+                      )}
+                    >
+                      {f.combustible}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className="space-y-3">
                 <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Ordenar por</label>
-                <Select 
-                  value={filters.sort_by} 
-                  onChange={e => setFilters(p => ({...p, sort_by: e.target.value}))}
-                  className="h-10"
-                >
+                <Select value={filters.sort_by} onChange={e => setFilters(p => ({...p, sort_by: e.target.value}))} className="h-10">
                   <option value="año:desc">Más Recientes</option>
                   <option value="precio_usd:asc">Menor Precio</option>
                   <option value="precio_usd:desc">Mayor Precio</option>
@@ -233,13 +257,15 @@ export default function SearchExplorer() {
 
         {/* Main Content Area */}
         <div className="flex-1 space-y-8 z-10">
-          <div>
-            <h1 className="text-4xl font-black italic tracking-tighter leading-none">
-              {debouncedQuery ? `Resultados para "${debouncedQuery}"` : 'Explora el Mercado'}
-            </h1>
-            <p className="font-mono text-xs text-white/30 uppercase mt-4 tracking-tighter">
-              Mostrando <span className="text-cyan-400 font-bold">{allCars.length}</span> de {total.toLocaleString()} anuncios
-            </p>
+          <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
+            <div>
+              <h1 className="text-4xl font-black italic tracking-tighter leading-none">
+                {debouncedQuery ? `Resultados para "${debouncedQuery}"` : 'Explora el Mercado'}
+              </h1>
+              <p className="font-mono text-xs text-white/30 uppercase mt-4 tracking-tighter">
+                Mostrando <span className="text-cyan-400 font-bold">{allCars.length}</span> de {total.toLocaleString()} anuncios activos
+              </p>
+            </div>
           </div>
 
           {/* Results Grid */}
@@ -249,7 +275,7 @@ export default function SearchExplorer() {
                 key={car.car_id + i}
                 onClick={() => setSelectedCar(car)}
                 className={cn(
-                  "p-0 group",
+                  "p-0 group cursor-pointer",
                   isCarInComparison(car.car_id) && "ring-2 ring-cyan-500 border-transparent shadow-[0_0_30px_rgba(6,182,212,0.3)]"
                 )}
               >
@@ -266,8 +292,16 @@ export default function SearchExplorer() {
                 </button>
 
                 <div className="aspect-[16/10] bg-white/5 relative overflow-hidden flex items-center justify-center">
-                  <Car className="text-white/10 group-hover:scale-110 transition-transform duration-700" size={80} />
-                  <Badge className="absolute top-4 right-4" variant="cyan">
+                  {car.imagen_principal ? (
+                    <img 
+                      src={car.imagen_principal} 
+                      alt={`${car.marca} ${car.modelo}`}
+                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                    />
+                  ) : (
+                    <Car className="text-white/10 group-hover:scale-110 transition-transform duration-700" size={80} />
+                  )}
+                  <Badge className="absolute top-4 right-4 z-10" variant="cyan">
                     {car.año}
                   </Badge>
                 </div>
@@ -296,25 +330,235 @@ export default function SearchExplorer() {
                         ${car.precio_usd?.toLocaleString()}
                       </p>
                     </div>
-                    <Button variant="secondary" className="p-3">
-                      <ArrowRightLeft size={18} />
-                    </Button>
+                    <div className="w-12 h-12 bg-white/5 group-hover:bg-cyan-600 rounded-2xl flex items-center justify-center transition-all transform group-hover:rotate-45">
+                      <ChevronDown className="text-white -rotate-90" size={20} />
+                    </div>
                   </div>
                 </div>
               </Card>
             ))}
+
+            {initialLoading && allCars.length === 0 && Array.from({ length: 6 }).map((_, i) => (
+              <div key={i} className="glass rounded-[2.5rem] h-[400px] animate-pulse opacity-10" />
+            ))}
           </div>
 
-          {/* Load More */}
+          {!initialLoading && allCars.length === 0 && (
+            <div className="text-center py-20 glass rounded-[2.5rem] border border-white/5">
+              <SearchIcon size={64} className="mx-auto text-white/10 mb-4" />
+              <h2 className="text-2xl font-bold">No encontramos lo que buscas</h2>
+              <p className="text-white/40 mt-2">Prueba ajustando los filtros o cambiando la búsqueda.</p>
+              <Button 
+                variant="primary" 
+                className="mt-6"
+                onClick={() => {
+                  setSearchQuery("");
+                  setFilters({
+                    brands: "", year_min: "", year_max: "", price_min: "", price_max: "",
+                    provinces: "", fuels: "", transmissions: "", sort_by: "año:desc"
+                  });
+                }}
+              >
+                Limpiar filtros
+              </Button>
+            </div>
+          )}
+
           {allCars.length < total && !initialLoading && (
             <div className="mt-12 flex justify-center">
-              <Button variant="secondary" onClick={fetchMore} size="lg">
+              <Button variant="secondary" onClick={fetchMore} size="lg" className="text-white/40 hover:text-white uppercase tracking-[0.2em]">
                 Cargar más unidades
               </Button>
             </div>
           )}
         </div>
       </div>
+
+      {/* Comparison Tray */}
+      <AnimatePresence>
+        {comparisonList.length > 0 && (
+          <motion.div
+            initial={{ y: 100 }} animate={{ y: 0 }} exit={{ y: 100 }}
+            className="fixed bottom-0 left-0 right-0 z-50 glass border-t border-white/10 px-6 py-4 backdrop-blur-2xl"
+          >
+            <div className="max-w-7xl mx-auto flex items-center justify-between gap-6">
+              <div className="flex items-center gap-4 overflow-x-auto pb-2 scrollbar-none">
+                <div className="flex -space-x-3">
+                  {comparisonList.map((car) => (
+                    <div key={car.car_id} className="w-12 h-12 rounded-2xl bg-cyan-600 border-2 border-zinc-900 flex items-center justify-center shadow-xl overflow-hidden relative">
+                      {car.imagen_principal ? (
+                        <img src={car.imagen_principal} alt={car.marca} className="w-full h-full object-cover" />
+                      ) : (
+                        <Car size={16} className="text-white" />
+                      )}
+                    </div>
+                  ))}
+                  {Array.from({ length: 3 - comparisonList.length }).map((_, i) => (
+                    <div key={i} className="w-12 h-12 rounded-2xl bg-white/5 border-2 border-zinc-900 border-dashed flex items-center justify-center" />
+                  ))}
+                </div>
+                <div className="hidden sm:block">
+                  <p className="text-sm font-black italic tracking-tighter">{comparisonList.length} / 3 vehículos seleccionados</p>
+                  <p className="text-[10px] text-white/30 uppercase font-black">Máximo 3 para comparar</p>
+                </div>
+              </div>
+
+              <div className="flex items-center gap-3">
+                <Button variant="ghost" onClick={() => setComparisonList([])} className="p-4 rounded-2xl"><X size={20} /></Button>
+                <Button 
+                  variant="primary"
+                  disabled={comparisonList.length < 2}
+                  onClick={() => setIsComparing(true)}
+                  className="gap-3 px-8 py-4 uppercase tracking-widest"
+                >
+                  <ArrowRightLeft size={18} /> Comparar ahora
+                </Button>
+              </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Comparison Modal */}
+      <AnimatePresence>
+        {isComparing && (
+          <motion.div
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[60] bg-black/95 backdrop-blur-2xl flex flex-col p-4 md:p-12 overflow-y-auto"
+          >
+            <div className="max-w-6xl mx-auto w-full space-y-12">
+              <div className="flex justify-between items-center">
+                <div>
+                  <h2 className="text-4xl font-black italic tracking-tighter text-cyan-400">Batalla de Titanes</h2>
+                  <p className="text-white/40 uppercase font-black text-xs tracking-widest mt-2">Comparativa técnica lado a lado</p>
+                </div>
+                <Button variant="ghost" onClick={() => setIsComparing(false)} className="p-4 rounded-full"><X size={24} /></Button>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {comparisonList.map((car) => (
+                  <Card key={car.car_id} className="p-8 space-y-8 flex flex-col bg-white/5 border-white/10" hover={false}>
+                    <div className="w-full aspect-[16/10] bg-black/20 rounded-2xl overflow-hidden relative flex items-center justify-center shrink-0">
+                      {car.imagen_principal ? (
+                        <img src={car.imagen_principal} alt={car.marca} className="w-full h-full object-cover" />
+                      ) : (
+                        <Car size={60} className="text-white/20" />
+                      )}
+                    </div>
+                    <div className="text-center space-y-2">
+                      <p className="text-xs font-black text-cyan-400 uppercase tracking-widest">{car.marca}</p>
+                      <h3 className="text-2xl font-black tracking-tighter leading-none italic">{car.modelo}</h3>
+                      <p className="text-3xl font-mono font-black text-green-400 mt-4">${car.precio_usd?.toLocaleString()}</p>
+                    </div>
+
+                    <div className="space-y-6 pt-6 border-t border-white/10">
+                      {[
+                        { label: 'Año', val: car.año },
+                        { label: 'Recorrido', val: `${car.informacion_general?.kilometraje_number?.toLocaleString()} KM` },
+                        { label: 'Combustible', val: car.informacion_general?.combustible || 'N/A' },
+                        { label: 'Transmisión', val: car.informacion_general?.transmisión || 'N/A' },
+                        { label: 'Provincia', val: car.informacion_general?.provincia || 'N/A' }
+                      ].map((s, i) => (
+                        <div key={i} className="space-y-1">
+                          <p className="text-[10px] text-white/30 uppercase font-black tracking-widest">{s.label}</p>
+                          <p className="font-bold text-lg">{s.val}</p>
+                        </div>
+                      ))}
+                    </div>
+
+                    <Button variant="outline" className="w-full" onClick={() => window.open(car.url, '_blank')}>
+                      Ver en Crautos <ExternalLink size={14} className="ml-2" />
+                    </Button>
+                  </Card>
+                ))}
+              </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Selected Car Details Modal */}
+      <AnimatePresence>
+        {selectedCar && !isComparing && (
+          <motion.div
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+            className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-md"
+            onClick={() => setSelectedCar(null)}
+          >
+            <motion.div
+              initial={{ scale: 0.9, y: 20 }} animate={{ scale: 1, y: 0 }} exit={{ scale: 0.9, y: 20 }}
+              onClick={(e) => e.stopPropagation()}
+              className="w-full max-w-2xl bg-zinc-900 rounded-[2.5rem] border border-white/10 p-8 overflow-hidden relative"
+            >
+              <Button variant="ghost" onClick={() => setSelectedCar(null)} className="absolute top-6 right-6 p-2 h-10 w-10 rounded-full"><X size={20} /></Button>
+
+              <div className="flex flex-col gap-8">
+                <div className="flex gap-6 items-start">
+                  <div className="w-24 h-24 bg-cyan-600/20 rounded-3xl flex items-center justify-center shrink-0 border border-cyan-500/30 overflow-hidden">
+                    {selectedCar.imagen_principal ? (
+                      <img src={selectedCar.imagen_principal} alt={selectedCar.marca} className="w-full h-full object-cover" />
+                    ) : (
+                      <Car size={40} className="text-cyan-400" />
+                    )}
+                  </div>
+                  <div className="flex-1">
+                    <p className="text-cyan-400 font-extrabold uppercase tracking-widest text-[10px] mb-1">{selectedCar.marca}</p>
+                    <h2 className="text-4xl font-black italic tracking-tighter leading-[0.9]">{selectedCar.modelo}</h2>
+                    <div className="flex gap-3 mt-4">
+                      <Badge variant="secondary">{selectedCar.año}</Badge>
+                      <Badge variant="emerald italic">Disponibilidad Inmediata</Badge>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                  {[
+                    { label: "Precio USD", val: `$${selectedCar.precio_usd?.toLocaleString()}`, icon: DollarSign },
+                    { label: "Kilometraje", val: `${selectedCar.informacion_general?.kilometraje_number?.toLocaleString()} KM`, icon: Gauge },
+                    { label: "Combustible", val: selectedCar.informacion_general?.combustible || "N/A", icon: Droplets },
+                    { label: "Transmisión", val: selectedCar.informacion_general?.transmisión || "N/A", icon: Zap },
+                    { label: "Provincia", val: selectedCar.informacion_general?.provincia || "N/A", icon: MapPin },
+                    { label: "Año", val: selectedCar.año, icon: Calendar },
+                  ].map((spec, i) => (
+                    <div key={i} className="p-4 rounded-2xl bg-white/5 border border-white/5 flex flex-col gap-1">
+                      <div className="flex items-center gap-1.5 text-white/20 mb-1">
+                        {spec.icon && <spec.icon size={12} />}
+                        <span className="text-[8px] font-black uppercase tracking-widest">{spec.label}</span>
+                      </div>
+                      <p className="font-black text-xs uppercase tracking-tight truncate">{spec.val}</p>
+                    </div>
+                  ))}
+                </div>
+
+                <div className="flex flex-col sm:flex-row gap-3 pt-4 border-t border-white/5">
+                  <Button variant="primary" className="flex-1" onClick={() => window.open(selectedCar.url, '_blank')}>
+                    Ver anuncio original <ExternalLink size={18} className="ml-2" />
+                  </Button>
+                  <Button 
+                    variant={isCarInComparison(selectedCar.car_id) ? 'outline' : 'secondary'} 
+                    className="flex-1"
+                    onClick={(e) => { toggleComparison(e, selectedCar); setSelectedCar(null); }}
+                  >
+                    {isCarInComparison(selectedCar.car_id) ? "Remover de Comparar" : "Agregar a Comparar"}
+                    <Layers size={18} className="ml-2" />
+                  </Button>
+                </div>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <style jsx global>{`
+        .glass {
+          background: rgba(255, 255, 255, 0.03);
+          backdrop-filter: blur(20px);
+          -webkit-backdrop-filter: blur(20px);
+        }
+        .scrollbar-none::-webkit-scrollbar {
+          display: none;
+        }
+      `}</style>
     </main>
   );
 }
