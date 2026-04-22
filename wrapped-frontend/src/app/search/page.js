@@ -19,7 +19,9 @@ import {
   Droplets,
   Zap,
   Layers,
-  Calendar
+  Calendar,
+  Grid,
+  List as ListIcon
 } from 'lucide-react';
 import Link from 'next/link';
 import useSWR from 'swr';
@@ -32,6 +34,7 @@ import { Card } from '@/components/ui/Card';
 import { Input } from '@/components/ui/Input';
 import { Select } from '@/components/ui/Select';
 import { Background } from '@/components/layout/Background';
+import { BrandModelTree } from '@/components/BrandModelTree';
 
 export default function SearchExplorer() {
   const { theme } = useTheme();
@@ -46,6 +49,7 @@ export default function SearchExplorer() {
 
   const [filters, setFilters] = useState({
     brands: "",
+    models: "",
     year_min: "",
     year_max: "",
     price_min: "",
@@ -53,8 +57,10 @@ export default function SearchExplorer() {
     provinces: "",
     fuels: "",
     transmissions: "",
+    fuentes: "",
     sort_by: "año:desc",
   });
+  const [viewMode, setViewMode] = useState('list'); // 'list' or 'tree'
 
   // Debounce search query
   useEffect(() => {
@@ -66,6 +72,7 @@ export default function SearchExplorer() {
 
   // SWR for filters data
   const { data: brandsData } = useSWR(`${baseUrl}/api/insights/brands`, fetcher);
+  const { data: allModelsData } = useSWR(`${baseUrl}/api/insights/models`, fetcher);
   const { data: provincesData } = useSWR(`${baseUrl}/api/insights/provinces`, fetcher);
   const { data: fuelsData } = useSWR(`${baseUrl}/api/insights/distribution/fuel`, fetcher);
   const { data: transmissionsData } = useSWR(`${baseUrl}/api/insights/distribution/transmission`, fetcher);
@@ -73,6 +80,7 @@ export default function SearchExplorer() {
   const provinces = useMemo(() => provincesData || [], [provincesData]);
   const fuels = useMemo(() => fuelsData || [], [fuelsData]);
   const transmissions = useMemo(() => transmissionsData || [], [transmissionsData]);
+  const allModels = useMemo(() => allModelsData || [], [allModelsData]);
 
   // Construct URL for V2 API
   const queryUrl = useMemo(() => {
@@ -81,9 +89,11 @@ export default function SearchExplorer() {
       page: "1",
       limit: "20",
       sort_by: filters.sort_by,
+      facet_by: "marca,año,combustible,transmisión,provincia,precio_usd"
     });
 
     if (filters.brands) params.append("brands", filters.brands);
+    if (filters.models) params.append("models", filters.models);
     if (filters.year_min) params.append("year_min", filters.year_min);
     if (filters.year_max) params.append("year_max", filters.year_max);
     if (filters.price_min) params.append("price_min", filters.price_min);
@@ -91,6 +101,7 @@ export default function SearchExplorer() {
     if (filters.provinces) params.append("provinces", filters.provinces);
     if (filters.fuels) params.append("fuels", filters.fuels);
     if (filters.transmissions) params.append("transmissions", filters.transmissions);
+    if (filters.fuentes) params.append("fuentes", filters.fuentes);
 
     return `${baseUrl}/api/v2/cars?${params.toString()}`;
   }, [debouncedQuery, filters, baseUrl]);
@@ -120,6 +131,16 @@ export default function SearchExplorer() {
     const initial = initialData?.cars || [];
     return [...initial, ...extraCars];
   }, [initialData, extraCars]);
+
+  const facets = useMemo(() => {
+    const f = {};
+    if (initialData?.facets) {
+      initialData.facets.forEach(facet => {
+        f[facet.field_name] = facet.counts;
+      });
+    }
+    return f;
+  }, [initialData]);
 
   const total = initialData?.total || 0;
 
@@ -156,11 +177,19 @@ export default function SearchExplorer() {
             <SearchIcon className="absolute left-4 top-1/2 -translate-y-1/2 text-white/30 group-focus-within:text-cyan-400 transition-colors" size={18} />
             <Input 
               type="text" 
-              placeholder="Busca por marca, modelo o año..."
+              placeholder="Marca, modelo, año, provincia o precio..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="pl-12"
+              className="pl-12 bg-white/5 border-white/10 focus:border-cyan-500/50 focus:ring-cyan-500/20"
             />
+            {searchQuery && (
+              <button 
+                onClick={() => setSearchQuery("")}
+                className="absolute right-4 top-1/2 -translate-y-1/2 text-white/20 hover:text-white transition-colors"
+              >
+                <X size={14} />
+              </button>
+            )}
           </div>
 
           <div className="flex items-center gap-3 w-full md:w-auto justify-end">
@@ -188,19 +217,138 @@ export default function SearchExplorer() {
 
             <div className="space-y-6">
               <div className="space-y-3">
+                <div className="flex justify-between items-center">
+                  <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Vehículo</label>
+                  <div className="flex bg-white/5 rounded-lg p-0.5 border border-white/10">
+                    <button 
+                      onClick={() => setViewMode('list')}
+                      className={cn(
+                        "p-1.5 rounded-md transition-all",
+                        viewMode === 'list' ? "bg-cyan-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                      )}
+                    >
+                      <Grid size={12} />
+                    </button>
+                    <button 
+                      onClick={() => setViewMode('tree')}
+                      className={cn(
+                        "p-1.5 rounded-md transition-all",
+                        viewMode === 'tree' ? "bg-cyan-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                      )}
+                    >
+                      <ListIcon size={12} />
+                    </button>
+                  </div>
+                </div>
+
+                {viewMode === 'list' ? (
+                  <div className="grid grid-cols-2 gap-2 max-h-48 overflow-y-auto pr-2 custom-scrollbar">
+                    {facets.marca?.map(b => (
+                      <button
+                        key={b.value}
+                        onClick={() => {
+                          const current = filters.brands ? filters.brands.split(',') : [];
+                          const next = current.includes(b.value)
+                            ? current.filter(x => x !== b.value)
+                            : [...current, b.value];
+                          setFilters(prev => ({ ...prev, brands: next.join(','), models: "" }));
+                        }}
+                        className={cn(
+                          "text-[10px] p-2 rounded-xl border transition-all text-left font-bold truncate",
+                          filters.brands?.split(',').includes(b.value)
+                            ? "bg-cyan-600 border-cyan-400 text-white" 
+                            : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
+                        )}
+                      >
+                        {b.value}
+                      </button>
+                    ))}
+                  </div>
+                ) : (
+                  <BrandModelTree 
+                    data={allModels}
+                    selectedBrands={filters.brands ? filters.brands.split(',') : []}
+                    selectedModels={filters.models ? filters.models.split(',') : []}
+                    onSelectBrand={(brand) => {
+                      const current = filters.brands ? filters.brands.split(',') : [];
+                      const next = current.includes(brand)
+                        ? current.filter(x => x !== brand)
+                        : [...current, brand];
+                      setFilters(prev => ({ ...prev, brands: next.join(',') }));
+                    }}
+                    onSelectModel={(model) => {
+                      const current = filters.models ? filters.models.split(',') : [];
+                      const next = current.includes(model)
+                        ? current.filter(x => x !== model)
+                        : [...current, model];
+                      setFilters(prev => ({ ...prev, models: next.join(',') }));
+                    }}
+                  />
+                )}
+              </div>
+              <div className="space-y-3">
                 <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Rango de Precio (USD)</label>
                 <div className="flex gap-2">
                    <Input type="number" placeholder="Min" value={filters.price_min} onChange={e => setFilters(p => ({...p, price_min: e.target.value}))} className="h-10 text-xs" />
                    <Input type="number" placeholder="Max" value={filters.price_max} onChange={e => setFilters(p => ({...p, price_max: e.target.value}))} className="h-10 text-xs" />
                 </div>
+                
+                {/* Dynamic Price Ranges Quick Selection */}
+                <div className="grid grid-cols-1 gap-1.5 mt-3">
+                  {[
+                    { label: "Menos de $10k", min: 0, max: 10000 },
+                    { label: "$10k - $25k", min: 10000, max: 25000 },
+                    { label: "$25k - $50k", min: 25000, max: 50000 },
+                    { label: "Más de $50k", min: 50000, max: 1000000 },
+                  ].map((range) => {
+                    const isSelected = filters.price_min === range.min.toString() && filters.price_max === range.max.toString();
+                    return (
+                      <button
+                        key={range.label}
+                        onClick={() => {
+                          if (isSelected) {
+                            setFilters(p => ({ ...p, price_min: "", price_max: "" }));
+                          } else {
+                            setFilters(p => ({ ...p, price_min: range.min.toString(), price_max: range.max.toString() }));
+                          }
+                        }}
+                        className={cn(
+                          "flex justify-between items-center px-3 py-2 rounded-xl border text-[10px] font-bold transition-all",
+                          isSelected 
+                            ? "bg-emerald-600/20 border-emerald-500 text-emerald-400" 
+                            : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
+                        )}
+                      >
+                        <span>{range.label}</span>
+                        {isSelected && <Check size={12} />}
+                      </button>
+                    );
+                  })}
+                </div>
               </div>
 
               <div className="space-y-3">
                 <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Años</label>
-                <div className="flex gap-2">
-                  <Input type="number" placeholder="Desde" value={filters.year_min} onChange={e => setFilters(p => ({...p, year_min: e.target.value}))} className="h-10 text-xs" />
-                  <Input type="number" placeholder="Hasta" value={filters.year_max} onChange={e => setFilters(p => ({...p, year_max: e.target.value}))} className="h-10 text-xs" />
-                </div>
+                <Select 
+                  value={filters.year_min === filters.year_max && filters.year_min ? filters.year_min : ""}
+                  onChange={e => {
+                    const val = e.target.value;
+                    if (!val) {
+                      setFilters(p => ({ ...p, year_min: "", year_max: "" }));
+                    } else {
+                      setFilters(p => ({ ...p, year_min: val, year_max: val }));
+                    }
+                  }} 
+                  className="h-10 text-xs w-full"
+                >
+                  <option value="">Todos los años</option>
+                  {(facets.año || [])
+                    .sort((a, b) => parseInt(b.value) - parseInt(a.value))
+                    .map(y => (
+                      <option key={y.value} value={y.value}>{y.value} ({y.count})</option>
+                    ))
+                  }
+                </Select>
               </div>
 
               <div className="space-y-3">
@@ -241,6 +389,33 @@ export default function SearchExplorer() {
                   <option value="precio_usd:desc">Mayor Precio</option>
                   <option value="kilometraje_number:asc">Menor Kilometraje</option>
                 </Select>
+              </div>
+
+              <div className="space-y-3">
+                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Fuente de Datos</label>
+                <div className="grid grid-cols-2 gap-2">
+                  {(facets.fuente || []).map(f => (
+                    <button
+                      key={f.value}
+                      onClick={() => {
+                        const current = filters.fuentes ? filters.fuentes.split(',') : [];
+                        const next = current.includes(f.value)
+                          ? current.filter(x => x !== f.value)
+                          : [...current, f.value];
+                        setFilters(p => ({ ...p, fuentes: next.join(',') }));
+                      }}
+                      className={cn(
+                        "text-[10px] p-2 rounded-xl border transition-all text-left font-bold truncate flex justify-between items-center",
+                        filters.fuentes?.split(',').includes(f.value)
+                          ? "bg-cyan-600 border-cyan-400 text-white" 
+                          : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
+                      )}
+                    >
+                      <span>{f.value}</span>
+                      <span className="opacity-50 text-[9px]">{f.count}</span>
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
           </Card>

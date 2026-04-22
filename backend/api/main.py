@@ -920,12 +920,13 @@ async def get_cars_v2(
     provinces: Optional[str] = None,
     fuels: Optional[str] = None,
     transmissions: Optional[str] = None,
+    fuentes: Optional[str] = None,
     sort_by: Optional[str] = "año:desc",
-    facet_by: Optional[str] = Query("marca,año,combustible,transmisión,provincia")
+    facet_by: Optional[str] = Query("marca,año,combustible,transmisión,provincia,fuente")
 ):
     search_parameters = {
         'q': q,
-        'query_by': 'marca,modelo',
+        'query_by': 'marca,modelo,año,provincia,combustible,transmisión',
         'page': page,
         'per_page': limit,
         'sort_by': sort_by,
@@ -967,6 +968,10 @@ async def get_cars_v2(
         list_val = [v.strip() for v in transmissions.split(",")]
         filter_by.append(f"transmisión:[{','.join(list_val)}]")
 
+    if fuentes:
+        list_val = [v.strip() for v in fuentes.split(",")]
+        filter_by.append(f"fuente:[{','.join(list_val)}]")
+
     if filter_by:
         search_parameters['filter_by'] = " && ".join(filter_by)
 
@@ -986,6 +991,7 @@ async def get_cars_v2(
                 "precio_crc": doc.get("precio_crc"),
                 "imagen_principal": doc.get("imagen_principal"),
                 "scraped_at": doc.get("scraped_at", ""),
+                "fuente": doc.get("fuente"),
                 "informacion_general": {
                     "kilometraje_number": doc.get("kilometraje_number"),
                     "provincia": doc.get("provincia"),

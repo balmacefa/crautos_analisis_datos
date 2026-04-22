@@ -41,6 +41,7 @@ class CarDetail(BaseModel):
     informacion_general: Optional[GeneralInfo] = None
     equipamiento: List[str] = []
     scraped_at: str
+    fuente: Optional[str] = None
 
 class FacetValue(BaseModel):
     value: str

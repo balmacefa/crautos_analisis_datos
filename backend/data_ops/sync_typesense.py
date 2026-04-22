@@ -46,6 +46,7 @@ def create_collection():
             {'name': 'imagen_principal', 'type': 'string', 'optional': True },
             {'name': 'scraped_at', 'type': 'string' },
             {'name': 'sync_version', 'type': 'string', 'facet': True },
+            {'name': 'fuente', 'type': 'string', 'facet': True },
         ],
         'default_sorting_field': 'año'
     }
@@ -104,7 +105,8 @@ def sync_data():
                 'url': row['url'],
                 'imagen_principal': raw_data.get('imagen_principal', ''),
                 'scraped_at': row['scraped_at'],
-                'sync_version': SYNC_VERSION
+                'sync_version': SYNC_VERSION,
+                'fuente': 'CRAutos' if 'crautos.com' in row['url'] else ('CoriMotors' if 'corimotors' in row['url'] else ('EVMarket' if 'evmarket' in row['url'] else ('PurdyUsados' if 'purdyusados' in row['url'] else ('VeinsaUsados' if 'veinsausados' in row['url'] else 'Otro'))))
             }
             documents.append(doc)
         except Exception as e:
