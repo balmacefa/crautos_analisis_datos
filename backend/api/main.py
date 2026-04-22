@@ -915,6 +915,7 @@ async def get_cars_v2(
     year_max: Optional[int] = None,
     price_min: Optional[float] = None,
     price_max: Optional[float] = None,
+    price_currency: Optional[str] = "CRC",
     km_min: Optional[int] = None,
     km_max: Optional[int] = None,
     provinces: Optional[str] = None,
@@ -926,7 +927,7 @@ async def get_cars_v2(
 ):
     search_parameters = {
         'q': q,
-        'query_by': 'marca,modelo,año,provincia,combustible,transmisión',
+        'query_by': 'marca,modelo,provincia,combustible,transmisión',
         'page': page,
         'per_page': limit,
         'sort_by': sort_by,
@@ -948,8 +949,9 @@ async def get_cars_v2(
         
     if price_min is not None or price_max is not None:
         p_min = price_min if price_min is not None else 0
-        p_max = price_max if price_max is not None else 1000000000
-        filter_by.append(f"precio_usd:[{p_min}..{p_max}]")
+        p_max = price_max if price_max is not None else 100000000000
+        price_field = "precio_crc" if price_currency == "CRC" else "precio_usd"
+        filter_by.append(f"{price_field}:[{p_min}..{p_max}]")
 
     if km_min is not None or km_max is not None:
         k_min = km_min if km_min is not None else 0

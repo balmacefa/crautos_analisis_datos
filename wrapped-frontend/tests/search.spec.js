@@ -40,24 +40,37 @@ test.describe('Search Explorer Enhancements', () => {
     await expect(treeSearch).toBeVisible();
   });
 
-  test('should display price range quick filters', async ({ page }) => {
-    await expect(page.locator('text=Menos de $10k')).toBeVisible();
-    await expect(page.locator('text=$10k - $25k')).toBeVisible();
-    await expect(page.locator('text=Más de $50k')).toBeVisible();
+  test('should display currency toggle and default to CRC', async ({ page }) => {
+    // Check that both CRC and USD buttons exist
+    const crcBtn = page.locator('button:has-text("CRC")');
+    const usdBtn = page.locator('button:has-text("USD")');
+    await expect(crcBtn).toBeVisible();
+    await expect(usdBtn).toBeVisible();
+    
+    // By default, CRC should be active (emerald background)
+    await expect(crcBtn).toHaveClass(/bg-emerald-600/);
+    
+    // Label should indicate CRC
+    await expect(page.locator('label:has-text("Rango de Precio (CRC)")')).toBeVisible();
   });
 
-  test('should update results when a price range is selected', async ({ page }) => {
-    const priceButton = page.locator('text=Menos de $10k');
-    await priceButton.click();
+  test('should update price range options when switching currency', async ({ page }) => {
+    // By default CRC is selected, so the Min dropdown should have '₡2M'
+    const minSelect = page.locator('select').filter({ hasText: 'Min' }).first();
+    const maxSelect = page.locator('select').filter({ hasText: 'Max' }).last();
     
-    // Verify that the price range is highlighted (emerald color in our code)
-    await expect(priceButton).toHaveClass(/bg-emerald-600/);
+    // Check that '₡2M' option exists
+    await expect(minSelect.locator('option[value="2000000"]')).toBeVisible();
     
-    // Verify that the numeric inputs are updated (optional, but good)
-    const minInput = page.locator('input[placeholder="Min"]');
-    const maxInput = page.locator('input[placeholder="Max"]');
-    await expect(minInput).toHaveValue('0');
-    await expect(maxInput).toHaveValue('10000');
+    // Switch to USD
+    const usdBtn = page.locator('button:has-text("USD")');
+    await usdBtn.click();
+    
+    // Label should indicate USD
+    await expect(page.locator('label:has-text("Rango de Precio (USD)")')).toBeVisible();
+    
+    // Check that '$5k' option exists
+    await expect(minSelect.locator('option[value="5000"]')).toBeVisible();
   });
 
   test('should display source (fuente) filters', async ({ page }) => {

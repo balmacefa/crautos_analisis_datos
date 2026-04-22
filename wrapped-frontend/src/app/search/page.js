@@ -54,6 +54,7 @@ export default function SearchExplorer() {
     year_max: "",
     price_min: "",
     price_max: "",
+    price_currency: "CRC",
     provinces: "",
     fuels: "",
     transmissions: "",
@@ -98,6 +99,7 @@ export default function SearchExplorer() {
     if (filters.year_max) params.append("year_max", filters.year_max);
     if (filters.price_min) params.append("price_min", filters.price_min);
     if (filters.price_max) params.append("price_max", filters.price_max);
+    if (filters.price_currency) params.append("price_currency", filters.price_currency);
     if (filters.provinces) params.append("provinces", filters.provinces);
     if (filters.fuels) params.append("fuels", filters.fuels);
     if (filters.transmissions) params.append("transmissions", filters.transmissions);
@@ -286,44 +288,88 @@ export default function SearchExplorer() {
                   />
                 )}
               </div>
+              
               <div className="space-y-3">
-                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Rango de Precio (USD)</label>
-                <div className="flex gap-2">
-                   <Input type="number" placeholder="Min" value={filters.price_min} onChange={e => setFilters(p => ({...p, price_min: e.target.value}))} className="h-10 text-xs" />
-                   <Input type="number" placeholder="Max" value={filters.price_max} onChange={e => setFilters(p => ({...p, price_max: e.target.value}))} className="h-10 text-xs" />
+                <div className="flex justify-between items-center">
+                  <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">
+                    Rango de Precio ({filters.price_currency})
+                  </label>
+                  <div className="flex bg-white/5 rounded-lg p-0.5 border border-white/10">
+                    <button 
+                      onClick={() => setFilters(p => ({...p, price_currency: 'CRC', price_min: "", price_max: ""}))}
+                      className={cn(
+                        "text-[9px] font-bold px-2 py-1 rounded-md transition-all",
+                        filters.price_currency === 'CRC' ? "bg-emerald-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                      )}
+                    >
+                      CRC
+                    </button>
+                    <button 
+                      onClick={() => setFilters(p => ({...p, price_currency: 'USD', price_min: "", price_max: ""}))}
+                      className={cn(
+                        "text-[9px] font-bold px-2 py-1 rounded-md transition-all",
+                        filters.price_currency === 'USD' ? "bg-emerald-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                      )}
+                    >
+                      USD
+                    </button>
+                  </div>
                 </div>
-                
-                {/* Dynamic Price Ranges Quick Selection */}
-                <div className="grid grid-cols-1 gap-1.5 mt-3">
-                  {[
-                    { label: "Menos de $10k", min: 0, max: 10000 },
-                    { label: "$10k - $25k", min: 10000, max: 25000 },
-                    { label: "$25k - $50k", min: 25000, max: 50000 },
-                    { label: "Más de $50k", min: 50000, max: 1000000 },
-                  ].map((range) => {
-                    const isSelected = filters.price_min === range.min.toString() && filters.price_max === range.max.toString();
-                    return (
-                      <button
-                        key={range.label}
-                        onClick={() => {
-                          if (isSelected) {
-                            setFilters(p => ({ ...p, price_min: "", price_max: "" }));
-                          } else {
-                            setFilters(p => ({ ...p, price_min: range.min.toString(), price_max: range.max.toString() }));
-                          }
-                        }}
-                        className={cn(
-                          "flex justify-between items-center px-3 py-2 rounded-xl border text-[10px] font-bold transition-all",
-                          isSelected 
-                            ? "bg-emerald-600/20 border-emerald-500 text-emerald-400" 
-                            : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
-                        )}
-                      >
-                        <span>{range.label}</span>
-                        {isSelected && <Check size={12} />}
-                      </button>
-                    );
-                  })}
+
+                <div className="flex gap-2">
+                  <Select 
+                    value={filters.price_min} 
+                    onChange={e => setFilters(p => ({...p, price_min: e.target.value}))} 
+                    className="h-10 text-xs w-full"
+                  >
+                    <option value="">Min</option>
+                    {filters.price_currency === 'CRC' ? (
+                      <>
+                        <option value="2000000">₡2M</option>
+                        <option value="5000000">₡5M</option>
+                        <option value="10000000">₡10M</option>
+                        <option value="15000000">₡15M</option>
+                        <option value="20000000">₡20M</option>
+                        <option value="30000000">₡30M</option>
+                      </>
+                    ) : (
+                      <>
+                        <option value="5000">$5k</option>
+                        <option value="10000">$10k</option>
+                        <option value="15000">$15k</option>
+                        <option value="20000">$20k</option>
+                        <option value="30000">$30k</option>
+                        <option value="50000">$50k</option>
+                      </>
+                    )}
+                  </Select>
+
+                  <Select 
+                    value={filters.price_max} 
+                    onChange={e => setFilters(p => ({...p, price_max: e.target.value}))} 
+                    className="h-10 text-xs w-full"
+                  >
+                    <option value="">Max</option>
+                    {filters.price_currency === 'CRC' ? (
+                      <>
+                        <option value="5000000">₡5M</option>
+                        <option value="10000000">₡10M</option>
+                        <option value="15000000">₡15M</option>
+                        <option value="20000000">₡20M</option>
+                        <option value="30000000">₡30M</option>
+                        <option value="50000000">₡50M</option>
+                      </>
+                    ) : (
+                      <>
+                        <option value="10000">$10k</option>
+                        <option value="15000">$15k</option>
+                        <option value="20000">$20k</option>
+                        <option value="30000">$30k</option>
+                        <option value="50000">$50k</option>
+                        <option value="100000">$100k</option>
+                      </>
+                    )}
+                  </Select>
                 </div>
               </div>
 
@@ -500,12 +546,17 @@ export default function SearchExplorer() {
 
                   <div className="flex items-center justify-between">
                     <div>
-                      <p className="text-[10px] font-black text-white/20 uppercase tracking-widest">Precio Hoy</p>
-                      <p className="text-3xl font-black font-mono text-green-400 tracking-tighter">
-                        ${car.precio_usd?.toLocaleString()}
-                      </p>
+                      <p className="text-[10px] font-black text-white/20 uppercase tracking-widest">Precio</p>
+                      <div className="flex flex-col">
+                        <span className="text-2xl font-black font-mono text-emerald-400 tracking-tighter leading-none">
+                          ₡{car.precio_crc?.toLocaleString()}
+                        </span>
+                        <span className="text-xs font-bold font-mono text-white/40 tracking-tighter mt-1">
+                          ${car.precio_usd?.toLocaleString()}
+                        </span>
+                      </div>
                     </div>
-                    <div className="w-12 h-12 bg-white/5 group-hover:bg-cyan-600 rounded-2xl flex items-center justify-center transition-all transform group-hover:rotate-45">
+                    <div className="w-12 h-12 bg-white/5 group-hover:bg-cyan-600 rounded-2xl flex items-center justify-center transition-all transform group-hover:rotate-45 shrink-0">
                       <ChevronDown className="text-white -rotate-90" size={20} />
                     </div>
                   </div>
