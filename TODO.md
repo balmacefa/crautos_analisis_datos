@@ -29,3 +29,7 @@ https://evmarket.cr/listings?page=2 [DONE]
 - [x] Integration & Staggered Cron.
 - [x] Unit Testing.
 
+### [DONE] https://www.purdyusados.com/
+- [x] Research & Strategy Doc.
+- [x] Scraper Implementation.
+- [x] Integration with run_scraper.

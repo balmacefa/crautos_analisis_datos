@@ -219,6 +219,20 @@ async def run_veinsa(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG0
         return "failed"
 
 
+async def run_purdy(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG001
+    """Run the Purdy Usados (purdyusados.com) scraper."""
+    from data_scrapper.purdyusados_scrapper import PurdyUsadosScraper  # noqa: PLC0415
+    
+    logger.info("Starting Purdy Usados scraper...")
+    scraper = PurdyUsadosScraper(repository=repo, headless=HEADLESS)
+    try:
+        await scraper.run()
+        return "done"
+    except Exception as exc:
+        logger.error("Purdy scraper failed: %s", exc, exc_info=True)
+        return "failed"
+
+
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
@@ -230,6 +244,7 @@ COMMANDS = {
     "evmarket": run_evmarket,
     "cori": run_corimotors,
     "veinsa": run_veinsa,
+    "purdy": run_purdy,
 }
 
 
