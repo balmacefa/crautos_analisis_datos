@@ -26,4 +26,8 @@ typesense-data*/
 .env.*.local
 
 # IDE
-.vscode/settings.json
+.vscode/settings.json
+
+.keys/
+
+get_data_from_prod_.sh

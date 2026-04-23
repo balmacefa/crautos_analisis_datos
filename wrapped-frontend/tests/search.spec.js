@@ -73,9 +73,18 @@ test.describe('Search Explorer Enhancements', () => {
     await expect(minSelect.locator('option[value="5000"]')).toBeVisible();
   });
 
-  test('should display source (fuente) filters', async ({ page }) => {
+  test('should display at least one data source', async ({ page }) => {
     // The label for data sources should be visible
     const sourceLabel = page.locator('label:has-text("Fuente de Datos")');
     await expect(sourceLabel).toBeVisible();
+    
+    // Check that there is at least one button in the container
+    const sourceButtons = page.locator('div:has(> label:has-text("Fuente de Datos"))').locator('button');
+    
+    // Wait for at least one source button to be rendered (data from API)
+    await expect(sourceButtons.first()).toBeVisible({ timeout: 15000 });
+    
+    const count = await sourceButtons.count();
+    expect(count).toBeGreaterThan(0);
   });
 });

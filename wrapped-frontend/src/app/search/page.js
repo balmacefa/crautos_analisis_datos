@@ -90,7 +90,7 @@ export default function SearchExplorer() {
       page: "1",
       limit: "20",
       sort_by: filters.sort_by,
-      facet_by: "marca,año,combustible,transmisión,provincia,precio_usd"
+      facet_by: "marca,año,combustible,transmisión,provincia,precio_usd,fuente"
     });
 
     if (filters.brands) params.append("brands", filters.brands);

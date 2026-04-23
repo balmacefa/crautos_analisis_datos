@@ -149,3 +149,34 @@ For Service Stack deployments, Coolify can generate dynamic values:
 - **SYNC_SEARCH**: `python -m data_ops.sync_typesense`
 - **MIGRATE**: `python -m db_tools.auto_migrate`
 - **DEV_SH**: `docker compose -f docker-compose.dev.yml up`
+- **PROD_DATA_EXPORT**: `ssh root@207.180.208.11 "docker exec \$(docker ps -q -f name=scraper) python -m db_tools export --format sqlite"`
+
+---
+
+## 🌍 Production Data Export
+
+To pull data from the production server to your local development environment:
+
+### 1. Manual Steps
+If you want to run the process manually:
+
+1.  **SSH into the server**:
+    ```bash
+    ssh root@207.180.208.11
+    ```
+2.  **Run the exporter in the scraper container**:
+    ```bash
+    docker exec $(docker ps -q -f name=scraper) python -m db_tools export --format sqlite --out /app/data/prod_dump.db
+    ```
+3.  **Download the file to your local machine**:
+    ```bash
+    # Run this on your LOCAL machine
+    scp root@207.180.208.11:~/crautos_analisis_datos/data/prod_dump.db ./data/prod_dump.db
+    ```
+
+### 2. Automated Script
+Use the provided utility script for a one-click sync:
+```bash
+bash get_data_from_prod.sh
+```
+This script handles container discovery, execution (defaulting to SQLite), and secure transfer.
