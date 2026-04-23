@@ -30,4 +30,4 @@ typesense-data*/
 
 .keys/
 
-get_data_from_prod_.sh
+get_data_from_prod.sh
