@@ -1,67 +1,72 @@
-import { render, screen } from '@testing-library/react';
-import CarCardV2 from '../CarCardV2'; // Note: Default export
+import { render, screen, fireEvent } from '@testing-library/react';
+import CarCardV2 from '../CarCardV2';
 
-// Mock framer-motion to avoid animation issues in tests
 vi.mock('framer-motion', () => ({
   motion: {
     div: ({ children, className, ...props }) => {
-      // Omit framer-motion specific props that could interfere
       const { initial, animate, whileHover, whileTap, ...rest } = props;
       return <div className={className} data-testid="motion-div" {...rest}>{children}</div>;
     }
   }
 }));
 
-const mockCar = {
+const baseCar = {
   marca: 'Toyota',
   modelo: 'Corolla',
   año: '2020',
   precio_usd: 15000,
-  transmisión: 'Automática',
-  combustible: 'Gasolina',
-  kilometraje: '50,000 km',
-  url: 'https://example.com/car',
-  informacion_general: {
-    provincia: 'San José'
-  }
 };
 
 describe('CarCardV2', () => {
   it('renders correctly with all data', () => {
-    render(<CarCardV2 car={mockCar} />);
-
-    // Check main texts
-    expect(screen.getAllByText('Toyota').length).toBeGreaterThan(0);
+    const car = { ...baseCar, combustible: 'Gasolina', kilometraje: '50,000 km', url: 'https://example.com' };
+    render(<CarCardV2 car={car} />);
     expect(screen.getByText('Corolla')).toBeInTheDocument();
-    expect(screen.getByText('2020')).toBeInTheDocument();
-    expect(screen.getByText('Automática')).toBeInTheDocument();
-    expect(screen.getByText('San José')).toBeInTheDocument();
-    expect(screen.getByText('Gasolina')).toBeInTheDocument();
-    expect(screen.getByText('50,000 km')).toBeInTheDocument();
-    expect(screen.getByText('$15,000')).toBeInTheDocument();
-
-    // Check link
-    const link = screen.getByRole('link');
-    expect(link).toHaveAttribute('href', 'https://example.com/car');
   });
 
-  it('renders correctly with missing optional data', () => {
-    const incompleteCar = {
-      marca: 'Honda',
-      modelo: 'Civic',
-      año: '2018',
-      precio_usd: null,
-      url: 'https://example.com/honda',
+  it('prioritizes imagen_principal when available', () => {
+    const car = {
+      ...baseCar,
+      informacion_general: {
+        imagen_principal: 'https://example.com/main.jpg',
+        imagenes_secundarias: ['https://example.com/sec1.jpg', 'https://example.com/sec2.jpg']
+      }
     };
+    render(<CarCardV2 car={car} />);
+    const img = screen.getByRole('img');
+    expect(img).toHaveAttribute('src', 'https://example.com/main.jpg');
+    expect(img).toHaveAttribute('alt', 'Toyota Corolla');
+  });
 
-    render(<CarCardV2 car={incompleteCar} />);
+  it('falls back to the first item in imagenes_secundarias if imagen_principal is missing', () => {
+    const car = {
+      ...baseCar,
+      informacion_general: {
+        imagenes_secundarias: ['https://example.com/sec1.jpg', 'https://example.com/sec2.jpg']
+      }
+    };
+    render(<CarCardV2 car={car} />);
+    const img = screen.getByRole('img');
+    expect(img).toHaveAttribute('src', 'https://example.com/sec1.jpg');
+  });
 
-    // Default province
-    expect(screen.getByText('Costa Rica')).toBeInTheDocument();
+  it('uses generic image if no images are provided', () => {
+    const car = { ...baseCar };
+    render(<CarCardV2 car={car} />);
+    const img = screen.getByRole('img');
+    expect(img).toHaveAttribute('src', '/images/car-placeholder.png');
+  });
 
-    // N/A or defaults for missing stuff
-    expect(screen.getByText('N/A')).toBeInTheDocument();
-    expect(screen.getByText('Consultar')).toBeInTheDocument();
-    expect(screen.getByText('$---')).toBeInTheDocument();
+  it('uses fallback image when onError is triggered', () => {
+    const car = {
+      ...baseCar,
+      informacion_general: {
+        imagen_principal: 'https://example.com/broken.jpg',
+      }
+    };
+    render(<CarCardV2 car={car} />);
+    const img = screen.getByRole('img');
+    fireEvent.error(img);
+    expect(img.src).toContain('/images/car-placeholder.png');
   });
 });

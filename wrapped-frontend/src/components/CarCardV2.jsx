@@ -25,16 +25,21 @@ export default function CarCardV2({ car }) {
       whileHover={{ y: -5 }}
       className="group relative bg-[#1a1c1e] border border-white/5 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 flex flex-col h-full"
     >
-      {/* Decorative Gradient Background for Image Placeholder */}
-      <div className="h-48 w-full bg-gradient-to-br from-blue-600/20 to-indigo-900/40 relative flex items-center justify-center overflow-hidden border-b border-white/5">
-        <div className="absolute inset-0 group-hover:scale-110 transition-transform duration-500 opacity-30">
-          <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500 rounded-full blur-[60px]" />
-          <div className="absolute bottom-0 left-0 w-32 h-32 bg-indigo-500 rounded-full blur-[60px]" />
-        </div>
-        
-        <span className="text-4xl font-black text-white/10 uppercase tracking-tighter group-hover:text-blue-400/20 transition-colors">
-          {marca}
-        </span>
+      {/* Image Fallback Logic */}
+      <div className="h-48 w-full bg-[#111] relative flex items-center justify-center overflow-hidden border-b border-white/5 group">
+        <img
+          src={
+            informacion_general?.imagen_principal ||
+            (informacion_general?.imagenes_secundarias && informacion_general.imagenes_secundarias[0]) ||
+            car.imagen_principal ||
+            (car.imagenes_secundarias && car.imagenes_secundarias[0]) ||
+            '/images/car-placeholder.png'
+          }
+          alt={`${marca} ${modelo}`}
+          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+          onError={(e) => { e.target.src = '/images/car-placeholder.png'; }}
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-black/20" />
       </div>
 
       <div className="p-5 flex flex-col flex-1">
