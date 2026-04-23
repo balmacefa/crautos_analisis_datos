@@ -65,5 +65,7 @@ RUN mkdir -p /app/data
 
 ENTRYPOINT ["./entrypoint.sh"]
 
+EXPOSE 8081
+
 # Default command if not overridden (orchestrator is the default production service)
 CMD ["gunicorn", "--bind", "0.0.0.0:8081", "--workers", "1", "--timeout", "120", "--access-logfile", "-", "--error-logfile", "-", "--log-level", "info", "cron.devops_job_orchestrator:server"]

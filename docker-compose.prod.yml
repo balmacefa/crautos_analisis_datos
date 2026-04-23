@@ -21,6 +21,8 @@ services:
       - 'TRUST_PROXY_HEADER=1'
     volumes:
       - ./data:/app/data
+    expose:
+      - "8081"
     command: gunicorn --bind 0.0.0.0:8081 --workers 1 --timeout 120 --access-logfile - --error-logfile - --log-level info cron.devops_job_orchestrator:server
     restart: unless-stopped
     stop_grace_period: 30s

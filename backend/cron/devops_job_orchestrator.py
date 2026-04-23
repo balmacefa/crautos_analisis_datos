@@ -542,6 +542,9 @@ server.config["SESSION_COOKIE_HTTPONLY"] = True  # Prevent JavaScript access
 server.config["SESSION_COOKIE_SAMESITE"] = "Lax"  # CSRF protection
 server.config["SESSION_FILE_DIR"] = "/tmp/flask_session"  # Session storage directory
 
+# Ensure session directory exists
+os.makedirs(server.config["SESSION_FILE_DIR"], exist_ok=True)
+
 # Initialize Flask-Session
 Session(server)
 
