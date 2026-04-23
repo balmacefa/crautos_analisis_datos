@@ -2,6 +2,7 @@ import os
 import json
 import sqlite3
 import typesense
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -28,7 +29,7 @@ client = typesense.Client({
 
 COLLECTION_NAME = 'cars'
 
-def create_collection():
+def create_collection_with_retry(max_retries=5, initial_delay=2):
     schema = {
         'name': COLLECTION_NAME,
         'fields': [
@@ -52,26 +53,42 @@ def create_collection():
     }
 
     print(f"Ensuring collection '{COLLECTION_NAME}' is ready...")
-    try:
-        # We try to delete the collection first to ensure we have the latest schema.
-        # This might fail if the collection doesn't exist, which is fine.
-        client.collections[COLLECTION_NAME].delete()
-        print(f"Deleted existing collection '{COLLECTION_NAME}'")
-    except Exception as e:
-        # Ignore failure if it doesn't exist, but log other issues
-        if "not found" not in str(e).lower():
-            print(f"Notice: Deletion of collection failed (might not exist): {e}")
 
-    try:
-        client.collections.create(schema)
-        print(f"Created collection '{COLLECTION_NAME}' with version {SYNC_VERSION}")
-    except Exception as e:
-        if "already exists" in str(e).lower():
-            print(f"Warning: Collection '{COLLECTION_NAME}' already exists. Skipping creation.")
-        else:
-            raise e
+    retries = 0
+    delay = initial_delay
 
-def sync_data():
+    while retries < max_retries:
+        try:
+            # We try to delete the collection first to ensure we have the latest schema.
+            # This might fail if the collection doesn't exist, which is fine.
+            try:
+                client.collections[COLLECTION_NAME].delete()
+                print(f"Deleted existing collection '{COLLECTION_NAME}'")
+            except Exception as e:
+                if "not found" not in str(e).lower():
+                    print(f"Notice: Deletion of collection failed (might not exist): {e}")
+
+            try:
+                client.collections.create(schema)
+                print(f"Created collection '{COLLECTION_NAME}' with version {SYNC_VERSION}")
+            except Exception as e:
+                if "already exists" in str(e).lower():
+                    print(f"Warning: Collection '{COLLECTION_NAME}' already exists. Skipping creation.")
+                else:
+                    raise e
+            return # Success, exit retry loop
+        except Exception as e:
+            retries += 1
+            print(f"Attempt {retries}/{max_retries} failed to setup Typesense collection: {e}")
+            if retries < max_retries:
+                print(f"Waiting {delay} seconds before retrying...")
+                time.sleep(delay)
+                delay *= 2 # Exponential backoff
+            else:
+                print("Max retries reached. Typesense setup failed.")
+                raise e
+
+def sync_data_with_retry(max_retries=5, initial_delay=2):
     if not Path(DB_PATH).exists():
         print(f"Error: Database not found at {DB_PATH}")
         return
@@ -113,17 +130,30 @@ def sync_data():
             print(f"Error parsing row {row['car_id']}: {e}")
 
     if documents:
-        try:
-            print(f"Importing {len(documents)} documents to Typesense...")
-            result = client.collections[COLLECTION_NAME].documents.import_(documents, {'action': 'upsert'})
-            print(f"Successfully synced {len(documents)} documents (Version: {SYNC_VERSION})")
-        except Exception as e:
-            print(f"Error importing to Typesense: {e}")
+        retries = 0
+        delay = initial_delay
+
+        while retries < max_retries:
+            try:
+                print(f"Importing {len(documents)} documents to Typesense...")
+                result = client.collections[COLLECTION_NAME].documents.import_(documents, {'action': 'upsert'})
+                print(f"Successfully synced {len(documents)} documents (Version: {SYNC_VERSION})")
+                break # Success, exit retry loop
+            except Exception as e:
+                retries += 1
+                print(f"Attempt {retries}/{max_retries} failed to import to Typesense: {e}")
+                if retries < max_retries:
+                    print(f"Waiting {delay} seconds before retrying...")
+                    time.sleep(delay)
+                    delay *= 2 # Exponential backoff
+                else:
+                    print("Max retries reached. Typesense import failed.")
+                    raise e
     else:
         print("No documents found to sync")
 
     conn.close()
 
 if __name__ == "__main__":
-    create_collection()
-    sync_data()
+    create_collection_with_retry()
+    sync_data_with_retry()
