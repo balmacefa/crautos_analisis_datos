@@ -21,7 +21,8 @@ import {
   Layers,
   Calendar,
   Grid,
-  List as ListIcon
+  List as ListIcon,
+  Menu
 } from 'lucide-react';
 import Link from 'next/link';
 import useSWR from 'swr';
@@ -35,6 +36,7 @@ import { Input } from '@/components/ui/Input';
 import { Select } from '@/components/ui/Select';
 import { Background } from '@/components/layout/Background';
 import { BrandModelTree } from '@/components/BrandModelTree';
+import { SearchSidebar } from '@/components/SearchSidebar';
 
 export default function SearchExplorer() {
   const { theme } = useTheme();
@@ -43,6 +45,7 @@ export default function SearchExplorer() {
   const [extraCars, setExtraCars] = useState([]);
   const [page, setPage] = useState(1);
   const [showFilters, setShowFilters] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [selectedCar, setSelectedCar] = useState(null);
   const [comparisonList, setComparisonList] = useState([]);
   const [isComparing, setIsComparing] = useState(false);
@@ -163,46 +166,61 @@ export default function SearchExplorer() {
       <Background />
 
       {/* Header */}
-      <header className="sticky top-0 z-40 glass border-b border-white/10 px-4 md:px-8 py-4 backdrop-blur-xl">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-4 items-center justify-between">
-          <div className="flex items-center gap-4 w-full md:w-auto">
-            <Link href="/" className="p-2 hover:bg-white/5 rounded-full transition-colors">
-              <ArrowLeft size={24} />
-            </Link>
-            <div>
-              <h2 className="text-xl font-black italic tracking-tighter leading-none">Crautos <span className="text-cyan-400">Search</span></h2>
-              <p className="text-[10px] text-white/40 uppercase font-black tracking-widest mt-1">Market Explorer v2</p>
+      <header className="sticky top-0 z-40 glass border-b border-white/10 px-4 md:px-8 py-4 backdrop-blur-xl transition-all">
+        <div className="max-w-7xl mx-auto flex flex-col gap-4">
+          <div className="flex items-center justify-between w-full">
+            <div className="flex items-center gap-4">
+              <Link href="/" className="p-2 hover:bg-white/5 rounded-full transition-colors">
+                <ArrowLeft size={24} />
+              </Link>
+              <div>
+                <h2 className="text-xl font-black italic tracking-tighter leading-none">Crautos <span className="text-cyan-400">Search</span></h2>
+                <p className="text-[10px] text-white/40 uppercase font-black tracking-widest mt-1">Market Explorer v2</p>
+              </div>
             </div>
-          </div>
 
-          <div className="relative w-full md:max-w-md group">
-            <SearchIcon className="absolute left-4 top-1/2 -translate-y-1/2 text-white/30 group-focus-within:text-cyan-400 transition-colors" size={18} />
-            <Input 
-              type="text" 
-              placeholder="Marca, modelo, año, provincia o precio..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="pl-12 bg-white/5 border-white/10 focus:border-cyan-500/50 focus:ring-cyan-500/20"
-            />
-            {searchQuery && (
-              <button 
-                onClick={() => setSearchQuery("")}
-                className="absolute right-4 top-1/2 -translate-y-1/2 text-white/20 hover:text-white transition-colors"
-              >
-                <X size={14} />
-              </button>
-            )}
-          </div>
-
-          <div className="flex items-center gap-3 w-full md:w-auto justify-end">
-             <Button 
-              variant={showFilters ? 'primary' : 'secondary'}
-              onClick={() => setShowFilters(!showFilters)}
-              className="text-xs uppercase tracking-widest px-5 py-3"
+            <button
+              className="md:hidden p-2 hover:bg-white/5 rounded-lg transition-colors text-white/60"
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             >
-              <Filter size={16} className="mr-2" />
-              Filtros
-            </Button>
+              {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+            </button>
+          </div>
+
+          {/* Search & Actions Container - Hidden on mobile unless menu is open */}
+          <div className={cn(
+            "flex-col md:flex-row gap-4 w-full md:w-auto items-center md:flex justify-end",
+            isMobileMenuOpen ? "flex" : "hidden"
+          )}>
+            <div className="relative w-full md:max-w-md group">
+              <SearchIcon className="absolute left-4 top-1/2 -translate-y-1/2 text-white/30 group-focus-within:text-cyan-400 transition-colors" size={18} />
+              <Input
+                type="text"
+                placeholder="Marca, modelo, año, provincia o precio..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="pl-12 bg-white/5 border-white/10 focus:border-cyan-500/50 focus:ring-cyan-500/20 h-10 md:h-12 text-sm"
+              />
+              {searchQuery && (
+                <button
+                  onClick={() => setSearchQuery("")}
+                  className="absolute right-4 top-1/2 -translate-y-1/2 text-white/20 hover:text-white transition-colors"
+                >
+                  <X size={14} />
+                </button>
+              )}
+            </div>
+
+            <div className="flex items-center gap-3 w-full md:w-auto justify-end">
+               <Button
+                variant={showFilters ? 'primary' : 'secondary'}
+                onClick={() => setShowFilters(!showFilters)}
+                className="text-xs uppercase tracking-widest px-5 h-10 md:h-12 w-full md:w-auto"
+              >
+                <Filter size={16} className="mr-2" />
+                Filtros
+              </Button>
+            </div>
           </div>
         </div>
       </header>
@@ -211,269 +229,16 @@ export default function SearchExplorer() {
       <div className="max-w-7xl mx-auto px-4 py-8 md:px-8 flex flex-col lg:flex-row gap-8">
         {/* Desktop Sidebar Filters */}
         <aside className="hidden lg:block w-72 shrink-0 space-y-8">
-          <Card className="p-6 space-y-6" hover={false}>
-            <h3 className="text-sm font-black uppercase tracking-widest flex items-center gap-2">
-              <TrendingUp size={16} className="text-cyan-400" />
-              Parámetros
-            </h3>
-
-            <div className="space-y-6">
-              <div className="space-y-3">
-                <div className="flex justify-between items-center">
-                  <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Vehículo</label>
-                  <div className="flex bg-white/5 rounded-lg p-0.5 border border-white/10">
-                    <button 
-                      onClick={() => setViewMode('list')}
-                      className={cn(
-                        "p-1.5 rounded-md transition-all",
-                        viewMode === 'list' ? "bg-cyan-600 text-white shadow-lg" : "text-white/40 hover:text-white"
-                      )}
-                    >
-                      <Grid size={12} />
-                    </button>
-                    <button 
-                      onClick={() => setViewMode('tree')}
-                      className={cn(
-                        "p-1.5 rounded-md transition-all",
-                        viewMode === 'tree' ? "bg-cyan-600 text-white shadow-lg" : "text-white/40 hover:text-white"
-                      )}
-                    >
-                      <ListIcon size={12} />
-                    </button>
-                  </div>
-                </div>
-
-                {viewMode === 'list' ? (
-                  <div className="grid grid-cols-2 gap-2 max-h-48 overflow-y-auto pr-2 custom-scrollbar">
-                    {facets.marca?.map(b => (
-                      <button
-                        key={b.value}
-                        onClick={() => {
-                          const current = filters.brands ? filters.brands.split(',') : [];
-                          const next = current.includes(b.value)
-                            ? current.filter(x => x !== b.value)
-                            : [...current, b.value];
-                          setFilters(prev => ({ ...prev, brands: next.join(','), models: "" }));
-                        }}
-                        className={cn(
-                          "text-[10px] p-2 rounded-xl border transition-all text-left font-bold truncate",
-                          filters.brands?.split(',').includes(b.value)
-                            ? "bg-cyan-600 border-cyan-400 text-white" 
-                            : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
-                        )}
-                      >
-                        {b.value}
-                      </button>
-                    ))}
-                  </div>
-                ) : (
-                  <BrandModelTree 
-                    data={allModels}
-                    selectedBrands={filters.brands ? filters.brands.split(',') : []}
-                    selectedModels={filters.models ? filters.models.split(',') : []}
-                    onSelectBrand={(brand) => {
-                      const current = filters.brands ? filters.brands.split(',') : [];
-                      const next = current.includes(brand)
-                        ? current.filter(x => x !== brand)
-                        : [...current, brand];
-                      setFilters(prev => ({ ...prev, brands: next.join(',') }));
-                    }}
-                    onSelectModel={(model) => {
-                      const current = filters.models ? filters.models.split(',') : [];
-                      const next = current.includes(model)
-                        ? current.filter(x => x !== model)
-                        : [...current, model];
-                      setFilters(prev => ({ ...prev, models: next.join(',') }));
-                    }}
-                  />
-                )}
-              </div>
-              
-              <div className="space-y-3">
-                <div className="flex justify-between items-center">
-                  <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">
-                    Rango de Precio ({filters.price_currency})
-                  </label>
-                  <div className="flex bg-white/5 rounded-lg p-0.5 border border-white/10">
-                    <button 
-                      onClick={() => setFilters(p => ({...p, price_currency: 'CRC', price_min: "", price_max: ""}))}
-                      className={cn(
-                        "text-[9px] font-bold px-2 py-1 rounded-md transition-all",
-                        filters.price_currency === 'CRC' ? "bg-emerald-600 text-white shadow-lg" : "text-white/40 hover:text-white"
-                      )}
-                    >
-                      CRC
-                    </button>
-                    <button 
-                      onClick={() => setFilters(p => ({...p, price_currency: 'USD', price_min: "", price_max: ""}))}
-                      className={cn(
-                        "text-[9px] font-bold px-2 py-1 rounded-md transition-all",
-                        filters.price_currency === 'USD' ? "bg-emerald-600 text-white shadow-lg" : "text-white/40 hover:text-white"
-                      )}
-                    >
-                      USD
-                    </button>
-                  </div>
-                </div>
-
-                <div className="flex gap-2">
-                  <Select 
-                    value={filters.price_min} 
-                    onChange={e => setFilters(p => ({...p, price_min: e.target.value}))} 
-                    className="h-10 text-xs w-full"
-                  >
-                    <option value="">Min</option>
-                    {filters.price_currency === 'CRC' ? (
-                      <>
-                        <option value="2000000">₡2M</option>
-                        <option value="5000000">₡5M</option>
-                        <option value="10000000">₡10M</option>
-                        <option value="15000000">₡15M</option>
-                        <option value="20000000">₡20M</option>
-                        <option value="30000000">₡30M</option>
-                      </>
-                    ) : (
-                      <>
-                        <option value="5000">$5k</option>
-                        <option value="10000">$10k</option>
-                        <option value="15000">$15k</option>
-                        <option value="20000">$20k</option>
-                        <option value="30000">$30k</option>
-                        <option value="50000">$50k</option>
-                      </>
-                    )}
-                  </Select>
-
-                  <Select 
-                    value={filters.price_max} 
-                    onChange={e => setFilters(p => ({...p, price_max: e.target.value}))} 
-                    className="h-10 text-xs w-full"
-                  >
-                    <option value="">Max</option>
-                    {filters.price_currency === 'CRC' ? (
-                      <>
-                        <option value="5000000">₡5M</option>
-                        <option value="10000000">₡10M</option>
-                        <option value="15000000">₡15M</option>
-                        <option value="20000000">₡20M</option>
-                        <option value="30000000">₡30M</option>
-                        <option value="50000000">₡50M</option>
-                      </>
-                    ) : (
-                      <>
-                        <option value="10000">$10k</option>
-                        <option value="15000">$15k</option>
-                        <option value="20000">$20k</option>
-                        <option value="30000">$30k</option>
-                        <option value="50000">$50k</option>
-                        <option value="100000">$100k</option>
-                      </>
-                    )}
-                  </Select>
-                </div>
-              </div>
-
-              <div className="space-y-3">
-                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Años</label>
-                <Select 
-                  value={filters.year_min === filters.year_max && filters.year_min ? filters.year_min : ""}
-                  onChange={e => {
-                    const val = e.target.value;
-                    if (!val) {
-                      setFilters(p => ({ ...p, year_min: "", year_max: "" }));
-                    } else {
-                      setFilters(p => ({ ...p, year_min: val, year_max: val }));
-                    }
-                  }} 
-                  className="h-10 text-xs w-full"
-                >
-                  <option value="">Todos los años</option>
-                  {(facets.año || [])
-                    .sort((a, b) => parseInt(b.value) - parseInt(a.value))
-                    .map(y => (
-                      <option key={y.value} value={y.value}>{y.value} ({y.count})</option>
-                    ))
-                  }
-                </Select>
-              </div>
-
-              <div className="space-y-3">
-                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Provincia</label>
-                <Select value={filters.provincias} onChange={e => setFilters(p => ({...p, provinces: e.target.value}))} className="h-10">
-                  <option value="">Todas las provincias</option>
-                  {provinces.map(p => (
-                    <option key={p.provincia} value={p.provincia}>{p.provincia}</option>
-                  ))}
-                </Select>
-              </div>
-
-              <div className="space-y-3">
-                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Combustible</label>
-                <div className="flex flex-wrap gap-2">
-                  {fuels.map((f) => (
-                    <button
-                      key={f.combustible}
-                      onClick={() => setFilters((p) => ({ ...p, fuels: p.fuels === f.combustible ? "" : f.combustible }))}
-                      className={cn(
-                        "px-3 py-1.5 rounded-lg text-[10px] font-bold uppercase transition-all border",
-                        filters.fuels === f.combustible
-                          ? "bg-cyan-600 border-cyan-400 text-white"
-                          : "bg-white/5 border-white/5 text-white/40 hover:text-white",
-                      )}
-                    >
-                      {f.combustible}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              <div className="space-y-3">
-                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Ordenar por</label>
-                <Select value={filters.sort_by} onChange={e => setFilters(p => ({...p, sort_by: e.target.value}))} className="h-10">
-                  <option value="año:desc">Más Recientes</option>
-                  <option value="precio_usd:asc">Menor Precio</option>
-                  <option value="precio_usd:desc">Mayor Precio</option>
-                  <option value="kilometraje_number:asc">Menor Kilometraje</option>
-                </Select>
-              </div>
-
-              <div className="space-y-3">
-                <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Fuente de Datos</label>
-                <div className="grid grid-cols-2 gap-2">
-                  {(facets.fuente || []).map(f => (
-                    <button
-                      key={f.value}
-                      onClick={() => {
-                        const current = filters.fuentes ? filters.fuentes.split(',') : [];
-                        const next = current.includes(f.value)
-                          ? current.filter(x => x !== f.value)
-                          : [...current, f.value];
-                        setFilters(p => ({ ...p, fuentes: next.join(',') }));
-                      }}
-                      className={cn(
-                        "text-[10px] p-2 rounded-xl border transition-all text-left font-bold truncate flex justify-between items-center",
-                        filters.fuentes?.split(',').includes(f.value)
-                          ? "bg-cyan-600 border-cyan-400 text-white" 
-                          : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
-                      )}
-                    >
-                      <span>{f.value}</span>
-                      <span className="opacity-50 text-[9px]">{f.count}</span>
-                    </button>
-                  ))}
-                </div>
-              </div>
-            </div>
-          </Card>
-
-          <Card className="p-6 bg-cyan-600/10 border-cyan-500/20" hover={false}>
-             <div className="flex items-center gap-2 text-cyan-400 font-black text-[10px] uppercase tracking-widest">
-                <ShieldCheck size={14} /> Sugerencia IA
-             </div>
-             <p className="text-xs text-white/60 leading-relaxed italic mt-4">
-               "Recuerda que los autos con menos de 80,000km suelen tener mejor valor de reventa en Costa Rica."
-             </p>
-          </Card>
+          <SearchSidebar
+            filters={filters}
+            setFilters={setFilters}
+            viewMode={viewMode}
+            setViewMode={setViewMode}
+            facets={facets}
+            allModels={allModels}
+            provinces={provinces}
+            fuels={fuels}
+          />
         </aside>
 
         {/* Main Content Area */}
@@ -640,6 +405,48 @@ export default function SearchExplorer() {
                   <ArrowRightLeft size={18} /> Comparar ahora
                 </Button>
               </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+
+      {/* Mobile Filter Modal */}
+      <AnimatePresence>
+        {showFilters && (
+          <motion.div
+            initial={{ opacity: 0, y: '100%' }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: '100%' }}
+            transition={{ type: 'spring', damping: 25, stiffness: 200 }}
+            className="fixed inset-0 z-[70] bg-black/95 backdrop-blur-2xl flex flex-col p-4 md:hidden overflow-y-auto"
+          >
+            <div className="flex justify-between items-center mb-6">
+              <h2 className="text-2xl font-black italic tracking-tighter text-cyan-400">Filtros</h2>
+              <Button variant="ghost" onClick={() => setShowFilters(false)} className="p-2 rounded-full">
+                <X size={24} />
+              </Button>
+            </div>
+
+            <SearchSidebar
+              filters={filters}
+              setFilters={setFilters}
+              viewMode={viewMode}
+              setViewMode={setViewMode}
+              facets={facets}
+              allModels={allModels}
+              provinces={provinces}
+              fuels={fuels}
+            />
+
+            <div className="mt-8 mb-4">
+              <Button
+                variant="primary"
+                className="w-full py-4 text-lg font-bold"
+                onClick={() => setShowFilters(false)}
+              >
+                Ver Resultados
+              </Button>
             </div>
           </motion.div>
         )}
