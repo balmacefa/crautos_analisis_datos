@@ -38,6 +38,9 @@ class EVMarketScraper:
             # Step 2: Extract details for each URL
             logger.info("Step 2: Extracting details for %d URLs", len(self.discovered_urls))
             for url in self.discovered_urls:
+                if self.repository and self.repository.is_url_done(url):
+                    logger.info("Skipping already processed URL: %s", url)
+                    continue
                 await self._scrape_car_detail(context, url)
                 
             await browser.close()

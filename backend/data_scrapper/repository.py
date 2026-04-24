@@ -319,13 +319,27 @@ class ScraperRepository:
             count = conn.execute("SELECT COUNT(*) FROM car_urls").fetchone()[0]
         return count > 0
 
+    def is_url_done(self, url: str) -> bool:
+        """Check if a URL has already been marked as done."""
+        with self._conn() as conn:
+            row = conn.execute("SELECT status FROM car_urls WHERE url = ?", (url,)).fetchone()
+            return row is not None and row["status"] == "done"
+
     def mark_url_done(self, url: str, car_id: str, data: dict) -> None:
         """Persist scraped car data and mark URL as done."""
         now = self._now()
         with self._conn() as conn:
             conn.execute(
-                "UPDATE car_urls SET status='done', scraped_at=? WHERE url=?",
-                (now, url),
+                """
+                INSERT INTO car_urls (url, status, retry_count, created_at, is_active, last_seen_at, scraped_at)
+                VALUES (?, 'done', 0, ?, 1, ?, ?)
+                ON CONFLICT(url) DO UPDATE SET
+                    status = 'done',
+                    is_active = 1,
+                    last_seen_at = excluded.last_seen_at,
+                    scraped_at = excluded.scraped_at
+                """,
+                (url, now, now, now),
             )
             conn.execute(
                 """
