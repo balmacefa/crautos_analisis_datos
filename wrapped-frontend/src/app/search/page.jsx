@@ -293,9 +293,16 @@ export default function SearchExplorer() {
                 </div>
 
                 <div className="p-6 space-y-5">
-                  <div>
-                    <h3 className="text-xs font-black text-cyan-400 uppercase tracking-widest mb-1">{car.marca}</h3>
-                    <p className="text-2xl font-black tracking-tighter leading-none truncate">{car.modelo}</p>
+                  <div className="flex justify-between items-start gap-4">
+                    <div className="min-w-0">
+                      <h3 className="text-xs font-black text-cyan-400 uppercase tracking-widest mb-1">{car.marca}</h3>
+                      <p className="text-2xl font-black tracking-tighter leading-none truncate">{car.modelo}</p>
+                    </div>
+                    <div className="flex flex-col items-end shrink-0 text-right">
+                      <span className="text-[10px] font-black text-white/60 uppercase tracking-tighter">{car.año}</span>
+                      <span className="text-[8px] font-black text-white/30 uppercase tracking-widest truncate max-w-[70px]">{car.informacion_general?.transmisión}</span>
+                      <span className="text-[8px] font-black text-white/30 uppercase tracking-widest truncate max-w-[70px]">{car.informacion_general?.combustible}</span>
+                    </div>
                   </div>
 
                   <div className="grid grid-cols-2 gap-4 py-4 border-y border-white/5">
@@ -321,9 +328,16 @@ export default function SearchExplorer() {
                         </span>
                       </div>
                     </div>
-                    <div className="w-12 h-12 bg-white/5 group-hover:bg-cyan-600 rounded-2xl flex items-center justify-center transition-all transform group-hover:rotate-45 shrink-0">
-                      <ChevronDown className="text-white -rotate-90" size={20} />
-                    </div>
+                    <button 
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        window.open(car.url, '_blank');
+                      }}
+                      className="w-12 h-12 bg-white/5 hover:bg-cyan-600 rounded-2xl flex items-center justify-center transition-all hover:scale-110 active:scale-95 shrink-0 group/btn"
+                      title="Ver anuncio original"
+                    >
+                      <ExternalLink className="text-white/20 group-hover/btn:text-white" size={18} />
+                    </button>
                   </div>
                 </div>
               </Card>
