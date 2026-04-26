@@ -7,7 +7,7 @@
 # Test info
 
 - Name: tour.spec.js >> Interactive Wrapped Tour >> should be able to go back to home from tour
-- Location: tests/tour.spec.js:32:3
+- Location: tests\tour.spec.js:32:3
 
 # Error details
 
@@ -19,12 +19,6 @@ Test timeout of 30000ms exceeded.
 Error: locator.click: Test timeout of 30000ms exceeded.
 Call log:
   - waiting for locator('a:has(svg.lucide-arrow-left)')
-    - locator resolved to <a href="/" class="p-3 bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl hover:bg-white/10 transition-colors">…</a>
-  - attempting click action
-    - waiting for element to be visible, enabled and stable
-    - element is visible, enabled and stable
-    - scrolling into view if needed
-  - element was detached from the DOM, retrying
 
 ```
 
@@ -68,7 +62,7 @@ Call log:
                 - text: "[[[[Network Error] ]Could not connect to"
                 - link "http://localhost:8000/api/insights/summary" [ref=e49] [cursor=pointer]:
                   - /url: http://localhost:8000/api/insights/summary
-                - text: "]@ Failed to fetch (26ms)"
+                - text: "]@ Failed to fetch (2412ms)"
             - generic [ref=e50]:
               - generic [ref=e51]:
                 - paragraph [ref=e53]:
@@ -135,36 +129,36 @@ Call log:
 
 ```ts
   1  | const { test, expect } = require('@playwright/test');
-  2  |
+  2  | 
   3  | test.describe('Interactive Wrapped Tour', () => {
   4  |   test.beforeEach(async ({ page }) => {
   5  |     await page.goto('/tour');
   6  |     await page.waitForLoadState('networkidle');
   7  |   });
-  8  |
+  8  | 
   9  |   test('should complete the interactive story flow', async ({ page }) => {
   10 |     // 1. Intro Slide
   11 |     await expect(page.locator('h1:has-text("CRAUTOS")')).toBeVisible();
   12 |     await expect(page.locator('h1:has-text("WRAPPED")')).toBeVisible();
-  13 |
+  13 |     
   14 |     // Start the tour
   15 |     await page.click('text=Comenzar la historia');
-  16 |
+  16 |     
   17 |     // 2. Magnitude Slide (Wait for stats to load)
   18 |     await expect(page.locator('text=La Magnitud')).toBeVisible();
   19 |     // Use an aria-label or just the text of the button to go next
   20 |     const nextButton = page.locator('button >> svg.lucide-arrow-right').locator('xpath=..');
-  21 |
+  21 |     
   22 |     // Navigate through a few slides to ensure flow works
   23 |     for(let i=0; i<3; i++) {
   24 |         await nextButton.click();
   25 |         await page.waitForTimeout(500); // Wait for animation
   26 |     }
-  27 |
+  27 |     
   28 |     // Should be at slide 5 or so
   29 |     await expect(page.locator('text=/ 10')).toBeVisible();
   30 |   });
-  31 |
+  31 | 
   32 |   test('should be able to go back to home from tour', async ({ page }) => {
   33 |     const backHome = page.locator('a:has(svg.lucide-arrow-left)');
 > 34 |     await backHome.click();
@@ -172,5 +166,5 @@ Call log:
   35 |     await expect(page).toHaveURL('/');
   36 |   });
   37 | });
-  38 |
+  38 | 
 ```
