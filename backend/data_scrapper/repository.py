@@ -44,7 +44,8 @@ CREATE TABLE IF NOT EXISTS car_urls (
     created_at   TEXT    NOT NULL,
     scraped_at   TEXT,
     is_active    INTEGER NOT NULL DEFAULT 1,
-    last_seen_at TEXT
+    last_seen_at TEXT,
+    source       TEXT                                -- Site identifier (e.g., 'CRAutos', 'EVMarket')
 );
 
 CREATE TABLE IF NOT EXISTS car_details (
@@ -52,6 +53,7 @@ CREATE TABLE IF NOT EXISTS car_details (
     url          TEXT    NOT NULL,
     raw_json     TEXT    NOT NULL,
     scraped_at   TEXT    NOT NULL,
+    source       TEXT,                               -- Site identifier
     FOREIGN KEY (url) REFERENCES car_urls(url)
 );
 
@@ -130,10 +132,22 @@ class ScraperRepository:
     def _init_db(self) -> None:
         with self._conn() as conn:
             conn.executescript(_DDL)
-            # Migration for soft deletes (adds columns if they don't exist)
+            # Migration for soft deletes and source tracking
+            migrations = [
+                "ALTER TABLE car_urls ADD COLUMN is_active INTEGER NOT NULL DEFAULT 1",
+                "ALTER TABLE car_urls ADD COLUMN last_seen_at TEXT",
+                "ALTER TABLE car_urls ADD COLUMN source TEXT",
+                "ALTER TABLE car_details ADD COLUMN source TEXT"
+            ]
+            for m in migrations:
+                try:
+                    conn.execute(m)
+                except sqlite3.OperationalError:
+                    pass
+            
+            # Create source index AFTER ensuring column exists
             try:
-                conn.execute("ALTER TABLE car_urls ADD COLUMN is_active INTEGER NOT NULL DEFAULT 1")
-                conn.execute("ALTER TABLE car_urls ADD COLUMN last_seen_at TEXT")
+                conn.execute("CREATE INDEX IF NOT EXISTS idx_car_urls_source ON car_urls(source)")
             except sqlite3.OperationalError:
                 pass
         logger.info("SQLite DB initialised at %s", self.db_path)
@@ -275,7 +289,7 @@ class ScraperRepository:
     # URL management
     # ------------------------------------------------------------------
 
-    def upsert_urls(self, urls: list[str]) -> int:
+    def upsert_urls(self, urls: list[str], source: str = None) -> int:
         """Insert new URLs as 'pending'; update last_seen_at for existing. Revives soft-deleted URLs."""
         now = self._now()
         inserted = 0
@@ -283,16 +297,17 @@ class ScraperRepository:
             for url in urls:
                 cur = conn.execute(
                     """
-                    INSERT INTO car_urls (url, status, retry_count, created_at, is_active, last_seen_at)
-                    VALUES (?, 'pending', 0, ?, 1, ?)
+                    INSERT INTO car_urls (url, status, retry_count, created_at, is_active, last_seen_at, source)
+                    VALUES (?, 'pending', 0, ?, 1, ?, ?)
                     ON CONFLICT(url) DO UPDATE SET
                         is_active = 1,
-                        last_seen_at = excluded.last_seen_at
+                        last_seen_at = excluded.last_seen_at,
+                        source = COALESCE(excluded.source, car_urls.source)
                     """,
-                    (url, now, now),
+                    (url, now, now, source),
                 )
                 inserted += 1
-        logger.info("upsert_urls: %d URLs processed", len(urls))
+        logger.info("upsert_urls: %d URLs processed (source: %s)", len(urls), source)
         return inserted
 
     def mark_all_inactive_before(self, timestamp: str) -> int:
@@ -313,31 +328,40 @@ class ScraperRepository:
             ).fetchall()
         return [r["url"] for r in rows]
 
-    def has_urls(self) -> bool:
-        """True if any URLs have been seeded into the DB."""
+    def is_url_done(self, url: str) -> bool:
+        """Check if a URL has already been successfully scraped."""
         with self._conn() as conn:
-            count = conn.execute("SELECT COUNT(*) FROM car_urls").fetchone()[0]
-        return count > 0
+            row = conn.execute(
+                "SELECT 1 FROM car_urls WHERE url=? AND status='done'",
+                (url,)
+            ).fetchone()
+        return row is not None
 
-    def mark_url_done(self, url: str, car_id: str, data: dict) -> None:
+    def mark_url_done(self, url: str, car_id: str, data: dict, source: str = None) -> None:
         """Persist scraped car data and mark URL as done."""
         now = self._now()
         with self._conn() as conn:
             conn.execute(
-                "UPDATE car_urls SET status='done', scraped_at=? WHERE url=?",
-                (now, url),
+                "UPDATE car_urls SET status='done', scraped_at=?, source=COALESCE(?, source) WHERE url=?",
+                (now, source, url),
             )
             conn.execute(
                 """
-                INSERT OR REPLACE INTO car_details (car_id, url, raw_json, scraped_at)
-                VALUES (?, ?, ?, ?)
+                INSERT OR REPLACE INTO car_details (car_id, url, raw_json, scraped_at, source)
+                VALUES (?, ?, ?, ?, COALESCE(?, (SELECT source FROM car_urls WHERE url=?)))
                 """,
-                (car_id, url, json.dumps(data, ensure_ascii=False), now),
+                (car_id, url, json.dumps(data, ensure_ascii=False), now, source, url),
             )
         
-        self._sync_to_typesense(car_id, data, now, url)
+        # Determine source if not provided
+        if not source:
+            with self._conn() as conn:
+                row = conn.execute("SELECT source FROM car_urls WHERE url=?", (url,)).fetchone()
+                source = row["source"] if row else None
 
-    def _sync_to_typesense(self, car_id: str, data: dict, scraped_at: str, url: str):
+        self._sync_to_typesense(car_id, data, now, url, source)
+
+    def _sync_to_typesense(self, car_id: str, data: dict, scraped_at: str, url: str, source: str = None):
         """Helper to sync a single car record to Typesense."""
         if not self.ts_client:
             return
@@ -364,6 +388,15 @@ class ScraperRepository:
                 except (ValueError, TypeError):
                     return 0
 
+            # Infer source if missing (legacy support)
+            if not source:
+                if 'crautos.com' in url: source = 'CRAutos'
+                elif 'evmarket' in url: source = 'EVMarket'
+                elif 'corimotors' in url or 'usadoscori' in url: source = 'CoriMotors'
+                elif 'purdyusados' in url: source = 'PurdyUsados'
+                elif 'veinsausados' in url: source = 'VeinsaUsados'
+                else: source = 'Otro'
+
             document = {
                 'id': car_id,
                 'car_id': car_id,
@@ -378,10 +411,11 @@ class ScraperRepository:
                 'transmisión': gen_info.get('transmisión', 'Desconocida'),
                 'url': url,
                 'imagen_principal': data.get('imagen_principal', ''),
-                'scraped_at': scraped_at
+                'scraped_at': scraped_at,
+                'fuente': source
             }
             self.ts_client.collections['cars'].documents.upsert(document)
-            logger.info("Synced car %s to Typesense", car_id)
+            logger.info("Synced car %s to Typesense (fuente: %s)", car_id, source)
         except Exception as e:
             logger.warning("Failed to sync car %s to Typesense: %s", car_id, e)
 

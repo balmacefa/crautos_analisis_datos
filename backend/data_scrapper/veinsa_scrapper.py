@@ -65,8 +65,9 @@ class VeinsaScraper:
                 # Actually, the h3 is often wrapped in or near an <a> or we can extract the text and hope for a predictable slug.
                 # Re-checking research: "h3 title within each card is clickable and leads to /detalle/[slug]-[id]"
                 
-                cards = await page.locator(".grid-cols-1 > div, .grid-cols-2 > div, .grid-cols-3 > div").all()
+                cards = await page.locator(".grid-cols-1 > div, .grid-cols-2 > div, .grid-cols-3 > div, .grid-cols-4 > div").all()
                 found_on_page = 0
+                page_urls = []
                 
                 for card in cards:
                     # Look for h3 and extract its parent/child link
@@ -77,12 +78,17 @@ class VeinsaScraper:
                         if await link_loc.count() > 0:
                             # Use the first link found in the card
                             href = await link_loc.first.get_attribute("href")
-                            if href and "/detalle/" in href:
+                            # Updated URL pattern: /caracteristica-del-vehiculo/
+                            if href and ("/detalle/" in href or "/caracteristica-del-vehiculo/" in href):
                                 full_url = urljoin(BASE_URL, href)
                                 if full_url not in self.discovered_urls:
                                     self.discovered_urls.add(full_url)
+                                    page_urls.append(full_url)
                                     found_on_page += 1
-
+                
+                if self.repository and page_urls:
+                    self.repository.upsert_urls(page_urls, source="VeinsaUsados")
+                
                 logger.info("Found %d new URLs on page %d", found_on_page, p_num)
 
                 # Pagination: Find the "Next" button
@@ -191,7 +197,7 @@ class VeinsaScraper:
             }
 
             if self.repository:
-                self.repository.mark_url_done(url, car_id, structured_data)
+                self.repository.mark_url_done(url, car_id, structured_data, source="VeinsaUsados")
                 logger.info("Saved Veinsa car %s to DB", car_id)
             else:
                 logger.info("Scraped data for %s: %s", car_id, json.dumps(structured_data, indent=4))

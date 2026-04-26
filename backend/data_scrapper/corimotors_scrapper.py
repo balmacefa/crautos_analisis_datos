@@ -63,6 +63,7 @@ class CorimotorsScraper:
                 # Extract links
                 # Usually: <a class="product-item-image-wrapper" href="...">
                 links = await page.locator("a.product-item-image-wrapper").all()
+                page_urls = []
                 found_on_page = 0
                 for link in links:
                     href = await link.get_attribute("href")
@@ -70,7 +71,11 @@ class CorimotorsScraper:
                         full_url = urljoin(BASE_URL, href)
                         if full_url not in self.discovered_urls:
                             self.discovered_urls.add(full_url)
+                            page_urls.append(full_url)
                             found_on_page += 1
+                
+                if self.repository and page_urls:
+                    self.repository.upsert_urls(page_urls, source="CoriMotors")
                 
                 logger.info("Found %d new URLs on page %d", found_on_page, p_num)
                 if found_on_page == 0:
@@ -162,7 +167,7 @@ class CorimotorsScraper:
             }
 
             if self.repository:
-                self.repository.mark_url_done(url, car_id, structured_data)
+                self.repository.mark_url_done(url, car_id, structured_data, source="CoriMotors")
                 logger.info("Saved Corimotors car %s to DB", car_id)
             else:
                 logger.info("Scraped data for %s: %s", car_id, json.dumps(structured_data, indent=4))
