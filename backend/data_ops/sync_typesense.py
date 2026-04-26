@@ -98,7 +98,7 @@ def sync_data_with_retry(max_retries=5, initial_delay=2):
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
 
-    cursor.execute("SELECT car_id, url, raw_json, scraped_at FROM car_details")
+    cursor.execute("SELECT car_id, url, raw_json, scraped_at, source FROM car_details")
     rows = cursor.fetchall()
 
     documents = []
@@ -123,7 +123,7 @@ def sync_data_with_retry(max_retries=5, initial_delay=2):
                 'imagen_principal': raw_data.get('imagen_principal', ''),
                 'scraped_at': row['scraped_at'],
                 'sync_version': SYNC_VERSION,
-                'fuente': 'CRAutos' if 'crautos.com' in row['url'] else ('CoriMotors' if 'corimotors' in row['url'] else ('EVMarket' if 'evmarket' in row['url'] else ('PurdyUsados' if 'purdyusados' in row['url'] else ('VeinsaUsados' if 'veinsausados' in row['url'] else 'Otro'))))
+                'fuente': row['source'] if row['source'] else ('CRAutos' if 'crautos.com' in row['url'] else ('CoriMotors' if 'corimotors' in row['url'] or 'usadoscori' in row['url'] else ('EVMarket' if 'evmarket' in row['url'] else ('PurdyUsados' if 'purdyusados' in row['url'] else ('VeinsaUsados' if 'veinsausados' in row['url'] else 'Otro')))))
             }
             documents.append(doc)
         except Exception as e:

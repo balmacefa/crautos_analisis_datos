@@ -55,19 +55,26 @@ class EVMarketScraper:
             
             try:
                 await page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                await page.wait_for_selector(".listing-item", timeout=10000)
+                # Wait for the listing grid boxes
+                await page.wait_for_selector(".category-grid-box-1", timeout=10000)
                 
                 # Extract detail links
-                links = await page.locator("a.listing-img").all()
+                # Updated selector: .short-description-1 h3 a
+                links = await page.locator(".category-grid-box-1 h3 a").all()
                 if not links:
-                    logger.info("No more listings found. Stopping.")
+                    logger.info("No more listings found on page %d. Stopping.", current_page)
                     break
                     
+                page_urls = []
                 for locator in links:
                     href = await locator.get_attribute("href")
                     if href:
                         abs_url = urljoin(BASE_URL, href)
+                        page_urls.append(abs_url)
                         self.discovered_urls.add(abs_url)
+                
+                if self.repository:
+                    self.repository.upsert_urls(page_urls, source="EVMarket")
                 
                 logger.info("Page %d: Found %d unique URLs so far.", current_page, len(self.discovered_urls))
                 
@@ -150,7 +157,7 @@ class EVMarketScraper:
             }
 
             if self.repository:
-                self.repository.mark_url_done(url, car_id, structured_data)
+                self.repository.mark_url_done(url, car_id, structured_data, source="EVMarket")
                 logger.info("Saved car %s to DB", car_id)
             else:
                 logger.info("Scraped data: %s", json.dumps(structured_data, indent=2))
