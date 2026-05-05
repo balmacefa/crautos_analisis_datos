@@ -337,9 +337,16 @@ class ScraperRepository:
             ).fetchone()
         return row is not None
 
-    def mark_url_done(self, url: str, car_id: str, data: dict) -> None:
+    def mark_url_done(self, url: str, car_id: str, data: dict, source: str = None) -> None:
         """Persist scraped car data and mark URL as done."""
         now = self._now()
+
+        # Determine source if not provided
+        if not source:
+            with self._conn() as conn:
+                row = conn.execute("SELECT source FROM car_urls WHERE url=?", (url,)).fetchone()
+                source = row["source"] if row else None
+
         with self._conn() as conn:
             conn.execute(
                 """
@@ -360,12 +367,6 @@ class ScraperRepository:
                 """,
                 (car_id, url, json.dumps(data, ensure_ascii=False), now, source, url),
             )
-        
-        # Determine source if not provided
-        if not source:
-            with self._conn() as conn:
-                row = conn.execute("SELECT source FROM car_urls WHERE url=?", (url,)).fetchone()
-                source = row["source"] if row else None
 
         self._sync_to_typesense(car_id, data, now, url, source)
 
