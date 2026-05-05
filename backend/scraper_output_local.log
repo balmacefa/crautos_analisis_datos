@@ -1,0 +1,293 @@
+2026-05-05 07:55:11,850 - INFO - SQLite DB initialised at data/crautos.db
+2026-05-05 07:55:11,959 - INFO - Typesense client initialized (host: localhost, port: 8108)
+2026-05-05 07:55:11,964 - INFO - Started scrape run #29
+2026-05-05 07:55:11,965 - INFO - Starting evmarket.cr scraper...
+2026-05-05 07:55:12,731 - INFO - Step 1: Collecting listing URLs from https://evmarket.cr/listings
+2026-05-05 07:55:12,782 - INFO - Fetching listings from page 1: https://evmarket.cr/listings
+2026-05-05 07:55:15,862 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:15,862 - INFO - Page 1: Found 20 unique URLs so far.
+2026-05-05 07:55:15,862 - INFO - Fetching listings from page 2: https://evmarket.cr/listings?page=2
+2026-05-05 07:55:16,672 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:16,672 - INFO - Page 2: Found 39 unique URLs so far.
+2026-05-05 07:55:16,672 - INFO - Fetching listings from page 3: https://evmarket.cr/listings?page=3
+2026-05-05 07:55:17,269 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:17,269 - INFO - Page 3: Found 55 unique URLs so far.
+2026-05-05 07:55:17,269 - INFO - Fetching listings from page 4: https://evmarket.cr/listings?page=4
+2026-05-05 07:55:17,869 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:17,869 - INFO - Page 4: Found 68 unique URLs so far.
+2026-05-05 07:55:17,869 - INFO - Fetching listings from page 5: https://evmarket.cr/listings?page=5
+2026-05-05 07:55:18,448 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:18,448 - INFO - Page 5: Found 79 unique URLs so far.
+2026-05-05 07:55:18,448 - INFO - Fetching listings from page 6: https://evmarket.cr/listings?page=6
+2026-05-05 07:55:19,030 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:19,031 - INFO - Page 6: Found 90 unique URLs so far.
+2026-05-05 07:55:19,031 - INFO - Fetching listings from page 7: https://evmarket.cr/listings?page=7
+2026-05-05 07:55:19,601 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:19,601 - INFO - Page 7: Found 105 unique URLs so far.
+2026-05-05 07:55:19,602 - INFO - Fetching listings from page 8: https://evmarket.cr/listings?page=8
+2026-05-05 07:55:20,193 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:20,193 - INFO - Page 8: Found 115 unique URLs so far.
+2026-05-05 07:55:20,193 - INFO - Fetching listings from page 9: https://evmarket.cr/listings?page=9
+2026-05-05 07:55:20,756 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:20,756 - INFO - Page 9: Found 126 unique URLs so far.
+2026-05-05 07:55:20,756 - INFO - Fetching listings from page 10: https://evmarket.cr/listings?page=10
+2026-05-05 07:55:21,344 - INFO - upsert_urls: 20 URLs processed (source: EVMarket)
+2026-05-05 07:55:21,345 - INFO - Page 10: Found 135 unique URLs so far.
+2026-05-05 07:55:21,345 - INFO - Fetching listings from page 11: https://evmarket.cr/listings?page=11
+2026-05-05 07:55:21,890 - INFO - upsert_urls: 17 URLs processed (source: EVMarket)
+2026-05-05 07:55:21,891 - INFO - Page 11: Found 144 unique URLs so far.
+2026-05-05 07:55:21,891 - INFO - Fetching listings from page 12: https://evmarket.cr/listings?page=12
+2026-05-05 07:55:32,154 - INFO - No category grid box found on page 12. Stopping.
+2026-05-05 07:55:32,169 - INFO - Step 2: Extracting details for 144 URLs
+2026-05-05 07:55:32,169 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=282
+2026-05-05 07:55:32,170 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=353
+2026-05-05 07:55:32,171 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=267
+2026-05-05 07:55:32,171 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=394
+2026-05-05 07:55:33,554 - WARNING - Failed to sync car ev-listing-details.php?id=394 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:33,554 - INFO - Saved car ev-listing-details.php?id=394 to DB
+2026-05-05 07:55:33,565 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=195
+2026-05-05 07:55:34,854 - WARNING - Failed to sync car ev-listing-details.php?id=195 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:34,855 - INFO - Saved car ev-listing-details.php?id=195 to DB
+2026-05-05 07:55:34,862 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=136
+2026-05-05 07:55:34,863 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=288
+2026-05-05 07:55:34,863 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=209
+2026-05-05 07:55:36,205 - WARNING - Failed to sync car ev-listing-details.php?id=209 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:36,205 - INFO - Saved car ev-listing-details.php?id=209 to DB
+2026-05-05 07:55:36,212 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=379
+2026-05-05 07:55:36,213 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=388
+2026-05-05 07:55:36,214 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=199
+2026-05-05 07:55:37,419 - WARNING - Failed to sync car ev-listing-details.php?id=199 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:37,419 - INFO - Saved car ev-listing-details.php?id=199 to DB
+2026-05-05 07:55:37,426 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=221
+2026-05-05 07:55:37,426 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=268
+2026-05-05 07:55:37,427 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=489
+2026-05-05 07:55:38,679 - WARNING - Failed to sync car ev-listing-details.php?id=489 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:38,679 - INFO - Saved car ev-listing-details.php?id=489 to DB
+2026-05-05 07:55:38,686 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=143
+2026-05-05 07:55:38,687 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=228
+2026-05-05 07:55:39,916 - WARNING - Failed to sync car ev-listing-details.php?id=228 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:39,916 - INFO - Saved car ev-listing-details.php?id=228 to DB
+2026-05-05 07:55:39,923 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=233
+2026-05-05 07:55:39,923 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=287
+2026-05-05 07:55:39,924 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=383
+2026-05-05 07:55:41,277 - WARNING - Failed to sync car ev-listing-details.php?id=383 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:41,277 - INFO - Saved car ev-listing-details.php?id=383 to DB
+2026-05-05 07:55:41,287 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=135
+2026-05-05 07:55:41,288 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=138
+2026-05-05 07:55:41,289 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=390
+2026-05-05 07:55:42,513 - WARNING - Failed to sync car ev-listing-details.php?id=390 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:42,513 - INFO - Saved car ev-listing-details.php?id=390 to DB
+2026-05-05 07:55:42,520 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=142
+2026-05-05 07:55:43,743 - WARNING - Failed to sync car ev-listing-details.php?id=142 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:43,744 - INFO - Saved car ev-listing-details.php?id=142 to DB
+2026-05-05 07:55:43,750 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=486
+2026-05-05 07:55:43,751 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=133
+2026-05-05 07:55:43,751 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=315
+2026-05-05 07:55:43,752 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=219
+2026-05-05 07:55:43,753 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=241
+2026-05-05 07:55:44,951 - WARNING - Failed to sync car ev-listing-details.php?id=241 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:44,951 - INFO - Saved car ev-listing-details.php?id=241 to DB
+2026-05-05 07:55:44,957 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=250
+2026-05-05 07:55:44,958 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=375
+2026-05-05 07:55:44,959 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=331
+2026-05-05 07:55:44,959 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=491
+2026-05-05 07:55:46,239 - WARNING - Failed to sync car ev-listing-details.php?id=491 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:46,240 - INFO - Saved car ev-listing-details.php?id=491 to DB
+2026-05-05 07:55:46,250 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=194
+2026-05-05 07:55:46,251 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=363
+2026-05-05 07:55:46,251 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=200
+2026-05-05 07:55:47,477 - WARNING - Failed to sync car ev-listing-details.php?id=200 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:47,477 - INFO - Saved car ev-listing-details.php?id=200 to DB
+2026-05-05 07:55:47,484 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=276
+2026-05-05 07:55:47,484 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=176
+2026-05-05 07:55:48,613 - WARNING - Failed to sync car ev-listing-details.php?id=176 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:48,613 - INFO - Saved car ev-listing-details.php?id=176 to DB
+2026-05-05 07:55:48,621 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=309
+2026-05-05 07:55:48,622 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=391
+2026-05-05 07:55:48,622 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=364
+2026-05-05 07:55:48,623 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=403
+2026-05-05 07:55:48,624 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=385
+2026-05-05 07:55:48,624 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=312
+2026-05-05 07:55:48,625 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=278
+2026-05-05 07:55:49,833 - WARNING - Failed to sync car ev-listing-details.php?id=278 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:49,833 - INFO - Saved car ev-listing-details.php?id=278 to DB
+2026-05-05 07:55:49,841 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=377
+2026-05-05 07:55:49,842 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=336
+2026-05-05 07:55:49,843 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=198
+2026-05-05 07:55:51,117 - WARNING - Failed to sync car ev-listing-details.php?id=198 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:51,117 - INFO - Saved car ev-listing-details.php?id=198 to DB
+2026-05-05 07:55:51,129 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=218
+2026-05-05 07:55:51,130 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=235
+2026-05-05 07:55:51,130 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=215
+2026-05-05 07:55:52,378 - WARNING - Failed to sync car ev-listing-details.php?id=215 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:52,378 - INFO - Saved car ev-listing-details.php?id=215 to DB
+2026-05-05 07:55:52,386 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=295
+2026-05-05 07:55:52,387 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=401
+2026-05-05 07:55:52,387 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=480
+2026-05-05 07:55:52,388 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=372
+2026-05-05 07:55:53,685 - WARNING - Failed to sync car ev-listing-details.php?id=372 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:53,685 - INFO - Saved car ev-listing-details.php?id=372 to DB
+2026-05-05 07:55:53,693 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=360
+2026-05-05 07:55:54,954 - WARNING - Failed to sync car ev-listing-details.php?id=360 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:54,955 - INFO - Saved car ev-listing-details.php?id=360 to DB
+2026-05-05 07:55:54,963 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=242
+2026-05-05 07:55:54,964 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=197
+2026-05-05 07:55:54,965 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=152
+2026-05-05 07:55:54,965 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=277
+2026-05-05 07:55:56,225 - WARNING - Failed to sync car ev-listing-details.php?id=277 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:56,225 - INFO - Saved car ev-listing-details.php?id=277 to DB
+2026-05-05 07:55:56,233 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=140
+2026-05-05 07:55:56,234 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=272
+2026-05-05 07:55:57,479 - WARNING - Failed to sync car ev-listing-details.php?id=272 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:57,480 - INFO - Saved car ev-listing-details.php?id=272 to DB
+2026-05-05 07:55:57,486 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=413
+2026-05-05 07:55:57,486 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=471
+2026-05-05 07:55:58,816 - WARNING - Failed to sync car ev-listing-details.php?id=471 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:55:58,816 - INFO - Saved car ev-listing-details.php?id=471 to DB
+2026-05-05 07:55:58,832 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=343
+2026-05-05 07:55:58,833 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=294
+2026-05-05 07:55:58,834 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=193
+2026-05-05 07:55:58,835 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=174
+2026-05-05 07:56:00,063 - WARNING - Failed to sync car ev-listing-details.php?id=174 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:00,063 - INFO - Saved car ev-listing-details.php?id=174 to DB
+2026-05-05 07:56:00,070 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=159
+2026-05-05 07:56:01,245 - WARNING - Failed to sync car ev-listing-details.php?id=159 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:01,245 - INFO - Saved car ev-listing-details.php?id=159 to DB
+2026-05-05 07:56:01,251 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=275
+2026-05-05 07:56:01,252 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=367
+2026-05-05 07:56:02,643 - WARNING - Failed to sync car ev-listing-details.php?id=367 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:02,643 - INFO - Saved car ev-listing-details.php?id=367 to DB
+2026-05-05 07:56:02,653 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=222
+2026-05-05 07:56:02,654 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=132
+2026-05-05 07:56:02,655 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=371
+2026-05-05 07:56:02,656 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=409
+2026-05-05 07:56:03,937 - WARNING - Failed to sync car ev-listing-details.php?id=409 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:03,937 - INFO - Saved car ev-listing-details.php?id=409 to DB
+2026-05-05 07:56:03,947 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=274
+2026-05-05 07:56:05,223 - WARNING - Failed to sync car ev-listing-details.php?id=274 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:05,223 - INFO - Saved car ev-listing-details.php?id=274 to DB
+2026-05-05 07:56:05,230 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=259
+2026-05-05 07:56:05,231 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=311
+2026-05-05 07:56:06,460 - WARNING - Failed to sync car ev-listing-details.php?id=311 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:06,461 - INFO - Saved car ev-listing-details.php?id=311 to DB
+2026-05-05 07:56:06,468 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=155
+2026-05-05 07:56:07,838 - WARNING - Failed to sync car ev-listing-details.php?id=155 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:07,838 - INFO - Saved car ev-listing-details.php?id=155 to DB
+2026-05-05 07:56:07,846 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=332
+2026-05-05 07:56:09,191 - WARNING - Failed to sync car ev-listing-details.php?id=332 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:09,191 - INFO - Saved car ev-listing-details.php?id=332 to DB
+2026-05-05 07:56:09,202 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=389
+2026-05-05 07:56:09,203 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=190
+2026-05-05 07:56:10,381 - WARNING - Failed to sync car ev-listing-details.php?id=190 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:10,381 - INFO - Saved car ev-listing-details.php?id=190 to DB
+2026-05-05 07:56:10,388 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=407
+2026-05-05 07:56:10,388 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=254
+2026-05-05 07:56:10,389 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=137
+2026-05-05 07:56:10,390 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=273
+2026-05-05 07:56:10,390 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=398
+2026-05-05 07:56:10,391 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=402
+2026-05-05 07:56:10,391 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=384
+2026-05-05 07:56:10,392 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=154
+2026-05-05 07:56:10,393 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=144
+2026-05-05 07:56:10,393 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=341
+2026-05-05 07:56:10,394 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=227
+2026-05-05 07:56:10,395 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=247
+2026-05-05 07:56:10,395 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=330
+2026-05-05 07:56:10,396 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=334
+2026-05-05 07:56:10,396 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=417
+2026-05-05 07:56:10,397 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=380
+2026-05-05 07:56:10,398 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=392
+2026-05-05 07:56:10,398 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=147
+2026-05-05 07:56:10,399 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=357
+2026-05-05 07:56:11,596 - WARNING - Failed to sync car ev-listing-details.php?id=357 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:11,596 - INFO - Saved car ev-listing-details.php?id=357 to DB
+2026-05-05 07:56:11,607 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=149
+2026-05-05 07:56:12,736 - WARNING - Failed to sync car ev-listing-details.php?id=149 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:12,736 - INFO - Saved car ev-listing-details.php?id=149 to DB
+2026-05-05 07:56:12,743 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=245
+2026-05-05 07:56:14,010 - WARNING - Failed to sync car ev-listing-details.php?id=245 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:14,010 - INFO - Saved car ev-listing-details.php?id=245 to DB
+2026-05-05 07:56:14,021 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=381
+2026-05-05 07:56:15,227 - WARNING - Failed to sync car ev-listing-details.php?id=381 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:15,227 - INFO - Saved car ev-listing-details.php?id=381 to DB
+2026-05-05 07:56:15,233 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=234
+2026-05-05 07:56:16,485 - WARNING - Failed to sync car ev-listing-details.php?id=234 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:16,485 - INFO - Saved car ev-listing-details.php?id=234 to DB
+2026-05-05 07:56:16,491 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=396
+2026-05-05 07:56:17,741 - WARNING - Failed to sync car ev-listing-details.php?id=396 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:17,741 - INFO - Saved car ev-listing-details.php?id=396 to DB
+2026-05-05 07:56:17,750 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=284
+2026-05-05 07:56:19,043 - WARNING - Failed to sync car ev-listing-details.php?id=284 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:19,043 - INFO - Saved car ev-listing-details.php?id=284 to DB
+2026-05-05 07:56:19,051 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=370
+2026-05-05 07:56:20,440 - WARNING - Failed to sync car ev-listing-details.php?id=370 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:20,440 - INFO - Saved car ev-listing-details.php?id=370 to DB
+2026-05-05 07:56:20,451 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=186
+2026-05-05 07:56:20,451 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=261
+2026-05-05 07:56:21,674 - WARNING - Failed to sync car ev-listing-details.php?id=261 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:21,674 - INFO - Saved car ev-listing-details.php?id=261 to DB
+2026-05-05 07:56:21,682 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=386
+2026-05-05 07:56:23,118 - WARNING - Failed to sync car ev-listing-details.php?id=386 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:23,119 - INFO - Saved car ev-listing-details.php?id=386 to DB
+2026-05-05 07:56:23,128 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=175
+2026-05-05 07:56:23,129 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=345
+2026-05-05 07:56:23,130 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=148
+2026-05-05 07:56:23,130 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=340
+2026-05-05 07:56:24,501 - WARNING - Failed to sync car ev-listing-details.php?id=340 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:24,501 - INFO - Saved car ev-listing-details.php?id=340 to DB
+2026-05-05 07:56:24,514 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=374
+2026-05-05 07:56:24,514 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=476
+2026-05-05 07:56:24,515 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=157
+2026-05-05 07:56:24,516 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=298
+2026-05-05 07:56:25,946 - WARNING - Failed to sync car ev-listing-details.php?id=298 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:25,946 - INFO - Saved car ev-listing-details.php?id=298 to DB
+2026-05-05 07:56:25,957 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=280
+2026-05-05 07:56:27,081 - WARNING - Failed to sync car ev-listing-details.php?id=280 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:27,081 - INFO - Saved car ev-listing-details.php?id=280 to DB
+2026-05-05 07:56:27,089 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=368
+2026-05-05 07:56:27,090 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=229
+2026-05-05 07:56:27,090 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=490
+2026-05-05 07:56:28,338 - WARNING - Failed to sync car ev-listing-details.php?id=490 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:28,338 - INFO - Saved car ev-listing-details.php?id=490 to DB
+2026-05-05 07:56:28,350 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=151
+2026-05-05 07:56:28,352 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=359
+2026-05-05 07:56:29,574 - WARNING - Failed to sync car ev-listing-details.php?id=359 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:29,574 - INFO - Saved car ev-listing-details.php?id=359 to DB
+2026-05-05 07:56:29,583 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=481
+2026-05-05 07:56:29,584 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=286
+2026-05-05 07:56:29,585 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=333
+2026-05-05 07:56:29,586 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=342
+2026-05-05 07:56:29,586 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=161
+2026-05-05 07:56:30,822 - WARNING - Failed to sync car ev-listing-details.php?id=161 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:30,822 - INFO - Saved car ev-listing-details.php?id=161 to DB
+2026-05-05 07:56:30,828 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=361
+2026-05-05 07:56:32,080 - WARNING - Failed to sync car ev-listing-details.php?id=361 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:32,080 - INFO - Saved car ev-listing-details.php?id=361 to DB
+2026-05-05 07:56:32,091 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=243
+2026-05-05 07:56:33,317 - WARNING - Failed to sync car ev-listing-details.php?id=243 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:33,317 - INFO - Saved car ev-listing-details.php?id=243 to DB
+2026-05-05 07:56:33,323 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=258
+2026-05-05 07:56:33,324 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=289
+2026-05-05 07:56:33,325 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=355
+2026-05-05 07:56:34,512 - WARNING - Failed to sync car ev-listing-details.php?id=355 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:34,512 - INFO - Saved car ev-listing-details.php?id=355 to DB
+2026-05-05 07:56:34,519 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=226
+2026-05-05 07:56:35,728 - WARNING - Failed to sync car ev-listing-details.php?id=226 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:35,728 - INFO - Saved car ev-listing-details.php?id=226 to DB
+2026-05-05 07:56:35,735 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=253
+2026-05-05 07:56:36,958 - WARNING - Failed to sync car ev-listing-details.php?id=253 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:36,958 - INFO - Saved car ev-listing-details.php?id=253 to DB
+2026-05-05 07:56:36,967 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=387
+2026-05-05 07:56:36,968 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=163
+2026-05-05 07:56:36,968 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=203
+2026-05-05 07:56:36,969 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=150
+2026-05-05 07:56:38,326 - WARNING - Failed to sync car ev-listing-details.php?id=150 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:38,326 - INFO - Saved car ev-listing-details.php?id=150 to DB
+2026-05-05 07:56:38,333 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=237
+2026-05-05 07:56:38,334 - INFO - Scraping detail: https://evmarket.cr/listing-details.php?id=279
+2026-05-05 07:56:39,610 - WARNING - Failed to sync car ev-listing-details.php?id=279 to Typesense: [Errno 111] Connection refused
+2026-05-05 07:56:39,610 - INFO - Saved car ev-listing-details.php?id=279 to DB
+2026-05-05 07:56:39,621 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=252
+2026-05-05 07:56:39,621 - INFO - Skipping already processed URL: https://evmarket.cr/listing-details.php?id=236
+2026-05-05 07:56:39,722 - INFO - Run #29 finished with status 'done'
+2026-05-05 07:56:39,723 - INFO - Run #29 [done] finished — Active: 188 (done:188, pending:0, failed:0). Inactive: 0
