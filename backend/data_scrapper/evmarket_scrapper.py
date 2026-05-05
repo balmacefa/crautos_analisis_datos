@@ -56,7 +56,11 @@ class EVMarketScraper:
             try:
                 await page.goto(url, wait_until="domcontentloaded", timeout=60000)
                 # Wait for the listing grid boxes
-                await page.wait_for_selector(".category-grid-box-1", timeout=10000)
+                try:
+                    await page.wait_for_selector(".category-grid-box-1", timeout=10000)
+                except PlaywrightTimeoutError:
+                    logger.info("No category grid box found on page %d. Stopping.", current_page)
+                    break
                 
                 # Extract detail links
                 # Updated selector: .short-description-1 h3 a
@@ -97,20 +101,31 @@ class EVMarketScraper:
             await page.goto(url, wait_until="domcontentloaded", timeout=60000)
             
             # 1. Title (Brand Model Year)
-            title_loc = page.locator(".listing-title h2")
-            await title_loc.wait_for(timeout=10000)
-            title = await title_loc.inner_text()
+            title_loc = page.locator(".heading-zone h1")
+            try:
+                await title_loc.wait_for(timeout=10000)
+                title = await title_loc.inner_text()
+            except PlaywrightTimeoutError:
+                logger.error("Title not found on %s. Page may be broken.", url)
+                return
             
             # 2. Price
-            price_crc_loc = page.locator(".listing-price .price-crc")
-            price_usd_loc = page.locator(".listing-price .price-usd")
+            price_tag = page.locator(".singleprice-tag")
+            price_text = await price_tag.inner_text() if await price_tag.count() > 0 else ""
             
-            price_crc = await price_crc_loc.inner_text() if await price_crc_loc.count() > 0 else "0"
-            price_usd = await price_usd_loc.inner_text() if await price_usd_loc.count() > 0 else "0"
+            price_usd = "0"
+            price_crc = "0"
+            usd_match = re.search(r'\$([\d,]+)', price_text)
+            if usd_match:
+                price_usd = usd_match.group(1).replace(',', '')
+
+            crc_match = re.search(r'₡([\d,]+)', price_text)
+            if crc_match:
+                price_crc = crc_match.group(1).replace(',', '')
             
             # 3. Features / Details
             details = {}
-            list_items = await page.locator(".listing-details li").all()
+            list_items = await page.locator(".short-features .no-padding").all()
             for li in list_items:
                 text = await li.inner_text()
                 if ":" in text:
@@ -118,12 +133,15 @@ class EVMarketScraper:
                     details[key.strip().lower()] = val.strip()
 
             # 4. Images
-            img_locators = await page.locator(".gallery-item img").all()
             images = []
-            for img in img_locators:
-                src = await img.get_attribute("src")
-                if src:
-                    images.append(urljoin(BASE_URL, src))
+            script_loc = page.locator("#evGalleryImages")
+            if await script_loc.count() > 0:
+                script_text = await script_loc.text_content()
+                try:
+                    img_paths = json.loads(script_text)
+                    images = [urljoin(BASE_URL, path) for path in img_paths]
+                except Exception as e:
+                    logger.error("Error parsing gallery JSON on %s: %s", url, e)
 
             # Parse Marca/Modelo/Año from title
             # Example: "BYD Yuan Plus 2024"
@@ -157,7 +175,7 @@ class EVMarketScraper:
             }
 
             if self.repository:
-                self.repository.mark_url_done(url, car_id, structured_data, source="EVMarket")
+                self.repository.mark_url_done(url, car_id, structured_data)
                 logger.info("Saved car %s to DB", car_id)
             else:
                 logger.info("Scraped data: %s", json.dumps(structured_data, indent=2))
