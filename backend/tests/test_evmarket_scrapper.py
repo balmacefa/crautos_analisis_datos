@@ -23,8 +23,7 @@ async def test_evmarket_scraper_parsing():
         return loc
 
     mock_title_loc = create_mock_locator(text="BYD Yuan Plus 2024")
-    mock_price_crc_loc = create_mock_locator(text="₡25,000,000", count=1)
-    mock_price_usd_loc = create_mock_locator(text="$35,000", count=1)
+    mock_price_loc = create_mock_locator(text="$35,000(₡25,000,000)", count=1)
     
     # Mock details list
     mock_li1 = MagicMock()
@@ -35,11 +34,15 @@ async def test_evmarket_scraper_parsing():
     mock_li3.inner_text = AsyncMock(return_value="Ubicación: San José")
     mock_details_loc = create_mock_locator(details=[mock_li1, mock_li2, mock_li3])
     
+    # Mock images
+    mock_images_loc = create_mock_locator(text='["/uploads/1.jpg", "/uploads/2.jpg"]', count=1)
+    mock_images_loc.text_content = AsyncMock(return_value='["/uploads/1.jpg", "/uploads/2.jpg"]')
+
     def mock_locator_side_effect(selector):
-        if ".listing-title h2" in selector: return mock_title_loc
-        if ".price-crc" in selector: return mock_price_crc_loc
-        if ".price-usd" in selector: return mock_price_usd_loc
-        if ".listing-details li" in selector: return mock_details_loc
+        if ".heading-zone h1" in selector: return mock_title_loc
+        if ".singleprice-tag" in selector: return mock_price_loc
+        if ".short-features .no-padding" in selector: return mock_details_loc
+        if "#evGalleryImages" in selector: return mock_images_loc
         return create_mock_locator()
 
     mock_page.locator.side_effect = mock_locator_side_effect
