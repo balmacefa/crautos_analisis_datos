@@ -368,9 +368,10 @@ class ScraperRepository:
                 (car_id, url, json.dumps(data, ensure_ascii=False), now, source, url),
             )
 
-        self._sync_to_typesense(car_id, data, now, url, source)
+        run_id = self.get_active_run_id()
+        self._sync_to_typesense(car_id, data, now, url, source, run_id)
 
-    def _sync_to_typesense(self, car_id: str, data: dict, scraped_at: str, url: str, source: str = None):
+    def _sync_to_typesense(self, car_id: str, data: dict, scraped_at: str, url: str, source: str = None, run_id: int = None):
         """Helper to sync a single car record to Typesense."""
         if not self.ts_client:
             return
@@ -421,6 +422,7 @@ class ScraperRepository:
                 'url': url,
                 'imagen_principal': data.get('imagen_principal', ''),
                 'scraped_at': scraped_at,
+                'sync_version': str(run_id) if run_id is not None else os.getenv("SYNC_VERSION", "1.1.0"),
                 'fuente': source
             }
             self.ts_client.collections['cars'].documents.upsert(document)
