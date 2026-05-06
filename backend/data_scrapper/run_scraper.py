@@ -233,6 +233,34 @@ async def run_purdy(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG00
         return "failed"
 
 
+async def run_quick_validate(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG001
+    """Run all external scrapers with a limit (quick validation)."""
+    from data_scrapper.evmarket_scrapper import EVMarketScraper  # noqa: PLC0415
+    from data_scrapper.corimotors_scrapper import CorimotorsScraper  # noqa: PLC0415
+    from data_scrapper.veinsa_scrapper import VeinsaScraper  # noqa: PLC0415
+    from data_scrapper.purdyusados_scrapper import PurdyUsadosScraper  # noqa: PLC0415
+
+    logger.info("Starting quick validation for all external scrapers...")
+    final_status = "done"
+
+    scrapers = [
+        ("EVMarket", EVMarketScraper(repository=repo, headless=HEADLESS), {"limit_pages": 1}),
+        ("Corimotors", CorimotorsScraper(repository=repo, headless=HEADLESS), {"limit_pages": 1}),
+        ("Veinsa", VeinsaScraper(repository=repo, headless=HEADLESS), {"limit_pages": 1}),
+        ("Purdy", PurdyUsadosScraper(repository=repo, headless=HEADLESS), {"limit_clicks": 1}),
+    ]
+
+    for name, scraper, kwargs in scrapers:
+        logger.info(f"Quick validating {name}...")
+        try:
+            await scraper.run(**kwargs)
+            logger.info(f"{name} validated successfully.")
+        except Exception as exc:
+            logger.error(f"{name} validation failed: %s", exc, exc_info=True)
+            final_status = "failed"
+
+    return final_status
+
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
@@ -245,6 +273,7 @@ COMMANDS = {
     "cori": run_corimotors,
     "veinsa": run_veinsa,
     "purdy": run_purdy,
+    "validate": run_quick_validate,
 }
 
 

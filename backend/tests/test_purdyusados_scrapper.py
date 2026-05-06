@@ -32,10 +32,10 @@ async def test_purdy_scraper_parsing():
     mock_price_loc = create_async_locator(text="$ 25,000", count=1)
     
     # Mock Specs
-    spec1 = MagicMock()
-    spec1.locator.side_effect = lambda s: create_async_locator(text="Kilometraje", count=1) if s == "span" else create_async_locator(text="15,000 km", count=1)
-    spec2 = MagicMock()
-    spec2.locator.side_effect = lambda s: create_async_locator(text="No. Unidad", count=1) if s == "span" else create_async_locator(text="UNIT123", count=1)
+    spec1 = create_async_locator(text="Kilometraje 15,000 km", count=1)
+    spec1.locator.side_effect = lambda s: create_async_locator(text="15,000 km", count=1)
+    spec2 = create_async_locator(text="No. Unidad UNIT123", count=1)
+    spec2.locator.side_effect = lambda s: create_async_locator(text="UNIT123", count=1)
     
     mock_specs_loc = create_async_locator(all_val=[spec1, spec2])
     
@@ -44,13 +44,15 @@ async def test_purdy_scraper_parsing():
     mock_images_loc = create_async_locator(all_val=[mock_img_link])
     
     def mock_locator(selector):
-        if ".v-detail__brand" in selector: return mock_brand_loc
-        if ".v-detail__model" in selector: return mock_model_loc
-        if ".v-detail__year" in selector: return mock_year_loc
-        if ".v-detail__price" in selector: return mock_price_loc
-        if ".v-detail__spec-item" in selector: return mock_specs_loc
-        if "a.js-popup-img" in selector: return mock_images_loc
+        if ".vehicle-brand" in selector: return mock_brand_loc
+        if ".vehicle-model-detai" in selector: return mock_model_loc
+        if ".vehicle-year" in selector: return mock_year_loc
+        if ".card_price" in selector: return mock_price_loc
+        if "ul.info__description li p" in selector: return mock_specs_loc
+        if ".swiper-slide img" in selector: return mock_images_loc
         return create_async_locator()
+
+    mock_price_loc.first = mock_price_loc
 
     mock_page.locator.side_effect = mock_locator
     

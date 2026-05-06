@@ -37,4 +37,9 @@ def get_job_definitions():
             "python -m data_scrapper.run_scraper veinsa",
             cron_schedule_veinsa,
         ),
+        JobModel(
+            "Quick Scrapers Validation",
+            "python -m data_scrapper.run_scraper validate",
+            "", # No cron schedule, execute manually
+        ),
     ]

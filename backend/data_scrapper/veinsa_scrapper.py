@@ -59,32 +59,36 @@ class VeinsaScraper:
                 except:
                     pass
 
-                # Find all car titles (h3 in the results grid)
-                # Note: Veinsa detail links are usually title or image clicks.
-                # Here we try to find the 'h3' which contains the slug and is within an ancestor that might have a link or construct the URL from slug.
-                # Actually, the h3 is often wrapped in or near an <a> or we can extract the text and hope for a predictable slug.
-                # Re-checking research: "h3 title within each card is clickable and leads to /detalle/[slug]-[id]"
-                
-                cards = await page.locator(".grid-cols-1 > div, .grid-cols-2 > div, .grid-cols-3 > div, .grid-cols-4 > div").all()
+                # Clic on each card to get the detail URL, because it relies on JS
+                cards = await page.locator(".categorySlider__item-body").all()
                 found_on_page = 0
                 page_urls = []
                 
-                for card in cards:
-                    # Look for h3 and extract its parent/child link
-                    title_loc = card.locator("h3")
-                    if await title_loc.count() > 0:
-                        # Try to find an <a> tag in or around
-                        link_loc = card.locator("a")
-                        if await link_loc.count() > 0:
-                            # Use the first link found in the card
-                            href = await link_loc.first.get_attribute("href")
-                            # Updated URL pattern: /caracteristica-del-vehiculo/
-                            if href and ("/detalle/" in href or "/caracteristica-del-vehiculo/" in href):
-                                full_url = urljoin(BASE_URL, href)
-                                if full_url not in self.discovered_urls:
-                                    self.discovered_urls.add(full_url)
-                                    page_urls.append(full_url)
-                                    found_on_page += 1
+                for i in range(len(cards)):
+                    # Reload locators as DOM might change when we go back
+                    current_cards = await page.locator(".categorySlider__item-body").all()
+                    if i >= len(current_cards):
+                        break
+                    card = current_cards[i]
+
+                    try:
+                        # Click the card to navigate
+                        await card.click()
+                        await page.wait_for_timeout(2000) # Wait for url to change
+
+                        full_url = page.url
+                        if "/caracteristica-del-vehiculo/" in full_url or "/detalle/" in full_url:
+                            if full_url not in self.discovered_urls:
+                                self.discovered_urls.add(full_url)
+                                page_urls.append(full_url)
+                                found_on_page += 1
+                    except Exception as e:
+                        logger.error(f"Error clicking card {i}: {e}")
+                    finally:
+                        # Go back to the listing
+                        if "/caracteristica-del-vehiculo/" in page.url or "/detalle/" in page.url:
+                            await page.go_back(wait_until="networkidle")
+                            await page.wait_for_timeout(1000)
                 
                 if self.repository and page_urls:
                     self.repository.upsert_urls(page_urls, source="VeinsaUsados")
@@ -116,31 +120,43 @@ class VeinsaScraper:
             await page.goto(url, wait_until="networkidle", timeout=60000)
             
             # Wait for content to stabilize
-            await page.wait_for_selector("h1", timeout=10000)
+            # Use state='attached' instead of 'visible' just in case h1 is hidden initially
+            await page.locator("h1").first.wait_for(state="attached", timeout=10000)
 
             # 1. Title & IDs
-            title = (await page.locator("h1").inner_text()).strip()
+            title = (await page.locator("h1").first.inner_text()).strip()
             
             # 2. Extract price
-            # Usually in a prominent font or labeled.
+            # Usually an h2 with $ or a div with "Total$"
             price_str = "0"
-            price_loc = page.locator("p:has-text('$'), span:has-text('$')").first
-            if await price_loc.count() > 0:
-                price_str = await price_loc.inner_text()
+            h2_locators = await page.locator("h2").all()
+            for h2 in h2_locators:
+                text = await h2.inner_text()
+                if text and "$" in text:
+                    price_str = text.strip()
+                    break
+
+            if price_str == "0":
+                price_loc = page.locator("div:has-text('Total$')").first
+                if await price_loc.count() > 0:
+                    text = await price_loc.inner_text()
+                    match = re.search(r'\$\s*[\d,]+', text)
+                    if match:
+                        price_str = match.group(0)
 
             # 3. Attributes (Kilometraje, Transmision, etc)
             details = {}
-            # Sites like this often use a list of <label> : <span> or similar
-            # Based on research, values are "under labels"
-            specs = await page.locator("div:has(> p)").all() # Heuristic for detail blocks
-            for spec in specs:
-                text = await spec.inner_text()
-                if "\n" in text:
-                    lines = [l.strip() for l in text.split("\n") if l.strip()]
-                    if len(lines) >= 2:
-                        key = lines[0].lower()
-                        val = lines[1]
-                        details[key] = val
+            # Technical specs are usually h2 with the value, and parent contains the key
+            for h2 in h2_locators:
+                val = (await h2.inner_text()).strip()
+                if val and not "$" in val:
+                    # Evaluate parent text in page
+                    parent_text = await h2.evaluate("node => node.parentElement ? node.parentElement.innerText : ''")
+                    if parent_text:
+                        # Extract the key by removing the value from the parent text
+                        key = parent_text.replace(val, "").strip().lower()
+                        if key:
+                            details[key] = val
 
             # 4. Images
             images = []

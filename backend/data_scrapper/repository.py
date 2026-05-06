@@ -319,6 +319,13 @@ class ScraperRepository:
             )
             return cur.rowcount
 
+    def has_urls(self) -> bool:
+        """Return True if there is at least one URL in the database."""
+        with self._conn() as conn:
+            cur = conn.cursor()
+            cur.execute("SELECT 1 FROM car_urls LIMIT 1")
+            return cur.fetchone() is not None
+
     def get_pending_urls(self, limit: int = 500) -> list[str]:
         """Return up to *limit* active, pending URLs. These are the next ones to scrape (resume-safe)."""
         with self._conn() as conn:

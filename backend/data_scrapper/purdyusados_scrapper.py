@@ -63,7 +63,7 @@ class PurdyUsadosScraper:
                     logger.info("Clicking 'VER MÁS' (click #%d)", clicks + 1)
                     await load_more_btn.scroll_into_view_if_needed()
                     await load_more_btn.click()
-                    await asyncio.sleep(2) # Wait for content to load
+                    await asyncio.sleep(4) # Wait for content to load
                     clicks += 1
                     if limit_clicks and clicks >= limit_clicks:
                         logger.info("Reached limit of clicks (%d). Stopping.", limit_clicks)
@@ -96,47 +96,45 @@ class PurdyUsadosScraper:
             await page.goto(url, wait_until="networkidle", timeout=60000)
             
             # Wait for content
-            await page.wait_for_selector(".v-detail__brand", timeout=10000)
+            await page.wait_for_selector(".vehicle-brand", timeout=10000)
             
             # 1. Brand, Model, Year
-            marca = (await page.locator(".v-detail__brand").inner_text()).strip()
-            model_text = (await page.locator(".v-detail__model").inner_text()).strip()
-            year_text = (await page.locator(".v-detail__year").inner_text()).strip()
+            marca_loc = page.locator(".vehicle-brand")
+            marca = (await marca_loc.inner_text()).strip() if await marca_loc.count() > 0 else "Desconocida"
+
+            model_loc = page.locator(".vehicle-model-detai")
+            model_text = (await model_loc.inner_text()).strip() if await model_loc.count() > 0 else "Desconocido"
+
+            year_loc = page.locator(".vehicle-year")
+            year_text = (await year_loc.inner_text()).strip() if await year_loc.count() > 0 else "0"
             
             # 2. Price
-            price_text = (await page.locator(".v-detail__price").inner_text()).strip()
+            price_loc = page.locator(".card_price").first
+            price_text = (await price_loc.inner_text()).strip() if await price_loc.count() > 0 else "0"
             
             # 3. Specs
             details = {}
-            spec_items = await page.locator(".v-detail__spec-item").all()
+            spec_items = await page.locator("ul.info__description li p").all()
             for item in spec_items:
-                # Structure: div contains span(label) and p(value) or similar
-                label_loc = item.locator("span")
-                value_loc = item.locator("p")
-                if await label_loc.count() > 0 and await value_loc.count() > 0:
-                    label = (await label_loc.inner_text()).strip().lower()
-                    value = (await value_loc.inner_text()).strip()
-                    details[label] = value
+                text = await item.inner_text()
+                # Text usually looks like "Kilometraje 107,044" with "107,044" in a span
+                span_loc = item.locator("span")
+                if await span_loc.count() > 0:
+                    val = (await span_loc.inner_text()).strip()
+                    key = text.replace(val, "").strip().lower()
+                    details[key] = val
 
             # 4. Images
-            # We might need to click the "FOTOS" tab if images are not in DOM
-            # But usually thumbnails or a popup gallery links are present.
-            # Let's try to find a.js-popup-img
+            # Try to get them from the modal or hero images
             images = []
-            img_locators = await page.locator("a.js-popup-img").all()
+            img_locators = await page.locator(".swiper-slide img").all()
             for img in img_locators:
-                href = await img.get_attribute("href")
-                if href:
-                    images.append(urljoin(BASE_URL, href))
+                src = await img.get_attribute("src")
+                if src and src.startswith("http"):
+                    images.append(src)
+                elif src:
+                    images.append(urljoin(BASE_URL, src))
             
-            # Fallback if no images found via link (check for img tags in a specific container)
-            if not images:
-                img_tags = await page.locator(".v-detail__gallery img").all()
-                for img in img_tags:
-                    src = await img.get_attribute("src")
-                    if src:
-                        images.append(urljoin(BASE_URL, src))
-
             # Parse Year from text if not just a number
             year = 0
             if year_text.isdigit():
