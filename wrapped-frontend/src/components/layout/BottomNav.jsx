@@ -3,7 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Home, Compass, Search, LayoutDashboard } from 'lucide-react';
+import { Home, Compass, Search, LayoutDashboard, Calculator } from 'lucide-react';
 import { useTheme } from '@/context/ThemeContext';
 import { cn } from '@/lib/utils';
 
@@ -33,6 +33,7 @@ export const BottomNav = () => {
     if (pathname === '/tour') return 'Tour';
     if (pathname === '/search') return 'Explorer';
     if (pathname === '/insights') return 'Insights';
+    if (pathname === '/math') return 'Aprender';
     if (pathname === '/') return 'Inicio';
     return '';
   };
@@ -70,6 +71,12 @@ export const BottomNav = () => {
         label="Insights" 
         active={activeTab === 'Insights'} 
         href="/insights"
+      />
+      <NavItem
+        icon={Calculator}
+        label="Aprender"
+        active={activeTab === 'Aprender'}
+        href="/math"
       />
     </nav>
   );
