@@ -44,6 +44,9 @@ async def test_veinsa_scraper_parsing():
             return create_async_locator(all_val=[spec3_h2, spec1_h2, spec2_h2])
         return create_async_locator()
 
+    mock_title_loc.first = mock_title_loc
+    mock_price_loc.first = mock_price_loc
+
     mock_page.locator.side_effect = mock_locator
     
     scraper = VeinsaScraper(repository=None)
