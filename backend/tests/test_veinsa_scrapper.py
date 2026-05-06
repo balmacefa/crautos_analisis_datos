@@ -29,16 +29,19 @@ async def test_veinsa_scraper_parsing():
     # Mock Price
     mock_price_loc = create_async_locator(text="$ 7,900", count=1)
     
-    # Mock Specs (div:has(> p))
-    spec1 = create_async_locator(text="Kilometraje\n54,000 km", count=1)
-    spec2 = create_async_locator(text="Combustible\nGasolina", count=1)
+    # Mock Specs using h2 logic
+    spec1_h2 = create_async_locator(text="54,000 km", count=1)
+    spec1_h2.evaluate = AsyncMock(return_value="Kilometraje54,000 km")
+
+    spec2_h2 = create_async_locator(text="Gasolina", count=1)
+    spec2_h2.evaluate = AsyncMock(return_value="CombustibleGasolina")
+
+    spec3_h2 = create_async_locator(text="$ 7,900", count=1)
     
     def mock_locator(selector):
         if "h1" in selector: return mock_title_loc
-        if "has-text('$')" in selector: return mock_price_loc
-        if "div:has(> p)" in selector:
-            m = create_async_locator(all_val=[spec1, spec2])
-            return m
+        if "h2" in selector:
+            return create_async_locator(all_val=[spec3_h2, spec1_h2, spec2_h2])
         return create_async_locator()
 
     mock_page.locator.side_effect = mock_locator
@@ -67,30 +70,22 @@ async def test_veinsa_url_discovery():
     mock_page = MagicMock()
     mock_page.goto = AsyncMock()
     mock_page.wait_for_selector = AsyncMock()
+    mock_page.wait_for_timeout = AsyncMock()
+    mock_page.go_back = AsyncMock()
     mock_page.close = AsyncMock()
     
+    # We need the page url to change after click
+    mock_page.url = "https://veinsausados.com/detalle/test-car-678"
+
     # Mock Card for discovery
     mock_card = MagicMock()
-    mock_link = create_async_locator(attr="/detalle/test-car-678", count=1)
-    
-    # Mock locators for the card
-    mock_h3 = create_async_locator(count=1)
-    mock_a_loc = MagicMock()
-    mock_a_loc.count = AsyncMock(return_value=1)
-    mock_a_loc.first = mock_link
-    
-    def card_locator_side_effect(selector):
-        if selector == "h3": return mock_h3
-        if selector == "a": return mock_a_loc
-        return create_async_locator()
-    
-    mock_card.locator.side_effect = card_locator_side_effect
-    
+    mock_card.click = AsyncMock()
+
     # Grid locator
     mock_grid_loc = create_async_locator(all_val=[mock_card])
-    
+
     def mock_locator(selector):
-        if "grid-cols" in selector: return mock_grid_loc
+        if ".categorySlider__item-body" in selector: return mock_grid_loc
         return create_async_locator(count=0) # next button etc
         
     mock_page.locator.side_effect = mock_locator

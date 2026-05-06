@@ -93,14 +93,15 @@ class CorimotorsScraper:
             await page.goto(url, wait_until="domcontentloaded", timeout=60 * 1000)
 
             # 1. Title (Brand Model Year)
-            # Usually: <h1 class="product-item-detail-title">...</h1>
-            title_loc = page.locator("h1.product-item-detail-title")
-            await title_loc.wait_for(timeout=10000)
+            # Usually: <h1 class="mb-3">...</h1>
+            title_loc = page.locator("h1.mb-3, h1.product-item-detail-title")
+            await title_loc.first.wait_for(timeout=10000)
+            title_loc = title_loc.first
             title = (await title_loc.inner_text()).strip()
 
             # 2. Price
             # Usually: <div class="product-item-detail-price-current">...</div>
-            price_loc = page.locator(".product-item-detail-price-current")
+            price_loc = page.locator(".product-item-detail-price-current").first
             price_str = await price_loc.inner_text() if await price_loc.count() > 0 else "0"
 
             # 3. Properties (Spec Sheet)

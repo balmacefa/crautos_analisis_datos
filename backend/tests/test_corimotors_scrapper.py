@@ -36,10 +36,14 @@ async def test_corimotors_scraper_parsing():
     mock_props_container.locator.return_value.all = AsyncMock(return_value=[prop1])
 
     def mock_locator(selector):
-        if "h1.product-item-detail-title" in selector: return mock_title_loc
+        if "h1.mb-3, h1.product-item-detail-title" in selector: return mock_title_loc
         if ".product-item-detail-price-current" in selector: return mock_price_loc
         if ".product-item-detail-properties" in selector: return mock_props_container
         return create_async_locator()
+
+    # Need to handle .first on title and price
+    mock_title_loc.first = mock_title_loc
+    mock_price_loc.first = mock_price_loc
 
     mock_page.locator.side_effect = mock_locator
     
