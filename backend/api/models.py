@@ -206,3 +206,6 @@ class VerdictResponse(BaseModel):
     verdict_text: str
     is_good_option: bool
     market_share_percent: float
+
+class BackupRequest(BaseModel):
+    webhook_url: str
