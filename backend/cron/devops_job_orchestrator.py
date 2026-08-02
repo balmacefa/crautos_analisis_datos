@@ -20,6 +20,7 @@ MAJOR COMPONENTS:
     3. Scheduler Loop: Minute-boundary cron trigger detection
     4. Job Runner: PTY-based subprocess execution with async stdin/stdout handling
     5. Dash UI: Bootstrap-styled web interface with DataTable, logs, and controls
+    6. REST API: /api/jobs endpoints for curl/automation (same Basic Auth as the UI)
 
 INPUTS/OUTPUTS:
     Inputs:
@@ -1505,6 +1506,82 @@ def health_check():
             },
         }
         return error_response, 503, {"Content-Type": "application/json"}
+
+
+# ===================== REST API (curl-friendly automation) =====================
+#
+# Same auth as the rest of the dashboard (HTTP Basic Auth via before_request).
+# Job names may contain spaces, so identifiers also match case-insensitively
+# with '-'/'_' standing in for spaces (e.g. "crautos-data-scraper").
+#
+# Examples:
+#   curl -u admin:admin https://host/api/jobs
+#   curl -u admin:admin -X POST https://host/api/jobs/crautos-data-scraper/run
+#   curl -u admin:admin -X POST https://host/api/jobs/crautos-data-scraper/stop
+#   curl -u admin:admin "https://host/api/jobs/crautos-data-scraper/logs?tail=50"
+#   curl -u admin:admin -X POST https://host/api/jobs/crautos-data-scraper/input \
+#        -H 'Content-Type: application/json' -d '{"text": "y"}'
+
+
+def find_job(identifier: str) -> JobModel | None:
+    """Look up a job by exact name, or case-insensitively with '-'/'_' as spaces."""
+    if identifier in controller.jobs:
+        return controller.jobs[identifier]
+    normalized = identifier.strip().lower().replace("-", " ").replace("_", " ")
+    for job in controller.jobs.values():
+        if job.name.lower() == normalized:
+            return job
+    return None
+
+
+@server.route("/api/jobs", methods=["GET"])
+def api_list_jobs():
+    """List all jobs with their current status."""
+    return {"jobs": job_rows()}, 200, {"Content-Type": "application/json"}
+
+
+@server.route("/api/jobs/<identifier>/run", methods=["POST"])
+def api_run_job(identifier):
+    """Start a job by name (idempotent - no-op if already running)."""
+    job = find_job(identifier)
+    if not job:
+        return {"error": f"Job '{identifier}' not found"}, 404
+    controller.start_job(job.name)
+    return {"status": "started", "job": job.name}, 200
+
+
+@server.route("/api/jobs/<identifier>/stop", methods=["POST"])
+def api_stop_job(identifier):
+    """Stop a running job by name."""
+    job = find_job(identifier)
+    if not job:
+        return {"error": f"Job '{identifier}' not found"}, 404
+    controller.stop_job(job.name)
+    return {"status": "stopped", "job": job.name}, 200
+
+
+@server.route("/api/jobs/<identifier>/logs", methods=["GET"])
+def api_job_logs(identifier):
+    """Get the tail of a job's logs. Query param 'tail' controls line count (default 200)."""
+    job = find_job(identifier)
+    if not job:
+        return {"error": f"Job '{identifier}' not found"}, 404
+    tail = request.args.get("tail", default=200, type=int) or 200
+    return {"job": job.name, "status": job.status, "logs": job.logs[-tail:]}, 200
+
+
+@server.route("/api/jobs/<identifier>/input", methods=["POST"])
+def api_send_input(identifier):
+    """Send a line of stdin to a running interactive job. Body: {"text": "..."}."""
+    job = find_job(identifier)
+    if not job:
+        return {"error": f"Job '{identifier}' not found"}, 404
+    data = request.get_json(silent=True) or {}
+    text = data.get("text", "")
+    sent = controller.send_input(job.name, text)
+    if not sent:
+        return {"status": "not_running", "job": job.name}, 409
+    return {"status": "sent", "job": job.name}, 200
 
 
 # ===================== LOGOUT ROUTE =====================
