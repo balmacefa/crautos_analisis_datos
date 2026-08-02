@@ -1,13 +1,14 @@
 "use client"
 import React from 'react';
 import Link from 'next/link';
-import { 
-  Search, 
-  Compass, 
-  BarChart3, 
+import {
+  Search,
+  Compass,
+  BarChart3,
   ChevronRight,
   Sparkles,
-  Calculator
+  Calculator,
+  Globe2
 } from 'lucide-react';
 import { useTheme } from '@/context/ThemeContext';
 import { Button } from '@/components/ui/Button';
@@ -152,6 +153,42 @@ export default function App() {
 
               <Button variant="primary" className="w-full mt-2 bg-indigo-500 hover:bg-indigo-600 text-white">
                 APRENDER <ChevronRight size={16} className="ml-1 group-hover:translate-x-1 transition-transform" />
+              </Button>
+            </div>
+          </Card>
+        </Link>
+        {/* Card 4: Mercados (open-data pivot hub) */}
+        <Link href="/mercados" className="block focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded-[2.5rem]">
+          <Card
+            delay={0.4}
+            variant={theme === 'dark' ? 'glass' : 'white'}
+            className="group cursor-pointer border border-emerald-500/20 hover:border-emerald-500/50 transition-colors"
+          >
+            <div className="absolute top-0 right-0 w-2/3 h-full overflow-hidden pointer-events-none opacity-40">
+              <div className="absolute top-0 right-0 w-full h-full transform translate-x-1/4 skew-x-12 bg-gradient-to-r from-emerald-500/20 to-cyan-500/20 blur-2xl flex items-center">
+                <div className="absolute inset-0 opacity-30 mix-blend-screen object-cover object-center scale-150 rounded-full bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-emerald-500 via-transparent to-transparent" />
+              </div>
+            </div>
+
+            <div className="relative z-10 space-y-4">
+              <div className="flex items-center gap-3">
+                <div className={theme === 'dark' ? 'bg-emerald-500/10 text-emerald-400 p-2 rounded-lg' : 'bg-emerald-50 text-emerald-600 p-2 rounded-lg'}>
+                  <Globe2 size={24} />
+                </div>
+                <h2 className="text-xl font-bold font-display">Mercados Abiertos</h2>
+              </div>
+
+              <div className="flex flex-wrap gap-2">
+                <Badge variant="emerald">Autos</Badge>
+                <Badge variant="amber">EPA (piloto)</Badge>
+              </div>
+
+              <p className="text-sm leading-relaxed text-slate-400 group-hover:text-slate-300">
+                Más allá de los autos: datos abiertos de cualquier producto vendido en sitios web de <span className="font-semibold text-emerald-400">Costa Rica</span>.
+              </p>
+
+              <Button variant="emerald" className="w-full mt-2">
+                VER FUENTES <ChevronRight size={16} className="ml-1 group-hover:translate-x-1 transition-transform" />
               </Button>
             </div>
           </Card>
