@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1
 # Use Node.js for building
 FROM node:20-alpine AS builder
 
@@ -5,13 +6,14 @@ WORKDIR /app
 
 # Install dependencies first (for better caching)
 COPY package*.json ./
-RUN npm install
+RUN --mount=type=cache,target=/root/.npm npm ci
 
 # Copy the rest of the application
 COPY . .
 
 # Build the Next.js app
-RUN npm run build
+# Cache Next.js' own incremental build cache across builds (webpack/SWC cache)
+RUN --mount=type=cache,target=/app/.next/cache npm run build
 
 # Production stage
 FROM node:20-alpine AS runner

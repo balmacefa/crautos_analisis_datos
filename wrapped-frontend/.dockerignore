@@ -6,3 +6,6 @@ build
 .vscode
 *.log
 .DS_Store
+test-results
+playwright-report
+coverage

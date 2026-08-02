@@ -1,10 +1,11 @@
+# syntax=docker/dockerfile:1
 # Stage 1: Dependencies
 FROM node:20-alpine AS deps
 RUN apk add --no-cache libc6-compat
 WORKDIR /app
 
 COPY package.json package-lock.json* ./
-RUN npm ci
+RUN --mount=type=cache,target=/root/.npm npm ci
 
 # Stage 2: Builder
 FROM node:20-alpine AS builder
@@ -16,7 +17,8 @@ COPY . .
 ENV NEXT_TELEMETRY_DISABLED 1
 ENV NODE_ENV production
 
-RUN npm run build
+# Cache Next.js' own incremental build cache across builds (webpack/SWC cache)
+RUN --mount=type=cache,target=/app/.next/cache npm run build
 
 # Stage 3: Test
 # We use a temporary stage to run tests. If they fail, the build fails.

@@ -18,3 +18,5 @@ coverage.xml
 *.db
 *.sqlite
 data/
+migration_data/
+*.log

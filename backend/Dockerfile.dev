@@ -1,10 +1,13 @@
+# syntax=docker/dockerfile:1
 # Dev Dockerfile — crautos backend scraper
 # Uses Python 3.12 slim + Playwright with headless Chromium
 
 FROM python:3.12-slim
 
 # System-level dependencies required by Playwright/Chromium
-RUN apt-get update && apt-get install -y --no-install-recommends \
+RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
+    --mount=type=cache,target=/var/lib/apt/lists,sharing=locked \
+    apt-get update && apt-get install -y --no-install-recommends \
     wget \
     ca-certificates \
     fonts-liberation \
@@ -40,17 +43,21 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libxtst6 \
     lsb-release \
     xdg-utils \
-    && rm -rf /var/lib/apt/lists/*
+    curl
 
 WORKDIR /app
-RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
 
 # Install Python dependencies first (layer cache friendly)
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN --mount=type=cache,target=/root/.cache/pip \
+    pip install -r requirements.txt
 
 # Install Playwright browsers (Chromium only for speed)
-RUN playwright install --with-deps chromium
+# Note: browsers must land in the image layer (not a cache mount), since a
+# BuildKit cache mount's contents are excluded from the final image.
+RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
+    --mount=type=cache,target=/var/lib/apt/lists,sharing=locked \
+    playwright install --with-deps chromium
 
 # Copy source code
 COPY . .
