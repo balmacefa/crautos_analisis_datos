@@ -84,7 +84,7 @@ describe('BrandModelTree', () => {
     fireEvent.click(toyotaRow);
 
     // Since it's selected, it should have the CheckSquare (represented by cyan text)
-    expect(screen.getByText('Toyota')).toHaveClass('text-cyan-400');
-    expect(screen.getByText('Corolla').parentElement).toHaveClass('bg-white/10 text-cyan-400');
+    expect(screen.getByText('Toyota')).toHaveClass('dark:text-cyan-400');
+    expect(screen.getByText('Corolla').parentElement).toHaveClass('dark:bg-white/10', 'dark:text-cyan-400');
   });
 });

@@ -1,5 +1,8 @@
+"use client";
+
 import React from 'react';
 import { cn } from '@/lib/utils';
+import { useTheme } from '@/context/ThemeContext';
 import { Card } from '@/components/ui/Card';
 import { Select } from '@/components/ui/Select';
 import { BrandModelTree } from '@/components/BrandModelTree';
@@ -15,10 +18,12 @@ export function SearchSidebar({
   provinces,
   fuels
 }) {
+  const { theme } = useTheme();
+
   return (
     <div className="space-y-8">
-      <Card className="p-6 space-y-6" hover={false}>
-        <h3 className="text-sm font-black uppercase tracking-widest flex items-center gap-2">
+      <Card variant={theme === 'dark' ? 'glass' : 'white'} className="p-6 space-y-6" hover={false}>
+        <h3 className="text-sm font-black uppercase tracking-widest flex items-center gap-2 text-slate-900 dark:text-white">
           <TrendingUp size={16} className="text-cyan-400" />
           Parámetros
         </h3>
@@ -27,13 +32,13 @@ export function SearchSidebar({
           {/* Brand/Model Selection */}
           <div className="space-y-3">
             <div className="flex justify-between items-center">
-              <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Vehículo</label>
-              <div className="flex bg-white/5 rounded-lg p-0.5 border border-white/10">
+              <label className="text-[10px] font-black text-slate-400 dark:text-white/40 uppercase tracking-widest">Vehículo</label>
+              <div className="flex bg-slate-100 dark:bg-white/5 rounded-lg p-0.5 border border-slate-200 dark:border-white/10">
                 <button
                   onClick={() => setViewMode('list')}
                   className={cn(
                     "p-1.5 rounded-md transition-all",
-                    viewMode === 'list' ? "bg-cyan-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                    viewMode === 'list' ? "bg-cyan-600 text-white shadow-lg" : "text-slate-400 dark:text-white/40 hover:text-slate-900 dark:hover:text-white"
                   )}
                 >
                   <Grid size={12} />
@@ -42,7 +47,7 @@ export function SearchSidebar({
                   onClick={() => setViewMode('tree')}
                   className={cn(
                     "p-1.5 rounded-md transition-all",
-                    viewMode === 'tree' ? "bg-cyan-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                    viewMode === 'tree' ? "bg-cyan-600 text-white shadow-lg" : "text-slate-400 dark:text-white/40 hover:text-slate-900 dark:hover:text-white"
                   )}
                 >
                   <ListIcon size={12} />
@@ -66,7 +71,7 @@ export function SearchSidebar({
                       "text-[10px] p-2 rounded-xl border transition-all text-left font-bold truncate",
                       filters.brands?.split(',').includes(b.value)
                         ? "bg-cyan-600 border-cyan-400 text-white"
-                        : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
+                        : "bg-slate-50 dark:bg-white/5 border-slate-200 dark:border-white/10 text-slate-400 dark:text-white/40 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/10"
                     )}
                   >
                     {b.value}
@@ -99,15 +104,15 @@ export function SearchSidebar({
           {/* Price Range */}
           <div className="space-y-3">
             <div className="flex justify-between items-center">
-              <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">
+              <label className="text-[10px] font-black text-slate-400 dark:text-white/40 uppercase tracking-widest">
                 Rango de Precio ({filters.price_currency})
               </label>
-              <div className="flex bg-white/5 rounded-lg p-0.5 border border-white/10">
+              <div className="flex bg-slate-100 dark:bg-white/5 rounded-lg p-0.5 border border-slate-200 dark:border-white/10">
                 <button
                   onClick={() => setFilters(p => ({...p, price_currency: 'CRC', price_min: "", price_max: ""}))}
                   className={cn(
                     "text-[9px] font-bold px-2 py-1 rounded-md transition-all",
-                    filters.price_currency === 'CRC' ? "bg-emerald-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                    filters.price_currency === 'CRC' ? "bg-emerald-600 text-white shadow-lg" : "text-slate-400 dark:text-white/40 hover:text-slate-900 dark:hover:text-white"
                   )}
                 >
                   CRC
@@ -116,7 +121,7 @@ export function SearchSidebar({
                   onClick={() => setFilters(p => ({...p, price_currency: 'USD', price_min: "", price_max: ""}))}
                   className={cn(
                     "text-[9px] font-bold px-2 py-1 rounded-md transition-all",
-                    filters.price_currency === 'USD' ? "bg-emerald-600 text-white shadow-lg" : "text-white/40 hover:text-white"
+                    filters.price_currency === 'USD' ? "bg-emerald-600 text-white shadow-lg" : "text-slate-400 dark:text-white/40 hover:text-slate-900 dark:hover:text-white"
                   )}
                 >
                   USD
@@ -183,7 +188,7 @@ export function SearchSidebar({
 
           {/* Years Range */}
           <div className="space-y-3">
-            <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Años</label>
+            <label className="text-[10px] font-black text-slate-400 dark:text-white/40 uppercase tracking-widest">Años</label>
             <Select
               value={filters.year_min === filters.year_max && filters.year_min ? filters.year_min : ""}
               onChange={e => {
@@ -208,7 +213,7 @@ export function SearchSidebar({
 
           {/* Provinces */}
           <div className="space-y-3">
-            <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Provincia</label>
+            <label className="text-[10px] font-black text-slate-400 dark:text-white/40 uppercase tracking-widest">Provincia</label>
             <Select value={filters.provincias} onChange={e => setFilters(p => ({...p, provinces: e.target.value}))} className="h-10">
               <option value="">Todas las provincias</option>
               {provinces.map(p => (
@@ -219,7 +224,7 @@ export function SearchSidebar({
 
           {/* Fuel Types */}
           <div className="space-y-3">
-            <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Combustible</label>
+            <label className="text-[10px] font-black text-slate-400 dark:text-white/40 uppercase tracking-widest">Combustible</label>
             <div className="flex flex-wrap gap-2">
               {fuels.map((f) => (
                 <button
@@ -229,7 +234,7 @@ export function SearchSidebar({
                     "px-3 py-1.5 rounded-lg text-[10px] font-bold uppercase transition-all border",
                     filters.fuels === f.combustible
                       ? "bg-cyan-600 border-cyan-400 text-white"
-                      : "bg-white/5 border-white/5 text-white/40 hover:text-white",
+                      : "bg-slate-50 dark:bg-white/5 border-slate-200 dark:border-white/5 text-slate-400 dark:text-white/40 hover:text-slate-900 dark:hover:text-white",
                   )}
                 >
                   {f.combustible}
@@ -240,7 +245,7 @@ export function SearchSidebar({
 
           {/* Sort By */}
           <div className="space-y-3">
-            <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Ordenar por</label>
+            <label className="text-[10px] font-black text-slate-400 dark:text-white/40 uppercase tracking-widest">Ordenar por</label>
             <Select value={filters.sort_by} onChange={e => setFilters(p => ({...p, sort_by: e.target.value}))} className="h-10">
               <option value="año:desc">Más Recientes</option>
               <option value="precio_usd:asc">Menor Precio</option>
@@ -251,7 +256,7 @@ export function SearchSidebar({
 
           {/* Data Sources */}
           <div className="space-y-3">
-            <label className="text-[10px] font-black text-white/40 uppercase tracking-widest">Fuente de Datos</label>
+            <label className="text-[10px] font-black text-slate-400 dark:text-white/40 uppercase tracking-widest">Fuente de Datos</label>
             <div className="grid grid-cols-2 gap-2">
               {(facets.fuente || []).map(f => (
                 <button
@@ -267,7 +272,7 @@ export function SearchSidebar({
                     "text-[10px] p-2 rounded-xl border transition-all text-left font-bold truncate flex justify-between items-center",
                     filters.fuentes?.split(',').includes(f.value)
                       ? "bg-cyan-600 border-cyan-400 text-white"
-                      : "bg-white/5 border-white/10 text-white/40 hover:text-white hover:bg-white/10"
+                      : "bg-slate-50 dark:bg-white/5 border-slate-200 dark:border-white/10 text-slate-400 dark:text-white/40 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-white/10"
                   )}
                 >
                   <span>{f.value}</span>
@@ -283,7 +288,7 @@ export function SearchSidebar({
          <div className="flex items-center gap-2 text-cyan-400 font-black text-[10px] uppercase tracking-widest">
             <ShieldCheck size={14} /> Sugerencia IA
          </div>
-         <p className="text-xs text-white/60 leading-relaxed italic mt-4">
+         <p className="text-xs text-slate-600 dark:text-white/60 leading-relaxed italic mt-4">
            "Recuerda que los autos con menos de 80,000km suelen tener mejor valor de reventa en Costa Rica."
          </p>
       </Card>

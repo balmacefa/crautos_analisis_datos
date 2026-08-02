@@ -1,10 +1,9 @@
 "use client";
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { 
-  Search as SearchIcon, 
-  ArrowLeft, 
-  Filter, 
+import {
+  Search as SearchIcon,
+  Filter,
   Car, 
   TrendingUp, 
   MapPin, 
@@ -24,7 +23,6 @@ import {
   List as ListIcon,
   Menu
 } from 'lucide-react';
-import Link from 'next/link';
 import useSWR from 'swr';
 import { useTheme } from '@/context/ThemeContext';
 import { cn } from '@/lib/utils';
@@ -35,6 +33,7 @@ import { Card } from '@/components/ui/Card';
 import { Input } from '@/components/ui/Input';
 import { Select } from '@/components/ui/Select';
 import { Background } from '@/components/layout/Background';
+import { PageHeader } from '@/components/layout/PageHeader';
 import { BrandModelTree } from '@/components/BrandModelTree';
 import { SearchSidebar } from '@/components/SearchSidebar';
 
@@ -165,46 +164,38 @@ export default function SearchExplorer() {
     <main className="min-h-screen w-full relative pb-20">
       <Background />
 
-      {/* Header */}
-      <header className="sticky top-0 z-40 glass border-b border-white/10 px-4 md:px-8 py-4 backdrop-blur-xl transition-all">
-        <div className="max-w-7xl mx-auto flex flex-col gap-4">
-          <div className="flex items-center justify-between w-full">
-            <div className="flex items-center gap-4">
-              <Link href="/" className="p-2 hover:bg-white/5 rounded-full transition-colors">
-                <ArrowLeft size={24} />
-              </Link>
-              <div>
-                <h2 className="text-xl font-black italic tracking-tighter leading-none">Crautos <span className="text-cyan-400">Search</span></h2>
-                <p className="text-[10px] text-white/40 uppercase font-black tracking-widest mt-1">Market Explorer v2</p>
-              </div>
-            </div>
-
-            <button
-              className="md:hidden p-2 hover:bg-white/5 rounded-lg transition-colors text-white/60"
-              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            >
-              {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-            </button>
-          </div>
-
+      <PageHeader
+        title="Crautos "
+        accent="Search"
+        subtitle="Market Explorer v2"
+        actions={
+          <button
+            className="md:hidden p-2 hover:bg-slate-100 dark:hover:bg-white/5 rounded-lg transition-colors text-slate-500 dark:text-white/60"
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+          >
+            {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+          </button>
+        }
+      >
+        <div className="max-w-[1400px] mx-auto px-4 md:px-6 pb-4">
           {/* Search & Actions Container - Hidden on mobile unless menu is open */}
           <div className={cn(
             "flex-col md:flex-row gap-4 w-full md:w-auto items-center md:flex justify-end",
             isMobileMenuOpen ? "flex" : "hidden"
           )}>
             <div className="relative w-full md:max-w-md group">
-              <SearchIcon className="absolute left-4 top-1/2 -translate-y-1/2 text-white/30 group-focus-within:text-cyan-400 transition-colors" size={18} />
+              <SearchIcon className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 dark:text-white/30 group-focus-within:text-cyan-500 dark:group-focus-within:text-cyan-400 transition-colors" size={18} />
               <Input
                 type="text"
                 placeholder="Marca, modelo, año, provincia o precio..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="pl-12 bg-white/5 border-white/10 focus:border-cyan-500/50 focus:ring-cyan-500/20 h-10 md:h-12 text-sm"
+                className="pl-12 focus:border-cyan-500/50 focus:ring-cyan-500/20 h-10 md:h-12 text-sm"
               />
               {searchQuery && (
                 <button
                   onClick={() => setSearchQuery("")}
-                  className="absolute right-4 top-1/2 -translate-y-1/2 text-white/20 hover:text-white transition-colors"
+                  className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-300 dark:text-white/20 hover:text-slate-600 dark:hover:text-white transition-colors"
                 >
                   <X size={14} />
                 </button>
@@ -223,7 +214,7 @@ export default function SearchExplorer() {
             </div>
           </div>
         </div>
-      </header>
+      </PageHeader>
 
       {/* Sidebar & Grid Layout */}
       <div className="max-w-7xl mx-auto px-4 py-8 md:px-8 flex flex-col lg:flex-row gap-8">
@@ -245,11 +236,11 @@ export default function SearchExplorer() {
         <div className="flex-1 space-y-8 z-10">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
             <div>
-              <h1 className="text-4xl font-black italic tracking-tighter leading-none">
+              <h1 className="text-4xl font-black italic tracking-tighter leading-none text-slate-900 dark:text-white">
                 {debouncedQuery ? `Resultados para "${debouncedQuery}"` : 'Explora el Mercado'}
               </h1>
-              <p className="font-mono text-xs text-white/30 uppercase mt-4 tracking-tighter">
-                Mostrando <span className="text-cyan-400 font-bold">{allCars.length}</span> de {total.toLocaleString()} anuncios activos
+              <p className="font-mono text-xs text-slate-400 dark:text-white/30 uppercase mt-4 tracking-tighter">
+                Mostrando <span className="text-cyan-600 dark:text-cyan-400 font-bold">{allCars.length}</span> de {total.toLocaleString()} anuncios activos
               </p>
             </div>
           </div>
@@ -257,35 +248,36 @@ export default function SearchExplorer() {
           {/* Results Grid */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-6 min-h-[50vh]">
             {allCars.map((car, i) => (
-              <Card 
+              <Card
                 key={car.car_id + i}
                 onClick={() => setSelectedCar(car)}
+                variant={theme === 'dark' ? 'glass' : 'white'}
                 className={cn(
                   "p-0 group cursor-pointer",
                   isCarInComparison(car.car_id) && "ring-2 ring-cyan-500 border-transparent shadow-[0_0_30px_rgba(6,182,212,0.3)]"
                 )}
               >
-                <button 
+                <button
                   onClick={(e) => toggleComparison(e, car)}
                   className={cn(
                     "absolute top-4 left-4 z-20 w-8 h-8 rounded-xl border flex items-center justify-center transition-all",
-                    isCarInComparison(car.car_id) 
-                      ? "bg-cyan-600 border-cyan-400 text-white" 
+                    isCarInComparison(car.car_id)
+                      ? "bg-cyan-600 border-cyan-400 text-white"
                       : "bg-black/40 border-white/20 text-transparent group-hover:text-white/20"
                   )}
                 >
                   <Check size={16} />
                 </button>
 
-                <div className="aspect-[16/10] bg-white/5 relative overflow-hidden flex items-center justify-center">
+                <div className="aspect-[16/10] bg-slate-100 dark:bg-white/5 relative overflow-hidden flex items-center justify-center">
                   {car.imagen_principal ? (
-                    <img 
-                      src={car.imagen_principal} 
+                    <img
+                      src={car.imagen_principal}
                       alt={`${car.marca} ${car.modelo}`}
                       className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                     />
                   ) : (
-                    <Car className="text-white/10 group-hover:scale-110 transition-transform duration-700" size={80} />
+                    <Car className="text-slate-200 dark:text-white/10 group-hover:scale-110 transition-transform duration-700" size={80} />
                   )}
                   <Badge className="absolute top-4 right-4 z-10" variant="cyan">
                     {car.año}
@@ -294,16 +286,16 @@ export default function SearchExplorer() {
 
                 <div className="p-6 space-y-5">
                   <div>
-                    <h3 className="text-xs font-black text-cyan-400 uppercase tracking-widest mb-1">{car.marca}</h3>
-                    <p className="text-2xl font-black tracking-tighter leading-none truncate">{car.modelo}</p>
+                    <h3 className="text-xs font-black text-cyan-600 dark:text-cyan-400 uppercase tracking-widest mb-1">{car.marca}</h3>
+                    <p className="text-2xl font-black tracking-tighter leading-none truncate text-slate-900 dark:text-white">{car.modelo}</p>
                   </div>
 
-                  <div className="grid grid-cols-2 gap-4 py-4 border-y border-white/5">
-                    <div className="flex items-center gap-2 text-white/50">
+                  <div className="grid grid-cols-2 gap-4 py-4 border-y border-slate-100 dark:border-white/5">
+                    <div className="flex items-center gap-2 text-slate-500 dark:text-white/50">
                       <Gauge size={14} className="text-cyan-500" />
                       <span className="text-[11px] font-black uppercase truncate">{car.informacion_general?.kilometraje_number?.toLocaleString() || '0'} KM</span>
                     </div>
-                    <div className="flex items-center gap-2 text-white/50">
+                    <div className="flex items-center gap-2 text-slate-500 dark:text-white/50">
                       <MapPin size={14} className="text-cyan-500" />
                       <span className="text-[11px] font-black uppercase truncate">{car.informacion_general?.provincia || 'N/A'}</span>
                     </div>
@@ -311,18 +303,18 @@ export default function SearchExplorer() {
 
                   <div className="flex items-center justify-between">
                     <div>
-                      <p className="text-[10px] font-black text-white/20 uppercase tracking-widest">Precio</p>
+                      <p className="text-[10px] font-black text-slate-400 dark:text-white/20 uppercase tracking-widest">Precio</p>
                       <div className="flex flex-col">
-                        <span className="text-2xl font-black font-mono text-emerald-400 tracking-tighter leading-none">
+                        <span className="text-2xl font-black font-mono text-emerald-600 dark:text-emerald-400 tracking-tighter leading-none">
                           ₡{car.precio_crc?.toLocaleString()}
                         </span>
-                        <span className="text-xs font-bold font-mono text-white/40 tracking-tighter mt-1">
+                        <span className="text-xs font-bold font-mono text-slate-400 dark:text-white/40 tracking-tighter mt-1">
                           ${car.precio_usd?.toLocaleString()}
                         </span>
                       </div>
                     </div>
-                    <div className="w-12 h-12 bg-white/5 group-hover:bg-cyan-600 rounded-2xl flex items-center justify-center transition-all transform group-hover:rotate-45 shrink-0">
-                      <ChevronDown className="text-white -rotate-90" size={20} />
+                    <div className="w-12 h-12 bg-slate-100 dark:bg-white/5 group-hover:bg-cyan-600 rounded-2xl flex items-center justify-center transition-all transform group-hover:rotate-45 shrink-0">
+                      <ChevronDown className="text-slate-500 dark:text-white group-hover:text-white -rotate-90" size={20} />
                     </div>
                   </div>
                 </div>
@@ -335,12 +327,12 @@ export default function SearchExplorer() {
           </div>
 
           {!initialLoading && allCars.length === 0 && (
-            <div className="text-center py-20 glass rounded-[2.5rem] border border-white/5">
-              <SearchIcon size={64} className="mx-auto text-white/10 mb-4" />
-              <h2 className="text-2xl font-bold">No encontramos lo que buscas</h2>
-              <p className="text-white/40 mt-2">Prueba ajustando los filtros o cambiando la búsqueda.</p>
-              <Button 
-                variant="primary" 
+            <div className="text-center py-20 glass rounded-[2.5rem] border border-slate-200 dark:border-white/5">
+              <SearchIcon size={64} className="mx-auto text-slate-200 dark:text-white/10 mb-4" />
+              <h2 className="text-2xl font-bold text-slate-900 dark:text-white">No encontramos lo que buscas</h2>
+              <p className="text-slate-500 dark:text-white/40 mt-2">Prueba ajustando los filtros o cambiando la búsqueda.</p>
+              <Button
+                variant="primary"
                 className="mt-6"
                 onClick={() => {
                   setSearchQuery("");
@@ -357,7 +349,7 @@ export default function SearchExplorer() {
 
           {allCars.length < total && !initialLoading && (
             <div className="mt-12 flex justify-center">
-              <Button variant="secondary" onClick={fetchMore} size="lg" className="text-white/40 hover:text-white uppercase tracking-[0.2em]">
+              <Button variant="secondary" onClick={fetchMore} size="lg" className="text-slate-500 dark:text-white/40 hover:text-slate-900 dark:hover:text-white uppercase tracking-[0.2em]">
                 Cargar más unidades
               </Button>
             </div>
@@ -370,13 +362,13 @@ export default function SearchExplorer() {
         {comparisonList.length > 0 && (
           <motion.div
             initial={{ y: 100 }} animate={{ y: 0 }} exit={{ y: 100 }}
-            className="fixed bottom-0 left-0 right-0 z-50 glass border-t border-white/10 px-6 py-4 backdrop-blur-2xl"
+            className="fixed bottom-0 left-0 right-0 z-50 glass border-t border-slate-200 dark:border-white/10 px-6 py-4 backdrop-blur-2xl"
           >
             <div className="max-w-7xl mx-auto flex items-center justify-between gap-6">
               <div className="flex items-center gap-4 overflow-x-auto pb-2 scrollbar-none">
                 <div className="flex -space-x-3">
                   {comparisonList.map((car) => (
-                    <div key={car.car_id} className="w-12 h-12 rounded-2xl bg-cyan-600 border-2 border-zinc-900 flex items-center justify-center shadow-xl overflow-hidden relative">
+                    <div key={car.car_id} className="w-12 h-12 rounded-2xl bg-cyan-600 border-2 border-white dark:border-zinc-900 flex items-center justify-center shadow-xl overflow-hidden relative">
                       {car.imagen_principal ? (
                         <img src={car.imagen_principal} alt={car.marca} className="w-full h-full object-cover" />
                       ) : (
@@ -385,12 +377,12 @@ export default function SearchExplorer() {
                     </div>
                   ))}
                   {Array.from({ length: 3 - comparisonList.length }).map((_, i) => (
-                    <div key={i} className="w-12 h-12 rounded-2xl bg-white/5 border-2 border-zinc-900 border-dashed flex items-center justify-center" />
+                    <div key={i} className="w-12 h-12 rounded-2xl bg-slate-100 dark:bg-white/5 border-2 border-white dark:border-zinc-900 border-dashed flex items-center justify-center" />
                   ))}
                 </div>
                 <div className="hidden sm:block">
-                  <p className="text-sm font-black italic tracking-tighter">{comparisonList.length} / 3 vehículos seleccionados</p>
-                  <p className="text-[10px] text-white/30 uppercase font-black">Máximo 3 para comparar</p>
+                  <p className="text-sm font-black italic tracking-tighter text-slate-900 dark:text-white">{comparisonList.length} / 3 vehículos seleccionados</p>
+                  <p className="text-[10px] text-slate-400 dark:text-white/30 uppercase font-black">Máximo 3 para comparar</p>
                 </div>
               </div>
 
@@ -539,7 +531,7 @@ export default function SearchExplorer() {
                     <h2 className="text-4xl font-black italic tracking-tighter leading-[0.9]">{selectedCar.modelo}</h2>
                     <div className="flex gap-3 mt-4">
                       <Badge variant="secondary">{selectedCar.año}</Badge>
-                      <Badge variant="emerald italic">Disponibilidad Inmediata</Badge>
+                      <Badge variant="emerald" className="italic">Disponibilidad Inmediata</Badge>
                     </div>
                   </div>
                 </div>

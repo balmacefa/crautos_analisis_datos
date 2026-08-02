@@ -61,13 +61,13 @@ export function BrandModelTree({
   return (
     <div className="space-y-4">
       <div className="relative group">
-        <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-white/20 group-focus-within:text-cyan-400 transition-colors" size={14} />
-        <input 
+        <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-300 dark:text-white/20 group-focus-within:text-cyan-500 dark:group-focus-within:text-cyan-400 transition-colors" size={14} />
+        <input
           type="text"
           placeholder="Filtrar marcas o modelos..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="w-full bg-white/5 border border-white/10 rounded-xl py-2 pl-9 pr-3 text-xs text-white focus:outline-none focus:ring-1 focus:ring-cyan-500/50 transition-all placeholder:text-white/20"
+          className="w-full bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-xl py-2 pl-9 pr-3 text-xs text-slate-900 dark:text-white focus:outline-none focus:ring-1 focus:ring-cyan-500/50 transition-all placeholder:text-slate-300 dark:placeholder:text-white/20"
         />
       </div>
 
@@ -75,54 +75,54 @@ export function BrandModelTree({
         {filteredTree.map(brand => {
           const isExpanded = expandedBrands[brand.name] || (searchTerm && brand.models.length > 0);
           const isBrandSelected = selectedBrands.includes(brand.name);
-          
+
           return (
             <div key={brand.name} className="space-y-1">
-              <div 
+              <div
                 className={cn(
                   "flex items-center justify-between p-2 rounded-lg cursor-pointer transition-colors group",
-                  isBrandSelected ? "bg-cyan-500/10" : "hover:bg-white/5"
+                  isBrandSelected ? "bg-cyan-500/10" : "hover:bg-slate-100 dark:hover:bg-white/5"
                 )}
                 onClick={() => toggleBrand(brand.name)}
               >
                 <div className="flex items-center gap-2">
-                  <div 
+                  <div
                     onClick={(e) => {
                       e.stopPropagation();
                       onSelectBrand(brand.name);
                     }}
-                    className="p-1 hover:bg-white/10 rounded transition-colors"
+                    className="p-1 hover:bg-slate-100 dark:hover:bg-white/10 rounded transition-colors"
                   >
                     {isBrandSelected ? (
                       <CheckSquare size={16} className="text-cyan-400" />
                     ) : (
-                      <Square size={16} className="text-white/20" />
+                      <Square size={16} className="text-slate-300 dark:text-white/20" />
                     )}
                   </div>
                   <span className={cn(
                     "text-xs font-bold",
-                    isBrandSelected ? "text-cyan-400" : "text-white/80"
+                    isBrandSelected ? "text-cyan-600 dark:text-cyan-400" : "text-slate-700 dark:text-white/80"
                   )}>
                     {brand.name}
                   </span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <span className="text-[10px] text-white/20 font-mono">{brand.count}</span>
-                  {isExpanded ? <ChevronDown size={14} className="text-white/20" /> : <ChevronRight size={14} className="text-white/20" />}
+                  <span className="text-[10px] text-slate-300 dark:text-white/20 font-mono">{brand.count}</span>
+                  {isExpanded ? <ChevronDown size={14} className="text-slate-300 dark:text-white/20" /> : <ChevronRight size={14} className="text-slate-300 dark:text-white/20" />}
                 </div>
               </div>
 
               {isExpanded && (
-                <div className="ml-6 space-y-1 border-l border-white/10 pl-2">
+                <div className="ml-6 space-y-1 border-l border-slate-200 dark:border-white/10 pl-2">
                   {brand.models.map(model => {
                     const isModelSelected = selectedModels.includes(model.name);
                     return (
-                      <div 
+                      <div
                         key={model.name}
                         onClick={() => onSelectModel(model.name)}
                         className={cn(
                           "flex items-center justify-between p-2 rounded-lg cursor-pointer transition-colors",
-                          isModelSelected ? "bg-white/10 text-cyan-400" : "text-white/50 hover:bg-white/5 hover:text-white"
+                          isModelSelected ? "bg-slate-100 dark:bg-white/10 text-cyan-600 dark:text-cyan-400" : "text-slate-500 dark:text-white/50 hover:bg-slate-100 dark:hover:bg-white/5 hover:text-slate-900 dark:hover:text-white"
                         )}
                       >
                         <span className="text-[11px]">{model.name}</span>
