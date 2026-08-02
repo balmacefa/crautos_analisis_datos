@@ -1,6 +1,13 @@
 # CrAutos Marketplace Scraper & API
 
-CrAutos is a comprehensive marketplace of cars in Costa Rica. This project provides a robust data pipeline, backend API, and a visualization frontend to scrape, serve, and analyze vehicle data.
+CrAutos started as a comprehensive marketplace of cars in Costa Rica. This project provides a robust data pipeline, backend API, and a visualization frontend to scrape, serve, and analyze vehicle data.
+
+**Open-data pivot (in progress):** the project is expanding beyond cars into
+an open-data initiative covering any product sold on Costa Rican websites.
+This is happening incrementally, alongside the existing car pipeline rather
+than replacing it. The first new source is EPA en Línea (`cr.epaenlinea.com`,
+a hardware/home-improvement retailer) — see `TODO.md` for status and
+`backend/data_scrapper/epaenlinea_strategy.md` for the scraper strategy.
 
 ## Project Architecture
 

@@ -233,6 +233,25 @@ async def run_purdy(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG00
         return "failed"
 
 
+async def run_epa(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG001
+    """Run the EPA en Línea (cr.epaenlinea.com) generic product scraper (pilot, EXPERIMENTAL).
+
+    See data_scrapper/epaenlinea_strategy.md — selectors are unvalidated
+    against the live site. Not wired into the scheduled cron yet; run
+    manually until the strategy doc's Recon Checklist is completed.
+    """
+    from data_scrapper.epaenlinea_scrapper import EpaEnLineaScraper  # noqa: PLC0415
+
+    logger.info("Starting EPA en Línea scraper (pilot)...")
+    scraper = EpaEnLineaScraper(repository=repo, headless=HEADLESS)
+    try:
+        await scraper.run(limit_pages=2)
+        return "done"
+    except Exception as exc:
+        logger.error("EPA en Línea scraper failed: %s", exc, exc_info=True)
+        return "failed"
+
+
 async def run_quick_validate(repo: ScraperRepository, run_id: int) -> str:  # noqa: ARG001
     """Run all external scrapers with a limit (quick validation)."""
     from data_scrapper.evmarket_scrapper import EVMarketScraper  # noqa: PLC0415
@@ -273,6 +292,7 @@ COMMANDS = {
     "cori": run_corimotors,
     "veinsa": run_veinsa,
     "purdy": run_purdy,
+    "epa": run_epa,
     "validate": run_quick_validate,
 }
 

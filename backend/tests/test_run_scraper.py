@@ -27,6 +27,18 @@ async def test_run_scraper_evmarket_command(test_db):
                 mock_exit.assert_called_with(0)
 
 @pytest.mark.asyncio
+async def test_run_scraper_epa_command(test_db):
+    """Verify that 'epa' command triggers the EpaEnLineaScraper."""
+    with patch("data_scrapper.epaenlinea_scrapper.EpaEnLineaScraper.run", new_callable=AsyncMock) as mock_run:
+        with patch.dict(os.environ, {"SCRAPER_DB_PATH": test_db}):
+            with patch("sys.exit") as mock_exit:
+                await scraper_main("epa")
+
+                mock_run.assert_called_once()
+                mock_exit.assert_called_with(0)
+
+
+@pytest.mark.asyncio
 async def test_run_scraper_invalid_command(test_db):
     """Verify that an invalid command results in failure."""
     with patch.dict(os.environ, {"SCRAPER_DB_PATH": test_db}):
