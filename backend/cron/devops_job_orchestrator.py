@@ -192,8 +192,8 @@ def check_auth(username, password):
     Check if username/password combination is valid.
 
     Security Note:
-        - Credentials MUST be set via environment variables
-        - No hardcoded defaults for production security
+        - Falls back to 'admin'/'admin' if AUTH_USERNAME/AUTH_PASSWORD are not set.
+        - Set both env vars to real credentials for production deployments.
 
     Args:
         username: Username to validate
@@ -201,18 +201,9 @@ def check_auth(username, password):
 
     Returns:
         bool: True if credentials are valid, False otherwise
-
-    Raises:
-        ValueError: If AUTH_USERNAME or AUTH_PASSWORD not set
     """
-    auth_user = os.getenv("AUTH_USERNAME")
-    auth_pass = os.getenv("AUTH_PASSWORD")
-
-    if not auth_user or not auth_pass:
-        raise ValueError(
-            "AUTH_USERNAME and AUTH_PASSWORD environment variables must be set. "
-            "No default credentials allowed for security."
-        )
+    auth_user = os.getenv("AUTH_USERNAME", "admin")
+    auth_pass = os.getenv("AUTH_PASSWORD", "admin")
 
     return username == auth_user and password == auth_pass
 
@@ -1646,18 +1637,10 @@ def before_request():
         # No valid session - attempt Basic Auth
         auth = request.authorization
 
-        if auth:
-            try:
-                # Validate credentials
-                if check_auth(auth.username, auth.password):
-                    # Create new session (1-hour timeout)
-                    create_session(auth.username)
-                    return None
-            except ValueError as e:
-                # Credentials not configured
-                return make_response(
-                    {"error": "Authentication not configured", "message": str(e)}, 500
-                )
+        if auth and check_auth(auth.username, auth.password):
+            # Create new session (1-hour timeout)
+            create_session(auth.username)
+            return None
 
         # No auth or invalid credentials - request authentication
         # For AJAX/JSON requests, return JSON error
