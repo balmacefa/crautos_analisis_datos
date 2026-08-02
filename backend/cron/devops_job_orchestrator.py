@@ -21,6 +21,9 @@ MAJOR COMPONENTS:
     4. Job Runner: PTY-based subprocess execution with async stdin/stdout handling
     5. Dash UI: Bootstrap-styled web interface with DataTable, logs, and controls
     6. REST API: /api/jobs endpoints for curl/automation (same Basic Auth as the UI)
+    7. Public Log Inspection: /public (page) and /public/jobs* (JSON) expose job
+       status and run logs with no authentication, for external visibility into
+       scraper runs. GET-only - run/stop/input remain auth-protected on /api/jobs/*.
 
 INPUTS/OUTPUTS:
     Inputs:
@@ -65,16 +68,19 @@ import time
 import secrets
 from datetime import datetime, timedelta, timezone
 from functools import wraps
-from flask import request, Response, session, make_response
+from flask import request, Response, session, make_response, render_template_string
 from flask_session import Session
 
 import dash
-import requests
 from croniter import croniter
 from dash import html, dcc, dash_table, Input, Output, State
 import dash_bootstrap_components as dbc
 
 from cron.job_model import JobModel
+
+# Application identity - shown in the UI, auth prompts and health responses.
+APP_NAME = "Crautos Ops Console"
+APP_SUBTITLE = "DevOps Job Orchestrator"
 
 
 # ===================== CONSTANTS & HELPERS =====================
@@ -83,10 +89,27 @@ from cron.job_model import JobModel
 LOG_SEPARATOR = "=" * 60
 PROMPT_SUFFIXES = (": ", "? ", ") ")
 
+# Unified enterprise color palette - one accent, one header treatment,
+# used everywhere instead of the previous per-card assortment of hues.
+COLORS = {
+    "header_bg": "#1e293b",  # slate-800 - all card headers share this
+    "header_text": "#f8fafc",
+    "page_bg": "#f1f5f9",  # slate-100
+    "surface": "#ffffff",
+    "accent": "#2563eb",  # blue-600
+    "success": "#16a34a",
+    "danger": "#dc2626",
+    "warning": "#d97706",
+    "muted": "#64748b",  # slate-500
+    "text": "#0f172a",  # slate-900
+    "border": "#e2e8f0",  # slate-200
+}
+
 # UI Style constants
 STYLES = {
     "monospace_time": {"fontFamily": "monospace", "fontWeight": "bold"},
     "date_text": {"fontSize": "14px"},
+    "card_header": {"backgroundColor": COLORS["header_bg"], "color": COLORS["header_text"]},
     "log_view": {
         "height": "400px",
         "overflowY": "scroll",
@@ -134,35 +157,36 @@ def format_timezone(utc_now: datetime, hours: int, minutes: int = 0) -> dict:
 
 def create_timezone_card(
     label: str,
-    emoji: str,
     time_id: str,
     date_id: str,
     offset: str,
-    bg_color: str,
-    border_color: str,
 ) -> dbc.Col:
     """Factory function for timezone display cards"""
     return dbc.Col(
         dbc.Card(
             dbc.CardBody(
                 [
-                    html.H6(f"{emoji} {label}", className="text-muted mb-2"),
+                    html.H6(
+                        label,
+                        className="mb-2 text-uppercase",
+                        style={"color": COLORS["muted"], "fontSize": "12px", "letterSpacing": "0.05em"},
+                    ),
                     html.H2(
                         id=time_id,
                         className="mb-1",
-                        style=STYLES["monospace_time"],
+                        style={**STYLES["monospace_time"], "color": COLORS["text"]},
                     ),
                     html.P(
                         id=date_id,
                         className="mb-1",
-                        style=STYLES["date_text"],
+                        style={**STYLES["date_text"], "color": COLORS["text"]},
                     ),
-                    html.Small(offset, className="text-muted"),
+                    html.Small(offset, style={"color": COLORS["muted"]}),
                 ]
             ),
             style={
-                "backgroundColor": bg_color,
-                "border": f"2px solid {border_color}",
+                "backgroundColor": COLORS["surface"],
+                "border": f"1px solid {COLORS['border']}",
             },
             className="text-center h-100",
         ),
@@ -219,7 +243,7 @@ def authenticate():
         "Autenticación requerida. Tu sesión ha expirado después de 1 hora. "
         "Por favor, ingresa tus credenciales nuevamente.",
         401,
-        {"WWW-Authenticate": 'Basic realm="SMT-Toolbox - Sesión de 1 hora"'},
+        {"WWW-Authenticate": f'Basic realm="{APP_NAME} - Sesión de 1 hora"'},
     )
 
 
@@ -249,7 +273,7 @@ class JobController:
             status = "ENABLED" if self.cron_enabled else "DISABLED"
             # Log to all jobs for visibility
             for job in self.jobs.values():
-                job.logs.append(f"[{timestamp}] 🔄 Cron scheduler {status}")
+                job.logs.append(f"[{timestamp}] Cron scheduler {status}")
             return self.cron_enabled
 
     def start_scheduler(self):
@@ -288,18 +312,18 @@ class JobController:
                                     if job.status != "running":
                                         timestamp = get_full_timestamp()
                                         job.logs.append(
-                                            f"[{timestamp}] 🕐 Cron triggered: {job.cron}"
+                                            f"[{timestamp}] Cron triggered: {job.cron}"
                                         )
                                         self.start_job(job.name)
                                     else:
                                         timestamp = get_full_timestamp()
                                         job.logs.append(
-                                            f"[{timestamp}] ⏭️  Skipped cron trigger (job still running from previous execution)"
+                                            f"[{timestamp}] Skipped cron trigger (job still running from previous execution)"
                                         )
                             except Exception as e:
                                 # Cron parsing errors logged but don't crash scheduler
                                 timestamp = get_full_timestamp()
-                                job.logs.append(f"[{timestamp}] ⚠️  Cron error: {e}")
+                                job.logs.append(f"[{timestamp}] Cron error: {e}")
 
                 # 1-second poll interval balances responsiveness vs CPU usage
                 time.sleep(1)
@@ -338,8 +362,8 @@ class JobController:
             start_time = datetime.now(timezone.utc)
             job.last_run = get_full_timestamp()
             job.logs.append(LOG_SEPARATOR)
-            job.logs.append(f"[{job.last_run}] 🚀 Starting Job: {job.name}")
-            job.logs.append(f"[{job.last_run}] 📝 Command: {job.command}")
+            job.logs.append(f"[{job.last_run}] Starting Job: {job.name}")
+            job.logs.append(f"[{job.last_run}] Command: {job.command}")
             job.logs.append(LOG_SEPARATOR)
 
             try:
@@ -371,14 +395,14 @@ class JobController:
                             # Non-blocking queue get with timeout
                             inp = job.stdin_queue.get(timeout=0.1)
                             timestamp = get_time_timestamp()
-                            job.logs.append(f"[{timestamp}] 📥 User Input: {inp}")
+                            job.logs.append(f"[{timestamp}] User Input: {inp}")
                             # Write to PTY master, which forwards to subprocess stdin
                             os.write(master_fd, (inp + "\n").encode())
                         except queue.Empty:
                             continue
                         except Exception as e:
                             timestamp = get_time_timestamp()
-                            job.logs.append(f"[{timestamp}] ⚠️  Input error: {e}")
+                            job.logs.append(f"[{timestamp}] Input error: {e}")
                             break
 
                 stdin_thread = threading.Thread(target=stdin_writer, daemon=True)
@@ -444,13 +468,13 @@ class JobController:
                 end_timestamp = get_full_timestamp()
                 job.logs.append(LOG_SEPARATOR)
                 if rc == 0:
-                    job.logs.append(f"[{end_timestamp}] ✅ Job completed successfully")
+                    job.logs.append(f"[{end_timestamp}] Job completed successfully")
                 else:
                     job.logs.append(
-                        f"[{end_timestamp}] ❌ Job failed with exit code {rc}"
+                        f"[{end_timestamp}] Job failed with exit code {rc}"
                     )
                 job.logs.append(
-                    f"[{end_timestamp}] ⏱️  Duration: {duration:.2f} seconds"
+                    f"[{end_timestamp}] Duration: {duration:.2f} seconds"
                 )
                 job.logs.append(LOG_SEPARATOR)
 
@@ -458,7 +482,7 @@ class JobController:
                 # Catch-all for unexpected errors (PTY failures, etc.)
                 end_timestamp = get_full_timestamp()
                 job.logs.append(LOG_SEPARATOR)
-                job.logs.append(f"[{end_timestamp}] ❌ ERROR: {e}")
+                job.logs.append(f"[{end_timestamp}] ERROR: {e}")
                 job.logs.append(LOG_SEPARATOR)
                 job.status = "error"
                 job.restart_count += 1  # Track failure count for monitoring
@@ -479,7 +503,7 @@ class JobController:
             # Queue-based stdin for thread-safe async writes
             job.stdin_queue.put(text)
             # timestamp = datetime.now().strftime("%H:%M:%S")
-            # job.logs.append(f"[{timestamp}] 📤 Queued input: {text}")
+            # job.logs.append(f"[{timestamp}] Queued input: {text}")
             return True
         return False
 
@@ -488,15 +512,15 @@ class JobController:
         if job and job.process:
             timestamp = get_full_timestamp()
             try:
-                job.logs.append(f"[{timestamp}] 🛑 Stopping job...")
+                job.logs.append(f"[{timestamp}] Stopping job...")
                 # SIGTERM - graceful shutdown (allows cleanup handlers)
                 job.process.terminate()
                 job.process.wait(timeout=5)  # 5s grace period
-                job.logs.append(f"[{timestamp}] ✅ Job stopped gracefully")
+                job.logs.append(f"[{timestamp}] Job stopped gracefully")
             except subprocess.TimeoutExpired:
                 # SIGKILL - force kill after timeout (no cleanup)
                 job.process.kill()
-                job.logs.append(f"[{timestamp}] ⚠️  Job killed (timeout)")
+                job.logs.append(f"[{timestamp}] Job killed (timeout)")
             finally:
                 job.process = None
             job.status = "idle"
@@ -670,10 +694,20 @@ app.layout = dbc.Container(
         # Header
         dbc.Row(
             dbc.Col(
-                html.H1(
-                    "🛠 SMT-TOOLBOX on the cloud",
+                html.Div(
+                    [
+                        html.H1(
+                            APP_NAME,
+                            className="mb-0",
+                            style={"color": COLORS["text"], "fontWeight": "700"},
+                        ),
+                        html.P(
+                            APP_SUBTITLE,
+                            className="mb-0 text-uppercase",
+                            style={"color": COLORS["muted"], "fontSize": "13px", "letterSpacing": "0.08em"},
+                        ),
+                    ],
                     className="text-center my-4",
-                    style={"color": "#2c3e50", "fontWeight": "bold"},
                 ),
                 width=12,
             )
@@ -683,7 +717,8 @@ app.layout = dbc.Container(
             dbc.Col(
                 dbc.Alert(
                     [
-                        html.Span("🔒 Sesión activa: ", className="fw-bold"),
+                        html.I(className="bi bi-shield-lock-fill me-2"),
+                        html.Span("Sesión activa: ", className="fw-bold"),
                         html.Span(id="session-username", className="text-primary"),
                         html.Span(" | Tiempo restante: ", className="ms-3"),
                         html.Span(
@@ -709,158 +744,25 @@ app.layout = dbc.Container(
         # Clock Card - World Time Display
         dbc.Card(
             [
-                dbc.CardHeader(
-                    html.H4("🌍 World Clock", className="mb-0"),
-                    style={"backgroundColor": "#9b59b6", "color": "white"},
-                ),
+                dbc.CardHeader(html.H4("World Clock", className="mb-0"), style=STYLES["card_header"]),
                 dbc.CardBody(
                     dbc.Row(
                         [
-                            # UTC Time
-                            create_timezone_card(
-                                "UTC Time",
-                                "🌐",
-                                "clock-system-time",
-                                "clock-system-date",
-                                "UTC",
-                                "#e3f2fd",
-                                "#2196f3",
-                            ),
-                            # Costa Rica Time
-                            create_timezone_card(
-                                "Costa Rica",
-                                "🇨🇷",
-                                "clock-cr-time",
-                                "clock-cr-date",
-                                "UTC-6",
-                                "#e8f5e9",
-                                "#4caf50",
-                            ),
-                            # US Eastern Time
-                            create_timezone_card(
-                                "US Eastern",
-                                "🇺🇸",
-                                "clock-us-time",
-                                "clock-us-date",
-                                "UTC-5",
-                                "#fff3e0",
-                                "#ff9800",
-                            ),
-                            # India Time
-                            create_timezone_card(
-                                "India",
-                                "🇮🇳",
-                                "clock-india-time",
-                                "clock-india-date",
-                                "UTC+5:30",
-                                "#f3e5f5",
-                                "#9c27b0",
-                            ),
+                            create_timezone_card("UTC Time", "clock-system-time", "clock-system-date", "UTC"),
+                            create_timezone_card("Costa Rica", "clock-cr-time", "clock-cr-date", "UTC-6"),
+                            create_timezone_card("US Eastern", "clock-us-time", "clock-us-date", "UTC-5"),
+                            create_timezone_card("India", "clock-india-time", "clock-india-date", "UTC+5:30"),
                         ],
                         className="g-3",
                     )
                 ),
             ],
-            className="mb-4 shadow",
+            className="mb-4 shadow-sm",
         ),
-        # # External Services Status Card
-        # dbc.Card(
-        #     [
-        #         dbc.CardHeader(
-        #             dbc.Row(
-        #                 [
-        #                     dbc.Col(
-        #                         html.H4(
-        #                             "🔗 External Services Status", className="mb-0"
-        #                         ),
-        #                         width="auto",
-        #                     ),
-        #                     dbc.Col(
-        #                         dbc.Button(
-        #                             [
-        #                                 html.I(className="bi bi-arrow-clockwise me-2"),
-        #                                 "Refresh",
-        #                             ],
-        #                             id="refresh-services-btn",
-        #                             color="light",
-        #                             size="sm",
-        #                             outline=True,
-        #                         ),
-        #                         width="auto",
-        #                         className="ms-auto",
-        #                     ),
-        #                 ],
-        #                 align="center",
-        #                 className="g-2",
-        #             ),
-        #             style={"backgroundColor": "#16a085", "color": "white"},
-        #         ),
-        #         dbc.CardBody(
-        #             dbc.Row(
-        #                 [
-        #                     # JIRA Status
-        #                     dbc.Col(
-        #                         dbc.Card(
-        #                             dbc.CardBody(
-        #                                 [
-        #                                     html.H6(
-        #                                         "📋 JIRA", className="text-muted mb-2"
-        #                                     ),
-        #                                     html.Div(
-        #                                         id="jira-status-badge",
-        #                                         className="mb-2",
-        #                                     ),
-        #                                     html.Small(
-        #                                         id="jira-status-details",
-        #                                         className="text-muted",
-        #                                     ),
-        #                                 ]
-        #                             ),
-        #                             style={"border": "2px solid #e0e0e0"},
-        #                             className="text-center h-100",
-        #                         ),
-        #                         width=12,
-        #                         md=6,
-        #                         className="mb-3 mb-md-0",
-        #                     ),
-        #                     # GitHub Status
-        #                     dbc.Col(
-        #                         dbc.Card(
-        #                             dbc.CardBody(
-        #                                 [
-        #                                     html.H6(
-        #                                         "🐙 GitHub", className="text-muted mb-2"
-        #                                     ),
-        #                                     html.Div(
-        #                                         id="github-status-badge",
-        #                                         className="mb-2",
-        #                                     ),
-        #                                     html.Small(
-        #                                         id="github-status-details",
-        #                                         className="text-muted",
-        #                                     ),
-        #                                 ]
-        #                             ),
-        #                             style={"border": "2px solid #e0e0e0"},
-        #                             className="text-center h-100",
-        #                         ),
-        #                         width=12,
-        #                         md=6,
-        #                     ),
-        #                 ],
-        #                 className="g-3",
-        #             )
-        #         ),
-        #     ],
-        #     className="mb-4 shadow",
-        # ),
         # Cron Scheduler Control Card
         dbc.Card(
             [
-                dbc.CardHeader(
-                    html.H4("🕐 Cron Scheduler Control", className="mb-0"),
-                    style={"backgroundColor": "#9b59b6", "color": "white"},
-                ),
+                dbc.CardHeader(html.H4("Cron Scheduler Control", className="mb-0"), style=STYLES["card_header"]),
                 dbc.CardBody(
                     dbc.Row(
                         [
@@ -890,15 +792,12 @@ app.layout = dbc.Container(
                     )
                 ),
             ],
-            className="mb-4 shadow",
+            className="mb-4 shadow-sm",
         ),
         # Job Table Card
         dbc.Card(
             [
-                dbc.CardHeader(
-                    html.H4("Job Management", className="mb-0"),
-                    style={"backgroundColor": "#3498db", "color": "white"},
-                ),
+                dbc.CardHeader(html.H4("Job Management", className="mb-0"), style=STYLES["card_header"]),
                 dbc.CardBody(
                     [
                         dash_table.DataTable(
@@ -920,12 +819,12 @@ app.layout = dbc.Container(
                                 "fontFamily": "Arial, sans-serif",
                             },
                             style_header={
-                                "backgroundColor": "#ecf0f1",
+                                "backgroundColor": COLORS["page_bg"],
                                 "fontWeight": "bold",
-                                "border": "1px solid #bdc3c7",
+                                "border": f"1px solid {COLORS['border']}",
                             },
                             style_data={
-                                "border": "1px solid #ecf0f1",
+                                "border": f"1px solid {COLORS['border']}",
                             },
                             style_data_conditional=[  # type: ignore[arg-type]
                                 # Conditional styling based on job status for visual feedback
@@ -938,16 +837,16 @@ app.layout = dbc.Container(
                                 create_status_style("idle", "#d1ecf1", "#0c5460"),
                                 {
                                     "if": {"state": "selected"},
-                                    "backgroundColor": "#3498db",
+                                    "backgroundColor": COLORS["accent"],
                                     "color": "white",
-                                    "border": "2px solid #2980b9",
+                                    "border": f"2px solid {COLORS['accent']}",
                                 },
                             ],
                         ),
                     ]
                 ),
             ],
-            className="mb-4 shadow",
+            className="mb-4 shadow-sm",
         ),
         # Control Buttons
         dbc.Row(
@@ -1002,7 +901,7 @@ app.layout = dbc.Container(
                         align="center",
                         className="g-2",
                     ),
-                    style={"backgroundColor": "#2c3e50", "color": "white"},
+                    style=STYLES["card_header"],
                 ),
                 dbc.CardBody(
                     [
@@ -1013,14 +912,14 @@ app.layout = dbc.Container(
                     ]
                 ),
             ],
-            className="mb-4 shadow",
+            className="mb-4 shadow-sm",
         ),
         # Input Section for interactive jobs
         dbc.Card(
             [
                 dbc.CardHeader(
                     html.H4("Send Input to Job", className="mb-0"),
-                    style={"backgroundColor": "#16a085", "color": "white"},
+                    style=STYLES["card_header"],
                 ),
                 dbc.CardBody(
                     dbc.Row(
@@ -1058,7 +957,7 @@ app.layout = dbc.Container(
         dcc.Interval(id="cron-status-interval", interval=1000, n_intervals=0),
     ],
     fluid=True,
-    style={"backgroundColor": "#f8f9fa", "minHeight": "100vh", "padding": "20px"},
+    style={"backgroundColor": COLORS["page_bg"], "minHeight": "100vh", "padding": "20px"},
 )
 
 
@@ -1089,10 +988,10 @@ def update_session_info(_):
     # Color code based on remaining time
     if remaining <= 5:
         # Less than 5 minutes - critical
-        return info["username"], f"⚠️ {remaining}"
+        return info["username"], f"{remaining}"
     elif remaining <= 15:
         # Less than 15 minutes - warning
-        return info["username"], f"⏰ {remaining}"
+        return info["username"], f"{remaining}"
     else:
         # Normal
         return info["username"], str(remaining)
@@ -1124,59 +1023,6 @@ def update_clocks(_):
         times["india"]["time"],
         times["india"]["date"],
     )
-
-
-@app.callback(
-    [
-        Output("jira-status-badge", "children"),
-        Output("jira-status-details", "children"),
-        Output("github-status-badge", "children"),
-        Output("github-status-details", "children"),
-    ],
-    [Input("refresh", "n_intervals"), Input("refresh-services-btn", "n_clicks")],
-)
-def update_external_services_status(n_intervals, n_clicks):
-    """Update external services status display"""
-    # Check JIRA connectivity
-    jira_status = check_jira_connectivity(timeout=3)
-
-    # Check GitHub connectivity
-    github_status = check_github_connectivity(timeout=3)
-
-    # Helper function to create status badge
-    def create_status_badge(status_data):
-        status = status_data["status"]
-        if status == "healthy":
-            badge = dbc.Badge(
-                "✓ Healthy",
-                color="success",
-                className="fs-6 px-3 py-2",
-            )
-            details = f"Response: {status_data['response_time_ms']}ms"
-        elif status == "degraded":
-            badge = dbc.Badge(
-                "⚠ Degraded",
-                color="warning",
-                className="fs-6 px-3 py-2",
-            )
-            error_msg = status_data.get("error", "Unknown error")
-            http_code = status_data.get("http_status_code", "N/A")
-            details = f"HTTP {http_code}: {error_msg}"
-        else:  # unreachable
-            badge = dbc.Badge(
-                "✗ Unreachable",
-                color="danger",
-                className="fs-6 px-3 py-2",
-            )
-            error_msg = status_data.get("error", "Connection failed")
-            details = f"{error_msg}"
-
-        return badge, details
-
-    jira_badge, jira_details = create_status_badge(jira_status)
-    github_badge, github_details = create_status_badge(github_status)
-
-    return jira_badge, jira_details, github_badge, github_details
 
 
 @app.callback(Output("job-table", "data"), Input("refresh", "n_intervals"))
@@ -1319,100 +1165,6 @@ def send_input(n_clicks, n_submit, rows, text):
 # Production server configuration - exposes Flask app for WSGI servers
 server = app.server
 
-# ===================== EXTERNAL SERVICE HEALTH CHECKS =====================
-
-
-def check_external_service(url: str, service_name: str, timeout: int = 3) -> dict:
-    """
-    Generic external service connectivity check with error code reporting
-
-    Args:
-        url: Service URL to check
-        service_name: Name of the service (for logging)
-        timeout: Request timeout in seconds (default: 3)
-
-    Returns:
-        dict: {
-            "status": "healthy|degraded|unreachable",
-            "url": str,
-            "response_time_ms": int or None,
-            "http_status_code": int or None,
-            "last_check": str (timestamp),
-            "error": str or None,
-            "error_type": "timeout|connection|http_error" or None
-        }
-    """
-    start_time = time.time()
-    result = {
-        "status": "unreachable",
-        "url": url,
-        "response_time_ms": None,
-        "http_status_code": None,
-        "last_check": get_full_timestamp(),
-        "error": None,
-        "error_type": None,
-    }
-
-    try:
-        # Disable SSL warnings for internal services (if urllib3 is available)
-        try:
-            import urllib3
-
-            urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-        except (ImportError, AttributeError):
-            pass  # urllib3 not available or different version
-
-        # Make HEAD request (faster than GET, just checks connectivity)
-        response = requests.head(
-            url, timeout=timeout, verify=False, allow_redirects=True
-        )
-
-        # Calculate response time
-        response_time = int((time.time() - start_time) * 1000)
-        result["response_time_ms"] = response_time
-        result["http_status_code"] = response.status_code
-
-        # Determine status based on HTTP status code
-        if response.status_code == 200:
-            result["status"] = "healthy"
-        elif response.status_code in [500, 502, 503, 504]:
-            result["status"] = "degraded"
-            result["error"] = f"HTTP {response.status_code}: {response.reason}"
-            result["error_type"] = "http_error"
-        elif response.status_code in [401, 403]:
-            result["status"] = "degraded"
-            result["error"] = f"HTTP {response.status_code}: {response.reason}"
-            result["error_type"] = "http_error"
-        elif response.status_code == 404:
-            result["status"] = "unreachable"
-            result["error"] = f"HTTP 404: Endpoint not found"
-            result["error_type"] = "http_error"
-        else:
-            result["status"] = "degraded"
-            result["error"] = f"HTTP {response.status_code}: {response.reason}"
-            result["error_type"] = "http_error"
-
-    except requests.exceptions.Timeout:
-        result["response_time_ms"] = timeout * 1000
-        result["error"] = f"Connection timeout after {timeout} seconds"
-        result["error_type"] = "timeout"
-        result["status"] = "unreachable"
-
-    except requests.exceptions.ConnectionError as e:
-        result["response_time_ms"] = int((time.time() - start_time) * 1000)
-        result["error"] = f"Connection failed: {str(e).split(':')[0]}"
-        result["error_type"] = "connection"
-        result["status"] = "unreachable"
-
-    except Exception as e:
-        result["response_time_ms"] = int((time.time() - start_time) * 1000)
-        result["error"] = f"Unexpected error: {str(e)}"
-        result["error_type"] = "connection"
-        result["status"] = "unreachable"
-
-    return result
-
-
 # ===================== HEALTH CHECK ENDPOINT =====================
 
 
@@ -1434,40 +1186,9 @@ def health_check():
     try:
         # Check scheduler status
         scheduler_healthy = controller.scheduler_running
-
-        # # Check external services connectivity
-        # jira_status = check_jira_connectivity(timeout=3)
-        # github_status = check_github_connectivity(timeout=3)
-
-        # # Determine if external services are healthy
-        # jira_healthy = jira_status["status"] == "healthy"
-        # github_healthy = github_status["status"] == "healthy"
-
-        # # At least one external service should be reachable
-        # external_services_ok = jira_healthy or github_healthy
-
-        # # Both external services unreachable is a critical issue
-        # both_services_down = (
-        #     jira_status["status"] == "unreachable"
-        #     and github_status["status"] == "unreachable"
-        # )
         http_status = 200
         status = "healthy"
 
-        # # Determine overall health status
-        # if scheduler_healthy and external_services_ok:
-        #     status = "healthy"
-        #     http_status = 200
-        # elif scheduler_healthy and not both_services_down:
-        #     # Scheduler running but one service degraded/unreachable
-        #     status = "degraded"
-        #     http_status = 200  # Still operational, just degraded
-        # else:
-        #     # Scheduler stopped OR both external services unreachable
-        #     status = "degraded"
-        #     http_status = 503
-
-        # Build response payload with external services
         response_data = {
             "status": status,
             "timestamp": get_full_timestamp(),
@@ -1475,11 +1196,7 @@ def health_check():
                 "running": scheduler_healthy,
                 "status": "active" if scheduler_healthy else "stopped",
             },
-            # "external_services": {
-            #     "jira": jira_status,
-            #     "github": github_status,
-            # },
-            "service_name": "SMT-Toolbox DevOps Job Orchestrator",
+            "service_name": f"{APP_NAME} - {APP_SUBTITLE}",
         }
 
         return response_data, http_status, {"Content-Type": "application/json"}
@@ -1491,7 +1208,7 @@ def health_check():
             "timestamp": get_full_timestamp(),
             "error": str(e),
             "service": {
-                "name": "SMT-Toolbox DevOps Job Orchestrator",
+                "name": f"{APP_NAME} - {APP_SUBTITLE}",
                 "version": "1.0.0",
                 "port": 8081,
             },
@@ -1575,6 +1292,173 @@ def api_send_input(identifier):
     return {"status": "sent", "job": job.name}, 200
 
 
+# ===================== PUBLIC READ-ONLY LOG INSPECTION =====================
+#
+# Unauthenticated, read-only views of job status and run logs, for external
+# visibility into scraper runs. Deliberately GET-only: run/stop/input stay
+# behind auth on /api/jobs/*. Job commands are just module invocations
+# (see job_definitions.py), so exposing them alongside the logs carries no
+# credential/secret risk.
+#
+# Examples:
+#   curl https://host/public/jobs
+#   curl "https://host/public/jobs/crautos-data-scraper/logs?tail=50"
+
+
+@server.route("/public/jobs", methods=["GET"])
+def public_list_jobs():
+    """List all jobs with their current status (no authentication required)."""
+    return {"jobs": job_rows()}, 200, {"Content-Type": "application/json"}
+
+
+@server.route("/public/jobs/<identifier>/logs", methods=["GET"])
+def public_job_logs(identifier):
+    """Get the tail of a job's logs (no authentication required)."""
+    job = find_job(identifier)
+    if not job:
+        return {"error": f"Job '{identifier}' not found"}, 404
+    tail = request.args.get("tail", default=200, type=int) or 200
+    return {"job": job.name, "status": job.status, "logs": job.logs[-tail:]}, 200
+
+
+_PUBLIC_LOGS_PAGE = """
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ app_name }} - Public Job Logs</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px; background: {{ page_bg }}; color: {{ text }};
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; }
+  header { margin-bottom: 24px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .subtitle { color: {{ muted }}; font-size: 13px; text-transform: uppercase; letter-spacing: .08em; }
+  .layout { display: grid; grid-template-columns: 260px 1fr; gap: 20px; align-items: start; }
+  @media (max-width: 800px) { .layout { grid-template-columns: 1fr; } }
+  .card {
+    background: {{ surface }}; border: 1px solid {{ border }}; border-radius: 10px;
+    overflow: hidden;
+  }
+  .card-header {
+    background: {{ header_bg }}; color: {{ header_text }};
+    padding: 10px 16px; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: .05em;
+  }
+  ul.job-list { list-style: none; margin: 0; padding: 0; }
+  ul.job-list li button {
+    width: 100%; text-align: left; background: none; border: none; border-bottom: 1px solid {{ border }};
+    padding: 12px 16px; cursor: pointer; font-size: 14px; color: {{ text }};
+  }
+  ul.job-list li:last-child button { border-bottom: none; }
+  ul.job-list li button:hover, ul.job-list li button.active { background: {{ page_bg }}; }
+  ul.job-list li button.active { border-left: 3px solid {{ accent }}; }
+  .job-name { display: block; font-weight: 600; }
+  .job-meta { display: block; font-size: 11px; color: {{ muted }}; margin-top: 2px; text-transform: uppercase; letter-spacing: .04em; }
+  .status-badge { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 10px; font-weight: 700; text-transform: uppercase; }
+  .status-running { background: #d1fae5; color: #065f46; }
+  .status-error { background: #fee2e2; color: #991b1b; }
+  .status-idle { background: #e0f2fe; color: #075985; }
+  pre#log-view {
+    margin: 0; height: 70vh; overflow-y: auto; background: #1e1e1e; color: #d4d4d4;
+    padding: 16px; font-family: Consolas, Monaco, monospace; font-size: 12.5px; line-height: 1.5;
+    white-space: pre-wrap; word-break: break-word;
+  }
+  .empty { padding: 40px; text-align: center; color: {{ muted }}; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>{{ app_name }}</h1>
+    <div class="subtitle">Public job status &amp; run logs (read-only)</div>
+  </header>
+  <div class="layout">
+    <div class="card">
+      <div class="card-header">Jobs</div>
+      <ul class="job-list" id="job-list"></ul>
+    </div>
+    <div class="card">
+      <div class="card-header" id="log-header">Logs</div>
+      <pre id="log-view">Select a job to view its logs.</pre>
+    </div>
+  </div>
+</div>
+<script>
+  let selected = null;
+
+  function statusClass(status) {
+    if (status === 'running') return 'status-running';
+    if (status === 'error') return 'status-error';
+    return 'status-idle';
+  }
+
+  async function refreshJobs() {
+    const res = await fetch('/public/jobs');
+    const data = await res.json();
+    const list = document.getElementById('job-list');
+    list.innerHTML = '';
+    data.jobs.forEach(job => {
+      const li = document.createElement('li');
+      const btn = document.createElement('button');
+      btn.className = job.name === selected ? 'active' : '';
+      btn.innerHTML = '<span class="job-name">' + job.name + '</span>' +
+        '<span class="job-meta"><span class="status-badge ' + statusClass(job.status) + '">' + job.status + '</span> &middot; ' +
+        (job.last_run || 'never run') + '</span>';
+      btn.onclick = () => { selected = job.name; refreshJobs(); refreshLogs(); };
+      li.appendChild(btn);
+      list.appendChild(li);
+    });
+    if (!selected && data.jobs.length) {
+      selected = data.jobs[0].name;
+      refreshJobs();
+      refreshLogs();
+    }
+  }
+
+  async function refreshLogs() {
+    if (!selected) return;
+    const res = await fetch('/public/jobs/' + encodeURIComponent(selected) + '/logs?tail=500');
+    if (!res.ok) return;
+    const data = await res.json();
+    document.getElementById('log-header').textContent = data.job + ' - ' + data.status;
+    const view = document.getElementById('log-view');
+    const atBottom = view.scrollTop + view.clientHeight >= view.scrollHeight - 20;
+    view.textContent = data.logs.join('\\n') || 'No logs yet.';
+    if (atBottom) view.scrollTop = view.scrollHeight;
+  }
+
+  refreshJobs();
+  setInterval(refreshJobs, 3000);
+  setInterval(refreshLogs, 2000);
+</script>
+</body>
+</html>
+"""
+
+
+@server.route("/public", methods=["GET"])
+@server.route("/public/", methods=["GET"])
+def public_logs_page():
+    """Browsable, read-only job status/log inspection page (no authentication required)."""
+    return render_template_string(
+        _PUBLIC_LOGS_PAGE,
+        app_name=APP_NAME,
+        page_bg=COLORS["page_bg"],
+        surface=COLORS["surface"],
+        border=COLORS["border"],
+        header_bg=COLORS["header_bg"],
+        header_text=COLORS["header_text"],
+        accent=COLORS["accent"],
+        muted=COLORS["muted"],
+        text=COLORS["text"],
+    )
+
+
 # ===================== LOGOUT ROUTE =====================
 
 
@@ -1590,7 +1474,7 @@ def logout():
     return Response(
         "Sesión cerrada exitosamente. Por favor, vuelve a autenticarte.",
         401,
-        {"WWW-Authenticate": 'Basic realm="SMT-Toolbox Login"'},
+        {"WWW-Authenticate": f'Basic realm="{APP_NAME} Login"'},
     )
 
 
@@ -1620,12 +1504,19 @@ def before_request():
         - /health: Health check for monitoring
         - /logout: Manual session termination
         - /_dash-*: Dash framework assets (CSS, JS)
+        - /public, /public/*: Read-only job status/log inspection (GET-only
+          routes - see "PUBLIC READ-ONLY LOG INSPECTION" section above).
+          Running/stopping jobs or sending input always stays behind auth.
     """
     # Public routes - no authentication required
     public_paths = ["/health", "/logout"]
 
     # Allow Dash framework assets (CSS, JS, etc.)
     if request.path.startswith("/_dash-"):
+        return None
+
+    # Allow the public, read-only log inspection page/API (GET-only routes)
+    if request.path == "/public" or request.path.startswith("/public/"):
         return None
 
     # Allow public routes
