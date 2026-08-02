@@ -8,6 +8,7 @@ const Badge = ({ children, className = "", variant = "cyan" }) => {
     amber: "bg-amber-500/20 text-amber-400 border-amber-500/30",
     emerald: "bg-emerald-500/20 text-emerald-400 border-emerald-500/30",
     rose: "bg-rose-500/20 text-rose-400 border-rose-500/30",
+    secondary: "bg-slate-500/20 text-slate-300 border-slate-500/30 dark:bg-white/10 dark:text-white/70 dark:border-white/20",
   };
 
   return (
