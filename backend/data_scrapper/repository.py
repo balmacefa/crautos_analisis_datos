@@ -3,9 +3,13 @@ repository.py — SQLite data-access layer for the crautos scraper.
 
 Tables
 ------
-scrape_runs   : tracks execution sessions (start/end, status)
-car_urls      : all discovered car URLs + their scrape status/retry count
-car_details   : scraped structured data per car (stored as JSON)
+scrape_runs     : tracks execution sessions (start/end, status)
+car_urls        : all discovered car URLs + their scrape status/retry count
+car_details     : scraped structured data per car (stored as JSON)
+product_urls    : generic (non-car) product URLs + scrape status/retry count.
+                  Part of the open-data pivot beyond cars — one source is
+                  epaenlinea (hardware/home store); more will follow.
+product_details : scraped structured data per generic product (stored as JSON)
 """
 
 import json
@@ -71,6 +75,33 @@ CREATE INDEX IF NOT EXISTS idx_car_urls_status ON car_urls(status);
 CREATE INDEX IF NOT EXISTS idx_car_details_marca ON car_details(json_extract(raw_json, '$.marca'));
 CREATE INDEX IF NOT EXISTS idx_car_details_modelo ON car_details(json_extract(raw_json, '$.modelo'));
 CREATE INDEX IF NOT EXISTS idx_car_details_ano ON car_details(json_extract(raw_json, '$.año'));
+
+-- Generic product tables (open-data pivot: any Costa Rica market/product, not just cars).
+CREATE TABLE IF NOT EXISTS product_urls (
+    url          TEXT    PRIMARY KEY,
+    status       TEXT    NOT NULL DEFAULT 'pending',  -- pending | done | failed
+    retry_count  INTEGER NOT NULL DEFAULT 0,
+    created_at   TEXT    NOT NULL,
+    scraped_at   TEXT,
+    is_active    INTEGER NOT NULL DEFAULT 1,
+    last_seen_at TEXT,
+    source       TEXT,                                -- Site identifier (e.g., 'EpaEnLinea')
+    category     TEXT                                 -- Category/department slug (e.g., 'rodines')
+);
+
+CREATE TABLE IF NOT EXISTS product_details (
+    product_id   TEXT    PRIMARY KEY,
+    url          TEXT    NOT NULL,
+    raw_json     TEXT    NOT NULL,
+    scraped_at   TEXT    NOT NULL,
+    source       TEXT,
+    category     TEXT,
+    FOREIGN KEY (url) REFERENCES product_urls(url)
+);
+
+CREATE INDEX IF NOT EXISTS idx_product_urls_status ON product_urls(status);
+CREATE INDEX IF NOT EXISTS idx_product_urls_source ON product_urls(source);
+CREATE INDEX IF NOT EXISTS idx_product_details_category ON product_details(category);
 """
 
 
@@ -378,32 +409,43 @@ class ScraperRepository:
         run_id = self.get_active_run_id()
         self._sync_to_typesense(car_id, data, now, url, source, run_id)
 
+    @staticmethod
+    def _to_float(val) -> float:
+        """Sanitize a price/numeric-ish value (e.g. '$ 7,900', '₡12.500') into a float."""
+        try:
+            if isinstance(val, (int, float)):
+                return float(val)
+            if not val:
+                return 0.0
+            clean = str(val).replace(",", "").replace("$", "").replace("₡", "").split()[0]
+            return float(clean)
+        except (ValueError, IndexError):
+            return 0.0
+
+    @staticmethod
+    def _to_int(val) -> int:
+        """Sanitize a numeric-ish value (e.g. '54,000 km') into an int."""
+        try:
+            if isinstance(val, int):
+                return val
+            if not val:
+                return 0
+            if isinstance(val, float):
+                return int(val)
+            clean = "".join(filter(str.isdigit, str(val)))
+            return int(clean) if clean else 0
+        except (ValueError, TypeError):
+            return 0
+
     def _sync_to_typesense(self, car_id: str, data: dict, scraped_at: str, url: str, source: str = None, run_id: int = None):
         """Helper to sync a single car record to Typesense."""
         if not self.ts_client:
             return
-        
+
         try:
             gen_info = data.get('informacion_general', {})
-            # Sanitize price and numeric fields
-            def to_float(val):
-                try:
-                    if isinstance(val, (int, float)): return float(val)
-                    if not val: return 0.0
-                    clean = str(val).replace(",", "").replace("$", "").split()[0]
-                    return float(clean)
-                except (ValueError, IndexError):
-                    return 0.0
-
-            def to_int(val):
-                try:
-                    if isinstance(val, int): return val
-                    if not val: return 0
-                    if isinstance(val, float): return int(val)
-                    clean = "".join(filter(str.isdigit, str(val)))
-                    return int(clean) if clean else 0
-                except (ValueError, TypeError):
-                    return 0
+            to_float = self._to_float
+            to_int = self._to_int
 
             # Infer source if missing (legacy support)
             if not source:
@@ -486,6 +528,187 @@ class ScraperRepository:
         return [
             {
                 "car_id": r["car_id"],
+                "url": r["url"],
+                "scraped_at": r["scraped_at"],
+                **json.loads(r["raw_json"]),
+            }
+            for r in rows
+        ]
+
+    # ------------------------------------------------------------------
+    # Generic product management (open-data pivot: any CR product/site)
+    # ------------------------------------------------------------------
+
+    def upsert_product_urls(self, urls: list[str], source: str = None, category: str = None) -> int:
+        """Insert new product URLs as 'pending'; update last_seen_at for existing. Revives soft-deleted URLs."""
+        now = self._now()
+        with self._conn() as conn:
+            for url in urls:
+                conn.execute(
+                    """
+                    INSERT INTO product_urls (url, status, retry_count, created_at, is_active, last_seen_at, source, category)
+                    VALUES (?, 'pending', 0, ?, 1, ?, ?, ?)
+                    ON CONFLICT(url) DO UPDATE SET
+                        is_active = 1,
+                        last_seen_at = excluded.last_seen_at,
+                        source = COALESCE(excluded.source, product_urls.source),
+                        category = COALESCE(excluded.category, product_urls.category)
+                    """,
+                    (url, now, now, source, category),
+                )
+        logger.info("upsert_product_urls: %d URLs processed (source: %s, category: %s)", len(urls), source, category)
+        return len(urls)
+
+    def mark_all_products_inactive_before(self, timestamp: str) -> int:
+        """Soft-delete products that weren't seen during the current scrape run."""
+        with self._conn() as conn:
+            cur = conn.execute(
+                "UPDATE product_urls SET is_active = 0 WHERE last_seen_at < ? OR last_seen_at IS NULL",
+                (timestamp,)
+            )
+            return cur.rowcount
+
+    def has_product_urls(self) -> bool:
+        """Return True if there is at least one product URL in the database."""
+        with self._conn() as conn:
+            cur = conn.execute("SELECT 1 FROM product_urls LIMIT 1")
+            return cur.fetchone() is not None
+
+    def get_pending_product_urls(self, limit: int = 500) -> list[str]:
+        """Return up to *limit* active, pending product URLs (resume-safe)."""
+        with self._conn() as conn:
+            rows = conn.execute(
+                "SELECT url FROM product_urls WHERE status='pending' AND is_active=1 ORDER BY created_at LIMIT ?",
+                (limit,),
+            ).fetchall()
+        return [r["url"] for r in rows]
+
+    def is_product_url_done(self, url: str) -> bool:
+        """Check if a product URL has already been successfully scraped."""
+        with self._conn() as conn:
+            row = conn.execute(
+                "SELECT 1 FROM product_urls WHERE url=? AND status='done'",
+                (url,)
+            ).fetchone()
+        return row is not None
+
+    def mark_product_url_done(self, url: str, product_id: str, data: dict, source: str = None, category: str = None) -> None:
+        """Persist scraped product data and mark URL as done."""
+        now = self._now()
+
+        if not source or not category:
+            with self._conn() as conn:
+                row = conn.execute("SELECT source, category FROM product_urls WHERE url=?", (url,)).fetchone()
+                if row:
+                    source = source or row["source"]
+                    category = category or row["category"]
+
+        with self._conn() as conn:
+            conn.execute(
+                """
+                INSERT INTO product_urls (url, status, retry_count, created_at, is_active, last_seen_at, scraped_at, source, category)
+                VALUES (?, 'done', 0, ?, 1, ?, ?, ?, ?)
+                ON CONFLICT(url) DO UPDATE SET
+                    status = 'done',
+                    is_active = 1,
+                    last_seen_at = excluded.last_seen_at,
+                    scraped_at = excluded.scraped_at,
+                    source = COALESCE(product_urls.source, excluded.source),
+                    category = COALESCE(product_urls.category, excluded.category)
+                """,
+                (url, now, now, now, source, category),
+            )
+            conn.execute(
+                """
+                INSERT OR REPLACE INTO product_details (product_id, url, raw_json, scraped_at, source, category)
+                VALUES (?, ?, ?, ?, ?, ?)
+                """,
+                (product_id, url, json.dumps(data, ensure_ascii=False), now, source, category),
+            )
+
+        run_id = self.get_active_run_id()
+        self._sync_product_to_typesense(product_id, data, now, url, source, run_id)
+
+    def _sync_product_to_typesense(self, product_id: str, data: dict, scraped_at: str, url: str, source: str = None, run_id: int = None):
+        """Helper to sync a single generic product record to a 'products' Typesense collection.
+
+        Non-fatal by design: the 'products' collection may not exist yet until
+        data_ops/sync_typesense.py has created it, mirroring how the 'cars'
+        collection is bootstrapped.
+        """
+        if not self.ts_client:
+            return
+
+        try:
+            to_float = self._to_float
+
+            document = {
+                'id': product_id,
+                'product_id': product_id,
+                'nombre': data.get('nombre', 'Desconocido'),
+                'categoria': data.get('categoria', 'Desconocida'),
+                'subcategoria': data.get('subcategoria') or '',
+                'marca': data.get('marca') or 'Desconocida',
+                'sku': data.get('sku') or '',
+                'precio_crc': to_float(data.get('precio_crc', 0)),
+                'precio_usd': to_float(data.get('precio_usd', 0)),
+                'disponibilidad': data.get('disponibilidad') or 'Desconocida',
+                'url': url,
+                'imagen_principal': data.get('imagen_principal', ''),
+                'scraped_at': scraped_at,
+                'sync_version': str(run_id) if run_id is not None else os.getenv("SYNC_VERSION", "1.1.0"),
+                'fuente': source or 'Otro',
+            }
+            self.ts_client.collections['products'].documents.upsert(document)
+            logger.info("Synced product %s to Typesense (fuente: %s)", product_id, source)
+        except Exception as e:
+            logger.warning("Failed to sync product %s to Typesense: %s", product_id, e)
+
+    def mark_product_url_failed(self, url: str) -> None:
+        """Increment retry counter; permanently fail after MAX_RETRIES."""
+        with self._conn() as conn:
+            conn.execute(
+                "UPDATE product_urls SET retry_count = retry_count + 1 WHERE url=?",
+                (url,),
+            )
+            conn.execute(
+                """
+                UPDATE product_urls
+                SET status = CASE
+                    WHEN retry_count >= ? THEN 'failed'
+                    ELSE 'pending'
+                END
+                WHERE url=?
+                """,
+                (self.MAX_RETRIES, url),
+            )
+
+    def get_product_run_stats(self) -> dict:
+        """Return a dict with counts per status for active products."""
+        with self._conn() as conn:
+            rows = conn.execute(
+                "SELECT status, COUNT(*) AS cnt FROM product_urls WHERE is_active=1 GROUP BY status"
+            ).fetchall()
+            inactive = conn.execute("SELECT COUNT(*) FROM product_urls WHERE is_active=0").fetchone()[0]
+
+        stats = {r["status"]: r["cnt"] for r in rows}
+        stats.setdefault("pending", 0)
+        stats.setdefault("done", 0)
+        stats.setdefault("failed", 0)
+        stats["total_active"] = sum(stats.values())
+        stats["inactive"] = inactive
+        stats["total"] = stats["total_active"] + inactive
+        return stats
+
+    def get_all_products(self) -> list[dict]:
+        """Return all scraped generic product detail records as a list of dicts."""
+        with self._conn() as conn:
+            rows = conn.execute(
+                "SELECT product_id, url, raw_json, scraped_at FROM product_details"
+            ).fetchall()
+        return [
+            {
+                "product_id": r["product_id"],
                 "url": r["url"],
                 "scraped_at": r["scraped_at"],
                 **json.loads(r["raw_json"]),

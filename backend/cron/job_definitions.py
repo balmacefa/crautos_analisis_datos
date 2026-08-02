@@ -42,4 +42,9 @@ def get_job_definitions():
             "python -m data_scrapper.run_scraper validate",
             "", # No cron schedule, execute manually
         ),
+        JobModel(
+            "EPA en Línea Data Scraper (EXPERIMENTAL - pilot, unvalidated selectors)",
+            "python -m data_scrapper.run_scraper epa",
+            "", # No cron schedule yet — see epaenlinea_strategy.md Recon Checklist
+        ),
     ]
