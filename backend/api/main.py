@@ -1,15 +1,31 @@
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 from typing import Optional, List
 import json
 import os
 import typesense
+import shutil
+import zipfile
+import httpx
+import sqlite3
+from fastapi import BackgroundTasks, Depends
+from fastapi.security import HTTPBasic, HTTPBasicCredentials
+import secrets
 from cachetools import TTLCache
 from asyncache import cached
 from .database import execute_query
-from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData, DepreciationStat, OpportunityCar, FuelStat, TransmissionStat, RatioStat, BrandComparisonStat, MarketExtremeBrand, MarketExtremeModel, MarketExtremesResponse, ModelTransmissionStat, VerdictResponse
+from .models import CarsResponse, CarDetail, SummaryStats, BrandStat, YearStat, ProvinceStat, ModelStat, CuriositiesResponse, CuriosityCar, ExplorerData, DepreciationStat, OpportunityCar, FuelStat, TransmissionStat, RatioStat, BrandComparisonStat, MarketExtremeBrand, MarketExtremeModel, MarketExtremesResponse, ModelTransmissionStat, VerdictResponse, BackupRequest
 
 app = FastAPI(title="Crautos Async Data API")
+
+@app.get("/swagger", include_in_schema=False)
+async def get_swagger_ui():
+    return RedirectResponse(url="/docs")
+
+@app.get("/swagger.json", include_in_schema=False)
+async def get_swagger_json():
+    return RedirectResponse(url="/openapi.json")
 
 # Setup CORS so frontends can consume this API
 app.add_middleware(
@@ -1019,3 +1035,60 @@ async def get_cars_v2(
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Typesense search error: {str(e)}")
+
+security = HTTPBasic()
+
+def verify_credentials(credentials: HTTPBasicCredentials = Depends(security)):
+    correct_username = secrets.compare_digest(credentials.username, os.getenv("AUTH_USERNAME", "admin"))
+    correct_password = secrets.compare_digest(credentials.password, os.getenv("AUTH_PASSWORD", "admin"))
+    if not (correct_username and correct_password):
+        raise HTTPException(
+            status_code=401,
+            detail="Incorrect username or password",
+            headers={"WWW-Authenticate": "Basic"},
+        )
+    return credentials
+
+async def create_backup_and_send(webhook_url: str):
+    db_path = os.getenv("SCRAPER_DB_PATH", "/app/data/crautos.db")
+    if not os.path.exists(db_path):
+        return
+
+    # 1. Copiar db a db de backup de forma segura
+    backup_path = f"{db_path}.backup"
+
+    # Use native sqlite3 backup
+    def do_backup():
+        src = sqlite3.connect(db_path)
+        dst = sqlite3.connect(backup_path)
+        with dst:
+            src.backup(dst)
+        dst.close()
+        src.close()
+
+    do_backup()
+
+    # 2. Comprimir la copia en un zip
+    zip_path = f"{db_path}.zip"
+    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        zipf.write(backup_path, arcname="crautos.db")
+
+    # 3. Enviar el zip a webhook POST
+    try:
+        with open(zip_path, "rb") as f:
+            files = {"file": ("crautos.db.zip", f, "application/zip")}
+            async with httpx.AsyncClient(timeout=30.0) as client:
+                await client.post(webhook_url, files=files)
+    except Exception:
+        pass # Para BackgroundTasks podríamos loggearlo
+    finally:
+        # Cleanup
+        if os.path.exists(backup_path):
+            os.remove(backup_path)
+        if os.path.exists(zip_path):
+            os.remove(zip_path)
+
+@app.post("/api/backup", dependencies=[Depends(verify_credentials)])
+async def trigger_backup(request: BackupRequest, background_tasks: BackgroundTasks):
+    background_tasks.add_task(create_backup_and_send, request.webhook_url)
+    return {"message": "Backup triggered and will be sent to the webhook."}

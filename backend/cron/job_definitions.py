@@ -15,6 +15,7 @@ def get_job_definitions():
     cron_schedule_evmarket = os.getenv("EV_SCRAPER_CRON", "0 8,20 * * *").strip('"\'')
     cron_schedule_corimotors = os.getenv("CORI_SCRAPER_CRON", "0 9,21 * * *").strip('"\'')
     cron_schedule_veinsa = os.getenv("VEINSA_SCRAPER_CRON", "0 10,22 * * *").strip('"\'')
+    cron_schedule_purdy = os.getenv("PURDY_SCRAPER_CRON", "0 11,23 * * *").strip('"\'')
 
     return [
         JobModel(
@@ -36,6 +37,11 @@ def get_job_definitions():
             "Veinsa Data Scraper",
             "python -m data_scrapper.run_scraper veinsa",
             cron_schedule_veinsa,
+        ),
+        JobModel(
+            "Purdy Usados Data Scraper",
+            "python -m data_scrapper.run_scraper purdy",
+            cron_schedule_purdy,
         ),
         JobModel(
             "Quick Scrapers Validation",
